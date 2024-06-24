@@ -1,0 +1,7 @@
+# Title: Judi Online Domains Blacklist
+# Homepage: https://github.com/BrigsLabs/judol
+# Issues: https://github.com/BrigsLabs/judol/issues
+# Expires: 30 days
+# Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 
