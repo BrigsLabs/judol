@@ -1,0 +1,10 @@
+# Title: Judi Online Dead Domains list
+# Homepage: https://github.com/BrigsLabs/judol
+# Issues: https://github.com/BrigsLabs/judol/issues
+# Expires: forever
+# Syntax: Domains
+# Number of entries: 0
+#
+#
+#
+#

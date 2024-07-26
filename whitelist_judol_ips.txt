@@ -1,0 +1,10 @@
+# Title: Judi Online Ips Whitelist
+# Homepage: https://github.com/BrigsLabs/judol
+# Issues: https://github.com/BrigsLabs/judol/issues
+# Expires: forever
+# Syntax: Ips
+# Number of entries: 0
+#
+#
+#
+#

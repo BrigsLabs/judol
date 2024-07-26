@@ -1,5 +1,5 @@
 # judol
-dns &amp; ip of scrapping from judi online abuse in top 100 rank google search querries.
+dns &amp; ip scrapping from judi online abuse in top 100 rank search query.
 
 # usage scenario
 1. in domain and wildcard list can use with [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) or similar proxy dns. 
