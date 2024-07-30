@@ -8,3 +8,5 @@
 #
 #
 #
+jaga.link # move to https://github.com/BrigsLabs/url-shorteners
+datasvc.xyz # move to https://github.com/BrigsLabs/judol/blob/main/judol_domains_wildcard.txt

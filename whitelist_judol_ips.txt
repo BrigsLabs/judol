@@ -3,8 +3,18 @@
 # Issues: https://github.com/BrigsLabs/judol/issues
 # Expires: forever
 # Syntax: Ips
-# Number of entries: 0
+# Number of entries: 
 #
 #
 #
 #
+104.21.47.70 # jaga.link # move to https://github.com/BrigsLabs/url-shorteners
+172.67.170.164 # jaga.link # move to https://github.com/BrigsLabs/url-shorteners
+23.227.38.65 # ryusei.co.id
+138.199.46.68 # tradingview cdn
+104.21.73.231 # fbs.link
+172.67.167.136 # fbs.link
+216.239.38.21 # ct.canva.com
+216.239.32.21 # ct.canva.com
+216.239.34.21 # ct.canva.com
+216.239.36.21 # ct.canva.com
