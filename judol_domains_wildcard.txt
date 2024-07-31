@@ -4,13 +4,14 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 1762
+# Number of entries: 1747
 #
 #
 #
 *.lglive[0-9]*.*
 *.thethlarms.com
 *tokototo.shop
+111mars.com
 111mars.com
 11bolaong.info
 11wbeta.top
@@ -30,7 +31,6 @@
 3rajaslot-bestvvip12.pro
 40corlaslot-4d.xyz
 4dngine.com
-4kur4t770kgas1.site
 5000.thethlarms.com
 500pg.org
 5kslot88.com
@@ -85,6 +85,7 @@ alirannusantara.pro
 aliransungai.pro
 alitoto.*
 alitotogacor.com
+alitotogacor.com
 alktotoceria.com
 alnoof.com
 alphaslot777.top
@@ -101,7 +102,6 @@ amp-pages.info
 amp.anepuasi.shop
 ampgacoanslot.xyz
 anak-ibu.lol
-anak.rajin-ceriabet.com
 andahoki87.buzz
 andgeorge.com
 angkaprediksi-mulan.info
@@ -136,7 +136,6 @@ asiagosok88.store
 asiajp88b.*
 asianslot88.*
 asikselot303a.com
-asli.reallivesenang.xyz
 aslitop.top
 asperahu.xyz
 astina333game.pro
@@ -188,14 +187,15 @@ bento123-rtp.cfd
 bento4dtahu.com
 benuabet*.*
 berhadiahspin.shop
+berhadiahspin.shop
 berkahpasti.pro
 berkahslotpro.site
 bermaindarigotopublicinter.xyz
 betwin188.nontoneuro2024live.com
 betwin188creatz.xyz
 betwin188siteweb.xyz
+betwin88fun.com
 betwinttair.xyz
-bhtechgroup.org
 biarkankupergi.xyz
 biddokkespoldametro.com
 bigjuara.xyz
@@ -204,6 +204,7 @@ bilalercan.com
 bingo-89.com
 bingo4d-usa.com
 bingo4daa.info
+bingotogelgacor.com
 bingotogelgacor.com
 birutotomacau.live
 birutotosgp.info
@@ -252,6 +253,7 @@ buahnagavip.com
 budapestlottery.com
 bujangenam.org
 bukti-jptg88.cc
+buktijpbiru.online
 buktijpmawar7.com
 buktijptogel88.com
 buktiwdkursi4d.xyz
@@ -284,7 +286,6 @@ charlieputhinjakarta.com
 cheatfreak.com
 check4d.com
 cheesecakebento.pro
-chicagoemploymentlawyer.net
 chilepools.com
 chilepools4d.com
 chinapools.asia
@@ -312,6 +313,7 @@ competitividadturistica.com
 courtneynajera.com
 coverjoki188.xyz
 crchc.info
+crowntogelgacor.com
 crowntogelgacor.com
 cuan123*.*
 cuan680.lol
@@ -406,7 +408,6 @@ ef620411.ojoltogel-rtp-30s.pages.dev
 ehf-org.org
 elangwin-rtp.icu
 elbarbecuesd.com
-elbuche.com
 elemencoklat.space
 elgrullensepaloalto.com
 elhassan.org
@@ -602,7 +603,6 @@ inetcepat.info
 infinityocean268.site
 info-gacor.store
 info-ls168.com
-info.jpyuk77rtp.online
 info.livesgp.day
 infodomino88.club
 infogameprofit.xyz
@@ -639,7 +639,6 @@ istanaimpian*.*
 istanaluckyst99.net
 istanascore.com
 istriorang.site
-italiangrille.net
 itjobshift.nl
 ivermectinitab.com
 izorafalling.site
@@ -702,6 +701,7 @@ jpmaju.com
 jpraja768.xyz
 jptvtogel.com
 jpyuk77*.*
+jpyuk77rtp.online
 judibuah.com
 judigaruda999.shop
 judol-303.lol
@@ -726,7 +726,6 @@ kapakmedia.org
 kapal-cambodia.site
 kapal-dubai.site
 kapal-thailand.site
-kapal.situstertinggi.com
 kapten.mbox69.buzz
 kapten69*.*
 kaptenlaut.xyz
@@ -760,6 +759,7 @@ king-kerangwin.us
 king999geli.com
 kingbogetoto.com
 kingkong88*.*
+kisarangroup.click
 kisarangroup.click
 kktoto-jayaa.online
 klik99pop.online
@@ -826,17 +826,8 @@ lingkaranmerah.online
 link-gacor-jp.xyz
 link-toge123.com
 link-top05.com
-bingotogelgacor.com
-luxtogelgacor.com
-alitotogacor.com
-crowntogelgacor.com
-oscartogelgacor.com
-plustogelgacor.com
-platinumslotgacor.com
-platinumtotogacor.com
 linkaltairbet88slot.info
 linkdana33.com
-linkdana55.site
 linkpusatgamegacor.info
 linkrimbaslot.net
 linksitustkt77.vip
@@ -883,6 +874,7 @@ luckytresure.pro
 luckywhells-skin4d.top
 luna7887.com
 luxtogelgacor.com
+luxtogelgacor.com
 luxurycornerclothing.com
 lyonandswan.com
 lz.longs.host
@@ -919,7 +911,6 @@ mantap555-best.online
 mantapbetberry.com
 mantapgogogo.com
 mariowinjp.info
-markas138login.xyz
 masimumma.com
 masonicdictionary.com
 masuk.nagahoki88gacor.online
@@ -950,7 +941,6 @@ mesin22-gascor.vip
 mesin22gacor.xyz
 metodeolx15.info
 metronext.org
-mexicanantojitos.com
 meyerbizlaw.com
 mgr.basebit.net
 miaw4dv8.store
@@ -1027,9 +1017,9 @@ nontontvonline.id
 noonaspizza.com
 norwergialottery.com
 nos69game.top
+nos69game.top
 nos69jitu.sbs
 notoday.lol
-novaeyecare.net
 nusantarapools.com
 oakmooregolfcourse.com
 obatshio88.*
@@ -1065,6 +1055,7 @@ oregonstaterowingcamps.com
 originaljpk.com
 orphandrugssummit.com
 oscartogelgacor.com
+oscartogelgacor.com
 ostervisi.com
 otwsakura.site
 oulunfrisbeeseura.net
@@ -1083,8 +1074,8 @@ paidpuncak.shop
 paitodwt.com
 paitotogel88.com
 paitowarna4dp.click
+paitowarna4dp.click
 paktuaslotaman*.info
-paktuaslotrtp9aa.store
 palmshotelclub.com
 palmtreelandscaping.com
 panama4d.com
@@ -1099,7 +1090,6 @@ pangkat88win.com
 panglima4dku[0-9]*.*
 pangseh.com
 pangsitbgpanji.rent
-panheadcity.com
 papillonfoundation.org
 paraguaypools4d.com
 parentsforpeaceandjustice.org
@@ -1155,13 +1145,17 @@ pinoyboxbreak.com
 pistachiofestival.info
 piton99fun.com
 pla8000.com
+pla8000.com
 platinumslot.*
 platinumslotgacor.com
+platinumslotgacor.com
+platinumtotogacor.com
 platinumtotogacor.com
 play.katsu5jp.com
 playbet788.com
 playking88*.*
 playsgadunslot.info
+plustogelgacor.com
 plustogelgacor.com
 pnw-setac.org
 poa88sgp.xyz
@@ -1190,6 +1184,7 @@ pp-pucuk138.com
 pp88.asia
 pragmatic218new.xyz
 prediksi-totomacau.biz
+prediksi4dp.click
 prediksi4dp.click
 prediksibwtogel.*
 prediksiikanmas.com
@@ -1231,6 +1226,8 @@ radarpos.online
 raja328id.cam
 raja787*.*
 rajabet123*.*
+rajampo-online.com
+rajampoid.net
 rajaolympus-tone.org
 rajapg21.vip
 rajasawit77-*.*
@@ -1245,6 +1242,7 @@ ratu212rtp4.com
 ratugacor88gas.xyz
 ratuskin4d.top
 rayglier.com
+reallivesenang.xyz
 realxlslot88.info
 redefineteachered.org
 rekeningmerah.site
@@ -1261,6 +1259,7 @@ rgofriend.com
 rgptreasures.com
 riarmyguard.info
 ricostacosmoya.net
+rinduttj.com
 rinduttj.com
 riseandgrindboise.com
 rm1131login.com
@@ -1329,6 +1328,7 @@ rtplawu88slot.top
 rtplevel789.xyz
 rtplive-aqua365.site
 rtplivedhx.xyz
+rtplivehijautoto.club
 rtplivepepe77.xyz
 rtplivesgcwin88.store
 rtpmaenyuk.sbs
@@ -1358,6 +1358,7 @@ rtpsgkkujp.site
 rtpsingawinv3.top
 rtpslot88ku[0-9]*.*
 rtpslotbom77live.lol
+rtpslotgacoronline.top
 rtpslotgacoronline.top
 rtpslotpoker3.b-cdn.net
 rtpslotpoker4.b-cdn.net
@@ -1456,15 +1457,14 @@ sinopools.com
 siprosacontrataciones3000.com
 siputri88.*
 sisiliapools.com
-betwin88fun.com
 situs-thor138.bond
-buktijpbiru.online
 situsdado88.online
 situsdhx4d.co
 situsgacormangga2bet.online
 situsmplay777.com
 situsmpojagoan88.shop
 situsrtp33.com
+situstertinggi.com
 situstertinggi.com
 situstokyo88.pro
 situswinking.xyz
@@ -1541,9 +1541,7 @@ sultan33gas.xyz
 sultan33rich.shop
 sultan618selot.com
 sultanhoky.xyz
-sultansawer.co
-sultansawerlogin.net
-sultansawer官方的.世界
+sultansawer*.*
 sumo777lk.shop
 sungaipurba.us
 superboyapk.com
@@ -1653,7 +1651,7 @@ uphiminang.com
 upinakb48.info
 upinspiredkitchen.com
 uranusjaya.com
-uscoatings.com
+uranusjaya.com
 usu.lol
 uxpa2018.org
 v02.desakonoha.xyz
@@ -1661,6 +1659,8 @@ v8.luna7887.com
 vanuatupools.com
 venom123*.*
 venus7800.com
+venus7800.com
+venusgaib.com
 venusgaib.com
 vgslot88*.*
 viamareav.com
@@ -1684,21 +1684,11 @@ voltagehairgel.com
 vpndot.xyz
 vpnzeus88.xyz
 vslots88free.click
-pla8000.com
-111mars.com
-venus7800.com
-venusgaib.com
-kisarangroup.click
-uranusjaya.com
-paitowarna4dp.click
-rtpslotgacoronline.top
-prediksi4dp.click
 wangsitgg.shop
 watchescopy.top
 waterbro.xyz
 wdemas36.site
 wdlevel789.click
-web.rajampoid.net
 websitemain.xyz
 wedebolaku.skin
 wedebolapt.info
@@ -1727,15 +1717,11 @@ wrdimimpiinkamu.lol
 wrseafood.sbs
 wukong288.top
 wukong288indo.com
-nos69game.top
-berhadiahspin.shop
-rinduttj.com
 wyn4dgaul.cloud
 x-dewa.beauty
 x1000gacor.xyz
 x2145.com
 x333cuan.xyz
-rtplivehijautoto.club
 x500rtp.online
 x500top.shop
 xdewa.digital
@@ -1762,7 +1748,6 @@ yupikamu.pro
 z4d.info
 z4db.com
 zenkchat.com
-xyzzeusbet200.xyz
 zheng099.pro
 zidshopp.com
 zona66a.life
