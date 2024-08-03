@@ -22,4 +22,4 @@ echo "BLOCK         : $BLOCK" >> $FILE3
 echo "NX            : $NX" >> $FILE3
 echo "FAIL          : $FAIL" >> $FILE3
 END=$(date +%s)
-echo "Time consumed : $END-$START seconds"
+echo "Time consumed : $END-$START seconds" >> $FILE3
