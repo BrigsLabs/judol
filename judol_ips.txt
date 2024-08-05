@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_ips.md5
 # Syntax: IP server
-# Number of entries: 3605
+# Number of entries: 3608
 # 
 # 
 #
@@ -3611,6 +3611,9 @@
 152.42.234.28
 152.42.251.136
 167.99.64.145
+172.232.225.198
 178.128.17.160
 178.128.89.167
 188.166.226.196
+206.189.151.28
+52.77.173.72
