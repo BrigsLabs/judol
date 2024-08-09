@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2979
+# Number of entries: 2986
 #
 #
 #
@@ -1723,6 +1723,12 @@ obatshio88.net
 observatorioequidadmedios.org
 oceanlottery.com
 oddfellowsliquorbar.com
+odin188-ntaps.lol
+odin188-ntaps.site
+odin188-rtp.site
+odin188best.com
+odin188resmi.com
+odin188slot.pro
 officiallakersshoponlines.com
 ohanapokeandmore.com
 ohio4d.com
@@ -2954,6 +2960,7 @@ yongt0t0.top
 yongtotojp.top
 youthalivez.com
 ypvets.net
+ysleggings.com
 yukar.in
 yukdibet4d.pro
 yukdwt.net

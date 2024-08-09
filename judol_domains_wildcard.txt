@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 182
+# Number of entries: 183
 #
 # *slot*.*
 # *toto*.*
@@ -125,6 +125,7 @@ mpoxl-*.*
 nekoslot88cuan.*
 nenekslot*.*
 obatshio88.*
+odin188*.*
 ole99*.*
 olislot*.*
 ovoslot*.*
