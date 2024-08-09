@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2951
+# Number of entries: 2979
 #
 #
 #
@@ -62,6 +62,7 @@
 7winbet.to
 81wawpl.com
 82ndsushi.com
+8lfj2xbefl.ghqzfbtddy.net
 8tron.com
 918kissthailand.app
 9ae44tdbvs.com
@@ -124,6 +125,10 @@ agenrrrtp1.shop
 agensurya123.site
 agvoxy88.pro
 airgorilla.com
+ak4droda.online
+ak4dslotbet.store
+ak4dslotbet.xyz
+ak4dtop.club
 akademik.sdn36pekanbaru.sch.id
 akospace.com
 akpatterson.com
@@ -296,6 +301,8 @@ bajutogel63.com
 bakwan.top
 balearesempresas.com
 balikkisarantoto.info
+balon4dtop13.xyz
+balon4dtop14.xyz
 bambu188single.com
 bandarnusantara.lol
 bandarzonagacor.xyz
@@ -714,6 +721,7 @@ elhassan.org
 eloterie.ma
 emj33-8h.info
 emonetofu.com
+ensemana.com
 enterslots.to
 enterslotsasia.com
 enterslotss.info
@@ -887,6 +895,8 @@ h2oslotrtp.xyz
 h2oslotwin.pro
 habanero188-tergacor.xyz
 hackthefashion.com
+hahagaming.com
+hahawin88vip.sbs
 haileysteele.com
 haitiprize.com
 halo88rtp.cloud
@@ -1328,7 +1338,9 @@ latowinreal.site
 lawu88slotapp.com
 lawyersforassange.org
 laza118.live
+lazawinvip.net
 lebakunique.id
+lebangmanai-desa.id
 leetwa.sbs
 legal4dx5000.com
 legendweng.info
@@ -1352,6 +1364,10 @@ liartp8.info
 liatgl07.top
 liberecpools.com
 lichbongda.net
+licin.bxpapk.com
+licinpunyartp.com
+licinriau.com
+licinsiapkali.vip
 liga178bestlink.com
 liga178dongbos.net
 ligahoki89.baby
@@ -1739,8 +1755,13 @@ olxeuro.com
 olxking.com
 olxlive.com
 omaha4d.com
+omg138-vip.info
+omg138.engineer
+omg138.green
+omg138.infini88.network
 omo777maxwin.shop
 oncorus.com
+onlinelazawinvip.net
 operarestoran.com
 oppkitchen.com
 orangdalamdado88.xyz
@@ -2008,6 +2029,7 @@ ptslotjp.pro
 pttogelhk.org
 pttogeltokyo.net
 pub-d8fbadbadffb491985f60c957f55140c.r2.dev
+pub-eb56614beba6415c8ac276bfd0437e01.r2.dev
 pucuk138.com
 pugprotectiontrust.org
 pulausamba.top
@@ -2074,6 +2096,7 @@ randrsoulfood.com
 ratchaburi-wlalottery.com
 ratchaburiprize.com
 rategood.xyz
+ratu212rtp.com
 ratu212rtp4.com
 ratugacor88gas.xyz
 ratuskin4d.top
@@ -2153,6 +2176,7 @@ rtp-kenzo188.sbs
 rtp-kiu77.info
 rtp-kudaponi88.xyz
 rtp-mamen123.lat
+rtp-omg138.link
 rtp-pastiwin.com
 rtp-pompa77-1ssd.site
 rtp-pusat4d.sbs
@@ -2253,6 +2277,7 @@ rtppastihoras88-4.shop
 rtppixiu.online
 rtppm77.club
 rtppos88.store
+rtppragmatic.xyz
 rtppro8eta.site
 rtpratoto.com
 rtprimbaslotbet.org
@@ -2557,6 +2582,7 @@ supir.top
 surya123asli.site
 suryademox.site
 suryauntung.site
+susahpayah.com
 sustainablewnc.org
 susubetsos4.com
 susun4d.net
@@ -2835,6 +2861,7 @@ waterbro.xyz
 wb-nylottery.qmatic.cloud
 wdemas36.site
 wdlevel789.click
+web-Balon4D.linkapp88.com
 websitemain.xyz
 wedebolaku.skin
 wedebolapt.info
@@ -2925,6 +2952,7 @@ yestoto.net
 yestotortp.site
 yongt0t0.top
 yongtotojp.top
+youthalivez.com
 ypvets.net
 yukar.in
 yukdibet4d.pro

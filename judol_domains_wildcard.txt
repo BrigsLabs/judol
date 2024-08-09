@@ -4,13 +4,14 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 177
+# Number of entries: 182
 #
 # *slot*.*
 # *toto*.*
 *-pools.com
 *.fbslot*.*
 *.lglive[0-9]*.*
+*.slotbet*.*
 *.thethlarms.com
 *dotaslot*.*
 *gacor*.*
@@ -19,6 +20,7 @@
 *lemacau*.*
 *lotre*.*
 *lottery*.*
+*omg138*.*
 *poker*.*
 *t0gel*.*
 *togel*.*
@@ -27,6 +29,7 @@
 7evenlucknew.*
 9naga*.*
 abcslt*.xyz
+ak4d*.*
 akurat77*.*
 alfabet99win.*
 alitoto.*
@@ -35,7 +38,8 @@ aqua365-bisnis.*
 asiajp88b.*
 asianslot88.*
 babeltoto*.*
-bahagia777vvip.*
+bahagia777*.*
+balon4d*.*
 barito88.*
 benuabet*.*
 bigo234*.*
@@ -69,6 +73,7 @@ gogelpro.*
 goyangtoto*.*
 grda999.*
 h2oslot*.*
+hahawin*.*
 halusbet77asli.*
 hariangkanet4d.*
 harumslotrtp*.*
