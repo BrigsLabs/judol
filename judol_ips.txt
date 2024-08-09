@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_ips.md5
 # Syntax: IP server
-# Number of entries: 4084
+# Number of entries: 4083
 # 
 # 
 #
