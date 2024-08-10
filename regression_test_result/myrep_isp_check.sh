@@ -13,7 +13,7 @@ echo "# TIME :" $TIMESTAMP >> $FILE1
 echo ' ' >> $FILE1
 dig @192.168.254.254 +noall +answer +comments +timeout=10 +tries=5 -f $PARENTDIR/judol_domains.txt >> $FILE1
 echo ' '>> $FILE1
-BLOCK=`grep -wc "158.140.186.3" $FILE1`
+BLOCK=`grep -wc "103.47.134.195\|158.140.186.3" $FILE1`
 NX=`grep -wc "NXDOMAIN" $FILE1`
 FAIL=`grep -wc "SERVFAIL" $FILE1`
 echo "# Counted Result " >> $FILE1
