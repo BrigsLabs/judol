@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 183
+# Number of entries: 205
 #
 # *slot*.*
 # *toto*.*
@@ -24,20 +24,23 @@
 *poker*.*
 *t0gel*.*
 *togel*.*
-*toogel*.*
 *toggel*.*
 *togggel*.*
 *tokototo*.*
+*toogel*.*
 11wbet*.*
 7evenlucknew.*
 9naga*.*
+aa[0-9]*.*
 abcslt*.xyz
 ak4d*.*
 akurat77*.*
 alfabet99win.*
 alitoto.*
 angkasa168rtp*.*
+apkapi-*.*
 aqua365-bisnis.*
+aquartp*.*
 asiajp88b.*
 asianslot88.*
 babeltoto*.*
@@ -61,6 +64,7 @@ dewaraja88-*.*
 dewata88-*.*
 dewihoki-*.*
 dibowo.*
+dogelexus*.*
 dolarslot*.*
 domino4d*.*
 domino88*.*
@@ -72,6 +76,7 @@ fungame777*.*
 garibet*.*
 garuda4d*.*
 gasbet88*.*
+gascagur.*
 gc57.*
 gogelpro.*
 goyangtoto*.*
@@ -97,6 +102,7 @@ istanaimpian*.*
 jawara88x.*
 jitu128*.org
 jpyuk77*.*
+jur[0-9]*.*
 juragan189*.*
 juragan2gaul.*
 jvbet99*.*
@@ -111,6 +117,7 @@ koin33*.*
 konco88-*.*
 kopi77*.*
 kumpulindo-pools.*
+kuy4d*.*
 lego77daftar.*
 ligahoki89.*
 livedraw*.*
@@ -124,11 +131,13 @@ mansionsku777.*
 mantap55.*
 mars88*.*
 mdg188*.*
+mewah69*.*
 money138b*.xyz
 mpo2121*.*
 mpoxl-*.*
 nekoslot88cuan.*
 nenekslot*.*
+nyala4d*.*
 obatshio88.*
 odin188*.*
 ole99*.*
@@ -136,20 +145,22 @@ olislot*.*
 ovoslot*.*
 p200m*.*
 pafi*.org
-paki*.org
 paitopaman.*
 paitowarna*.*
+paki*.org
 paktuaslotaman*.info
 panda99*.*
 panen123*.*
 panen338*.*
+pangerantoto[0-9]*.*
 panglima4dku[0-9]*.*
+pelita555*.*
 pencariangka.*
 pesona69-*.*
 platinumslot.*
 playking88*.*
-pohon8-*.*
 pohon4d*.*
+pohon8-*.*
 polototo*.*
 pos88*.*
 pusat4d*.*
@@ -160,9 +171,12 @@ rajabet123*.*
 rajasawit77-*.*
 rtp-*.*
 rtp.*.*
-rtphoki89.*
-rtpistana8899-*.*
-rtpslot88ku[0-9]*.*
+rtp[0-9]*.*
+rtphoki*.*
+rtpistana*.*
+rtplive*.*
+rtppp*.*
+rtpslot*.*
 rupiah138*.*
 rupiah369*.*
 sakuratoto*.*
@@ -184,6 +198,7 @@ tok99toto*.*
 tokeslot88*.*
 tokoslot77*.*
 tokyo[0-9]*
+totocc*.*
 totokita[0-9]*.*
 totomacaupools.*
 tradisibet*.*
