@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 205
+# Number of entries: 210
 #
 # *slot*.*
 # *toto*.*
@@ -17,6 +17,7 @@
 *gacor*.*
 *judi*.*
 *judol*.*
+*lebah-4d.*
 *lemacau*.*
 *lotre*.*
 *lottery*.*
@@ -113,6 +114,7 @@ kakekjepe*.*
 kapten69*.*
 kdg789.*
 kelas4d-no1.*
+king4d*.*
 kingkong88*.*
 koin33*.*
 konco88-*.*
@@ -138,6 +140,7 @@ mpo2121*.*
 mpoxl-*.*
 nekoslot88cuan.*
 nenekslot*.*
+neototo*.*
 nyala4d*.*
 obatshio88.*
 odin188*.*
@@ -188,6 +191,7 @@ seru77*.*
 siputri88.*
 slot16*.*
 sor777*.*
+ss88*.*
 stars77*.*
 sultansawer*.*
 superdewa16*.*
