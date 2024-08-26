@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 210
+# Number of entries: 222
 #
 # *slot*.*
 # *toto*.*
@@ -13,10 +13,13 @@
 *.lglive[0-9]*.*
 *.slotbet*.*
 *.thethlarms.com
+*apekslot*.*
 *dotaslot*.*
+*ertepe*.*
 *gacor*.*
 *judi*.*
 *judol*.*
+*kawahtoto*.*
 *lebah-4d.*
 *lemacau*.*
 *lotre*.*
@@ -35,6 +38,7 @@
 9naga*.*
 aa[0-9]*.*
 abcslt*.xyz
+agen69*.*
 ak4d*.*
 akurat77*.*
 alfabet99win.*
@@ -43,6 +47,7 @@ angkasa168rtp*.*
 apkapi-*.*
 aqua365-bisnis.*
 aquartp*.*
+arjuna4d*.*
 asiajp88b.*
 asianslot88.*
 babeltoto*.*
@@ -56,6 +61,7 @@ bogemenyatu.*
 bongkar4dprize.*
 bonus138f.*
 borju89*.*
+borutoto*.*
 bungjpaja2.*
 cobaivg.*
 cuan123*.*
@@ -117,6 +123,7 @@ kelas4d-no1.*
 king4d*.*
 kingkong88*.*
 koin33*.*
+kokoplay*.*
 konco88-*.*
 kopi77*.*
 kumpulindo-pools.*
@@ -127,9 +134,11 @@ livedraw*.*
 lotus[0-9]*
 loyal303-*.*
 luck99*.*
+luckykudus*.*
 luckyspin*.*
 mainpastiwin138.*
 mainslotg66.*
+malang4d*.*
 mansionsku777.*
 mantap55.*
 mars88*.*
@@ -165,6 +174,7 @@ platinumslot.*
 playking88*.*
 pohon4d*.*
 pohon8-*.*
+pokaslot*.*
 polototo*.*
 pos88*.*
 pusat4d*.*
@@ -184,6 +194,8 @@ rtpslot*.*
 rupiah138*.*
 rupiah369*.*
 sakuratoto*.*
+sakutoto*.*
+salam303*.*
 samslot77*.*
 sendok88*.*
 senju33a.*
