@@ -4,12 +4,13 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 225
+# Number of entries: 226
 #
 # *slot*.*
 # *toto*.*
 *-pools.com
 *.fbslot*.*
+*.gadunslot*.*
 *.lglive[0-9]*.*
 *.slotbet*.*
 *.thethlarms.com
