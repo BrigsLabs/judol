@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3954
+# Number of entries: 3969
 #
 #
 #
@@ -449,6 +449,7 @@ baronglive.site
 barongmenang.site
 barongnaik.top
 basseru.space
+batagorsip.com
 batam-pools.live
 batastoto.net
 batastotob.site
@@ -788,6 +789,7 @@ daduukuu.xyz
 daftar.nagahoki88gacor.info
 daftarmaenyuk.cyou
 daftarvinaslot.vip
+dailydropsandwin.com
 dailydropswins.com
 dakarpools.com
 dana-33.site
@@ -902,7 +904,9 @@ dogelexuss.pro
 dogelexuss.work
 dogonefunchicago.com
 dolan11569.com
+dolan1258.com
 dolan13378.com
+dolan1477.com
 dolar508fers.net
 dolaramp508.net
 dolarslot.id
@@ -952,6 +956,8 @@ duniasableng88.click
 duniasableng88.top
 duogaming.vip
 dusesbet.net
+dwfrz.xyz
+dwfrzgo.com
 dwtogelseru.vip
 dwv99flappy.info
 ea-tourism.org
@@ -1147,6 +1153,8 @@ gelek4djjgroup.xyz
 gelekslot4d.com
 gemarakyat.info
 gemarbintang.net
+geminihappy.com
+geminit99.com
 geprekkusuka.com
 germanylotterie.com
 germanypools4d.com
@@ -1172,6 +1180,7 @@ glhfds.com
 glitternglitzdesigns.com
 globalpride2020.org
 gm013.pro
+gmi99gcr.site
 gmtslot.top
 go.wla.world
 goalluckymania.pro
@@ -1555,7 +1564,11 @@ jojowinhebat.com
 jokermerah.city
 joki188semoga.com
 jonashill.org
+joni31255.com
+joni35568.com
+joni85100.com
 joni88bo.xyz
+joniblog11.com
 jonimulia.xyz
 jos77h.com
 jowopools.biz
@@ -2941,6 +2954,7 @@ rtp-tradisibet.com
 rtp-ubn-id.com
 rtp-xlslot88jp.xyz
 rtp.gc57.cfd
+rtp.gmi99gcr.site
 rtp.kakatoto.info
 rtp.kudanil.fun
 rtp.miaw4dv8.store
@@ -3774,6 +3788,7 @@ vpndot.xyz
 vpnmaju.win
 vpnzeus88.xyz
 vslots88free.click
+wajibbecek.uk
 wakmanis.com
 waktogel.wtf
 waktogelseru.org

@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 226
+# Number of entries: 228
 #
 # *slot*.*
 # *toto*.*
@@ -76,6 +76,7 @@ dewata88-*.*
 dewihoki-*.*
 dibowo.*
 dogelexus*.*
+dolan[0-9]*.com
 dolarslot*.*
 domino4d*.*
 domino88*.*
@@ -112,6 +113,7 @@ istanacasino.*
 istanaimpian*.*
 jawara88x.*
 jitu128*.org
+joni[0-9]*.com
 jpyuk77*.*
 jur[0-9]*.*
 juragan189*.*
