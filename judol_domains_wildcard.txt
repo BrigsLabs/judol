@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 228
+# Number of entries: 236
 #
 # *slot*.*
 # *toto*.*
@@ -58,6 +58,7 @@ bahagia777*.*
 balon4d*.*
 barito88.*
 benuabet*.*
+betwin188*.*
 bigo234*.*
 bisabos88*.*
 bogemenyatu.*
@@ -119,6 +120,7 @@ jur[0-9]*.*
 juragan189*.*
 juragan2gaul.*
 jvbet99*.*
+k86*.*
 kadalgurun.*
 kakek188*.*
 kakekjepe*.*
@@ -145,12 +147,14 @@ mainpastiwin138.*
 mainslotg66.*
 malang4d*.*
 mansionsku777.*
-mantap55.*
+mantap[0-9]*.*
 mars88*.*
+matrixslot*.*
 mdg188*.*
+meriah4d*.*
 mewah69*.*
-money138b*.xyz
-mpo2121*.*
+money138*.*
+mpo[0-9]*.*
 mpoxl-*.*
 nekoslot88cuan.*
 nenekslot*.*
@@ -182,6 +186,7 @@ pohon8-*.*
 pokaslot*.*
 polototo*.*
 pos88*.*
+pusaka99*.*
 pusat4d*.*
 qq2889*.*
 raja787*.*
@@ -206,22 +211,25 @@ sendok88*.*
 senju33a.*
 seru77*.*
 siputri88.*
-slot16*.*
-slot69*.*
+slot[0-9]*.*
 sor777*.*
 ss88*.*
 stars77*.*
+sukses303*.*
 sultansawer*.*
-superdewa16*.*
+superdewa*.*
+superhoki*.*
+supertarik*.*
 tajir77*.*
 talibetwin*.*
 tanduktoto*.*
 toge123rtp.*
-tok99toto*.*
+tok99*.*
 tokeslot88*.*
 tokoslot77*.*
 tokyo[0-9]*
 totocc*.*
+totovip*.*
 totokita[0-9]*.*
 totomacaupools.*
 tradisibet*.*
