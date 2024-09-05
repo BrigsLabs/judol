@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 236
+# Number of entries: 257
 #
 # *slot*.*
 # *toto*.*
@@ -14,21 +14,45 @@
 *.lglive[0-9]*.*
 *.slotbet*.*
 *.thethlarms.com
+*1betqq*.*
+*303hoki*.*
+*5gtoto*.*
+*9naga*.*
 *apekslot*.*
+*bandarq*.*
+*boom138*.*
+*dana[0-9]*.*
+*depoxito*.*
+*dewa123*.*
+*dewislot*.*
+*domino*.*
 *dotaslot*.*
+*dutaslot77*.*
 *ertepe*.*
 *gacor*.*
+*gojek77*.*
+*jawaraslot*.*
+*jaya77*.*
 *judi*.*
 *judol*.*
 *kawahtoto*.*
+*ladang78*.*
+*lancelot88*.*
 *lebah-4d.*
 *lemacau*.*
 *lotre*.*
 *lottery*.*
+*lotus[0-9]*.*
 *mahjong*.*
+*merdeka138*.*
+*mesi99*.*
 *omg138*.*
+*pandabet*.*
 *poker*.*
+*promo138*.*
+*rans303*.*
 *roket303*.*
+*slotbet888*.*
 *t0gel*.*
 *togeel*.*
 *togel*.*
@@ -36,9 +60,10 @@
 *togggel*.*
 *tokototo*.*
 *toogel*.*
+*ug212*.*
+*vivaslot138*.*
 11wbet*.*
 7evenlucknew.*
-9naga*.*
 aa[0-9]*.*
 abcslt*.xyz
 agen69*.*
@@ -71,7 +96,6 @@ cobaivg.*
 cuan123*.*
 dado88*.*
 daduukuu.*
-dana33*.*
 dewaraja88-*.*
 dewata88-*.*
 dewihoki-*.*
@@ -79,8 +103,6 @@ dibowo.*
 dogelexus*.*
 dolan[0-9]*.com
 dolarslot*.*
-domino4d*.*
-domino88*.*
 dot77-*.*
 dota88*.*
 duniasableng88.*
@@ -138,7 +160,6 @@ kuy4d*.*
 lego77daftar.*
 ligahoki89.*
 livedraw*.*
-lotus[0-9]*
 loyal303-*.*
 luck99*.*
 luckykudus*.*
@@ -229,9 +250,9 @@ tokeslot88*.*
 tokoslot77*.*
 tokyo[0-9]*
 totocc*.*
-totovip*.*
 totokita[0-9]*.*
 totomacaupools.*
+totovip*.*
 tradisibet*.*
 udin8*.*
 venom123*.*

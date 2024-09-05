@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3981
+# Number of entries: 3992
 #
 #
 #
@@ -89,6 +89,7 @@
 924900.winwinwin168.net
 9ae44tdbvs.com
 9naga-ai.net
+9nagagacor3.net
 9nagapola.club
 9nagaspin.com
 9nagaz.vip
@@ -143,6 +144,7 @@ acekapi.info
 acekbandar.xyz
 acsrm.org
 activenq.com
+adabanyak.sgp1.cdn.digitaloceanspaces.com
 adadisini.id
 adamspatterson.com
 adelaidelottery.com
@@ -179,10 +181,13 @@ ak4dslotbet.store
 ak4dslotbet.xyz
 ak4dtop.club
 akademik.sdn36pekanbaru.sch.id
+akbku.net
+akbku1.quest
 akospace.com
 akpatterson.com
 aksara4d.pro
 akses2dotaslot.site
+akses8.ladang78alt.site
 aksesgbk76.sbs
 aktortogel.top
 akuhoki.org
@@ -263,6 +268,7 @@ apekslotvip88.com
 apekslotvip88.vip
 apekunit.xyz
 api-gacor.xyz
+api-giga4-ns2.seamless-hptech.com
 api-royal-ns2-1-default-rtdb.firebaseio.com
 api-royal-ns2.seamless-hptech.com
 api.cloud.uangloka.com
@@ -271,11 +277,13 @@ api2-gb8.imgnxa.com
 api2-jaj.tr8ngames.com
 api2-pe5.imgnxa.com
 api2-tun.imgnxa.com
+api214.cloud.mime.services
 apk138gacor.com
 apkapi-BOG.bitly.sbs
 apkapi-GC2.dataconnect.sbs
 apkapi-KOA.dataconnect.sbs
 apkapi-ab8.mobileservices.sbs
+apkapi-akb.bitly.sbs
 apkapi-bz9.datasvc.xyz
 apkapi-ckg.bitly.sbs
 apkapi-ckg.mobileservices.sbs
@@ -352,6 +360,7 @@ asianslot88.beauty
 asianslot88.college
 asianslot88.lol
 asianslot88.store
+asiawinslot8.net
 asik.ikut4dwedelunas.net
 asikselot303a.com
 aslitogelonline88.shop
@@ -445,6 +454,7 @@ barcelona-lottery.com
 bariequipmentnyc.com
 barito88.top
 barito88.xyz
+barncafe.net
 barongbaik.top
 baronglegend.pro
 baronglive.site
@@ -486,6 +496,7 @@ berasputih.store
 berasputih.top
 bergerak.cc
 berhadiahspin.shop
+berita.imgix.net
 berkahpasti.pro
 berkahslotpro.site
 bermaindarigotopublicinter.xyz
@@ -592,6 +603,7 @@ brentcowles.com
 brisbanelottery.com
 bristol-pools.com
 brittengineering.com
+broculos.net
 bruneidarussalamlottery.com
 bst.suksesterus.xyz
 btpshark.com
@@ -1062,6 +1074,7 @@ fishreportonline.com
 flohome.com
 floonet.net
 florence-lottery.com
+flynnsirishtavern.com
 flyunik.com
 foapi.fco45xzxz.com
 fondasi5g.com
@@ -1083,6 +1096,7 @@ freshlearn.org
 friendsofsloan.org
 fukuokaprize.com
 fullsenyum.cc
+fullshillingpub.com
 fungame777depo.net
 fungame777hub.org
 gabonpools.com
@@ -1198,6 +1212,7 @@ gojekfarefinder.com
 gokapten69.xyz
 gokilbuletoto.live
 gol89137.com
+goodsilversteaks.com
 gorhamdynastybuffet.com
 gorontalo-pools.com
 goyangangacor.lol
@@ -1786,9 +1801,13 @@ kuy4d1.pro
 kuy4daz.com
 kuyselalujayasekali.xyz
 kw303a.site
+l78img.sgp1.cdn.digitaloceanspaces.com
+l78thrive.site
 labcd.org
 labr.net
 lacostakids.net
+ladang78pride.site
+ladang78r.com
 lafayetteacademyno.org
 lafestival.org
 lagaa.click
@@ -1844,6 +1863,7 @@ lemacaubet77.site
 lemacautop1.top
 lembourgj.top
 leoslot88.bio
+leoslot88a.store
 lesaltercitoyens.com
 level4din.info
 level4du.com
@@ -1883,6 +1903,7 @@ linksupraslot88.com
 linktembus.pro
 lion88maxwin.info
 littleshows.com
+live.9nagaspin.net
 live.udinpola.vip
 liveangkasgp.com
 livedrawcambodia.buzz
@@ -2038,6 +2059,7 @@ maintexas77.store
 maintopwin138.net
 mainunyil.co
 majubuletoto.pro
+makewordslouder.com
 makex5000.info
 makxwinautokaya.icu
 malang4d.guru
@@ -2147,6 +2169,7 @@ menyalaabangku.lol
 merak55.com
 merak555.org
 mercatdelclot.net
+merdeka138.sgp1.cdn.digitaloceanspaces.com
 meriah4d-login.pages.dev
 meriah4d09.net
 meriah4dgame.com
@@ -2392,6 +2415,7 @@ oregonlottery.com
 oregonlottery.live
 oregonlottery.org
 oregonstaterowingcamps.com
+oriental.kopivietnam.xyz
 originaljpk.com
 orihhc.com
 orphandrugssummit.com
@@ -2526,6 +2550,7 @@ panglima4dku1.xyz
 panglima4dku3.xyz
 pangseh.com
 pangsitbgpanji.rent
+papazola.kopivietnam.xyz
 papillonfoundation.org
 papystreamingvk.com
 paraguaypools4d.com
@@ -2533,6 +2558,7 @@ paraguayprize.com
 parentsforpeaceandjustice.org
 parfumpromo.com
 parisbratislava.com
+parlay78.site
 participle.net
 pasal4d.net
 pasalgo.com
@@ -2598,6 +2624,7 @@ peraktoto.com
 percayaneko.net
 percayaupin.situstertinggi.com
 perfwars.com
+perihokilink.xyz
 perihokislot.info
 permencuan.com
 personalsafetynets.org
@@ -2746,6 +2773,9 @@ prid-terdepan.shop
 pro8et-naik.store
 pro8etwaw.site
 projetoreplicante.com
+promo138amp.semrush.st
+promo138j.de
+promo138vip.com
 promobandungtoto.me
 promobandungtoto.org
 promobandungtoto.xyz
@@ -2753,6 +2783,7 @@ promoberhadiacola.lol
 promopohon4d.com
 promorp.xyz
 promowengtoto.com
+promows8.online
 protectedbytrust.com
 prudencei.shop
 pshd.org
@@ -3063,6 +3094,8 @@ rtpmansionego.xyz
 rtpmaxafp.shop
 rtpmaxbetberry.top
 rtpmaxp38.fun
+rtpmaxwinarena.fyi
+rtpmdk138.site
 rtpmessipoker.com
 rtpmessipoker.life
 rtpmiejago.xyz
@@ -3444,6 +3477,7 @@ stmaryskolkata.com
 stmatthewspotatofestival.com
 store.bisasukses.com
 storebento123.com
+stpaulsummerbeerfest.com
 strikegamesite.shop
 suaralama.info
 subdomain2.xyz
@@ -3638,11 +3672,13 @@ tokyo77.tech
 tokyo77sites.store
 tokyo88.quest
 tokyo99-app.xyz
+tongkatmdk.site
 top1rtpsu88.com
 top805vip.site
 topalpukat.com
 topbar.pro
 topcasinopicks.com
+toprtpmaxwin.com
 tornadohockey.com
 totaloutlet.shop
 toto.sgpools.live
@@ -3739,6 +3775,7 @@ usu.lol
 uupu.net
 uxpa2018.org
 v8.luna7887.com
+valefor.in
 valencia-lottery.com
 vancouverlottery.com
 vanuatupools.com
@@ -3746,6 +3783,7 @@ vecareriteaidcom.shop
 vegas.menantugoogle.vip
 vegaspools.co
 vegastogel.com
+velrai-ps.com
 venicelottery.com
 venom123online.fit
 venom123play.net
@@ -3798,6 +3836,7 @@ vpn108.com
 vpn78.cc
 vpndot.xyz
 vpnmaju.win
+vpnpro.online
 vpnzeus88.xyz
 vslots88free.click
 wajibbecek.uk
@@ -3857,6 +3896,7 @@ winchester-lottery.com
 wingsianturi.com
 winkijangwin.com
 winnbatman168.com
+winslots8maxwin.org
 winsrajasgptoto.info
 winsrajasgptoto.xyz
 winwinrestaurantandbar.com
@@ -3884,6 +3924,7 @@ www.178hoki.lol
 www.airparknewark.com
 www.alfonsosbb.com
 www.bennysbistro.ca
+www.bom-arenadewa.pro
 www.btsarmycensus.com
 www.caperspc.com
 www.cloud13rx.com
@@ -3893,10 +3934,12 @@ www.elrefugiobaja.com
 www.galaxy77realita.com
 www.galcheat77.xyz
 www.gradpointe.com
+www.joki-tntslot.pro
 www.juarezrestaurantandbakery.com
 www.larosamexicanrestaurant.com
 www.mansion77r.online
 www.meefarm.com
+www.mountainfallsgolfclub.com
 www.nurturethecreativemind.org
 www.paradisepartylimo.com
 www.pastibisa.rajamahjong-apk.com
@@ -3913,6 +3956,7 @@ www.shanebartonmd.com
 www.socialrg.com
 www.threedegreeswarmer.org
 www.tokyopools.com
+www.vip-arenamega.pro
 www.watermillrestaurant.com
 wwwarggatogel.com
 wyn4dgaul.cloud
