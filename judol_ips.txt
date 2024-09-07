@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_ips.md5
 # Syntax: IP server
-# Number of entries: 4034
+# Number of entries: 4033
 # Querries taken from Big-4 DNS resolver (google, cloudflare, yandex, quad9) 
 # 
 #
@@ -3803,7 +3803,6 @@
 34.107.247.218
 34.111.136.110
 34.111.26.32
-34.120.206.254
 34.144.205.124
 34.149.221.190
 34.36.238.107
