@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 266
+# Number of entries: 281
 #
 # *slot*.*
 # *toto*.*
@@ -14,13 +14,17 @@
 *5gtoto*
 *9naga*
 *apekslot*
+*athena168*
 *bandarq*
+*bobo77*
 *boom138*
+*bwtoto*
 *cuan123*
 *cuanwin77*
 *dana[0-9]*
 *depoxito*
 *dewa123*
+*dewa4d*
 *dewislot*
 *domino*
 *dotaslot*
@@ -36,6 +40,7 @@
 *katana4d*
 *kawahtoto*
 *ladang78*
+*lambo69*
 *lancelot88*
 *langit69*
 *lebah-4d*
@@ -43,20 +48,32 @@
 *lotre*
 *lottery*
 *lotus[0-9]*
+*mabar69*
 *mahjong*
 *mahoni[0-9]*
+*master38*
 *maxwin89*
 *merdeka138*
 *mesi99*
 *omg138*
+*ovo777*
 *pandabet*
 *poker*
 *promo138*
 *rans303*
 *roket303*
+*ronin86*
+*rtphoki*
+*rtpistana*
+*rtplive*
+*rtppp*
+*rtpslot*
 *sabun69*
 *slot88*
+*slot88*
 *slotbet888*
+*soju88*
+*starling69*
 *t0gel*
 *togeel*
 *togel*
@@ -100,6 +117,7 @@ cobaivg.*
 cuan123*
 dado88*
 daduukuu.*
+demoslotbaru*
 dewaraja88-*
 dewata88-*
 dewihoki-*
@@ -136,6 +154,7 @@ ibu4d.*
 idmax.*
 indo45*
 indovegas.*
+informasibaru*
 iontogggelll.*
 ios368*
 istanacasino.*
@@ -225,11 +244,6 @@ rajasawit77-*
 rtp-*
 rtp.*
 rtp[0-9]*
-rtphoki*
-rtpistana*
-rtplive*
-rtppp*
-rtpslot*
 rupiah138*
 rupiah369*
 sakuratoto*
@@ -258,6 +272,7 @@ tok99*
 tokeslot88*
 tokoslot77*
 tokyo[0-9]*
+topwdplay*
 totocc*
 totokita[0-9]*
 totomacaupools.*
