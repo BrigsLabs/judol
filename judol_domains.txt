@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 4295
+# Number of entries: 4352
 #
 #
 #
@@ -32,11 +32,15 @@
 1505kitchen.com
 169cuanhot.pro
 169cuanhot.xyz
+178sultan.xyz
+1adam77.xyz
 1kokoplay.lol
 1rtpjojowin.com
 1sultan618.xyz
+1wfqtr.life
 20080088.com
 2024congreso.com
+20tiara-4d.xyz
 21pools.net
 22crownk.top
 288.cdn-lb.com
@@ -61,6 +65,7 @@
 3togel.net
 40corlaslot-4d.xyz
 41lebah-4d.xyz
+43tiara-4d.xyz
 4dngine.com
 4tukul777.com
 500pg.org
@@ -147,6 +152,7 @@ acekbandar.xyz
 acsrm.org
 activenq.com
 adadisini.id
+adam77.in
 adamspatterson.com
 adelaidelottery.com
 adslayla.com
@@ -203,11 +209,15 @@ akurat77b.org
 akurat77f.com
 akuratgacor.ink
 akusayangsamakamu.pro
+aladin138spin.click
 alba88gacor.icu
 albertaseparation.org
 aldospizzas.com
 alexabet88e.net
 alexistogel770.com
+alfabet77.me
+alfabet77.xyz
+alfabet88.casino
 alfabet99win.online
 alfabet99win.pro
 alfabet99win.site
@@ -294,6 +304,7 @@ apkapi-GC2.dataconnect.sbs
 apkapi-KOA.dataconnect.sbs
 apkapi-ab8.mobileservices.sbs
 apkapi-akb.bitly.sbs
+apkapi-alf.bitly.sbs
 apkapi-bz9.datasvc.xyz
 apkapi-ckg.bitly.sbs
 apkapi-ckg.mobileservices.sbs
@@ -320,6 +331,7 @@ apkapi-sc8.mobileservices.sbs
 apkapi-sd7.datasvc.xyz
 apkapi-sln.datasvc.xyz
 apkapi-stg.datasvc.xyz
+apkapi-su1.datasvc.xyz
 apkapi-tl8.mobileservices.sbs
 apkapi-tun.datasvc.xyz
 apkdogas.com
@@ -468,6 +480,7 @@ bangkok-wlalottery.com
 bangmp.site
 bangsaenlottery.asia
 banktalk.org
+bansosyy.xyz
 banten-pools.com
 bar88sx.pro
 barca.menantugoogle.vip
@@ -477,6 +490,7 @@ bariequipmentnyc.com
 barito88.top
 barito88.xyz
 barncafe.net
+baron13.xyz
 barongbaik.top
 baronglegend.pro
 baronglive.site
@@ -498,6 +512,7 @@ beadedbirds.com
 beb88vvip.com
 bebas-akses.com
 bebekberbulu.site
+bebekmanja24.xyz
 bebekpeking.id
 bedfordthaijasmine.com
 beijingpools4d.net
@@ -570,6 +585,8 @@ blitar4dgame.fun
 bloc145.com
 blockmains.lol
 blogsitesikur.com
+blu89.lol
+blu89klik.xyz
 blueoakcoffee.com
 bluezfire.org
 bmkggorontalo.info
@@ -649,6 +666,7 @@ bukti-jptg88.cc
 bukti.neototopage.bond
 buktibayarwak.com
 buktijpbandungtoto.site
+buktijpdeluna.com
 buktijpmawar7.com
 buktijposg888.in
 buktijppohon4d.org
@@ -684,6 +702,9 @@ caberawitpedas.online
 cadaboms.com
 cadburypools.com
 caesarplay.social
+cafe69bl.xyz
+cafe69fo.xyz
+cafe69fp.xyz
 cagrichmondhill.com
 cair77rols.sbs
 cakeisland.space
@@ -860,6 +881,7 @@ daniellesdeli.com
 dapetduita.skin
 dapetgold.boats
 darcnc.org
+dardercrit.xyz
 darklathe.com
 data4d.info
 data4d.top
@@ -867,6 +889,8 @@ data6dhkg.hasil6d.com
 data6dsydney.hasil6d.com
 databerjalan.com
 datahk4d.land
+datajepe.com
+datajepe.xyz
 datajepe01.info
 datakamboja.com
 datakeluarantogel.shop
@@ -892,6 +916,8 @@ delikun.com
 delimed-dz.com
 delottery.com
 delriolawpllc.com
+deluna4djaya.pro
+deluna4dsaja.com
 demoslotosg888.futbol
 denmarkpools4d.com
 dentalprofessionals.info
@@ -946,7 +972,10 @@ dikursi4d.pro
 dimabosbetaja.com
 dimimpiaku.cfd
 dimintamenang.com
+dinas-ti-168.xyz
 dinas-ti168.click
+dinas-ti168.com
+dinasti168-rtp.club
 diogenes-eu.org
 directactionartist.com
 disarang.com
@@ -1076,6 +1105,7 @@ esotici.net
 espedytor.net
 estanciasantabarbara.com
 estonialottery.com
+euphoriamantap.xyz
 euroacak.com
 euromenang.xyz
 everychicway.com
@@ -2007,6 +2037,7 @@ linksupraslot88.com
 linktembus.pro
 linkz.store
 lion88maxwin.info
+lionghitam.xyz
 littleshows.com
 live.9nagaspin.net
 live.udinpola.vip
@@ -2344,10 +2375,12 @@ mne-ploho.net
 mobile-server-naeywn2b5q-as.a.run.app
 mobilque.com
 modakeke.info
+mogawinterus.xyz
 mommy-academy.com
 monarchlover.org
 money138bp.xyz
 money138br.xyz
+money138gp.xyz
 moneysaverspain.com
 mongoliawinner.com
 montrealdating.info
@@ -2649,6 +2682,7 @@ paitowarna4dp.click
 paitowarnahk.best
 paitowarnasgp.life
 paitowarnasydney.life
+paitoyy.com
 pakde-slot.pro
 pakdeslot9.net
 paket4dplay.top
@@ -2790,6 +2824,7 @@ pgrtp9.fun
 pgrtpind168.com
 pharmabarpali.org
 phccf.org
+phgop1.com
 philippinalottery.com
 phimvlsex.com
 picoriveragc.com
@@ -2817,6 +2852,7 @@ play.katsu5jp.com
 play.storeapps.club
 play.storeapps.id
 playbet788.com
+playforwin.xyz
 playking88asik.com
 playking88asli.com
 playking88mabar.com
@@ -2900,6 +2936,7 @@ prediksiheratoto.com
 prediksihujan.com
 prediksiikanmas.com
 prediksiindotogel.shop
+prediksilive.xyz
 prediksimaxwinks4d.com
 prediksimugen.com
 prediksimwtt16.com
@@ -2929,6 +2966,7 @@ promobandungtoto.xyz
 promoberhadiacola.lol
 promopohon4d.com
 promorp.xyz
+promotor.club
 promowengtoto.com
 promows8.online
 protectedbytrust.com
@@ -2942,12 +2980,16 @@ ptslot4d.org
 ptslotjp.pro
 pttogelhk.org
 pttogeltokyo.net
+pub-06ff85254fab4956804723ef05e9c0bc.r2.dev
 pub-2a991c69018043aa97bece03d85e2fe4.r2.dev
 pub-33f79e4933584e76ac497eed3b0b39c5.r2.dev
 pub-56dc6e91c6b14ae39d02ca37deae98ec.r2.dev
+pub-5baf076623b641729bf27ad88e7a26f9.r2.dev
 pub-63ef8a83684343d788bc4e2196ba7dbe.r2.dev
+pub-6ff7e30e22464f96947ce2aa0e3171db.r2.dev
 pub-8b55f6b3152f449eb2adee51596073e1.r2.dev
 pub-9af3357a7d594a559a7d47c4b0e7ca1f.r2.dev
+pub-d2f8f19c86d349df8e7dfdfa598218c9.r2.dev
 pub-d8fbadbadffb491985f60c957f55140c.r2.dev
 pub-eb56614beba6415c8ac276bfd0437e01.r2.dev
 pub-ef90194c58694130bb7a03b0e7096ef5.r2.dev
@@ -2992,6 +3034,7 @@ queen-kerangwin.top
 quotchemical-bin.info
 rabanponti.com
 rabu.rtplive163.com
+racey.net
 racik198-menyala.site
 racikan-198.store
 radarpos.online
@@ -3120,12 +3163,14 @@ royal38vip.com
 rp77uu.net
 rpihockey.net
 rrq88oke.site
+rsudbatam.com
 rsudhajimks.com
 rsudkotamadiun.site
 rsudtjokrodipo.com
 rt05.pro
 rtepewintembus777.com
 rtovinjakarta.com
+rtp-alfabet888.xyz
 rtp-blitar4d-gacor.shop
 rtp-gacor.cuan-1m.com
 rtp-gacoran.pro
@@ -3194,6 +3239,7 @@ rtpcuanwin77.ink
 rtpcukongbet1.xyz
 rtpdadu4d14.live
 rtpdeltaslot88jackpot.xyz
+rtpdeluna6.lol
 rtpdewa4dku9.live
 rtpdewa4dku9.vip
 rtpdomino4d.baby
@@ -3222,6 +3268,7 @@ rtpghk9.top
 rtphoki178re.xyz
 rtphoki28.itjobshift.nl
 rtphoki88.pages.dev
+rtphoki88jpslot.xyz
 rtphoki89.autos
 rtphtoto.shop
 rtphurajp.pro
@@ -3604,6 +3651,7 @@ softwarelicense4u.shop
 soju88pro.pro
 soju88pro.vip
 solnapravljica.eu
+solo333gp.xyz
 somadissa.com
 soofarsogood.com
 sor777jp.net
@@ -3757,6 +3805,7 @@ tajir777-amp.xyz
 tajir777.co.ua
 tajir77max.top
 tajir77slot.top
+takterhingga.xyz
 taktikagenolx08.info
 talibet.com
 talibetwin19.top
@@ -3824,6 +3873,7 @@ thelittleinnofharlan.net
 themadhouserageroom.com
 thenextreal.net
 theoejwilson.com
+theorganictravel.com
 thepawpawpatch.net
 thepittstopgranger.com
 thepurecbdcompany.shop
@@ -3964,6 +4014,7 @@ ukrorganics.com
 ukzone.info
 ulanbatorpools.com
 ulsanlotto.com
+ultra4d.org
 ultra4d.xyz
 uniitogel8.com
 unionpools.com
@@ -4108,6 +4159,7 @@ wikiscatter.cc
 wikivg78.cc
 wilstonfuneralhome.com
 wiltontack.com
+winboss168.net
 winchester-lottery.com
 wingsianturi.com
 winkatana4d.pro
@@ -4160,6 +4212,7 @@ www.gordiscos.com
 www.gradpointe.com
 www.grapelandsafari.net
 www.hoholah.com
+www.imvuce.com
 www.joki-tntslot.pro
 www.juarezrestaurantandbakery.com
 www.larosamexicanrestaurant.com
@@ -4186,10 +4239,12 @@ www.savingsunnyinc.org
 www.sementara.rajamahjong-apk.com
 www.shanebartonmd.com
 www.smilingbritishshorthaircats.com
+www.snapdowntowntoronto.com
 www.socialrg.com
 www.thepawpawpatch.net
 www.threedegreeswarmer.org
 www.tokyopools.com
+www.trinityuxbridge.com
 www.tropong.com
 www.ttmissions.com
 www.vip-arenamega.pro
@@ -4272,11 +4327,13 @@ zonatogel88.rent
 ztripae.com
 zyngapoker.com
 # CDNs
+aset.sgp1.cdn.digitaloceanspaces.com
 adabanyak.sgp1.cdn.digitaloceanspaces.com
 alexisimage.sgp1.cdn.digitaloceanspaces.com
 api-royal-ns2-1-default-rtdb.firebaseio.com
 apisky-2-1-default-rtdb.firebaseio.com
 apk-login-84719-default-rtdb.firebaseio.com
+cafe-69-moneysite-default-rtdb.firebaseio.com
 cdn.gambarsejarah.com
 cdn.rbtasset.com
 d1ayxb9ooonjts.cloudfront.net
