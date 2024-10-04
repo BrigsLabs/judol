@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 314
+# Number of entries: 318
 #
 # *slot*.*
 # *toto*.*
@@ -74,6 +74,7 @@
 *mars88*
 *maslele*
 *master38*
+*master88*
 *maxwin89*
 *megashio*
 *merdeka138*
@@ -85,8 +86,13 @@
 *omg138*
 *ovo777*
 *pandabet*
+*panen123*
+*panen138*
+*panen338*
+*panen99*
 *poker*
 *promo138*
+*rajaslot*
 *rans303*
 *ratu212*
 *roket303*
@@ -253,8 +259,6 @@ paitowarna*
 paki*.org
 paktuaslotaman*.info
 panda99*
-panen123*
-panen338*
 pangerantoto[0-9]*
 panglima4dku[0-9]*
 pelita555*
