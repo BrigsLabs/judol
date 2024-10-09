@@ -4945,10 +4945,10 @@ dztwieyphe62d.cloudfront.net
 edgedl.me.gvt1.com
 encrypted-tbn0.gstatic.com
 gachaengine.com
+gambar1.sgp1.cdn.digitaloceanspaces.com
 gambar22.sgp1.cdn.digitaloceanspaces.com
 global-config-ug-default-rtdb.firebaseio.com
 global-configs-default-rtdb.asia-southeast1.firebasedatabase.app
-https://gambar1.sgp1.cdn.digitaloceanspaces.com/
 i.ibb.co
 img.zhenqinghua.com
 l43fnw-1198-ppp.oss-accelerate.aliyuncs.com
