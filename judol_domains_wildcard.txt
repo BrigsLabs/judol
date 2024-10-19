@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 375
+# Number of entries: 386
 #
 # *slot*.*
 # *toto*.*
@@ -75,16 +75,20 @@
 *igm247*
 *iii4d*
 *indobet*
+*inibet*
 *jawaraslot*
 *jaya77*
 *jempol[0-9]*
 *joker768*
 *judi*
 *judol*
+*kaizen88*
 *kangslot*
 *kangtoto*
+*kantortoto*
 *katana4d*
 *kawahtoto*
+*kekar4d*
 *keren777*
 *king88*
 *koko33*
@@ -98,11 +102,13 @@
 *langit69*
 *lebah-4d*
 *lemacau*
+*lentera4d*
 *libra168*
 *lotre*
 *lottery*
 *lotus[0-9]*
 *luna4d*
+*m69ku*
 *mabar69*
 *mahjong*
 *mahoni[0-9]*
@@ -117,8 +123,10 @@
 *merdeka138*
 *mesi99*
 *mi77*
+*miko69*
 *mw68*
 *naga77*
+*nagaslot*
 *nemo69*
 *new77*
 *omg138*
@@ -137,6 +145,7 @@
 *rans303*
 *ratu212*
 *republik365*
+*ria4d*
 *roket303*
 *ronin86*
 *rtphoki*
@@ -149,6 +158,7 @@
 *sip33*
 *slot123*
 *slot16*
+*slot77*
 *slot88*
 *slotbet888*
 *sm4d*
@@ -170,6 +180,7 @@
 *tokyo[0-9]*
 *toogel*
 *tooogel*
+*toto5*
 *ttt4d*
 *udinslot*
 *ug212*
