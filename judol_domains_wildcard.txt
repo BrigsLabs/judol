@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 386
+# Number of entries: 412
 #
 # *slot*.*
 # *toto*.*
@@ -13,6 +13,7 @@
 *303hoki*
 *55kbet*
 *5gtoto*
+*888rp*
 *88slot*
 *9naga*
 *aa4d*
@@ -32,11 +33,13 @@
 *bandarq*
 *bento4d*
 *bet88*
+*betberry*
 *blitar4d*
 *blu89*
 *bn77*
 *bobo77*
 *boom138*
+*bosbet*
 *bwtoto*
 *cafe69*
 *cemara123*
@@ -61,6 +64,7 @@
 *ertepe*
 *facebookslot*
 *fptoto*
+*g888*
 *gaa88*
 *gachor*
 *gacor*
@@ -129,18 +133,22 @@
 *nagaslot*
 *nemo69*
 *new77*
+*odin77*
 *omg138*
 *ovo777*
+*paket4d*
 *pandabet*
 *panen123*
 *panen138*
 *panen338*
 *panen99*
+*pasir4d*
 *pedro4d*
 *pedroslot*
 *poker*
 *prediksi77*
 *promo138*
+*qq123*
 *rajaslot*
 *rans303*
 *ratu212*
@@ -148,12 +156,14 @@
 *ria4d*
 *roket303*
 *ronin86*
+*rp888*
 *rtphoki*
 *rtpistana*
 *rtplive*
 *rtppp*
 *rtpslot*
 *sabun69*
+*shibatoto*
 *simpati88*
 *sip33*
 *slot123*
@@ -167,7 +177,9 @@
 *spo[0-9]*
 *starling69*
 *sttoto*
+*subur88*
 *t0gel*
+*telurtoto*
 *terminalbet*
 *tiara-4d*
 *to0ogel*
@@ -178,16 +190,20 @@
 *tok99*
 *tokototo*
 *tokyo[0-9]*
+*tomitoto*
 *toogel*
 *tooogel*
+*toto123*
 *toto5*
 *ttt4d*
+*ubitoto*
 *udinslot*
 *ug212*
 *ustotoo*
 *ustottt*
 *vivaslot138*
 *wahanaslot*
+*warga188*
 *wii4d*
 *zeus77*
 11wbet*
