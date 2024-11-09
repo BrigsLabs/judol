@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 415
+# Number of entries: 419
 #
 # *slot*.*
 # *toto*.*
@@ -30,12 +30,14 @@
 *athena168*
 *ayamjago4d*
 *ayobet*
+*badak69*
 *badakslot*
 *badakslt*
 *bandar388*
 *bandarq*
 *bento4d*
 *bet88*
+*bet899*
 *betberry*
 *blitar4d*
 *blu89*
@@ -86,6 +88,7 @@
 *harumslot*
 *hebat99*
 *hoki22*
+*idr77*
 *igm247*
 *iii4d*
 *indobet*
@@ -144,6 +147,7 @@
 *nemo69*
 *new77*
 *odin77*
+*ole[0-9]*
 *omg138*
 *ovo777*
 *paket4d*
