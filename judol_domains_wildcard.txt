@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 419
+# Number of entries: 438
 #
 # *slot*.*
 # *toto*.*
@@ -80,6 +80,7 @@
 *gaa88*
 *gachor*
 *gacor*
+*gg66*
 *gga88*
 *go500*
 *gojek77*
@@ -93,12 +94,15 @@
 *iii4d*
 *indobet*
 *inibet*
+*jagat88*
+*jago89*
 *jawaraslot*
 *jaya77*
 *jempol[0-9]*
 *joker768*
 *judi*
 *judol*
+*juragan88*
 *kaizen88*
 *kangslot*
 *kangtoto*
@@ -107,6 +111,7 @@
 *kawahtoto*
 *kekar4d*
 *keren777*
+*kilat89*
 *king88*
 *koko33*
 *kuy89*
@@ -118,6 +123,7 @@
 *lancelot88*
 *langit69*
 *lebah-4d*
+*legendtoto*
 *lemacau*
 *lentera4d*
 *libra168*
@@ -129,6 +135,7 @@
 *mabar69*
 *mahjong*
 *mahoni[0-9]*
+*mamakslot*
 *mars88*
 *maslele*
 *master38*
@@ -137,10 +144,13 @@
 *maxwin89*
 *medusa88*
 *megashio*
+*mejahoki*
+*menang8*
 *merdeka138*
 *mesi99*
 *mi77*
 *miko69*
+*monaco99*
 *mw68*
 *naga77*
 *nagaslot*
@@ -163,7 +173,9 @@
 *polayb*
 *prediksi77*
 *promo138*
+*proyek88*
 *qq123*
+*raja88*
 *rajaslot*
 *rans303*
 *ratu212*
@@ -178,11 +190,15 @@
 *rtppp*
 *rtpslot*
 *sabun69*
+*sakti55*
 *shibatoto*
+*sikat88*
 *simpati88*
 *sip33*
+*sky77*
 *slot123*
 *slot16*
+*slot5000*
 *slot77*
 *slot88*
 *slotbet888*
@@ -190,6 +206,7 @@
 *sniperslot*
 *soju88*
 *spo[0-9]*
+*stadium77*
 *starling69*
 *sttoto*
 *subur88*
@@ -214,11 +231,13 @@
 *ubitoto*
 *udinslot*
 *ug212*
+*ultrajp*
 *ustotoo*
 *ustottt*
 *vivaslot138*
 *wahanaslot*
 *warga188*
+*warung168*
 *wii4d*
 *win138*
 *zeus77*
