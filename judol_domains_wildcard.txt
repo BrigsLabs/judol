@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains
-# Number of entries: 423
+# Number of entries: 429
 #
 # *slot*.*
 # *toto*.*
@@ -120,6 +120,7 @@
 *ertepe*
 *facebookslot*
 *fbslot*
+*fijislot*
 *fptoto*
 *fungame777*
 *g888*
@@ -265,10 +266,12 @@
 *mi77*
 *miko69*
 *monaco99*
+*monas[0-9]*
 *money138*
 *mpo[0-9]*
 *mpoxl*
 *mw68*
+*n69*
 *naga77*
 *nagaslot*
 *nekoslot[0-9]*
@@ -276,6 +279,7 @@
 *nenekslot*
 *neototo*
 *new77*
+*nova[0-9]*
 *nyala4d*
 *obatshio[0-9]*
 *odin[0-9]*
@@ -302,6 +306,7 @@
 *pesona69*
 *platinumslot*
 *playking[0-9]*
+*poa[0-9]*
 *pohon4d*
 *pohon8*
 *pokaslot*
@@ -341,6 +346,7 @@
 *sakutoto*
 *salam303*
 *samslot[0-9]*
+*sastoto*
 *sendok88*
 *senju33a*
 *seru77*
@@ -431,7 +437,6 @@ paki*.org
 rtp-*
 rtp.*
 rtp[0-9]*
-
 # TLD abuse list from source : https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/spam-tlds-rpz-aggressive.txt
 *.actor 
 *.africa 
