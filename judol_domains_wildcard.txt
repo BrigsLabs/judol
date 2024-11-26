@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 806
+# Number of entries: 829
 #
 # *slot*.*
 # *toto*.*
@@ -25,6 +25,8 @@
 *aa[0-9]*
 *aat[0-9]*
 *abcslt*
+*abgbet*
+*abgslot*
 *adam[0-9]*
 *agen[0-9]*
 *aha[0-9]*
@@ -57,7 +59,7 @@
 *bandarq*
 *barito[0-9]*
 *bdk[0-9]*
-*bento4d*
+*bento[0-9]*
 *benuabet*
 *bet[0-9]*
 *betberry*
@@ -78,6 +80,8 @@
 *bos0-9]*
 *bosbet*
 *boshoki*
+*buktijp*
+*buktiwd*
 *bungjpaja[0-9]*
 *bwtoto*
 *c200m*
@@ -92,6 +96,8 @@
 *cocaslot*
 *cuan[0-9]*
 *cuanwin[0-9]*
+*cukong[0-9]*
+*cukongbet*
 *dado[0-9]*
 *daduukuu*
 *daftarclickbet*
@@ -101,13 +107,13 @@
 *depoxito*
 *detik[0-9]*
 *dewa[0-9]*
-*dewa[0-9]*
 *dewadora*
 *dewaraja[0-9]*
 *dewata[0-9]*
 *dewihoki*
 *dewislot*
 *dino[0-9]*
+*dogel*
 *dogelexus*
 *dolan[0-9]*
 *dolarslot*
@@ -138,6 +144,8 @@
 *gasbet[0-9]*
 *gascagur*
 *gc[0-9]*
+*gelek[0-9]*
+*gelekslot*
 *gg[0-9]*
 *gga[0-9]*
 *go[0-9]*
@@ -150,7 +158,7 @@
 *haha[0-9]*
 *hahawin*
 *halusbet[0-9]*
-*hariangkanet4d*
+*hariangkanet[0-9]*
 *harum[0-9]*
 *harumslot*
 *harumslotrtp*
@@ -159,8 +167,9 @@
 *hokirtp[0-9]*
 *hokislot[0-9]*
 *horus[0-9]*
+*ibet*
 *iboslot*
-*ibu4d*
+*ibu[0-9]*
 *idmax*
 *idr[0-9]*
 *igm[0-9]*
@@ -168,12 +177,18 @@
 *indo[0-9]*
 *indobet*
 *indobit-[0-9]*
+*indototo*
 *indovegas*
+*indowin*
+*infobonus*
+*infopenting*
+*infopola*
 *informasibaru*
+*infortp*
 *inibet*
 *iontogggelll*
 *ios[0-9]*
-*irit4d*
+*irit[0-9]*
 *istanacasino*
 *istanaimpian*
 *jagat[0-9]*
@@ -182,6 +197,9 @@
 *jawara[0-9]*
 *jawaraslot*
 *jaya[0-9]*
+*jayabet*
+*jayahoki*
+*jayaslot*
 *jempol[0-9]*
 *jitu[0-9]*
 *joker[0-9]*
@@ -221,21 +239,24 @@
 *kumpulindo-pools*
 *kuy[0-9]*
 *ladang[0-9]*
-*laktobet[0-9]*
 *lakuserasi*
 *lakutoto*
 *lambo[0-9]*
 *lancelot[0-9]*
 *langit[0-9]*
+*laskar[0-9]*
+*latobet[0-9]*
 *lebah-[0-9]*
 *legendtoto*
 *lego[0-9]*
 *lemacau*
 *lentera[0-9]*
+*leoslot*
 *lglive[0-9]*
 *libra[0-9]*
 *ligahoki[0-9]*
 *livedraw*
+*livescore*
 *lotre*
 *lottery*
 *lotus[0-9]*
@@ -292,6 +313,7 @@
 *ole[0-9]*
 *olislot*
 *omg[0-9]*
+*osg[0-9]*
 *ovo[0-9]*
 *ovoslot*
 *p200*
@@ -303,7 +325,7 @@
 *pandabet*
 *panen[0-9]*
 *pangerantoto[0-9]*
-*panglima4dku[0-9]*
+*panglima[0-9]*
 *pasir[0-9]*
 *pedro[0-9]*
 *pedroslot*
@@ -313,6 +335,7 @@
 *pisces[0-9]*
 *platinumslot*
 *playking[0-9]*
+*pm[0-9]*
 *poa[0-9]*
 *pohon[0-9]*
 *pokaslot*
