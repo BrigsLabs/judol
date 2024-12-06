@@ -28,7 +28,7 @@
 *agen[0-9]*
 *aha4d*
 *airbet*
-*aj4d*
+# *aj4d* # may cause false positive
 *ajudan88*
 *ak4d*
 *akurat[0-9]*
@@ -64,7 +64,7 @@
 *bisabos[0-9]*
 *blitar4d*
 *blu89*
-*bn77*
+bn77*
 *bobo[0-9]*
 *bogemenyatu*
 *bongkar4dprize*
@@ -189,7 +189,7 @@
 *jur[0-9]*
 *juragan[0-9]*
 *jvbet[0-9]*
-*k86*
+k86*
 *kadalgurun*
 *kaizen88*
 *kakek[0-9]*
@@ -267,15 +267,20 @@
 *meriah4d*
 *mesi[0-9]*
 *mewah[0-9]*
-*mi[0-9]*
+# *mi[0-9]* # may cause false positive 
 *miko[0-9]*
 *monaco[0-9]*
 *monas[0-9]*
 *money[0-9]*
 *mpo[0-9]*
 *mpoxl*
-*mw68*
-*n69*
+mw68*
+# *n69* # may cause false positive
+*gen69*
+*pin69*
+*tan69*
+*ten69*
+*bun69*
 *naga[0-9]*
 *nagaslot*
 *nekoslot[0-9]*
@@ -424,7 +429,7 @@
 *udin-*
 *udin[0-9]*
 *udinslot*
-*ug[0-9]*
+# *ug[0-9]* # may cause false positive
 *ultrajp*
 *up2000*
 *ustotoo*
