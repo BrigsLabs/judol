@@ -4,12 +4,12 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 809
+# Number of entries: 810
 #
 # *slot*.*
 # *toto*.*
-# *ss[0-9]* # fss68dg.x.incapdns.net (alias for [hr.talenta.co]
-*-pools.com
+*pools.com
+*pools.net
 *11wbet*
 *888rp*
 *[0-9]bet*
@@ -22,7 +22,6 @@
 *[0-9]tokototo*
 *[0-9]toto*
 *[0-9]xsport*
-*aa[0-9]*
 *aat4d*
 *abcslt*
 *adam77*
@@ -217,7 +216,6 @@
 *konco[0-9]*
 *kopi[0-9]*
 *kristal[0-9]*
-*kumpulindo-pools*
 *kuy[0-9]*
 *ladang[0-9]*
 *laktobet[0-9]*
@@ -416,7 +414,7 @@
 *totoagung*
 *totocc*
 *totokita[0-9]*
-*totomacaupools*
+*totomacau*
 *totovip*
 *tradesia*
 *tradisibet*
@@ -449,12 +447,14 @@
 *yukdwt*
 *yuktg[0-9]*
 *zeus[0-9]*
+aa[0-9]* 
 apkapi-*
 bigklik[0-9]*
 hp-777*
 pafi*.org
 paki*.org
 rtp*
+ss88* 
 x-dewa*
 xdewa*
 # TLD abuse list from source : https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/spam-tlds-rpz-aggressive.txt
