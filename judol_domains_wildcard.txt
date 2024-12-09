@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 813
+# Number of entries: 826
 #
 # *slot*.*
 # *toto*.*
@@ -131,15 +131,19 @@
 *gachor*
 *gacor*
 *gadunslot*
+*gambler*
+*gambling*
 *garibet*
 *garuda4d*
 *gasbet[0-9]*
 *gascagur*
 *gc57*
 *gen69*
+*gerbang88*
 *gg66*
 *gga88*
 *go500*
+*gocap[0-9]*
 *gogelpro*
 *gojek[0-9]*
 *goldenlele*
@@ -274,13 +278,16 @@
 *money[0-9]*
 *mpo[0-9]*
 *mpoxl*
+*mulia[0-9]*
 *naga[0-9]*
 *nagaslot*
 *nekoslot[0-9]*
 *nemo[0-9]*
 *nenekslot*
 *neototo*
+*netralbet*
 *new[0-9]*
+*next[0-9]*
 *nobitabet*
 *nova[0-9]*
 *nyala4d*
@@ -339,6 +346,7 @@
 *republik365*
 *ria4d*
 *roket[0-9]*
+*romawibet*
 *ronin86*
 *rp888*
 *rtpasiajp[0-9]*
@@ -456,10 +464,15 @@ bigklik[0-9]*
 bn77*
 eraplay[0-9]*
 hp-777*
+jiwa168*
 k86*
 mw68*
+netralhoki*
+ninja96*
 pafi*.org
 paki*.org
+primerplay*
+royal1000*
 rtp*
 ss88* 
 x-dewa*
