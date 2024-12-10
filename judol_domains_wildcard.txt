@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 826
+# Number of entries: 837
 #
 # *slot*.*
 # *toto*.*
@@ -13,6 +13,7 @@
 # *n69* # may cause false positive
 # *ug[0-9]* # may cause false positive
 *11wbet*
+*788*
 *888rp*
 *[0-9]bet*
 *[0-9]evenlucknew*
@@ -40,6 +41,8 @@
 *apekslot*
 *aquartp*
 *arjuna4d*
+*asdjitu*
+*asdtoto*
 *asia[0-9]*
 *asiajp[0-9]*
 *asianslot[0-9]*
@@ -133,6 +136,7 @@
 *gadunslot*
 *gambler*
 *gambling*
+*gamesgg*
 *garibet*
 *garuda4d*
 *gasbet[0-9]*
@@ -318,6 +322,7 @@
 *pisces[0-9]*
 *platinumslot*
 *playking[0-9]*
+*playsgg*
 *poa[0-9]*
 *pohon4d*
 *pohon8*
@@ -436,6 +441,8 @@
 *udin[0-9]*
 *udinslot*
 *ultrajp*
+*unogg*
+*unovegas*
 *up2000*
 *ustotoo*
 *ustottt*
@@ -458,7 +465,9 @@
 *yuktg[0-9]*
 *zeus[0-9]*
 aa[0-9]* 
+alamjp*
 apkapi-*
+asiabet*
 big365*
 bigklik[0-9]*
 bn77*
@@ -466,6 +475,7 @@ eraplay[0-9]*
 hp-777*
 jiwa168*
 k86*
+liga123*
 mw68*
 netralhoki*
 ninja96*
@@ -475,6 +485,7 @@ primerplay*
 royal1000*
 rtp*
 ss88* 
+totoking*
 x-dewa*
 xdewa*
 # TLD abuse list from source : https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/spam-tlds-rpz-aggressive.txt
@@ -839,4 +850,3 @@ xdewa*
 *.xn--qxa6a 
 *.xn--qxam 
 *.xn--y9a3aq 
-
