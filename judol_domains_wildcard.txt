@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 862
+# Number of entries: 863
 #
 # *slot*.*
 # *toto*.*
@@ -511,6 +511,7 @@ royal1000*
 rtp*
 ss88* 
 totoking*
+wing4d*
 x-dewa*
 xdewa*
 # TLD abuse list from source : https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/spam-tlds-rpz-aggressive.txt
