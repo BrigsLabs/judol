@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 863
+# Number of entries: 873
 #
 # *slot*.*
 # *toto*.*
@@ -273,6 +273,7 @@
 *mamakslot*
 *mansionsku[0-9]*
 *mantap[0-9]*
+*marontoto*
 *mars[0-9]*
 *maslele*
 *master[0-9]*
@@ -300,6 +301,7 @@
 *naga[0-9]*
 *nagabola*
 *nagaslot*
+*nanagroup*
 *nekoslot[0-9]*
 *nemo[0-9]*
 *nenekslot*
@@ -326,6 +328,7 @@
 *pandabet*
 *panen[0-9]*
 *pangerantoto[0-9]*
+*pangkat88*
 *panglima4dku[0-9]*
 *pasir4d*
 *pedro4d*
@@ -401,9 +404,11 @@
 *sip[0-9]*
 *siputri[0-9]*
 *sisil[0-9]*
+*situstoto*
 *sky[0-9]*
 *slot[0-9]*
 *slotbet*
+*slots[0-9]*
 *slotsgg*
 *sm4d*
 *sniperslot*
@@ -450,6 +455,7 @@
 *toto[0-9]*
 *totoagung*
 *totocc*
+*totohok[0-9]*
 *totokita[0-9]*
 *totomacau*
 *totovip*
@@ -476,6 +482,7 @@
 *vivo4did*
 *wahanaslot*
 *warga[0-9]*
+*warto*
 *warung[0-9]*
 *warunggol*
 *wdhoki*
@@ -502,13 +509,16 @@ k86*
 koi*.com
 liga123*
 mw68*
+nana4d*
 netralhoki*
 ninja96*
+nono4d*
 pafi*.org
 paki*.org
 primerplay*
 royal1000*
 rtp*
+simpan369.*
 ss88* 
 totoking*
 wing4d*
