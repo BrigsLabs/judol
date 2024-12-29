@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 873
+# Number of entries: 879
 #
 # *slot*.*
 # *toto*.*
@@ -191,6 +191,8 @@
 *irit4d*
 *istanacasino*
 *istanaimpian*
+*iustoto*
+*iustott*
 *jagat[0-9]*
 *jago[0-9]*
 *jantan[0-9]*
@@ -230,6 +232,7 @@
 *kingkong[0-9]*
 *koi.org
 *koin[0-9]*
+*kokitoto*
 *koko[0-9]*
 *kokoplay*
 *konco[0-9]*
@@ -397,6 +400,7 @@
 *scatterhitam*
 *sendok[0-9]*
 *senju33a*
+*sepuh*
 *seru[0-9]*
 *shibatoto*
 *sikat[0-9]*
@@ -471,6 +475,8 @@
 *unogg*
 *unovegas*
 *up2000*
+*usstoto*
+*usstto*
 *ustotoo*
 *ustottt*
 *uu4d.info
@@ -886,3 +892,4 @@ xdewa*
 *.xn--qxa6a 
 *.xn--qxam 
 *.xn--y9a3aq 
+
