@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 879
+# Number of entries: 891
 #
 # *slot*.*
 # *toto*.*
@@ -12,6 +12,8 @@
 # *mi[0-9]* # may cause false positive 
 # *n69* # may cause false positive
 # *ug[0-9]* # may cause false positive
+*.prediksi*
+*.rtp*
 *11wbet*
 *4d.com
 *788*
@@ -30,6 +32,7 @@
 *abcslt*
 *adam77*
 *agen[0-9]*
+*agenolx*
 *aha4d*
 *airbet*
 *ajudan88*
@@ -53,6 +56,7 @@
 *badak[0-9]*
 *badakslot*
 *badakslt*
+*bagatoto*
 *baginda-[0-9]*
 *baginda[0-9]*
 *bahagia777*
@@ -84,6 +88,7 @@
 *bosbet*
 *boshoki*
 *brandlokal*
+*buktijp*
 *bun69*
 *bungjpaja2*
 *bwtoto*
@@ -130,6 +135,7 @@
 *emas[0-9]*
 *enterslots*
 *ertepe*
+*estabet*
 *facebookslot*
 *fbslot*
 *fijislot*
@@ -174,6 +180,7 @@
 *hokislot[0-9]*
 *horus[0-9]*
 *iboslot*
+*ibox4d*
 *ibu4d*
 *idmax*
 *idr[0-9]*
@@ -256,6 +263,7 @@
 *lglive[0-9]*
 *libra[0-9]*
 *ligahoki[0-9]*
+*link4d*
 *livedraw*
 *lotre*
 *lottery*
@@ -305,6 +313,7 @@
 *nagabola*
 *nagaslot*
 *nanagroup*
+*nara4d*
 *nekoslot[0-9]*
 *nemo[0-9]*
 *nenekslot*
@@ -372,6 +381,7 @@
 *ratu[0-9]*
 *republik365*
 *ria4d*
+*rogtoto*
 *roket[0-9]*
 *rokokbet*
 *rokokslot*
@@ -403,6 +413,7 @@
 *sepuh*
 *seru[0-9]*
 *shibatoto*
+*siapbet*
 *sikat[0-9]*
 *simpati[0-9]*
 *sip[0-9]*
@@ -514,6 +525,7 @@ jiwa168*
 k86*
 koi*.com
 liga123*
+line[0-9]*
 mw68*
 nana4d*
 netralhoki*
