@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 7018
+# Number of entries: 7020
 #
 #
 #
@@ -312,6 +312,7 @@ akseskilat.live
 akseswahanaslot.top
 aktortogel.top
 akuhoki.org
+akundemoriki.site
 akunprohawai.org
 akunpropusat.xyz
 akunslotkambojavip.site
@@ -4891,6 +4892,7 @@ ria4hebat.site
 riarmyguard.info
 ribonofc.org
 ricostacosmoya.net
+rikiplay.com
 rilot.com
 rinduttj.com
 rintikhujan.org

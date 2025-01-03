@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 891
+# Number of entries: 904
 #
 # *slot*.*
 # *toto*.*
@@ -38,6 +38,7 @@
 *ajudan88*
 *ak4d*
 *akurat[0-9]*
+*alexis*
 *alfabet[0-9]*
 *alitoto*
 *amanbos*
@@ -78,6 +79,7 @@
 *blu89*
 *bobo[0-9]*
 *bogemenyatu*
+*bola[0-9]*
 *bongkar4dprize*
 *bonus138*
 *boom138*
@@ -88,6 +90,7 @@
 *bosbet*
 *boshoki*
 *brandlokal*
+*buah4d*
 *buktijp*
 *bun69*
 *bungjpaja2*
@@ -195,6 +198,7 @@
 *inibet*
 *iontogggelll*
 *ios368*
+*ipar4d*
 *irit4d*
 *istanacasino*
 *istanaimpian*
@@ -244,6 +248,7 @@
 *kokoplay*
 *konco[0-9]*
 *kopi[0-9]*
+*kpktoto*
 *kristal[0-9]*
 *kuy[0-9]*
 *ladang[0-9]*
@@ -297,6 +302,7 @@
 *megagroup*
 *megashio*
 *mejahoki*
+*meme4d*
 *menang[0-9]*
 *merdeka[0-9]*
 *meriah4d*
@@ -325,6 +331,7 @@
 *nova[0-9]*
 *nyala4d*
 *obatshio[0-9]*
+*obral4d*
 *odin[0-9]*
 *ole[0-9]*
 *olislot*
@@ -345,6 +352,7 @@
 *pasir4d*
 *pedro4d*
 *pedroslot*
+*pekantoto*
 *pelita[0-9]*
 *pencariangka*
 *pesona[0-9]*
@@ -429,6 +437,7 @@
 *sniperslot*
 *soju[0-9]*
 *sor[0-9]*
+*sortoto*
 *spo[0-9]*
 *stadium[0-9]*
 *starling[0-9]*
@@ -490,8 +499,7 @@
 *usstto*
 *ustotoo*
 *ustottt*
-*uu4d.info
-*uu4d.net
+*uu4d.*
 *venom[0-9]*
 *vgslot[0-9]*
 *virgobet[0-9]*
@@ -519,13 +527,18 @@ asiabet*
 big365*
 bigklik[0-9]*
 bn77*
+cerutuviral.*
 eraplay[0-9]*
+gol[0-9]*
 hp-777*
 jiwa168*
+jutawan[0-9]*
 k86*
 koi*.com
+kpk*.com
 liga123*
 line[0-9]*
+meme*
 mw68*
 nana4d*
 netralhoki*
