@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 904
+# Number of entries: 915
 #
 # *slot*.*
 # *toto*.*
@@ -439,6 +439,7 @@
 *sor[0-9]*
 *sortoto*
 *spo[0-9]*
+*ssstoto*
 *stadium[0-9]*
 *starling[0-9]*
 *stars[0-9]*
@@ -581,6 +582,7 @@ xdewa*
 *.boston 
 *.boutique 
 *.builders 
+*.business 
 *.buzz 
 *.cam 
 *.capital 
@@ -592,6 +594,7 @@ xdewa*
 *.center 
 *.cfd 
 *.charity 
+*.chat 
 *.christmas 
 *.church 
 *.city 
@@ -648,6 +651,7 @@ xdewa*
 *.haus 
 *.health 
 *.healthcare 
+*.help 
 *.homes 
 *.icu 
 *.ink 
@@ -661,6 +665,7 @@ xdewa*
 *.llp 
 *.loan 
 *.loans 
+*.locker 
 *.lol 
 *.love 
 *.ltd 
@@ -672,6 +677,8 @@ xdewa*
 *.men 
 *.miami 
 *.ml 
+*.moda 
+*.moe 
 *.mom 
 *.money 
 *.monster 
@@ -697,6 +704,7 @@ xdewa*
 *.pink 
 *.pizza 
 *.place 
+*.plus 
 *.poker 
 *.post 
 *.prof 
@@ -707,6 +715,7 @@ xdewa*
 *.recipes 
 *.red 
 *.rehab 
+*.ren 
 *.rent 
 *.rest 
 *.restaurant 
@@ -717,11 +726,13 @@ xdewa*
 *.rugby 
 *.sale 
 *.sbs 
+*.schule 
 *.science 
 *.sew 
 *.sexy 
 *.shop 
 *.shopping 
+*.show 
 *.site 
 *.skin 
 *.solar 
