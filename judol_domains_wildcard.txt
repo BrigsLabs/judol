@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 917
+# Number of entries: 920
 #
 # *slot*.*
 # *toto*.*
@@ -409,6 +409,7 @@
 *rtppp*
 *rtpslot*
 *rupiah[0-9]*
+*rupiahtoto*
 *sableng[0-9]*
 *sabun[0-9]*
 *sakti[0-9]*
@@ -476,6 +477,7 @@
 *tokototo*
 *tokyo[0-9]*
 *tomitoto*
+*toogeel*
 *toogel*
 *tooogel*
 *topwdplay*
@@ -555,6 +557,7 @@ rtp*
 simpan369.*
 ss88* 
 totoking*
+up[0-9]*
 wing4d*
 x-dewa*
 xdewa*
