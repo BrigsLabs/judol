@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 931
+# Number of entries: 940
 #
 # *slot*.*
 # *toto*.*
@@ -322,6 +322,7 @@
 *mpo[0-9]*
 *mpoxl*
 *mulia[0-9]*
+*mvia88*
 *naga[0-9]*
 *nagabola*
 *nagaslot*
@@ -334,6 +335,7 @@
 *netralbet*
 *new[0-9]*
 *next[0-9]*
+*niagabet*
 *nobitabet*
 *nova[0-9]*
 *nyala4d*
@@ -367,6 +369,7 @@
 *pin69*
 *pisces[0-9]*
 *platinumslot*
+*play88*
 *playking[0-9]*
 *playsgg*
 *poa[0-9]*
@@ -456,6 +459,7 @@
 *stars[0-9]*
 *sttoto*
 *subur[0-9]*
+*sukaslot*
 *sukses[0-9]*
 *sultansawer*
 *sultanslot*
@@ -552,13 +556,16 @@ koi*.com
 kpk*.com
 liga123*
 line[0-9]*
+loginsamudera*
 meme*
 mw68*
 nana4d*
+narkobet*
 neng4d*
 netralhoki*
 ninja96*
 nono4d*
+oddigo*
 pafi*.org
 paki*.org
 primerplay*
@@ -566,8 +573,10 @@ royal1000*
 rtp*
 simpan369.*
 sis4d*
+slotter[0-9]*
 ss88* 
 totoking*
+ug8*
 up[0-9]*
 wing4d*
 x-dewa*
