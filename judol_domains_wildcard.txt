@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 940
+# Number of entries: 984
 #
 # *slot*.*
 # *toto*.*
@@ -12,8 +12,51 @@
 # *mi[0-9]* # may cause false positive 
 # *n69* # may cause false positive
 # *ug[0-9]* # may cause false positive
+*.aa[0-9]* 
+*.alamjp*
+*.amp*
+*.asiabet*
+*.big365*
+*.bigklik[0-9]*
+*.bn77*
+*.cerutuviral.*
+*.eraplay[0-9]*
+*.gol[0-9]*
+*.hp-777*
+*.jakartaslot*
+*.jiwa168*
+*.jutawan[0-9]*
+*.k86*
+*.koi*.com
+*.kpk*.com
+*.liga123*
+*.line[0-9]*
+*.mambawin*
+*.meme*
+*.mw68*
+*.nana4d*
+*.narkobet*
+*.neng4d*
+*.netralhoki*
+*.ninja96*
+*.nono4d*
+*.oddigo*
+*.pafi*.org
+*.paki*.org
 *.prediksi*
+*.primerplay*
+*.royal1000*
 *.rtp*
+*.simpan369.*
+*.sis4d*
+*.slotter[0-9]*
+*.ss88* 
+*.totoking*
+*.ug8*
+*.up[0-9]*
+*.wing4d*
+*.xdewa*
+*.xgo88*
 *11wbet*
 *4d.com
 *788*
@@ -496,6 +539,7 @@
 *toto[0-9]*
 *totoagung*
 *totocc*
+*totog*
 *totohok[0-9]*
 *totokita[0-9]*
 *totomacau*
@@ -537,7 +581,7 @@
 *yukdwt*
 *yuktg[0-9]*
 *zeus[0-9]*
-aa[0-9]* 
+aa[0-9]*
 alamjp*
 amp*
 apkapi-*
@@ -619,7 +663,6 @@ xdewa*
 *.center 
 *.cfd 
 *.charity 
-*.chat 
 *.christmas 
 *.church 
 *.city 
@@ -699,6 +742,7 @@ xdewa*
 *.management 
 *.market 
 *.markets 
+*.mba 
 *.men 
 *.miami 
 *.ml 
