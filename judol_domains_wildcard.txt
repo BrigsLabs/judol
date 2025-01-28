@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 984
+# Number of entries: 947
 #
 # *slot*.*
 # *toto*.*
@@ -12,56 +12,12 @@
 # *mi[0-9]* # may cause false positive 
 # *n69* # may cause false positive
 # *ug[0-9]* # may cause false positive
-*.aa[0-9]* 
-*.alamjp*
-*.amp*
-*.asiabet*
-*.big365*
-*.bigklik[0-9]*
-*.bn77*
-*.cerutuviral.*
-*.eraplay[0-9]*
-*.gol[0-9]*
-*.hp-777*
-*.jakartaslot*
-*.jiwa168*
-*.jutawan[0-9]*
-*.k86*
-*.koi*.com
-*.kpk*.com
-*.liga123*
-*.line[0-9]*
-*.mambawin*
-*.meme*
-*.mw68*
-*.nana4d*
-*.narkobet*
-*.neng4d*
-*.netralhoki*
-*.ninja96*
-*.nono4d*
-*.oddigo*
-*.pafi*.org
-*.paki*.org
-*.prediksi*
-*.primerplay*
-*.royal1000*
-*.rtp*
-*.simpan369.*
-*.sis4d*
-*.slotter[0-9]*
-*.ss88* 
-*.totoking*
-*.ug8*
-*.up[0-9]*
-*.wing4d*
-*.xdewa*
-*.xgo88*
 *11wbet*
 *4d.com
 *788*
 *7win*
 *888rp*
+*9koi*
 *[0-9]bet*
 *[0-9]evenlucknew*
 *[0-9]gtoto*
@@ -83,6 +39,7 @@
 *ajudan88*
 *ak4d*
 *akurat[0-9]*
+*alamjp*
 *alexis*
 *alfabet[0-9]*
 *alitoto*
@@ -94,6 +51,7 @@
 *asdjitu*
 *asdtoto*
 *asia[0-9]*
+*asiabet*
 *asiajp[0-9]*
 *asianslot[0-9]*
 *athena[0-9]*
@@ -107,6 +65,7 @@
 *baginda[0-9]*
 *bahagia777*
 *balon4d*
+*bambu[0-9]*
 *bambumas[0-9]*
 *bandar[0-9]*
 *bandarq*
@@ -118,6 +77,8 @@
 *betberry*
 *betwin[0-9]*
 *bgn168*
+*big365*
+*bigklik[0-9]*
 *bigo234*
 *bisabos[0-9]*
 *blitar4d*
@@ -134,6 +95,7 @@
 *bos515*
 *bosbet*
 *boshoki*
+*bosstoto*
 *brandlokal*
 *buah4d*
 *buktijp*
@@ -144,6 +106,7 @@
 *cafe69*
 *cahaya[0-9]*
 *cemara[0-9]*
+*cerutuviral*
 *cihuy[0-9]*
 *cika303*
 *cipit88*
@@ -182,6 +145,7 @@
 *dutaslot[0-9]*
 *emas[0-9]*
 *enterslots*
+*eraplay[0-9]*
 *ertepe*
 *estabet*
 *facebookslot*
@@ -211,6 +175,7 @@
 *gocap[0-9]*
 *gogelpro*
 *gojek[0-9]*
+*gol[0-9]*
 *goldenlele*
 *goyangtoto*
 *grda999*
@@ -229,6 +194,7 @@
 *hokirtp[0-9]*
 *hokislot[0-9]*
 *horus[0-9]*
+*hp-777*
 *iboslot*
 *ibox4d*
 *ibu4d*
@@ -254,6 +220,7 @@
 *iustott*
 *jagat[0-9]*
 *jago[0-9]*
+*jakartaslot*
 *jantan[0-9]*
 *jawara88x*
 *jawaraslot*
@@ -261,6 +228,7 @@
 *jempol[0-9]*
 *jitu[0-9]*
 *jitutoto*
+*jiwa168*
 *joker[0-9]*
 *joni[0-9]*
 *jpyuk[0-9]*
@@ -268,6 +236,7 @@
 *judol*
 *jur[0-9]*
 *juragan[0-9]*
+*jutawan[0-9]*
 *jvbet[0-9]*
 *kadalgurun*
 *kaizen88*
@@ -315,9 +284,12 @@
 *lentera4d*
 *lglive[0-9]*
 *libra[0-9]*
+*liga123*
 *ligahoki[0-9]*
+*line[0-9]*
 *link4d*
 *livedraw*
+*loginsamudera*
 *lotre*
 *lottery*
 *lotto*
@@ -337,6 +309,7 @@
 *mainslot*
 *malang4d*
 *mamakslot*
+*mambawin*
 *mansionsku[0-9]*
 *mantap[0-9]*
 *marontoto*
@@ -369,21 +342,28 @@
 *naga[0-9]*
 *nagabola*
 *nagaslot*
+*nana4d*
 *nanagroup*
 *nara4d*
+*narkobet*
 *nekoslot[0-9]*
 *nemo[0-9]*
 *nenekslot*
+*neng4d*
 *neototo*
 *netralbet*
+*netralhoki*
 *new[0-9]*
 *next[0-9]*
 *niagabet*
+*ninja96*
 *nobitabet*
+*nono4d*
 *nova[0-9]*
 *nyala4d*
 *obatshio[0-9]*
 *obral4d*
+*oddigo*
 *odin[0-9]*
 *ole[0-9]*
 *olislot*
@@ -425,8 +405,10 @@
 *pools.com
 *pools.net
 *pos[0-9]*
+*prediksi*
 *prediksi[0-9]*
 *preman*
+*primerplay*
 *promo[0-9]*
 *proyek[0-9]*
 *pttgroup*
@@ -444,6 +426,7 @@
 *rans[0-9]*
 *ratu[0-9]*
 *republik365*
+*rgaqq[0-9]*
 *ria4d*
 *rogtoto*
 *roket[0-9]*
@@ -451,7 +434,9 @@
 *rokokslot*
 *romawibet*
 *ronin86*
+*royal1000*
 *rp888*
+*rtp*
 *rtpasiajp[0-9]*
 *rtphoki*
 *rtpindobit*
@@ -480,9 +465,11 @@
 *shibatoto*
 *siapbet*
 *sikat[0-9]*
+*simpan369*
 *simpati[0-9]*
 *sip[0-9]*
 *siputri[0-9]*
+*sis4d*
 *sisil[0-9]*
 *situstoto*
 *sky[0-9]*
@@ -490,6 +477,7 @@
 *slotbet*
 *slots[0-9]*
 *slotsgg*
+*slotter[0-9]*
 *sm4d*
 *sniperslot*
 *soju[0-9]*
@@ -541,6 +529,7 @@
 *totocc*
 *totog*
 *totohok[0-9]*
+*totoking*
 *totokita[0-9]*
 *totomacau*
 *totovip*
@@ -574,7 +563,11 @@
 *wdhoki*
 *wii4d*
 *win[0-9]*
+*wing4d*
 *woles4d*
+*x-dewa*
+*xdewa*
+*xgo[0-9]*
 *xo368*
 *xyz-klub*
 *xyzklub*
@@ -582,49 +575,19 @@
 *yuktg[0-9]*
 *zeus[0-9]*
 aa[0-9]*
-alamjp*
 amp*
 apkapi-*
-asiabet*
-big365*
-bigklik[0-9]*
 bn77*
-cerutuviral.*
-eraplay[0-9]*
-gol[0-9]*
-hp-777*
-jiwa168*
-jutawan[0-9]*
 k86*
 koi*.com
 kpk*.com
-liga123*
-line[0-9]*
-loginsamudera*
 meme*
 mw68*
-nana4d*
-narkobet*
-neng4d*
-netralhoki*
-ninja96*
-nono4d*
-oddigo*
 pafi*.org
 paki*.org
-primerplay*
-royal1000*
-rtp*
-simpan369.*
-sis4d*
-slotter[0-9]*
 ss88* 
-totoking*
 ug8*
 up[0-9]*
-wing4d*
-x-dewa*
-xdewa*
 # TLD abuse list from source : https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/spam-tlds-rpz-aggressive.txt
 *.actor 
 *.africa 
