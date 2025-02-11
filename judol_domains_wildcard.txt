@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 957
+# Number of entries: 966
 #
 # *slot*.*
 # *toto*.*
@@ -175,6 +175,7 @@
 *gerbang88*
 *gg66*
 *gga88*
+*go188*
 *go500*
 *gocap[0-9]*
 *gogelpro*
@@ -305,6 +306,7 @@
 *luckykudus*
 *luckyspin*
 *luna4d*
+*lux128*
 *lvobet*
 *lvonline*
 *m69ku*
@@ -331,6 +333,7 @@
 *megagroup*
 *megashio*
 *mejahoki*
+*member77*
 *meme4d*
 *menang[0-9]*
 *merdeka[0-9]*
@@ -434,6 +437,7 @@
 *republik365*
 *rgaqq[0-9]*
 *ria4d*
+*rjs138*
 *rogtoto*
 *roket[0-9]*
 *rokokbet*
@@ -441,6 +445,7 @@
 *romawibet*
 *ronin86*
 *royal1000*
+*royalslot*
 *rp888*
 *rtp*
 *rtpasiajp[0-9]*
@@ -480,6 +485,7 @@
 *sis4d*
 *sisil[0-9]*
 *situstoto*
+*situswin*
 *sky[0-9]*
 *slot[0-9]*
 *slotbet*
@@ -494,6 +500,7 @@
 *spo[0-9]*
 *ssstoto*
 *stadium[0-9]*
+*star303*
 *starling[0-9]*
 *stars[0-9]*
 *sttoto*
@@ -516,6 +523,7 @@
 *tera4d*
 *terminalbet*
 *tiara-4d*
+*timuna*
 *tkp[0-9]*
 *to0ogel*
 *togeel*
@@ -573,6 +581,7 @@
 *wii4d*
 *win[0-9]*
 *wing4d*
+*wisdom77*
 *woles4d*
 *x-dewa*
 *xdewa*
