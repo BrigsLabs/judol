@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 970
+# Number of entries: 987
 #
 # *slot*.*
 # *toto*.*
@@ -36,6 +36,7 @@
 *agenolx*
 *aha4d*
 *airbet*
+*ajp99*
 *ajudan88*
 *ak4d*
 *akurat[0-9]*
@@ -45,7 +46,9 @@
 *alitoto*
 *amanbos*
 *angkasa[0-9]*
+*antinawala*
 *apekslot*
+*api777*
 *aquartp*
 *arjuna4d*
 *asdjitu*
@@ -71,6 +74,7 @@
 *bandar[0-9]*
 *bandarq*
 *barito[0-9]*
+*bayam[0-9]*
 *bdk[0-9]*
 *bento4d*
 *benuabet*
@@ -175,6 +179,7 @@
 *gerbang88*
 *gg66*
 *gga88*
+*gigaspin*
 *go188*
 *go500*
 *gocap[0-9]*
@@ -184,6 +189,7 @@
 *goldenlele*
 *goyangtoto*
 *grda999*
+*gs88*
 *gurutoto*
 *h2oslot*
 *haha[0-9]*
@@ -201,6 +207,7 @@
 *horas88*
 *horus[0-9]*
 *hp-777*
+*hws77*
 *iboslot*
 *ibox4d*
 *ibu4d*
@@ -293,6 +300,7 @@
 *libra[0-9]*
 *liga123*
 *ligahoki[0-9]*
+*limajp*
 *line[0-9]*
 *link4d*
 *livedraw*
@@ -318,6 +326,7 @@
 *malang4d*
 *mamakslot*
 *mambawin*
+*manobet*
 *mansionsku[0-9]*
 *mantap[0-9]*
 *marontoto*
@@ -325,6 +334,7 @@
 *maslele*
 *master[0-9]*
 *matrixslot*
+*maxi188*
 *maxwin[0-9]*
 *mbterbang*
 *mdg188*
@@ -349,6 +359,8 @@
 *mpo[0-9]*
 *mpoxl*
 *mulia[0-9]*
+*mutasit0t[0-9]*
+*mutasitoto*
 *mvia88*
 *naga[0-9]*
 *nagabola*
@@ -502,6 +514,7 @@
 *soju[0-9]*
 *sor[0-9]*
 *sortoto*
+*spinhadiah*
 *spo[0-9]*
 *ssstoto*
 *stadium[0-9]*
@@ -560,6 +573,7 @@
 *ttt4d*
 *tujuhribu[0-9]*
 *ubitoto*
+*ucubet*
 *udin-*
 *udin[0-9]*
 *udinslot*
@@ -571,6 +585,7 @@
 *usstto*
 *ustotoo*
 *ustottt*
+*usubet*
 *uu4d.*
 *venom[0-9]*
 *vgslot[0-9]*
@@ -591,6 +606,7 @@
 *x-dewa*
 *xdewa*
 *xgo[0-9]*
+*xiku188*
 *xo368*
 *xyz-klub*
 *xyzklub*
@@ -605,6 +621,7 @@ bn77*
 k86*
 koi*.com
 kpk*.com
+kumbang*
 meme*
 mw68*
 pafi*.org
