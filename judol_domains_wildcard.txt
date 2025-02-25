@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 986
+# Number of entries: 997
 #
 # *slot*.*
 # *toto*.*
@@ -85,6 +85,7 @@
 *big365*
 *bigklik[0-9]*
 *bigo234*
+*biru138*
 *bisabos[0-9]*
 *blitar4d*
 *blu89*
@@ -118,6 +119,7 @@
 *clickbet*
 *cobaivg*
 *cocaslot*
+*cpo333*
 *cuan[0-9]*
 *cuanwin[0-9]*
 *dado88*
@@ -168,6 +170,7 @@
 *gambler*
 *gambling*
 *gamesgg*
+*gap8*
 *garibet*
 *garuda4d*
 *gasbet[0-9]*
@@ -238,6 +241,7 @@
 *jawaraslot*
 *jaya[0-9]*
 *jempol[0-9]*
+*jhonslot*
 *jitu[0-9]*
 *jitutoto*
 *jiwa168*
@@ -355,6 +359,7 @@
 *monaco[0-9]*
 *monas[0-9]*
 *money[0-9]*
+*monyethoki*
 *mpo[0-9]*
 *mpoxl*
 *mulia[0-9]*
@@ -373,6 +378,7 @@
 *nenekslot*
 *neng4d*
 *neototo*
+*net77*
 *netralbet*
 *netralhoki*
 *new[0-9]*
@@ -397,6 +403,7 @@
 *p200m*
 *paitopaman*
 *paitowarna*
+*pajak88*
 *paket4d*
 *paktuaslotaman*
 *panda[0-9]*
@@ -423,6 +430,7 @@
 *pohon8*
 *pokaslot*
 *poker*
+*polawish[0-9]*
 *polayb*
 *polototo*
 *pools.com
@@ -447,6 +455,7 @@
 *rajacuan*
 *rajasawit[0-9]*
 *rajaslot*
+*rakyatslot*
 *rans[0-9]*
 *ratu[0-9]*
 *republik365*
@@ -535,6 +544,7 @@
 *tan69*
 *tanduktoto*
 *tasenslot*
+*teamwish[0-9]*
 *telurtoto*
 *ten69*
 *tera4d*
@@ -557,6 +567,7 @@
 *toogeel*
 *toogel*
 *tooogel*
+*top77*
 *topwdplay*
 *toto[0-9]*
 *totoagung*
@@ -999,6 +1010,7 @@ up[0-9]*
 *.xn--qxa6a
 *.xn--qxam
 *.xn--y9a3aq
+
 
 
 
