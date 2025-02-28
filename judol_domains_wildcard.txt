@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 997
+# Number of entries: 1009
 #
 # *slot*.*
 # *toto*.*
@@ -13,6 +13,7 @@
 # *n69* # may cause false positive
 # *ug[0-9]* # may cause false positive
 *11wbet*
+*168gg*
 *4d.com
 *788*
 *7win*
@@ -29,6 +30,7 @@
 *[0-9]tokototo*
 *[0-9]toto*
 *[0-9]xsport*
+*aaa4d*
 *aat4d*
 *abcslt*
 *adam77*
@@ -58,6 +60,7 @@
 *asiajp[0-9]*
 *asianslot[0-9]*
 *athena[0-9]*
+*att4d*
 *ayobet*
 *babeltoto*
 *bacan4*
@@ -156,6 +159,7 @@
 *eraplay[0-9]*
 *ertepe*
 *estabet*
+*ewi4d*
 *facebookslot*
 *fbslot*
 *fijislot*
@@ -194,6 +198,7 @@
 *grda999*
 *gurutoto*
 *h2oslot*
+*haa4d*
 *haha[0-9]*
 *hahawin*
 *halo303*
@@ -233,6 +238,7 @@
 *istanaimpian*
 *iustoto*
 *iustott*
+*jackpot[0-9]*
 *jagat[0-9]*
 *jago[0-9]*
 *jakartaslot*
@@ -254,6 +260,7 @@
 *jur[0-9]*
 *juragan[0-9]*
 *jutawan[0-9]*
+*juu4d*
 *jvbet[0-9]*
 *kadalgurun*
 *kaizen88*
@@ -283,6 +290,7 @@
 *konco[0-9]*
 *kopi[0-9]*
 *kpktoto*
+*kpot108*
 *kristal[0-9]*
 *kuy[0-9]*
 *ladang[0-9]*
@@ -468,6 +476,7 @@
 *rokokslot*
 *romawibet*
 *ronin86*
+*roratoto*
 *royal1000*
 *royalslot*
 *rp888*
@@ -493,6 +502,7 @@
 *sakutoto*
 *salam[0-9]*
 *samslot[0-9]*
+*saritoto*
 *sastoto*
 *scatterhitam*
 *sendok[0-9]*
@@ -524,6 +534,7 @@
 *sortoto*
 *spinhadiah*
 *spo[0-9]*
+*sslloot*
 *ssstoto*
 *stadium[0-9]*
 *star303*
@@ -597,6 +608,7 @@
 *ustottt*
 *usubet*
 *uu4d.*
+*uu4dd.*
 *venom[0-9]*
 *vgslot[0-9]*
 *virgobet[0-9]*
