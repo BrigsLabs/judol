@@ -9036,7 +9036,10 @@ zukkiworks.com
 zurichlottery.com
 zyberchema.net
 zyngapoker.com
-# CDNs
+# CDNs supporting site (may contains false positive)
+# i.pinimg.com # whitelist
+# img.freepik.com # whitelist
+# static.vecteezy.com # whitelist
 21assetmanagement.com
 3.bp.blogspot.com
 66555.xyz
@@ -9231,7 +9234,6 @@ hotelvillaveneta.com
 hslmantap.sgp1.cdn.digitaloceanspaces.com
 i.ibb.co
 i.ibb.co.com
-i.pinimg.com
 i.scdn.co
 idnpopups.s3.ap-southeast-1.amazonaws.com
 iili.io
@@ -9244,7 +9246,6 @@ images.squarespace-cdn.com
 images4.imagebam.com
 imagme.com
 img-cdngames.s3.amazonaws.com
-img.freepik.com
 img.ligasumut.com
 img.lovepik.com
 img.nextgen.sg-sin1.upcloudobjects.com
@@ -9380,7 +9381,6 @@ static.geevisit.com
 static.marsul.xyz
 static.nukeasset.com
 static.sameorigin.net
-static.vecteezy.com
 static.zdassets.com
 static1.squarespace.com
 statis-images.s3.ap-southeast-1.amazonaws.com
