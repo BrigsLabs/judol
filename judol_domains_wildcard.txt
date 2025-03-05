@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1011
+# Number of entries: 1027
 #
 # *slot*.*
 # *toto*.*
@@ -79,6 +79,7 @@
 *barito[0-9]*
 *bayam[0-9]*
 *bdk[0-9]*
+*beluga*
 *bento4d*
 *benuabet*
 *bet[0-9]*
@@ -116,6 +117,7 @@
 *c200m*
 *cafe69*
 *cahaya[0-9]*
+*candu[0-9]*
 *cemara[0-9]*
 *cerutuviral*
 *cihuy[0-9]*
@@ -182,6 +184,7 @@
 *gasbet[0-9]*
 *gascagur*
 *gasken*
+*gaspol[0-9]*
 *gatotkaca[0-9]*
 *gc57*
 *gen69*
@@ -198,6 +201,7 @@
 *goldenlele*
 *goyangtoto*
 *grda999*
+*gurita4d*
 *gurutoto*
 *h2oslot*
 *haa4d*
@@ -235,6 +239,7 @@
 *iontogggelll*
 *ios368*
 *ipar4d*
+*irantoto*
 *irit4d*
 *istanacasino*
 *istanaimpian*
@@ -294,6 +299,7 @@
 *kpktoto*
 *kpot108*
 *kristal[0-9]*
+*kurnia8[0-9]*
 *kuy[0-9]*
 *ladang[0-9]*
 *laktobet[0-9]*
@@ -302,6 +308,7 @@
 *lambo69*
 *lancelot88*
 *langit[0-9]*
+*lantai6*
 *laza[0-9]*
 *lazawinslot*
 *lebah-4d*
@@ -411,6 +418,8 @@
 *ovoslot*
 *p0k[0-9]*
 *p200m*
+*padangslot*
+*padangtoto*
 *paitopaman*
 *paitowarna*
 *pajak88*
@@ -422,12 +431,14 @@
 *pangerantoto[0-9]*
 *pangkat88*
 *panglima4dku[0-9]*
+*panutantoto*
 *pasir4d*
 *pedro4d*
 *pedroslot*
 *pekantoto*
 *pelita[0-9]*
 *pencariangka*
+*peso138*
 *pesona[0-9]*
 *pin69*
 *pisces[0-9]*
@@ -551,17 +562,20 @@
 *superdewa*
 *superhoki*
 *supertarik*
+*sydneycuan*
 *t0gel*
 *tajir[0-9]*
 *talibetwin*
 *tan69*
 *tanduktoto*
+*taruhantoto*
 *tasenslot*
 *teamwish[0-9]*
 *telurtoto*
 *ten69*
 *tera4d*
 *terminalbet*
+*texas88*
 *tiara-4d*
 *timuna*
 *tkp[0-9]*
@@ -595,6 +609,7 @@
 *tradisibet*
 *ttt4d*
 *tujuhribu[0-9]*
+*uban4d*
 *ubitoto*
 *ucubet*
 *udin-*
@@ -611,6 +626,7 @@
 *usubet*
 *uu4d.*
 *uu4dd.*
+*vaksin99*
 *venom[0-9]*
 *vgslot[0-9]*
 *virgobet[0-9]*
