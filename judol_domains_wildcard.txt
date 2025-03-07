@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1027
+# Number of entries: 1037
 #
 # *slot*.*
 # *toto*.*
@@ -36,6 +36,7 @@
 *adam77*
 *agen[0-9]*
 *agenolx*
+*agentoto*
 *aha4d*
 *airbet*
 *ajp99*
@@ -249,6 +250,7 @@
 *jagat[0-9]*
 *jago[0-9]*
 *jakartaslot*
+*jangkar1[0-9]*
 *jantan[0-9]*
 *jawara88x*
 *jawaraslot*
@@ -294,6 +296,7 @@
 *kokitoto*
 *koko[0-9]*
 *kokoplay*
+*komet1[0-9]*
 *konco[0-9]*
 *kopi[0-9]*
 *kpktoto*
@@ -359,6 +362,7 @@
 *mbterbang*
 *mdg188*
 *medusa[0-9]*
+*mega1[0-9]*
 *mega4d*
 *megagroup*
 *megashio*
@@ -369,11 +373,13 @@
 *merdeka[0-9]*
 *meriah4d*
 *mesi[0-9]*
+*mesin1[0-9]*
 *mewah[0-9]*
 *miko[0-9]*
 *miliarbet*
 *miliarslot*
 *monaco[0-9]*
+*monas1[0-9]*
 *monas[0-9]*
 *money[0-9]*
 *monyethoki*
@@ -414,6 +420,7 @@
 *olislot*
 *olx50*
 *omg[0-9]*
+*orca1[0-9]*
 *ovo[0-9]*
 *ovoslot*
 *p0k[0-9]*
@@ -442,6 +449,7 @@
 *pesona[0-9]*
 *pin69*
 *pisces[0-9]*
+*planet1[0-9]*
 *platinumslot*
 *play88*
 *playking[0-9]*
@@ -479,6 +487,7 @@
 *rakyatslot*
 *rans[0-9]*
 *ratu[0-9]*
+*rawit1[0-9]*
 *republik365*
 *rgaqq[0-9]*
 *ria4d*
@@ -609,6 +618,7 @@
 *tradisibet*
 *ttt4d*
 *tujuhribu[0-9]*
+*turbo1[0-9]*
 *uban4d*
 *ubitoto*
 *ucubet*
