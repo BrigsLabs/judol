@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1037
+# Number of entries: 1041
 #
 # *slot*.*
 # *toto*.*
@@ -39,6 +39,7 @@
 *agentoto*
 *aha4d*
 *airbet*
+*ajo89*
 *ajp99*
 *ajudan88*
 *ak4d*
@@ -48,6 +49,7 @@
 *alfabet[0-9]*
 *alitoto*
 *amanbos*
+*amavi[0-9]*
 *angkasa[0-9]*
 *antinawala*
 *apekslot*
@@ -229,6 +231,7 @@
 *idr[0-9]*
 *igm247*
 *iii4d*
+*ilmutoto*
 *indo[0-9]*
 *indobet*
 *indobit-[0-9]*
@@ -266,6 +269,7 @@
 *juaraspin*
 *judi*
 *judol*
+*jupiter1[0-9]*
 *jur[0-9]*
 *juragan[0-9]*
 *jutawan[0-9]*
