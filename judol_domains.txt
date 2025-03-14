@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 9925
+# Number of entries: 9942
 #
 #
 #
@@ -9937,3 +9937,21 @@ zdataconnect.us
 zdataservices.us
 zmobileservices.us
 มีความสุข.today
+# Github.io
+andreasiregar20.github.io # https://andreasiregar20.github.io/berita/main-5-menit-dapat-jackpot
+beritasiang.github.io # https://beritasiang.github.io/hari-ini/hanya-dengan-10-ribu-pria-ini-menang-besar-di-slot-online.html
+detikinet.github.io #  https://detikinet.github.io/news/CUAN-50JT-DARI-GATOT-KACA-TUKANG-SOL-KELILING-KINI-BUKA-USAHA-SENDIRI.html
+kokosekay55.github.io #  https://kokosekay55.github.io/sky-production/5-Fakta-Unik-Permainan-Pragmatic-Play-yang-Bisa-Mendapatkan-Jackpot-Nomor-4-Wajib-di-Coba.html
+liputanviral.github.io # https://liputanviral.github.io/hotnews/Cara-Bermain-dan-Menang-di-Slot-Floating-Dragon-dan-Game-Slot-Terbaik-Lainnya.html
+monsterhunter-news.github.io # https://monsterhunter-news.github.io/games/air-mengalir-deras-tapi-scatter-di-sweet-bonanza-lebih-deras-lagi.html
+pekannews.github.io # https://pekannews.github.io/news/Cara-Memilih-Rtp-Live-Jackpot-Di-Pragmtic-Play.html
+portal-viral.github.io # https://portal-viral.github.io/berita/fitur-galaxy-s25-ultra-yang-canggih-dipadukan-dengan-kejutan-scatter-hitam-di-mpo888-bikin-kreator-makin-mudah-hasilkan-konten-epik.html
+radarsulawesi.github.io # https://radarsulawesi.github.io/viral-hari-ini/hasilkan-jutaan-rupiah-dengan-game-starlight-princess-di-vgowin.html
+rodanews.github.io # https://rodanews.github.io/BAZZAR/news/Wajib-Siap-Jadi-Sultan!-Master-Juanda-Jun-Asal-Bangka-Belitung-Ungkap-Rahasia-Bermain-Mahjong-Wins-3-dengan-Pola-Rahasianya!.html
+samudra-news.github.io # https://samudra-news.github.io/terbaru/Mahjong-Ways-Menggila-Banyak-Warga-Meraih-Jackpot.html
+seputarterkini.github.io # https://seputarterkini.github.io/liputanterbaru/kisah-asep-jackpot-100-juta-dalam-semalam.html
+siscaaw24.github.ionews # https://siscaaw24.github.io/news/cara-main-starlight-princess-1000-untuk-pemula-dapatkan-hadiah-hingga-jutaan-rupiah.html
+sonpramui.github.ionews # https://sonpramui.github.io/news/coba-slot-saat-bosan-jackpot-88-juta.html
+sumeknews.github.io # https://sumeknews.github.io/terkini/Pola-Rtp-Tingkat-Tinggi-Yang-Membuat-Jackpot-Besar.html
+theotrisna83.github.io # https://theotrisna83.github.io/news/ini-alasan-scatter-hitam-populer.html
+wgberitajaya.github.io # https://wgberitajaya.github.io/berita/7-Cara-Rahasia-Kalahkan-Bandar-Gates-Of-Olympus-Nomor-3-Bikin-Kaget.html
