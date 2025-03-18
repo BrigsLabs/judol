@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 10027
+# Number of entries: 10091
 #
 #
 #
@@ -48,6 +48,7 @@
 168ggonline.vip
 169cuanhot.pro
 169cuanhot.xyz
+16group.vip
 16rjs138.com
 178hoki.lol
 178sultan.xyz
@@ -309,6 +310,7 @@ adadisini.id
 adam77.in
 adamspatterson.com
 adaqq2.me
+added-cloud.cc
 addodesalandih.id
 adelaidelottery.com
 adhd-adduce.org
@@ -373,6 +375,7 @@ aging-no-more.com
 agoodhue.net
 agregoals-thorights.icu
 agrencogroup.com
+agusgalau.xyz
 agvoxy88.pro
 ahluwaliamd.com
 aiccindia.org
@@ -496,6 +499,7 @@ altitude-seven.com
 altmugen.xyz
 altrajakera.site
 alttogelonline88.lol
+altwa.link
 amadeuslab.co.kr
 aman788pol.com
 aman788u.com
@@ -520,10 +524,15 @@ amlnimda.dawateislami.net
 amp--303bos.shop
 amp-bos9.info
 amp-cermat.pages.dev
+amp-cerrodelvalle-com-br.pages.dev
+amp-estanciaimoveis-com-br.pages.dev
+amp-gafasland-com.pages.dev
+amp-iboslot-com.pages.dev
 amp-kopi77links1.xyz
 amp-kungfu4d2.com
 amp-m.lol
 amp-pages.info
+amp-sportsjabber-net.pages.dev
 amp.anepuasi.shop
 amp.build
 amp.ixplay.org
@@ -1029,12 +1038,14 @@ bdtoto4d.online
 beadedbirds.com
 beb88vvip.com
 bebas-akses.com
+bebas-akses.id
 bebekberbulu.site
 bebekmanja24.xyz
 bebekpeking.id
 becek-win.cc
 bedfordthaijasmine.com
 bedformyhead.com
+beef-meer.de
 beeg.media
 beijacarpet.com
 beijingpools4d.net
@@ -1045,6 +1056,7 @@ belarusialottery.com
 belarusiapools.com
 belionline.store
 bellamerspa.com
+belldavies.com
 bellekay.id
 bellekay.pages.dev
 bemydomain.net
@@ -1073,6 +1085,8 @@ berasputih.top
 bergerak.cc
 bergsson.net
 berhadiahspin.shop
+berhadiahundian4.xyz
+berhadiahundian6.xyz
 berhasilmasuk.site
 berita.imgix.net
 berkahpasti.pro
@@ -1246,8 +1260,15 @@ bogetoto8008.info
 bogotaloteria.com
 bokurclub.com
 bola-kinggaruda.shop
+bola16-cgi.pages.dev
+bola16.co.uk
+bola16.fyi
+bola16.it.com
+bola16.promptservicos.com.br
 bola169.com
 bola169.xyz
+bola16h4.org
+bola16h7.org
 bola16m.com
 bolaeurobs88.pro
 bolaexpress.shop
@@ -1500,6 +1521,8 @@ cahayakilau.store
 cair77rols.sbs
 cakeisland.space
 cakenbakeshop.com
+cal-pass.org
+cal-pass.pages.dev
 calaveraoakland.com
 calculatormixparlay.com
 calebandbrown.com.au
@@ -1526,6 +1549,7 @@ capfinloan.uk
 capital55.lol
 capitaladendum.com
 capitalcitypavingnh.com
+caplakgroup.com
 caprakspin.xyz
 captainbillstreasureisland.com
 captainchallenge.com
@@ -1608,6 +1632,7 @@ ceria.pndwa168.top
 cerita77asli.click
 cerofilas.com
 cerofilas.pages.dev
+cerrodelvalle.com.ar
 cerutuviral.com
 cerutuviral.net
 cervusunicolor.site
@@ -1806,6 +1831,7 @@ coventry-pools.com
 coverjoki188.xyz
 covid19routtcounty.com
 covidcarenetwork.org
+coymayamp.com
 cp88.in
 cpanel.beta.zengaentertainment.com
 cpanel.novusgroup.my
@@ -2017,6 +2043,7 @@ deewwwiii4d.com
 deficonnect.tech
 delapantefyp.lol
 delavegabar.com
+delcolockcodes.com
 delhiheights.net
 delikun.com
 delimed-dz.com
@@ -2066,6 +2093,7 @@ desasukamakmur.com
 desasumberjaya.id
 desasungaipayang.id
 desatanagara.id
+desatanjungjati.net
 desawisatasukarame.com
 desertbythesearentals.com
 desi-cinemas.com
@@ -2109,6 +2137,7 @@ deviltopone.vip
 devtw-tools.xwemo.com
 dew4pokerking.xyz
 dew4pokerways.online
+dewa16.co.uk
 dewa16superf.xyz
 dewa4dkujaya.xyz
 dewacashhero.com
@@ -2454,6 +2483,7 @@ esmi-011.pro
 esotici.net
 espedytor.net
 essenzo.co.id
+estanciaimoveis.com.br
 estanciasantabarbara.com
 estockatlas.com
 estonialottery.com
@@ -2518,6 +2548,7 @@ fantahoki.com
 fantamelon.xyz
 fantasticbeast268.site
 fantasycloud.net
+fantasysportsgab.com
 farmington-manor.com
 farms.organicmandya.com
 fastabadi.com
@@ -2595,6 +2626,7 @@ flymalutisky.com
 flynnsirishtavern.com
 flyunik.com
 flywithshaunak.com
+fmfederal.com
 foapi.fco45xzxz.com
 fod247.io
 fokuspetir.info
@@ -2710,6 +2742,7 @@ gabungterus.com
 gacha168win.makeup
 gacha5.gachamagic138.net
 gacoanslot7.shop
+gacor.terbang-terus.id
 gacor.tokyo
 gacor108slot.cc
 gacor108slot.live
@@ -2736,6 +2769,7 @@ gacorx500c.fun
 gacorx999.site
 gacorzbusa.com
 gadun55.com
+gafasland.com
 gafee.net
 gaharunibos.com
 gainesvilleballet.org
@@ -2784,6 +2818,7 @@ garangpelitatoto.info
 garasislot35.com
 gardasayang.com
 gardasila.xyz
+gardennetworks.org
 gariba.org
 garibet86.lol
 garibet87.sbs
@@ -2893,6 +2928,7 @@ gestunbetrtp99.com
 gestuntogel.live
 gestuntogel.online
 getadmx.com
+gethoops.com
 getlcc.com
 getspin.ink
 getspin.online
@@ -3119,6 +3155,8 @@ hamburgpools.com
 hamdarduniversitybd.org
 hanadan.co
 hanainong.com
+handayaninews.id
+handmadesamurai.com
 handstoheartcenter.org
 hannibaljones.podhoster.com
 hanomantoto.store
@@ -3163,6 +3201,7 @@ havanalottery.org
 hawai99-gcr.lat
 hawaiiosf.munu.shop
 hayscard.org
+hazrestaurant.co.uk # backlink malicious
 hb188-banc.xyz
 hb188aura.online
 hbostatic.us
@@ -3199,6 +3238,7 @@ highendbeautybags.com
 hiimenangterus.siapkanterusblog.co
 hijautotosgp.org
 himalayanhutstl.com
+himoonay.com
 hinokosovo.com
 hipakad-bali.com
 hiroshimalottery.com
@@ -3276,6 +3316,7 @@ hongkongbuffetflint.com
 hongkongeven.com
 hongkongpols.club
 hongkongpools.com
+hongqims.com
 hoosierlottery.com
 hopitalexpo.com
 horashoki01.com
@@ -3353,7 +3394,11 @@ ibet899loe.lat
 ibet89bandung.site
 ibetwinasean.lol
 ibetwingg.store
+iboslot.com
 iboslotad1.org.uk
+iboslotg7.xyz
+iboslotg8.xyz
+iboslotg9.xyz
 ibosloto.org.uk
 iboslotp.org.uk
 iboslotr.org.uk
@@ -3571,6 +3616,7 @@ iniunogg888.com
 inmyexperience.net
 innokaizindia.com
 inorestaurant.com
+ins-ert.cc
 insackongre.com
 insanintl.com
 installmentsfnloan.org
@@ -4167,6 +4213,7 @@ ketuayola.online
 keuskupansurabaya.info
 kevinsanji.com
 keysgolfcourse.com
+keywordstudio.com
 kfdev.ca
 kgwjakut.com
 khabarislam.com
@@ -4918,6 +4965,7 @@ magic-w5.spintermantap.com
 magic006.yakin.pro
 magic138.topwdplay.com
 magickartu.info
+magiclamppublishing.com
 magicupdate.vip
 magnumcambodia.com
 magnumpoolstoday.com
@@ -5402,6 +5450,7 @@ moskowlotto.com
 mothershideaway.com
 motor138-vip.online
 motor138-vip.pro
+motorradnavitest.com
 motorservukcars.com
 mountainfallsgolfclub.com
 mpesguntur.com
@@ -5554,6 +5603,7 @@ ncipptc.org
 ne-wikimedians.org
 nedmcclain.com.infra.camelspit.org
 needforleed.net
+neftipedia.com
 nekoslot88cuan.pro
 nekoslot88cuan.wiki
 nemanjakovacevic.net
@@ -5582,7 +5632,9 @@ neohunter.lol
 neon69rtpgacor.xyz
 neon69ru.com
 neortp.rtpn.boats
+neototo.id
 neototo77.fit
+neototoburn.sbs
 neototoslotz.autos
 neotototopice.xyz
 nestorlee.com
@@ -5833,6 +5885,7 @@ onebetqqpro.com
 onebox-ohad.devtigo.com
 onecnbcloudmail.com
 onehourppm.com
+onengresto.com
 onestaorganics.com
 oneterminalbet.lol
 onicplay.info
@@ -6152,6 +6205,7 @@ pasaran-menara4d.com
 pasaranmaxwin.com
 pasarantogel1.id
 pasarantogel2.cloud
+pasazas.lt
 pasir4d5.life
 pasirhilir.online
 pastamiaeast.com
@@ -6458,6 +6512,7 @@ polototo168.com
 polototo5000.com
 polototoprince.com
 polototopromo.lol
+polsektambun.com
 poltekkesternate.net
 pomeraneo.com
 pompompopuler.pro
@@ -6673,6 +6728,7 @@ pub-93f9ca09def24762be5ffeed338b6638.r2.dev
 pub-955cbf34740e45a384e4cd978b1a0ea1.r2.dev
 pub-9af3357a7d594a559a7d47c4b0e7ca1f.r2.dev
 pub-a19ec9f103b045a4ba6b9e6902d7d4d5.r2.dev
+pub-a5e60f748b7f4103b21c641be555c2a8.r2.dev
 pub-a770b1dceeff4a77b2401994f3884d48.r2.dev
 pub-a88660a944004e0ebbe60ef0b4e9b9cd.r2.dev
 pub-ad97bddd1e2d41c7a44e429848a49f0e.r2.dev
@@ -6707,6 +6763,7 @@ pulaumorotaikab.site
 pulausamba.top
 pulsamaxwin.com
 pulsaojk.com
+pulsaslot.gg
 puncak123.pro
 puncakbook.online
 puraviespa.com
@@ -7187,6 +7244,8 @@ rtp1-sendok88.xyz
 rtp1.mutasigacor.com
 rtp1.rtpmember77.org
 rtp12.gacor-beluga99.xyz
+rtp16groupa10.xyz
+rtp16groupb1.xyz
 rtp189vip.shop
 rtp1kijangwin.top
 rtp2.rtptokogacor.live
@@ -7900,6 +7959,7 @@ shortininja.xyz
 shortstoriesnj.com
 showwcase.id
 shrtnr.site
+shrtx.cc
 shu156duo289v.mom
 si.cuan2.club
 siamengine.com
@@ -8067,6 +8127,8 @@ slot16a3.xyz
 slot16a36.xyz
 slot16a40.xyz
 slot16a41.xyz
+slot16i2.xyz
+slot16i4.xyz
 slot16t.xyz
 slot16u.xyz
 slot188-top.xyz
@@ -8244,6 +8306,7 @@ spinwt.com
 spinxx.rtpsrajamahjong.com
 spionbelakang.com
 sportplan.club
+sportsjabber.net
 spotui.com
 sprite127.site
 spslsuper.site
@@ -8716,6 +8779,7 @@ tigatogel5.com
 tiger138.group
 tigerair.au.qa.ibe.amber.airblackbox.com
 tigergroup.vip
+tiketbola16j.xyz
 tiketjepe.pro
 tiketjepe001.com
 tiketslot.bid
