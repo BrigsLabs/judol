@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 10107
+# Number of entries: 10139
 #
 #
 #
@@ -385,6 +385,7 @@ air-gacor.xyz
 airbet88-resmi.info
 airgorilla.com
 airparknewark.com
+airtoolreview.com
 aj4damp.xyz
 ajennings.net.cdn.cloudflare.net
 aji808010.net
@@ -1568,6 +1569,7 @@ cardanostaking.info
 cardcastle.net
 cardinalexecutive.org
 cardiologie.info
+cari127.site
 cariberita.id
 caricinta.us
 carikan.id
@@ -1588,6 +1590,7 @@ casinosport88.tips
 castleasoi.com
 catawbaridgechild.com
 cateringacademy.id
+cateringpernikahan.id
 catfishhoneymoon.com
 catgarong.com
 catherinecreed.com
@@ -1909,6 +1912,7 @@ curbsidecafevistaca.com
 curhatmeme.com
 cursos.joelti.com.br
 curtislefrandt.com
+curtran.com
 cuteryl.store
 cv.antoineviau.com
 cvtogel777.vip
@@ -3516,6 +3520,8 @@ imtheyukislot99.store
 imuly.com
 imvuce.com
 inceptionmovie.com
+inchofcreativity.com
+inchofcreativity.pages.dev
 incident366.com
 inclusionintexas.org
 inclusivedbq.org
@@ -3744,6 +3750,7 @@ jackpot999.xyz
 jackpotnyaweng.lol
 jacobsreservetx.org
 jadilaht8.one
+jadimanten.id
 jadipawang.com
 jadwalbolaevo168.xyz
 jafraitglobal.com
@@ -3770,6 +3777,7 @@ jahitbaju.cc
 jaidemaville.fr
 jajananpagi.xyz
 jajananpagi1.xyz
+jakartametaverse.id
 jakartapool.com
 jakartaslot88.bid
 jakartaslot88.bond
@@ -3788,6 +3796,8 @@ jalurtikus.shop
 jamaicasuperlotto.com
 jambaru.store
 jambi-pools.net
+jambi69.net
+jambirokok.xyz
 jameshillforcongress.marketing
 jamet.site
 jamgoal.co
@@ -3801,8 +3811,10 @@ jang.one
 jangan-ddos.vip
 jangankepo.store
 jangansayalagipak.com
+jangkar128.homes
 jangkar128.info
 jangkar128.live
+jangkar128.sbs
 janji.cc
 janjialt.top
 janjigacor.com
@@ -3875,6 +3887,8 @@ jersey4d.com
 jessefeder.com
 jet178e.com
 jet4dwin16.com
+jeuxflashgratuits.com
+jeuxflashgratuits.pages.dev
 jewelrystorecolumbusoh.com
 jewelskart.com
 jewishpoint.com
@@ -3926,6 +3940,7 @@ jokermerah.city
 joki-tntslot.pro
 joki188semoga.com
 jonashill.org
+jonathanckaplan.com
 jonesborofamilydental.com
 joni31255.com
 joni35568.com
@@ -3936,6 +3951,9 @@ joniblog11.com
 jonimulia.xyz
 jonisaber.online
 jonisteak.co.id
+jos257.com
+jos257go.online
+jos257om.com
 jos77h.com
 journal-mandiracendikia.com
 jowopools.biz
@@ -4022,7 +4040,9 @@ juguetes.galopsco.com
 juli4dslott.online
 julianjantosphotography.com
 jumphackers.co.kr
+junlee.id
 jupiter128.live
+jupiter128.net
 jur1cuk.pro
 jur1gaul.biz
 jur1gaul.live
@@ -5145,6 +5165,7 @@ masonicdictionary.com
 masookkk.com
 maspanji.pro
 masstter38.org
+mastahweb.com
 master38-help.info
 master38amp.monster
 master38zeus.com
@@ -7415,6 +7436,7 @@ rtpjavaslot88berhadiah.xyz
 rtpjavaslot88depo.xyz
 rtpjitu99bookie.xyz
 rtpjitumamak.sbs
+rtpjos257mantul.com
 rtpjprupiah.live
 rtpjuaraslot88daftar.xyz
 rtpjuragantoto.pro
@@ -7937,6 +7959,7 @@ sggmenang.com
 sggpastiwin.xyz
 sgp777.pro
 shanebartonmd.com
+shanghaidailyphoto.com
 shanghaizuozhi.com
 share.tempinfo.net
 sharepoint.tudorplace.org
@@ -8424,6 +8447,7 @@ storewithcubed.com
 stpaulsummerbeerfest.com
 stream.dorplay.tv
 streetball.lol
+streetedition.net
 strikegamesite.shop
 stylinity.com
 suara.koipasti.tv
@@ -8784,6 +8808,7 @@ thoughtreach.com
 threeangkasa168.xyz
 threedegreeswarmer.org
 thrivethrumenopause.com
+thunderteacher.com
 tianjinlotterypools.com
 tianlong666.com
 tibatibat8.one
@@ -8815,6 +8840,7 @@ tipslaza.xyz
 tirai77.bid
 tiraimenyala.biz
 tisubasahzzz.pw
+titanium-tv.com
 titileague.org
 tiyara99rtp.shop
 tjmaohao.com
@@ -9518,6 +9544,7 @@ wp.tecnoysoc.com
 wpteam.net
 wral.com
 wrdimimpiinkamu.lol
+writinghelpessay.net
 wrseafood.sbs
 wukong288.top
 wukong288indo.com
@@ -9563,6 +9590,7 @@ xn--138-jt2fl57hil6a.com
 xn--189-dklo9a9d6e1g2a3l.today
 xn--42cl4e1bpw2h.com
 xn--80abhadi6blbl7bj8j.com
+xn--eckuc1dya1l.xyz
 xn--qq365slt6-67a.net
 xn--rtpbkwan-3za.xyz
 xnguihuashu.com
@@ -9635,6 +9663,7 @@ yutogelin.com
 yutogelpastibayar.com
 yutogelwin.com
 yxm.astroawani.com
+yy4nuget.xyz
 yyapk.xyz
 yyimghost.site
 yzfactory27.xyz
@@ -9770,6 +9799,7 @@ bo.gacha.business
 cafe-69-moneysite-default-rtdb.firebaseio.com
 cdn-master.it-cg.group
 cdn-proxy.globalcontentcloud.com
+cdn.ampproject.org
 cdn.antipeluru.best
 cdn.areabermain.club
 cdn.bosluna.com
@@ -10044,6 +10074,8 @@ situswin.nyc3.digitaloceanspaces.com
 siuntung.vip
 sivanlevy.com
 sk88-mime-a3b28.firebaseio.com
+smbstatic.sgp1.digitaloceanspaces.com
+snapy.photo
 sobajimakmur.com
 sohogroupblog.wordpress.com
 source.ligasumut.com
