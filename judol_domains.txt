@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 10314
+# Number of entries: 10376
 #
 #
 #
@@ -290,6 +290,7 @@ abgbet88win3.top
 abook-loversreview.com
 abortar.org
 abptaskforce.org
+abudhabi-lottery.com
 abutogel-newrtpslot.pages.dev
 abutogelcerdas.com
 abutogelhits.com
@@ -587,6 +588,7 @@ amsterdam-lottery.com
 amsterdampools.xyz
 amtechmodels.com
 anabias.com
+anagennisierapetras.gr
 anak-ibu.lol
 anaksenja.buzz
 analytics-reports.gfycat.com
@@ -595,11 +597,13 @@ ancestralspikes.info
 anclx.cc
 andahoki87.buzz
 andgeorge.com
+andhraassociationhighschool.in
 andrewadonis.com
 andrewsantinowife.com
 andychrisman.net
 anehin.top
 anekagaminghk.rest
+angelapparels.in
 angelsrestbbsuites.com
 anginprj.cyou
 angkabbfs.wiki
@@ -736,6 +740,7 @@ arvust.net.au
 arwahpahlawan.lol
 arwahpositif.co
 arwana168e.com
+arznlottery.net
 as.kuy805.com
 as1ansl0t88.online
 asahankab.com
@@ -752,6 +757,7 @@ asetniaga.site
 asetqq.vip
 asetsimpati.xyz
 asg55bestlink.net
+ashishshiwlani.com
 ashleywylde.com
 ashtoncatholic.org
 asia-sigma.org
@@ -837,6 +843,7 @@ auroratoto2play.com
 auroratoto2slot.org
 auschoice-electronics.com.au
 aussiebeautyconsweeps.dja.com
+australialottery.sydney
 australiatimes.online
 austrialotterie.com
 austrialotto.net
@@ -1066,6 +1073,7 @@ bedformyhead.com
 beef-meer.de
 beeg.media
 beijacarpet.com
+beijinglottery.live
 beijingpools4d.net
 beko.pages.dev
 belajarakuntnsi.org
@@ -1119,6 +1127,7 @@ beruangcuana2.site
 beruangjp-one.xyz
 beruangpasir.rent
 berubah.cc
+beshabhusa.com   # malicious backlink
 bestdeals4days.com
 besthybridtablesaw.com
 besturl.vip
@@ -1309,6 +1318,7 @@ bomeslot.com
 bonafit-88ax.info
 bonafit88-xz.com
 bondagematchmaker.com
+bondbrothers.ie # malicious backlink
 bongkar4dprize.com
 bongkar4dprize.net
 bongkarbintang.com
@@ -1405,6 +1415,7 @@ brtnet.pages.dev
 bruceparris.com
 brunei4d.com
 bruneidarussalamlottery.com
+brussellottery.com
 bs.wikibudaya.cc
 bsreg-303.site
 bst.suksesterus.xyz
@@ -1424,6 +1435,7 @@ budapestlottery.com
 budapestspinball.com
 budaya.menantugoogle.vip
 buenatiti.com
+buenosaireslottery.net
 buffalo4d.com
 bugispools.com
 build.amazingticket.site
@@ -1460,6 +1472,7 @@ buktijpmg.pro
 buktijpmothonda.com
 buktijpmulia77.store
 buktijpnanagroup.cc
+buktijpnanagroup.me
 buktijposg888.in
 buktijposg888a.com
 buktijppohon4d.org
@@ -1640,6 +1653,7 @@ cdn.wotevermedia.com
 cdn2.schindler-edv.de
 cdn5.codigonet.net
 cdnst1.com
+cebulottery.asia
 ceklivertp.linkrtpthor138.lol
 cekrtp-asiagacor77.blog
 cekrtpbokaptoto.pages.dev
@@ -1835,6 +1849,7 @@ collective-adventure.org
 collectwin.com
 collegefindernews.com
 collegewomen.org
+collottery.net
 colmarpools.com
 colognelottery.com
 coloksgp015.com
@@ -1926,6 +1941,7 @@ cubanellerestaurant.com
 cucikardus.com
 cucubetlinktop.com
 cucubetsos3.com
+cucunenek.site
 cugh2023.org
 cuidatusvenas.org
 cukong108.art
@@ -1982,6 +1998,7 @@ daftarcnn.top
 daftarmaenyuk.cyou
 daftarmas.com
 daftarvinaslot.vip
+daihatsumedan.org  # malicious backlink
 dailyapps.id
 dailydropsandwin.com
 dailydropsandwins.com
@@ -2070,6 +2087,7 @@ de-s1.demoslotbaru.com
 de.lauraandalex.wedding
 de1-asset.informasibaru.help
 dealer-search.prod.readylogistics.ca
+dealerhondamedan.net # malicious backlink
 debbiexenia-hotelapts.com
 decentralisation-niger.org
 decisio.health
@@ -2268,6 +2286,8 @@ display-agency.com
 dispostat.com
 dispusip-lampungtimur.id
 district-properties.com
+divisi303.info
+divisi303.org
 divisi303rtp.wiki
 divorcehelpcenter.net
 diwarga777.com
@@ -2323,6 +2343,7 @@ dompethermes.com
 dompetmantap777.xyz
 donegalbowls.com
 donomulyo-desa.id
+dontddos.xyz
 dontread.org
 door7.aresgacor-rtp.live
 doordashh.com
@@ -3383,6 +3404,8 @@ hondasuguh.com
 honduraslottery.com
 hongkongbuffetflint.com
 hongkongeven.com
+hongkonglotto-official.today
+hongkonglottoku.com
 hongkongpols.club
 hongkongpools.com
 hongqims.com
@@ -3449,6 +3472,7 @@ hws77.id
 hws77gg.com
 hybridacumen.eu
 hyperlinked.in
+hyundaimedan.com # malicious backlink
 i6d.menantugoogle.vip
 i8idr5.com
 iagg2023.org
@@ -3508,6 +3532,7 @@ idnplay.com
 idns889.net
 idnsports.app
 idola88slot.store
+idolottery.net
 idr77id.monster
 idr77kita.lat
 idrslot22.com
@@ -3931,6 +3956,7 @@ jebolsk.xyz
 jeeniiussstoto.info
 jejakng303.xyz
 jejuprize.com
+jejuwla.asia
 jejuwla.store
 jempol55ind.xyz
 jendral-squad.istana-xplay.org
@@ -4173,6 +4199,7 @@ kadekonfire.com
 kadektoto.fun
 kaffirthainj.net
 kaimkt.com
+kairo-lottery.com
 kaisar88login.com
 kaisarslot.id
 kaisydneycuan.org
@@ -4340,6 +4367,7 @@ kiddobabysitter.com.au
 kiddobabysitters.com
 kiddycitydaycare.com
 kidunil.pro
+kiev-lottery.com
 kijangwinrtp.buzz
 kilat.digital
 kilat128.live
@@ -4547,6 +4575,7 @@ kuy4d1.pro
 kuy4daz.com
 kuyselalujayasekali.xyz
 kw303a.site
+kyoto4dpools.asia
 kyoto4dpools.store
 kyototoujikikaikan.kyoto
 kyoungpay.com
@@ -4592,6 +4621,7 @@ lambo69.org
 lambo69.xyz
 lampung-pools.net
 lampusenter.store
+lamputogel2.com
 lancaster-pools.com
 lancasterlottery.com
 lancasterneuroscience.com
@@ -4612,6 +4642,7 @@ lanjutgacor.click
 lantai6ip.live
 lantai6kk.info
 laopanganas.com
+laoslotto.asia
 laoslotto.store
 lapak303asia.one
 laparrillaranchera.com
@@ -5238,6 +5269,7 @@ marie-alexy.com
 mariehamnlotto.com
 marikitacoba.top
 marinadosa.com
+marinalotto.asia
 marinalotto.store
 marinwoodfire.org
 mariototo.name
@@ -5531,6 +5563,7 @@ mitraatoogel.me
 mitraidrslot138.com
 mitrajp4.bid
 mitrarjs138.com
+mitsubishimedan.org # malicious backlink
 mittratogel.club
 mittratogel.com
 mittratogel.website
@@ -5581,6 +5614,7 @@ monroefiredept.com
 monsterjs88.com
 montagein.info
 montanaoutfitter.net
+montlottery.net
 montrealdating.info
 montsainteanne2010.com
 monyethoki.autos
@@ -5591,6 +5625,8 @@ moreonline.myriaddestinations.com
 morepuncak.store
 morganslot.org
 morrisfarm.org
+moskow-lottery.com
+moskow4d.id
 moskowlotto.com
 mothershideaway.com
 motor138-vip.online
@@ -5725,6 +5761,7 @@ najirin.com
 naksirpelitatoto.com
 namco-electrical.com.au
 namphopools.com
+nana4djoker.com
 nana4dku.com
 nana4dnow.com
 nanafilm.com
@@ -5839,6 +5876,7 @@ niagabet.bid
 niagabetin.com
 nicksloan.org
 nicosia4d.com
+nightshadow.xyz
 nightyd20.com
 nihrtp365raja.com
 ninja188alternatif.xyz
@@ -5866,6 +5904,7 @@ nomerku.com
 nomormimpiweng.pro
 nonamerestaurantwm.com
 nongkrongasik.lol
+nono4done.com
 nono4dred.com
 nontontvonline.id
 noonaspizza.com
@@ -5968,6 +6007,7 @@ ojoltogelb.com
 ojoltogelteam.com
 okayamaprize.com
 okegas02.site
+okewlajitu.com
 okewlaku.com
 okewlapublik.com
 okeymonitor.com
@@ -6101,6 +6141,7 @@ otello-shadow.xyz
 othea.net
 otomatis.vip
 otoszablony.com
+ottawa-lottery.net
 otwsakura.site
 otwspokane.com
 oulunfrisbeeseura.net
@@ -6271,6 +6312,7 @@ palmshotelclub.com
 palmtreelandscaping.com
 palottery.state.pa.us
 panama4d.com
+panamalottery.net
 pancasila.info
 panda99bar.com
 panda99club.net
@@ -6518,6 +6560,7 @@ pho88.lat
 pho88rtp6.store
 phohaorestaurant.com
 phokimkim.com
+phuketlotto.com
 phuketlotto.store
 phweb3festival.com
 picking.comprezipp.com
@@ -6717,6 +6760,7 @@ prada555admin.store
 prag-iji-2-telu09.online
 pragmatic218new.xyz
 pragmaticplaycareers.com
+prahalottery.com
 pramukahh.lol
 predictablesource.io
 predictiontribun.com
@@ -6962,6 +7006,7 @@ pwjitu.com
 pwjituspin.com
 pwmomc.org
 pwprediksi.info
+pyongyanglottery.com
 pyreneesakbash.com
 q.solarbotics.net
 qa.cbstatic.net
@@ -7082,6 +7127,7 @@ rakyatsltmaxx.com
 rakyattt4dd.co
 ramalan.info
 ramalanpamansam.my
+ramalanpamansam.store
 ramalantotal.xyz
 ramentesdreches.com
 randrsoulfood.com
@@ -7327,7 +7373,7 @@ rpihockey.net
 rr1221asia.poker
 rr1221asiartpgacor2025.netlify.app
 rrakkyaatt4d.com
-rrdigital.id
+rrdigital.id # malicious backlink
 rrq88oke.site
 rs-bhayangkarasurabaya.id
 rsp.viva99athenae.com
@@ -7506,6 +7552,7 @@ rtpdino69.college
 rtpdomino4d.baby
 rtpdragon303.life
 rtpdurenbuah.xyz
+rtpdvs303.ink
 rtpelangwinc.top
 rtpemas787gacor.store
 rtpenterslots.lol
@@ -7676,6 +7723,7 @@ rtpnaga913.fun
 rtpnagita188go.net
 rtpnagitavip.one
 rtpnanagroup.me
+rtpnanagroup.wiki
 rtpnobitabet.shop
 rtpnobitabet.space
 rtpnos4d4.site
@@ -8392,6 +8440,7 @@ sm4dcunkali.id
 sman1kauman.com
 sman1kesamben.com
 sman9tsm.sch.id
+smartcontractor.ca
 smartfit20.com
 smartfleet.lk
 smartvapepods.com
@@ -8684,6 +8733,7 @@ supmakanan.com
 support.burning-glass.com
 support.marschpat.com
 supportmaxb.com
+supportncare.org.np
 suptogel.net
 suptogelprediksi.com
 surabayaprize.com
@@ -8712,6 +8762,7 @@ suuupeerrrtogell.info
 suuupperrtogel.co
 suuupperrtogel.com
 suuuppertogel.info
+suzukimedan.net # malicious backlink
 svencash.com
 sw303kurtp.bar
 swan77.live
@@ -8731,6 +8782,7 @@ sydcuan.ink
 sydneycuanl.info
 sydneyevening.com
 sydneylivetoday.com
+sydneylotto.club
 sydneypoolsnight.com
 sydneypoolstoday.com
 szuflada.net
@@ -8776,6 +8828,7 @@ tasenslot.live
 tasenslotrtp.boats
 tasenslotrtp.shop
 tasmanianlotto.com
+tasmaniapools.id
 tastetlv.com
 tasty68md.com
 tastyvintage.com
@@ -9120,6 +9173,7 @@ totohok.com
 totohok.one
 totohok11.com
 totohok3.info
+totoidaho.id
 totokingbs.com
 totokinghu.com
 totokita1acc.com
@@ -9130,6 +9184,7 @@ totokita3inc.com
 totokita3load.com
 totokyo.net
 totolottery.id
+totomacau-pools.online
 totomacaupools.asia
 totomacaupools.co
 totomacaupools.com
@@ -9149,6 +9204,7 @@ tournament4.mbo.online
 tower-jp.live
 townofromecity.org
 toyeenartstudio.com
+toyotamedan.net # malicious backlink
 tpklikcc.com
 tpkprince.com
 tputogel.org
@@ -9372,6 +9428,7 @@ vegasgroup.cloud
 vegaspools.co
 vegastogel.com
 velrai-ps.com
+venesialottery.com
 venezialottery.com
 venicelottery.com
 venom123online.fit
@@ -9572,6 +9629,7 @@ webdisk.firsttree.org
 webdisk.idelivr.in
 webdisk.sosinclasses.com
 webfbslot.top
+webgurulotto.cc
 webgurulotto.wiki
 webgurutoto.com
 webmail.abzoluteplumbing.com.au
@@ -9590,6 +9648,7 @@ wedebolapt.info
 wedustogel.com
 weeklysenator.org
 wegointer.com
+welcomekun.com
 welcometohongkongpools.net
 wellingtonpools.org
 weltonarms.com
@@ -9716,8 +9775,10 @@ wral.com
 wrdimimpiinkamu.lol
 writinghelpessay.net
 wrseafood.sbs
+wuhan-lottery.com
 wukong288.top
 wukong288indo.com
+wulingmedan.net # malicious backlink
 wvevw.com
 wvhealthconnection.com
 wvlottery.com
@@ -10013,6 +10074,7 @@ d145yfon394ak6.cloudfront.net
 d1ayxb9ooonjts.cloudfront.net
 d1bnhxh1olb98c.cloudfront.net
 d1r7v8bs1sf4js.cloudfront.net
+d290ny10omyv12.cloudfront.net
 d2f3dnusg0rbp7.cloudfront.net
 d2fdcuev2flsum.cloudfront.net
 d2g2ks6h98pvqo.cloudfront.net

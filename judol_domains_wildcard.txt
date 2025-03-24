@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1069
+# Number of entries: 1070
 #
 # *slot*.*
 # *toto*.*
@@ -154,6 +154,7 @@
 *dewislot*
 *dinasti2[0-9]*
 *dino[0-9]*
+*divisi3[0-9]*
 *dogelexus*
 *dolan[0-9]*
 *dolarslot*
