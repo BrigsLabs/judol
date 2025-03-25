@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 10376
+# Number of entries: 10435
 #
 #
 #
@@ -291,6 +291,7 @@ abook-loversreview.com
 abortar.org
 abptaskforce.org
 abudhabi-lottery.com
+abudhabi-lottery.store
 abutogel-newrtpslot.pages.dev
 abutogelcerdas.com
 abutogelhits.com
@@ -741,6 +742,7 @@ arwahpahlawan.lol
 arwahpositif.co
 arwana168e.com
 arznlottery.net
+arznlottery.store
 as.kuy805.com
 as1ansl0t88.online
 asahankab.com
@@ -778,6 +780,7 @@ asialive88bet14.cc
 asialive88bet94.cc
 asialivedlu.vip
 asianlotto.com
+asianophthalmology.org
 asianslot88.beauty
 asianslot88.bid
 asianslot88.college
@@ -843,6 +846,7 @@ auroratoto2play.com
 auroratoto2slot.org
 auschoice-electronics.com.au
 aussiebeautyconsweeps.dja.com
+australialottery.store
 australialottery.sydney
 australiatimes.online
 austrialotterie.com
@@ -1074,6 +1078,7 @@ beef-meer.de
 beeg.media
 beijacarpet.com
 beijinglottery.live
+beijinglottery.store
 beijingpools4d.net
 beko.pages.dev
 belajarakuntnsi.org
@@ -1132,6 +1137,7 @@ bestdeals4days.com
 besthybridtablesaw.com
 besturl.vip
 bet4dgas.com
+bet4dlite.com
 bet6d.com
 bet7meter.bid
 beta.bpsgroup.com.br
@@ -1326,6 +1332,7 @@ bonus-klikwin88.com
 bonus138f.one
 bonus138f.pro
 bonushadiah.info
+bonusmegagroup.com
 bonusmegagroup.info
 bonusrtp.sbs
 boobo77.one
@@ -1416,6 +1423,7 @@ bruceparris.com
 brunei4d.com
 bruneidarussalamlottery.com
 brussellottery.com
+brussellottery.store
 bs.wikibudaya.cc
 bsreg-303.site
 bst.suksesterus.xyz
@@ -1436,6 +1444,7 @@ budapestspinball.com
 budaya.menantugoogle.vip
 buenatiti.com
 buenosaireslottery.net
+buenosaireslottery.store
 buffalo4d.com
 bugispools.com
 build.amazingticket.site
@@ -1468,6 +1477,7 @@ buktijphndtto.com
 buktijpkpk33.com
 buktijpmawar7.com
 buktijpmeme4d.com
+buktijpmg.guru
 buktijpmg.pro
 buktijpmothonda.com
 buktijpmulia77.store
@@ -1654,6 +1664,7 @@ cdn2.schindler-edv.de
 cdn5.codigonet.net
 cdnst1.com
 cebulottery.asia
+cebulottery.store
 ceklivertp.linkrtpthor138.lol
 cekrtp-asiagacor77.blog
 cekrtpbokaptoto.pages.dev
@@ -1666,6 +1677,7 @@ cemeku.com
 cemeku.rocks
 cemproc.com
 ceniamoinsieme.org
+cenib.com.br
 centraloregondrywall.com
 centrics.lk
 ceojoin.club
@@ -1687,6 +1699,7 @@ cfid.dev
 cfsitservices.com
 cfsmarketingexchange.com
 cgcomission.com
+chacabuco.org
 chamclinic.org
 champ168.co
 changesyourlifebywinninginthisgameandberich.com
@@ -1809,6 +1822,7 @@ cms-test.istoryself.com
 cmvalganna.net
 cna.cotatrack.com
 cnfabian.com
+cnfortaleza.com.br # malicious backlink
 cnsglobaladvisors.com
 cnwpg.org
 co2olclean.com
@@ -1850,6 +1864,7 @@ collectwin.com
 collegefindernews.com
 collegewomen.org
 collottery.net
+collottery.store
 colmarpools.com
 colognelottery.com
 coloksgp015.com
@@ -2301,6 +2316,7 @@ djtogel.org
 djtogelgacor.net
 dkkfashion.com
 dl.eghra24.com
+dlcjpva.com
 dm88new3.online
 dmssultan.com
 dnowmedia.com
@@ -2445,6 +2461,7 @@ eclipsetalents.com
 ecltc.com
 economymap.org
 ecrans-noirs.org
+ecsat.tu.koszalin.pl
 edctoto4dtogel.com
 edctotortp18.site
 edensolutions.us
@@ -2475,6 +2492,7 @@ electric-waterkettle.com
 electronicinkblog.com
 electronicsdeal.shop
 elemencoklat.space
+elenis-apartments.com
 elgrullensepaloalto.com
 elhassan.org
 elitesporthorses.com
@@ -2534,6 +2552,7 @@ eraplay98deal7.online
 eraplyslotgcr.cc
 eratribun855.com
 erea.jisseki.net
+ergastirio.edu.gr
 erm2023.com
 ermit-acp.org
 eropalotto.info
@@ -2716,6 +2735,7 @@ foodpandatw.com
 fooman.co.uk
 football-wallpapers.org
 footer-body.site
+for4dlife.com
 for4dmenang.com
 for4dofficial.id
 fordassumsel.org
@@ -2943,6 +2963,7 @@ gaspol189x.art
 gaspol189x.live
 gaspolx189.site
 gaspompa77.xyz
+gasskanlah.id
 gasslot88nx.store
 gassrajakuy.xyz
 gaswakogel.land
@@ -3209,6 +3230,7 @@ h38.kakekjepe.info
 habanero188-tergacor.xyz
 hackergorilla.online
 hackthefashion.com
+hadiahmg.com
 haha388ni.site
 haha388rtp.com
 haha788g.com
@@ -3303,6 +3325,7 @@ hebat99star.com
 hebeipools.com
 hechoenbsas.net
 heirloomtoms.org
+heljves.gr
 helmetest.orangelogic.systems
 help.shoplindasstuff.com
 helpdeskla.com
@@ -3472,6 +3495,7 @@ hws77.id
 hws77gg.com
 hybridacumen.eu
 hyperlinked.in
+hypocriteseo.info
 hyundaimedan.com # malicious backlink
 i6d.menantugoogle.vip
 i8idr5.com
@@ -4368,6 +4392,7 @@ kiddobabysitters.com
 kiddycitydaycare.com
 kidunil.pro
 kiev-lottery.com
+kiev-lottery.store
 kijangwinrtp.buzz
 kilat.digital
 kilat128.live
@@ -4881,6 +4906,7 @@ liverdocsoin.com
 liveresult-toto.com
 liveresult4d.net
 liveresultbandot.com
+liverokokbet.chat
 liverpool-pools.com
 livertp-person.club
 livertpemas36.info
@@ -4957,6 +4983,7 @@ loop-hq.com
 loreleibeachresort.com
 lorenzo.illnesstrick.xyz
 lorenzoplaymax.com
+los-angeles-locksmiths.com
 loscuatesrestaurants.com
 losserenos.org
 losviloslottery.online
@@ -5323,6 +5350,7 @@ masukputra.info
 masuktoto6.top
 matahitamwaw.site
 matahitamwew.xyz
+matauangmax.com
 matawanita.id
 match-cloud.com.au
 materiauxouellet.com
@@ -5420,6 +5448,7 @@ meetforhealthy.online
 mega118labobo.click
 mega118labobo.xyz
 mega4dku.com
+mega4done.com
 mega4dwin.com
 megah138info.com
 megashiocreative8.xyz
@@ -5514,6 +5543,7 @@ miawbest.info
 miawpetir.co
 micahiriye.com
 michaelaldagmusic.com
+michaelbakovic.com
 michaelethies.com
 michatinem.com
 michiganbreweryreview.com
@@ -5615,6 +5645,7 @@ monsterjs88.com
 montagein.info
 montanaoutfitter.net
 montlottery.net
+montlottery.store
 montrealdating.info
 montsainteanne2010.com
 monyethoki.autos
@@ -5792,6 +5823,8 @@ needforleed.net
 neftipedia.com
 nekoslot88cuan.pro
 nekoslot88cuan.wiki
+nelayanindah.com
+nelayankeramat.site
 nemanjakovacevic.net
 nemo69.money
 nemo69b.xyz
@@ -5876,6 +5909,7 @@ niagabet.bid
 niagabetin.com
 nicksloan.org
 nicosia4d.com
+nightcoreshadow.xyz
 nightshadow.xyz
 nightyd20.com
 nihrtp365raja.com
@@ -6007,6 +6041,7 @@ ojoltogelb.com
 ojoltogelteam.com
 okayamaprize.com
 okegas02.site
+okewla2025.com
 okewlajitu.com
 okewlaku.com
 okewlapublik.com
@@ -6142,6 +6177,7 @@ othea.net
 otomatis.vip
 otoszablony.com
 ottawa-lottery.net
+ottawa-lottery.store
 otwsakura.site
 otwspokane.com
 oulunfrisbeeseura.net
@@ -6378,6 +6414,7 @@ paragonrestaurants.com
 paraguaypools4d.com
 paraguayprize.com
 paramocoffee.com
+parbada.xyz
 parentsforpeaceandjustice.org
 parfumpromo.com
 parisbratislava.com
@@ -6436,6 +6473,7 @@ pcroissant.com
 pcso.gov.ph
 pdxdbs.org
 pe-er-pre-8x2.online
+peakmemissme.site
 pearlpoint.info
 pecahan-pasti.online
 pecahdalam.xyz
@@ -6707,6 +6745,7 @@ polawish6.store
 polawish7.store
 polayb8.site
 polayb9.site
+polishembassy.ca
 polknokillcoalition.org
 polnx3.lol
 pololangsungbayar.com
@@ -6761,6 +6800,7 @@ prag-iji-2-telu09.online
 pragmatic218new.xyz
 pragmaticplaycareers.com
 prahalottery.com
+prahalottery.store
 pramukahh.lol
 predictablesource.io
 predictiontribun.com
@@ -6873,6 +6913,7 @@ promokaskus33.com
 promolta.info
 promominilaptop.com
 promopohon4d.com
+promorokokbet.com
 promorp.xyz
 promotor.club
 promowengtoto.com
@@ -6919,6 +6960,7 @@ pub-4dab336953a44439993e62117ab2003c.r2.dev
 pub-56c7ffeacc6c46128f4c3806c3d91605.r2.dev
 pub-56dc6e91c6b14ae39d02ca37deae98ec.r2.dev
 pub-56fddca6d9364d3daea6dda86f9cb226.r2.dev
+pub-5790736c854842c889298b4f6a8691ea.r2.dev
 pub-5baf076623b641729bf27ad88e7a26f9.r2.dev
 pub-609ed79ad73a45f6a3f93fd77dbfc4a6.r2.dev
 pub-63ef8a83684343d788bc4e2196ba7dbe.r2.dev
@@ -6933,6 +6975,7 @@ pub-93f9ca09def24762be5ffeed338b6638.r2.dev
 pub-955cbf34740e45a384e4cd978b1a0ea1.r2.dev
 pub-9af3357a7d594a559a7d47c4b0e7ca1f.r2.dev
 pub-a19ec9f103b045a4ba6b9e6902d7d4d5.r2.dev
+pub-a32bf03db96f40e5932b2982a8681a2b.r2.dev
 pub-a5e60f748b7f4103b21c641be555c2a8.r2.dev
 pub-a770b1dceeff4a77b2401994f3884d48.r2.dev
 pub-a88660a944004e0ebbe60ef0b4e9b9cd.r2.dev
@@ -7007,6 +7050,7 @@ pwjituspin.com
 pwmomc.org
 pwprediksi.info
 pyongyanglottery.com
+pyongyanglottery.store
 pyreneesakbash.com
 q.solarbotics.net
 qa.cbstatic.net
@@ -7320,7 +7364,9 @@ roketspinkilat.lol
 rokok76.quest
 rokokbetkeren.com
 rokokbetku.com
+rokokbetlive.com
 rokokslot-utama.com
+rokokslotjoker.com
 rokokslotpg.com
 rollickin.cafe
 rollickinmovies.com
@@ -7702,6 +7748,7 @@ rtpmaxwinarena.fyi
 rtpmaxwinmamak.lat
 rtpmdk138.site
 rtpmega177.com
+rtpmegagroup.network
 rtpmegagroup.vip
 rtpmenyala.gila1388.com
 rtpmessipoker.com
@@ -8030,6 +8077,7 @@ sc.momoplay.dev
 sc78.menantugoogle.vip
 scatterapi.com
 scatterapi.net
+scatterhitam.id
 scatterhitam69.org
 scatterkaskus.com
 scattermulia77.hair
@@ -8056,6 +8104,7 @@ sedayumaju.cc
 sedekahbang.site
 sega338luckyspin.vip
 seguecoffee.com
+segundamanoplasencia.es
 seiko99indonesia.com
 sejutateknologi.com
 sekolahkarate.com
@@ -8446,6 +8495,7 @@ smartfleet.lk
 smartvapepods.com
 smile7uc.store
 smilingbritishshorthaircats.com
+smithandgauthier.com
 smk-kapitena.live
 smoovebikelube.com
 smpcambon.com
@@ -8672,6 +8722,7 @@ sukatoto777.site
 sukses303-lib.site
 sukses303-p1.fun
 sukses303.pro
+suksesbersama.xyz
 suksesks4d.xyz
 sukubunga.com
 sukucut.com
@@ -8766,6 +8817,7 @@ suzukimedan.net # malicious backlink
 svencash.com
 sw303kurtp.bar
 swan77.live
+swarasibolga.com
 swastibhat.com
 sweatygooch.com
 sweeneysgrill.com
@@ -8789,6 +8841,7 @@ szuflada.net
 t4years.xyz
 t855jaya.online
 tabelpakde.com
+tabelshioular2025.com
 tactapp.com
 tahta-0724.pro
 tahta4d-1.net
@@ -8968,6 +9021,7 @@ theedition.mv
 theeldonhouse.com
 theelwins.com
 thefarmersdaughtercupcakes.com
+thefreeartfoundation.org
 thegameanderson.com
 theglamourazzis.com
 thegloballyminded.com
@@ -9288,6 +9342,7 @@ turkiprize.com
 turnamen9naga.com
 turner.demonubiral.com
 turnkeye.com
+turnovermg.com
 tutorgacor.store
 tuttokitchenandbar.com
 tutwilercommunityeducationcenter.org
@@ -9374,6 +9429,7 @@ unoggw1n.com
 unoggw1n.org
 unovegas303s.cc
 unpma.com
+untimes.org
 untung99gas.com
 unyillucu.info
 up30001.com
@@ -9429,6 +9485,7 @@ vegaspools.co
 vegastogel.com
 velrai-ps.com
 venesialottery.com
+venesialottery.store
 venezialottery.com
 venicelottery.com
 venom123online.fit
@@ -9776,6 +9833,7 @@ wrdimimpiinkamu.lol
 writinghelpessay.net
 wrseafood.sbs
 wuhan-lottery.com
+wuhan-lottery.store
 wukong288.top
 wukong288indo.com
 wulingmedan.net # malicious backlink
@@ -10132,6 +10190,7 @@ file001.nxtengine.net
 fileku.cc
 filemu.cc
 fonts.cdnfonts.com
+form.6mbr.com
 fpnpmcdn.net
 freeimage.host
 gachaengine.com
