@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 10632
+# Number of entries: 10696
 #
 #
 #
@@ -403,6 +403,7 @@ ajennings.net.cdn.cloudflare.net
 aji808010.net
 ajo89.info
 ajo89bone.com
+ajo89droll.com
 ajo89live.com
 ajtworld.com
 ajudan88now.com
@@ -414,6 +415,7 @@ ak4dslotbet.xyz
 ak4dtop.club
 akaaka.net
 akademik.sdn36pekanbaru.sch.id
+akangwinamp.com
 akbidboda.ac.id
 akbku.net
 akbku1.quest
@@ -532,6 +534,7 @@ amavi808.com
 amavi909.com
 amaviultralounge.org
 ambilhokimudisini.pro
+amdapk.com
 amdbetunder.com
 americangonzofoodcorporation.com
 americanpillojakarta.id
@@ -1653,6 +1656,7 @@ cariberita.id
 caricinta.us
 carikan.id
 carikita.id
+carisitus.id
 caritasmali.org
 carlsongraciewestmore.com
 carmer.com.au
@@ -1807,6 +1811,7 @@ cinnttatoogel.co
 cinnttatoogel.com
 cinta.stdi77.world
 cintaa.click
+cintahoki.com
 cintahoki22.com
 cintalgp88.info
 cintat0gel.co
@@ -1906,6 +1911,7 @@ columbusdiscountrecords.com
 com.manggalaris.cc
 commerciallycleanservices.com
 committeeforabetterohio.com
+communityenergycenter.org
 comopools.com
 competitividadturistica.com
 completeskilletmealsgreengiant.com
@@ -2044,8 +2050,11 @@ daft-idb88.pages.dev
 daftar-alexaslot138.shop
 daftar-slot.bid
 daftar.nagahoki88gacor.info
+daftarakang69.com
 daftarayam.online
 daftarcnn.top
+daftargameseru.com
+daftarkanjeng69.com
 daftarmaenyuk.cyou
 daftarmas.com
 daftarvinaslot.vip
@@ -2304,6 +2313,7 @@ dibowo.site
 dibowo.xyz
 dickenshouse.com
 diggieroam.com
+digidream.org
 digital-publishing.com
 digitalcodenetwork.com
 digitalisierungstour-bw.org
@@ -2429,6 +2439,7 @@ dotaslotpay1.top
 dotaslotvip1.xyz
 doubleglazing-prices.net
 doublehappiness.info
+dougalexanderforsheriff.com
 download.galacticwidgets.com
 download899.com
 downloads.cabital.io
@@ -2510,6 +2521,7 @@ edctotortp18.site
 edensolutions.us
 edmconcretecontractors.com
 edmundlaser.com
+edodolan.id
 educationoasis.net
 edukasi.top
 eduvaites.org
@@ -2783,6 +2795,7 @@ foodpandatw.com
 fooman.co.uk
 football-wallpapers.org
 footer-body.site
+for4dfit.com
 for4dlife.com
 for4dmenang.com
 for4dofficial.id
@@ -3346,6 +3359,7 @@ hargamerek.com
 harhicollege.org
 hariangkanet4d.com
 hariangkanet4d.net
+hariantrust.id
 harimausumateranews.com
 harmonyleafcbdgummies.org
 harnessracingfanzone.com
@@ -3553,6 +3567,7 @@ hunanlotto.net
 hunanlotto.xyz
 hungarialottery.com
 hungerfreemn.org
+hunianmurah.id
 hurajpvip.vip
 hutatimur.store
 huttoyouthbsa.com
@@ -3675,6 +3690,7 @@ imaxintegral.com
 imbagcr-eropa.com
 imbaslot.papakucintakupalingbesar.live
 img.favoritelinks.tech
+imgakang.art
 imgbkr.site
 imgkugrup.io
 imgldr.id
@@ -3741,6 +3757,7 @@ indomaster88rtp.cam
 indomax88.rent
 indomita.net.cdn.cloudflare.net
 indomutasi.store
+indonesiadigitaltribe.id
 indonesiaoke.id
 indopokerku.com
 indopokerku.gold
@@ -3825,6 +3842,7 @@ integrityga.com
 integrohospitals.com
 interabu.com
 interfaceuganda.org
+interiortonic.id
 internationalconsultingnetwork.org
 internationaldystoniasymposium.org
 interno3.net
@@ -4415,6 +4433,7 @@ kejariniasselatan.com
 kekar4d-pasti.com
 kekar4d-ranger.top
 kekaronlinehub.top
+kekoreaan.id
 kekuatan6tuhan.site
 kelas4d-no1.net
 kelas4d-no1.org
@@ -4452,6 +4471,7 @@ keris24d-hand.top
 kerre.net
 kerthabuana-desa.id
 ketoprimegummies.com
+ketquaxoso2023.com
 ketuaxzxyc.pro
 ketuayola.online
 keuskupansurabaya.info
@@ -4614,6 +4634,7 @@ kqxoso-online.com
 kr-qtimg-lgworld-com.esi-qa.net
 kraken128.info
 kraken128.pro
+kreativi.id
 krgerfeedbackus.shop
 krisnahot.xyz
 krisnainfo96.blog
@@ -4936,6 +4957,7 @@ linkgua.ink
 linkinfortpcsowin.pages.dev
 linkkitaslot777.store
 linkmain.click
+linkmewah.club
 linknemo69.store
 linknext303woah.pro
 linkpanglimajp.biz
@@ -5483,6 +5505,7 @@ maxwin89mm.com
 maxwingacor777.xyz
 maxwinigamble247zona.sbs
 maxwinmenang.xyz
+maxxbrides.id
 mayaconic.org
 mbaktoto.bid
 mbgacor77.xyz
@@ -5540,6 +5563,7 @@ mediaplazashop.com
 mediarestorasi.com
 medicdocs.com
 medium.com
+medlinkus.com
 medsfinest.com
 medusa88.fyi
 medusacrack.com
@@ -5548,10 +5572,12 @@ meefarm.com
 meetforhealthy.online
 mega118labobo.click
 mega118labobo.xyz
+mega4dbig.com
 mega4dku.com
 mega4done.com
 mega4dwin.com
 megah138info.com
+megamedia.id
 megashiocreative8.xyz
 megashiogacor3.xyz
 megaslot777e.top
@@ -5628,6 +5654,7 @@ mewah69ea.pro
 mewah69gold.xyz
 mewah69hub.vip
 mewah69prem.pro
+mewah77.net
 mexicoevening.com
 mexicolotteries.online
 mexicomegajackpot.com
@@ -5639,6 +5666,7 @@ mgaspin.live
 mgr.basebit.net
 mhigano.com
 mi77game.lol
+miami-partybus.com
 miamilotto.org
 miawbest.info
 miawpetir.co
@@ -5689,6 +5717,7 @@ missafricanunionpageant.org
 misterirupiah138.homes
 misteryboxwarung.monster
 mistryboxathena168.online
+mitoyotaprius.net
 mitraatoogel.live
 mitraatoogel.me
 mitraidrslot138.com
@@ -5704,20 +5733,27 @@ mizutamari-bond.com
 mkmedan.xyz
 mktoto.net
 mlqlr.net
+mmgarciniacambogia.com
+mmgroup.id
 mne-ploho.net
 mnemonicsworld.com
+mobeyday.com
 mobi.boladiole777.com
 mobi.maindiole777.com
 mobi.theslotole.xyz
+mobil100.id
 mobilhino99.com
 mobilmitsubishimakassar.com
 mobilque.com
+mocbai.id
 mochalabs.com
+mockingbird.id
 modakeke.info
 modalkecil-untungbesar.pages.dev
 modalreceh.top
 modengdeng.com
 mogawinterus.xyz
+mojoindonesia.id
 mollybloomspub.com
 molottery.com
 momentum-education.com
@@ -5732,6 +5768,8 @@ monaco99rtp1.lat
 monalisapage.com
 monarchlover.org
 monas128.live
+monas128.net
+monas128.org
 monas128.pro
 monas77aa.xyz
 mondoincammino.org
@@ -5769,6 +5807,7 @@ motor138-vip.pro
 motorradnavitest.com
 motorservukcars.com
 mountainfallsgolfclub.com
+mountainstream.id
 mozlottery.com
 mpesguntur.com
 mpeysepar.com
@@ -5791,10 +5830,12 @@ mpoyes.store
 mr-b.ca
 mr-drive.palo-it.fr
 mrh4rtp3.xyz
+mrtranslation.id
 ms-medusa88-ular.lol
 ms.rajaplay.me
 ms001.gap8.store
 ms9.media77.info
+mshort.site
 msjitu.online
 msmshort.online
 msterbaik.org
@@ -5831,6 +5872,7 @@ munich4d.com
 muramasajaya.lol
 muramasajaya.xyz
 museslabs.net
+museumahmadtohari.id
 musicfromtheoc.com
 musingsofamariominion.com
 mutasi.pro
@@ -5855,6 +5897,7 @@ mw68menyala.xyz
 mw68pure.site
 mx2.homefabricsindia.com
 my3777.app
+myactivityroom.com
 myanmarprize.com
 mybeautyplacew2.com
 mybellalago.com
@@ -6274,6 +6317,7 @@ orlandolotto.org
 orphandrugssummit.com
 osaccelerate.com
 osaka-lottery.com
+osaka-senior.net
 osakaprize.com
 oscargodson.com
 oscartogelgacor.com
@@ -6768,6 +6812,7 @@ plan6753.planeo-solution.de
 planet128.net
 planet128aa.com
 planikausa.com
+plantationlawnservices.com
 plantonesitalian.com
 plaquenilgn.com
 platform-resmi.store
@@ -7512,6 +7557,7 @@ rokokbetku.com
 rokokbetlive.com
 rokokslot-utama.com
 rokokslotjoker.com
+rokokslotlife.com
 rokokslotpg.com
 rollickin.cafe
 rollickinmovies.com
@@ -7527,6 +7573,7 @@ ronin86.lol
 ronin86.me
 ronin86.org
 rooflineseamlessgutters.com
+roomakang.site
 roomnetworks.com
 roomvip2bingo89.pro
 roomvip4dp.com
@@ -8214,6 +8261,7 @@ satuduatujuh.site
 satujiwa.info
 saturdayindesignhongkong.com
 savegaribaldipier.org
+saveursdailleurs.net
 savingsunnyinc.org
 savio.cc
 sayang-gacor.lol
@@ -8297,6 +8345,8 @@ semestamaxwin.pro
 semibolaku.com
 semogagacor.click
 sempak.click
+semzoom.com
+semzoom1.pages.dev
 senang303-lib.site
 senang303altf.store
 senatorhaine.com
@@ -8385,6 +8435,7 @@ shimmymagazine.com
 shinichihatakeyama.com
 shiotogel4dk.xyz
 shiotogel4dz.live
+shiowlagroup.com
 shirazfnb.com
 shizuokalottery.com
 shoesuedeblues.com
@@ -8586,6 +8637,8 @@ slot4dmainyuk.xyz
 slot5000bb40.lat
 slot5000cc40.lat
 slot5000trustxrp1000.lat
+slot5000trustxrp1020.lat
+slot5000trustxrp1080.lat
 slot5000xrp105.lat
 slot69.apkdoh.com
 slot69c.vip
@@ -8612,6 +8665,7 @@ slotgacor.money
 slotgacor2024rupiah.pages.dev
 slotgacor4dsore.site
 slotgacorhariini.bid
+slotgacorhariini2025.com
 slotgcr108.cc
 slotharian-trend.org
 slotharianku.info
@@ -8652,6 +8706,7 @@ sman1kauman.com
 sman1kesamben.com
 sman9tsm.sch.id
 smartcontractor.ca
+smartech.id
 smartfit20.com
 smartfleet.lk
 smartvapepods.com
@@ -8684,6 +8739,8 @@ socialrg.com
 socialscrapr.com
 socialshopbrand.com
 sodaraupin.one
+softsfiles.net
+softsfiles.pages.dev
 softwarelicense4u.shop
 soju88c.lat
 soju88pro.lat
@@ -8809,6 +8866,7 @@ star303gas.shop
 starjoker88.bid
 starjoker88.dev
 starjokerr888.com
+starkpsychedelics.com
 starlabqly.com
 starlin69oke.org
 starling69-rtp.link
@@ -8848,6 +8906,7 @@ stgapp.m2mpay.money
 stitchadress.com
 stitchandscribble.com
 stlawsurgery.com
+stmarksumc.org
 stmaryskolkata.com
 stmarysonthelake.org
 stmatthewspotatofestival.com
@@ -9828,6 +9887,7 @@ wargaqq4.com
 wargatogggelll.net
 waroenksega.store
 warrgga88.co
+warriorspiritpublications.com
 wartogold.pro
 wartosoft.pro
 warung168-godzilla.lat
@@ -9863,6 +9923,7 @@ weatherlinkip.info
 web-Balon4D.linkapp88.com
 web-facebookslot.linkapp99.com
 web-siangtoto.linkapp99.com
+web-slot5000.linkapp77.com
 web.talkwit.tv
 web12.trikagenolx.info
 web2.solarbotics.net
@@ -9975,7 +10036,10 @@ winwinrestaurantandbar.com
 wipeaholic.com
 wiraspin88zm.top
 wis77gagah.com
+wis77jam.com
+wis77karya.com
 wis77polartp6.site
+wis77rtp.site
 wisatajurang.top
 wisdom77ai.shop
 wisdom77id.xyz

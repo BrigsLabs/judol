@@ -401,7 +401,6 @@
 *miliarbet*
 *miliarslot*
 *monaco[0-9]*
-*monas1[0-9]*
 *monas[0-9]*
 *money[0-9]*
 *monyethoki*
@@ -685,6 +684,7 @@
 *wii4d*
 *win[0-9]*
 *wing4d*
+*wis7[0-9]*
 *wisdom77*
 *woles4d*
 *x-dewa*
