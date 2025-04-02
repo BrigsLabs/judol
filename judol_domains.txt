@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 10759
+# Number of entries: 10824
 #
 #
 #
@@ -14,6 +14,12 @@
 028-good.pro
 03032004.net
 0lfw3ft86yg4wulg9vhk.siapbetperang.xyz
+1-win-aviator.com
+1-win-games.com
+1-win-kazino.kz
+1-win-lucky-jet.com
+1-win-online.com
+1-win-slots.com
 1.aduantoto12super.pro
 104salesgroup.info
 10tokyo99.shop
@@ -144,6 +150,7 @@
 456asdffds.cc
 456club.love678.store
 46.solarbotics.net
+4abets.com
 4dngine.com
 4dslot88.lat
 4dslot88b.fun
@@ -881,6 +888,8 @@ autoloanhelpers.com
 autookbos86.top
 avantisunsetpeak.com
 avatar-kyoshi.com
+aviator-guide.com
+aviator-mobile.com
 avisnatura.com
 awal-perahu.xyz
 awan.linetogel788.life
@@ -971,6 +980,7 @@ bakesandbrewsbroomfield.com
 bakpaotelorasin.online
 bakrislot.org
 bakritogel.com
+baksolapangantembaksenayan.id
 bakwan.top
 bakwanpro.xyz
 baladatotortp.fun
@@ -1077,6 +1087,7 @@ baznaskabprobolinggo.menjadipetarung.com
 bbcepat.pro
 bbjiujitsu.com
 bbn123.com
+bbsuperimport.com
 bd303rar.com
 bdc-sendai.jp
 bdgacorwin.xyz
@@ -2076,6 +2087,7 @@ dailymanga.org
 dakarpools.com
 dale-capital.com
 dallasboulevardier.com
+damladuman.com
 damritogel14.com
 dan-brainbox-uat-1.at.isobaraustralia.com
 dana-33.site
@@ -3696,6 +3708,7 @@ imagedelivery.net
 imagehost.live
 images.friendsquotes.com
 images.tokyo99.ink
+imagesks.com
 imajinasilangit.vip
 imakifarm.com
 imaxintegral.com
@@ -3849,6 +3862,7 @@ inorestaurant.com
 ins-ert.cc
 insackongre.com
 insanintl.com
+insmuseum.com
 installmentsfnloan.org
 integrityga.com
 integrohospitals.com
@@ -3965,6 +3979,7 @@ jackpot108a.ink
 jackpot108c.net
 jackpot999.xyz
 jackpotnyaweng.lol
+jackthe.one
 jacobsreservetx.org
 jadilaht8.one
 jadimanten.id
@@ -4649,6 +4664,7 @@ kpscore.xyz
 kpu-rokanhulu.shop
 kpusulut.com
 kqxoso-online.com
+kqxsmn2023.com
 kr-qtimg-lgworld-com.esi-qa.net
 kraken128.info
 kraken128.pro
@@ -5822,6 +5838,11 @@ morrisfarm.org
 moskow-lottery.com
 moskow4d.id
 moskowlotto.com
+mostbet-games.kz
+mostbet-live.kz
+mostbet-pro.com
+mostbet-slot.kz
+mostbet-story.com
 mothershideaway.com
 motor138-vip.online
 motor138-vip.pro
@@ -6349,6 +6370,7 @@ origin.standup2cancer.ca
 originaljpk.com
 orihhc.com
 orikartuqq.com
+orjinbaby.com
 orlando4d.com
 orlandolotto.org
 orphandrugssummit.com
@@ -6409,13 +6431,19 @@ padangtoto.nyala.in
 padi77.id
 pafibangkalan.org
 pafibintang.org
+pafibogorsel.org
 pafibutonselatan.org
 pafibutonutara.org
 paficabangjambi.org
+paficabangpadang.org
 paficabangsumatera.org
 pafidenpasar.org
 pafidesabali.net
+pafidesabumiwaras.org
+pafidesaletbaun.org
+pafidesaotan.org
 pafidesarajabasa.org
+pafidesauiasa.org
 pafigacor.org
 pafihumbanghasundutan.org
 pafiindramayu.org
@@ -6425,11 +6453,13 @@ pafijeneponto.org
 pafikabbondowoso.org
 pafikabcianjur.info
 pafikabcibaliung.org
+pafikabjakartaselatan.org
 pafikablampungselatan.org
 pafikabmanokwari.org
 pafikabnatuna.org
 pafikabngawi.org
 pafikabponorogo.pro
+pafikabsabang.org
 pafikabsemarang.info
 pafikabsemarang.org
 pafikabserang.org
@@ -6552,6 +6582,7 @@ palottery.state.pa.us
 pampermefabulous.com
 panama4d.com
 panamalottery.net
+panasonictv.id
 pancasila.info
 panda.seomrlucky.com
 panda99bar.com
@@ -6611,6 +6642,7 @@ papafamenyala.com
 papatogel365.net
 papatogelzp.net
 papazola.kopivietnam.xyz
+papeterie.id
 papillonfoundation.org
 papystreamingvk.com
 paradigmcapinc.com
@@ -6635,6 +6667,7 @@ parrocchiacrocetta.org
 partaikaryaperjuangan.org
 participle.net
 partner.tagliosc.com
+partnerconnect.net
 pasal4d.net
 pasalgo.com
 pasalsah.com
@@ -6709,6 +6742,7 @@ pejuangskater.online
 pejuangsubur88.vip
 pekaranganbiru.com
 pelabuhantoto.online
+pelajarankelas.id
 pelikani.org
 pelita555qris.pro
 pelita555qris.xyz
@@ -6737,6 +6771,7 @@ pencariangka.mom
 pencethoki.win
 pencethoki99.sbs
 pencetpastihoki.top
+pendakigunung.id
 pendekar138bet.online
 pendidikan.pro
 pengertianahli.id
@@ -6755,21 +6790,26 @@ peraktoto.com
 percaya-lunaskaskus.com
 percayaneko.net
 percayaupin.situstertinggi.com
+perdanareload.id
 perfectcleanaz.com
 perfwars.com
 perihokilink.xyz
 perihokislot.info
 perkembangan.net
+permahi.id
 permencuan.com
+perpusbicara.id
 perpuscuan.shop
 perpustakaansman3palembang.com
 perpustkaanakun.org
+persadaindonesia.id
 persentinggi.art
 personalsafetynets.org
 perthpoolstodays.one
 perucuisineny.com
 perupools.com
 pesantrentahfizquran.com
+pesirah.id
 peso138asli.com
 peso138rtpgacor.org
 peso138uwu.info
@@ -6801,6 +6841,8 @@ pharmabarpali.org
 phccf.org
 phgop1.com
 philippinalottery.com
+philofest.id
+philoshop.id
 phimvlsex.com
 phnompenhlottery.com
 pho88.lat
@@ -6818,12 +6860,16 @@ piklizint.com
 piktogel.pro
 pilar1001top.site
 pilkada2017.com
+pin-up-guru.in
+pin-up-live.com
+pin-up-play.in
 pingtangkaisuo.com
 pinjam4000.com
 pinjemduitalong.xyz
 pinosbarnsley.com
 pinoyboxbreak.com
 pintasku.com
+pinup-play.in
 pionhaya.com
 piramida89hoki.com
 pisanggorengap.top
@@ -6853,6 +6899,7 @@ planikausa.com
 plantationlawnservices.com
 plantonesitalian.com
 plaquenilgn.com
+plat789.xyz
 platform-resmi.store
 platinumslot.cc
 platinumslot.com
@@ -6883,6 +6930,7 @@ plaza-realty.net
 plntogel.org
 plntogeljaya.org
 plntogelsetia.art
+plt789u.com
 plusbtluarbiasa.site
 plustogel.cc
 plustogel.com
@@ -6959,6 +7007,7 @@ polawish7.store
 polayb8.site
 polayb9.site
 polishembassy.ca
+polisikamboja.org
 polknokillcoalition.org
 polnx3.lol
 pololangsungbayar.com
@@ -6968,8 +7017,11 @@ polototo168.com
 polototo5000.com
 polototoprince.com
 polototopromo.lol
+polresmamujuutara.com
+polrestapsel.id
 polsektambun.com
 poltekkesternate.net
+pomb.org
 pomeraneo.com
 pompompopuler.pro
 ponpesnwjakarta.com
@@ -6983,6 +7035,7 @@ populer4d999.pro
 port.putarroda.store
 portal.laticketera.com
 portal.unidoscontraelparkinson.com
+portantas.org
 portlandcleanenergyfund.org
 portlandpools.us
 portopools.com
@@ -6994,6 +7047,7 @@ poseidonsreach.com
 positiveimpactforkids.org
 postmaster.inetglobal.com
 postpartumwiki.com
+potrekoneng.id
 potustoday.com
 power.myanmarvr.com
 power4d.net
@@ -7005,6 +7059,7 @@ pphki.cc
 pphoki33.cfd
 pphoki88.fun
 pphokirtp99.click
+ppikotadepok.or.id # malicious backlink
 ppseonlinejournal.org
 pptphotography.com
 pqr-situsslot777.site
@@ -7012,6 +7067,7 @@ prabuvip.pro
 prada555admin.store
 prag-iji-2-telu09.online
 pragmatic218new.xyz
+pragmaticplay.id
 pragmaticplaycareers.com
 prahalottery.com
 prahalottery.store
@@ -7100,6 +7156,7 @@ prettynotincluded.com
 prettywittycakes.com
 priaidaman.xyz
 prid-terdepan.shop
+pridegoeseast.org
 primeglobaliris.co.uk
 primerplay.cc
 primerplay.kim
@@ -7231,6 +7288,7 @@ pucuk138.com
 pueblogrande.org
 pugprotectiontrust.org
 pujajagat.com
+pulaumas.id
 pulaumorotaikab.site
 pulausamba.top
 pulsamaxwin.com
@@ -7252,6 +7310,7 @@ pusat4dtext.co
 pusatresep4d.shop
 pusatrtp-topwin.cfd
 pusdiknas.id
+push2extreme.com
 pusingkalibosku.store
 puskesmaskotaagung.org
 pustakatimur.org
@@ -8037,6 +8096,7 @@ rtppg.org
 rtppga77joss.boats
 rtppisces88supergacor16.lat
 rtppixiu.online
+rtpplat789.motorcycles
 rtppltsatu.live
 rtppm77.club
 rtppm77.org
@@ -8152,6 +8212,7 @@ rtpxyzklub.icu
 rtpyoga10.lat
 rtpyztoto.click
 rtslotsx250.com
+ru-pinup.ru
 ruang80s.com
 ruangok.com
 rubam.net
@@ -8223,6 +8284,7 @@ saintmarkamez.org
 saintmartinlottery.com
 saipanetour.co.kr
 sajssh.com
+sakau.id
 sakauujudi.info
 sakti-kalselprov.pages.dev
 sakti55.asia
@@ -8662,6 +8724,7 @@ slack.hyperquery.ai
 slalu81dihati.shop
 slangcash.com
 slgghoki.com
+slot-1win.com
 slot-gacor.bid
 slot-kf1.xyz
 slot123.apkdoh.com
@@ -8855,6 +8918,7 @@ spinhadiah7winbet.lol
 spinjazz4d.xyz
 spinkeren777.xyz
 spinklikdewa6.click
+spinkotok.lol
 spinkuy89.xyz
 spinnermantab.site
 spinrog.skin
@@ -9367,6 +9431,7 @@ tigatogel5.com
 tiger138.group
 tigerair.au.qa.ibe.amber.airblackbox.com
 tigergroup.vip
+tigerwoods10.com
 tiketbola16j.xyz
 tiketjepe.pro
 tiketjepe001.com
