@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 10824
+# Number of entries: 10897
 #
 #
 #
@@ -649,6 +649,7 @@ angkot88.org
 angkot88pasti.net
 angkot88trust.org
 angpaojp.com
+animaltourismfinland.com
 animeoverload.net
 anjay22banget.info
 ankarapools.com
@@ -943,6 +944,7 @@ babeltotomacau.pro
 babeluckywheel.com
 babemuh.com
 babetherich.com
+babookeditions.com
 babybazaar.com.my
 bacain.com
 bacan4dkeren.space
@@ -1059,6 +1061,10 @@ baronglive.site
 barongmenang.site
 barongnaik.top
 barrougeclubs.com
+barudak4d.com
+barudak88.com
+barudaklangit.site
+barudakmain.site
 basmiphising.xyz
 basseru.space
 batacore.xyz
@@ -1074,6 +1080,7 @@ batiksatu.vip
 batman138.cc
 batmantotoasia.com
 batmantotolinkgacor.com
+batmanxzlfsr.com
 bayam89-a1.xyz
 bayam89-a7.xyz
 bayam89-v5.com
@@ -1456,6 +1463,7 @@ brescialotto.com
 brimobpoldalampung.com
 brisbane4d.com
 brisbanelottery.com
+brister.co.id
 bristol-pools.com
 britania4d.com
 britglyph.com
@@ -1844,6 +1852,7 @@ cipillss.com
 cipit88.bid
 cipit88.lat
 cipit88best.com
+circleselatan.site
 citislot88.best
 citislot88a.store
 citrorestaurant.com
@@ -2160,6 +2169,7 @@ dbindt.com
 dblraffi.com
 dbltoto17.com
 dbqpbvms.org
+dc5f.short.gy
 dchealthpsychology.com
 dchomeprices.com
 dclottery.com
@@ -2170,6 +2180,7 @@ de.lauraandalex.wedding
 de1-asset.informasibaru.help
 dealer-search.prod.readylogistics.ca
 dealerhondamedan.net # malicious backlink
+dealermitsubishimanado.id
 debbiexenia-hotelapts.com
 decentralisation-niger.org
 decisio.health
@@ -2672,6 +2683,7 @@ euromenang.xyz
 euronagabola2024.com
 event-tw.hogiahlang.com
 eventcola-new.lol
+evergreentopsoil.com
 everychicway.com
 evgeniy-ivlev.com
 evilmora.org
@@ -2899,6 +2911,7 @@ ftp.squaretradermi.com
 ftp.upacademyholland.org
 ftp.whiteassociatesinc.com
 ftp.whitecoataffair.net
+fu5z.short.gy
 fucosan.org
 fueven.com
 fujiyamalottery.com
@@ -3219,6 +3232,7 @@ goldenlele.one
 goldmethod.net
 goliveweb.eu
 gomu.live
+goobatmantoto.com
 goodlink.click
 goodmeat.org.infra.camelspit.org
 goodsilversteaks.com
@@ -3557,6 +3571,7 @@ hotelinvestmentplatform.com
 hotelparisencamp.com
 hotelportsitges.com
 hotels-amneville.com
+hotelsingkil.com
 hoteltempleviewmadurai.com
 hotelyatrik.house
 hotsingawin.one
@@ -3670,6 +3685,7 @@ idtmenang.shop
 idw88.fun
 idwin88.us
 ieltsvictoria.com
+ietepune.org
 iform.id
 ifrikia.com
 ig247slots.top
@@ -3768,6 +3784,7 @@ indo500altenatif.lol
 indo6d.menantugoogle.vip
 indo6dtoto.fun
 indo6dtoto.top
+indobestspices.id
 indobet-ku.com
 indobetku.gold
 indobetku.mobi
@@ -3782,6 +3799,7 @@ indomaster88rtp.cam
 indomax88.rent
 indomita.net.cdn.cloudflare.net
 indomutasi.store
+indonesia-belajar.org
 indonesiadigitaltribe.id
 indonesiaoke.id
 indopokerku.com
@@ -3869,6 +3887,7 @@ integrohospitals.com
 interabu.com
 interfaceuganda.org
 interiortonic.id
+internal-login3.pro
 internationalconsultingnetwork.org
 internationaldystoniasymposium.org
 interno3.net
@@ -4211,6 +4230,7 @@ jpromawibet.com
 jpslotgg.fun
 jpsniper.site
 jptvtogel.com
+jpwiki.com
 jpyuk77.link
 jrjlandscapingfl.com
 jrobertspencer.com
@@ -4336,6 +4356,7 @@ k86bola.info
 k86hk.pro
 k86shio.pro
 kabarkarawang.id
+kabarposnews.co.id
 kabarteknisi.com
 kabeh88-game.store
 kacaindo.com
@@ -4724,6 +4745,7 @@ kungfu4d.biz
 kunmingpool.com
 kunshinnoshishui.com
 kuntogel-link.top
+kupang-suarantt.com
 kuponspin.com
 kurnia898.milive.cam
 kurnia898apk.xyz
@@ -4851,6 +4873,7 @@ lazada-303baru.xyz
 lazada3kosong3.xyz
 lazawinslot.fun
 lazawinvip.net
+lazisnukudus.org
 lbstatic.winwinwin168.net
 lbtujuhpendekar.com
 lcomp5913373.fco45xzxz.com
@@ -5249,6 +5272,8 @@ luckywhells-skin4d.top
 ludobersih.com
 luk88.net
 luksemberglottery.com
+lumicoklatkeju.pro
+lumipermata.pro
 lunarfoom.lol
 lux1288a.com
 lux1288h.shop
@@ -6122,6 +6147,7 @@ ninjaamp96.xyz
 ninjakatana.vip
 nirwana88jp.shop
 nishkammediacentre.com
+nissan-serang-banten.id
 nlcbplaywhelotto.com
 nlpai2024.org
 nncg.org
@@ -6414,6 +6440,7 @@ oxford-pools.com
 oxfordpsychologicalmedicine.org
 oxfordtomorrow.org
 oxplay.pro
+oystersatellite.com
 p059x.c566.cc
 p200mbagus.makeup
 p200mbagus.mom
@@ -6774,6 +6801,7 @@ pencetpastihoki.top
 pendakigunung.id
 pendekar138bet.online
 pendidikan.pro
+pengembanglumi777.asia
 pengertianahli.id
 penmedia.org
 pensiunankerang.info
@@ -7350,6 +7378,7 @@ qiuqiu99.buzz
 qiuqiu99.com
 qiuqiu99.poker
 qiuqiu99.support
+qoperasi.id
 qq-mercy-juara.pro
 qq2889link1.store
 qq2889uno.site
@@ -7467,6 +7496,7 @@ ramalanpamansam.store
 ramalantotal.xyz
 ramentesdreches.com
 randrsoulfood.com
+rangewatch.org
 rankik.com
 rans88leng.shop
 rapac.org
@@ -7480,6 +7510,7 @@ rashakai.com
 rashakai.sijago88.workers.dev
 ratchaburi-wlalottery.com
 ratchaburiprize.com
+rate777lumi.click
 rategood.xyz
 ratesbngas.site
 ratetotpetir.site
@@ -7491,13 +7522,17 @@ ratuselatan.site
 ratuskin4d.top
 rawit128.biz
 rawit128.live
+rawit128a.id
 rawit128b.com
 rayglier.com
 raynworth.com
+razzledazzlepoms.com
 rdd2023.org
 rdjb.pages.dev
 rdrnwl.xyz
+readingsbytiffany.com
 real-rtppaket4d.store
+realestatesolutionsinc.com
 reallivesenang.xyz
 realwap.net
 realwinabu.com
@@ -7529,8 +7564,10 @@ rekeningmerah.site
 relxcutt.link
 remaxbydeluxe.com
 remaxn1903.remaxtexas.com
+remedyskincarecenter.com
 remkoduursma.com
 renecodes.com
+renovasirumah.id
 repliit.one
 report4.dataalexis.com
 reportmt.xyz
@@ -7551,11 +7588,14 @@ resiliencecouncil.org
 resmi-beluga99id.info
 resmiria4d.site
 resmiterminalbet.click
+resorthotelsindia.com
+resorthotelsvanuatu.com
 resources.dispatch.com
 responsepads.com
 restaurant-lecantalou.com
 restaurant-stradivari.net
 restaurantcafedeshalles.com
+restaurantebruselas.com
 restaurantebruselas.net
 restaurantecolosseo.com
 restaurantelacucharita.com
@@ -7571,6 +7611,7 @@ resumebycprw.com
 retailinvestorconferences.com
 retepe4.kokomain.icu
 retirementplansmyway.com
+retirementservicesnet.com
 returnt0pl4y3r.xyz
 returntoplayertoday.pro
 reunionbar.com
@@ -7614,6 +7655,8 @@ riseandshinema.org
 riversideproperties.net
 rivertrek88.net
 riyadhjobstoday.com
+rizkynadiateknik.id
+rizkynadiateknik.pages.dev
 rjb.simplyworks.xyz
 rjbaccarat.biz
 rjbom.link
@@ -7629,6 +7672,7 @@ roamingrgb.com
 robertjambrose.com
 robertmknight.net
 robertour.com
+robertwinston.org
 robinsonlanding.com
 robotsceter.shop
 rochesterlottery.online
@@ -7699,6 +7743,8 @@ royal1000.com
 royal1000.org
 royal38vip.com
 royalacung.com
+royalatk.com
+royalbali.id
 royalking4d-link.store
 royalkingit.com
 royalmusketer.com
@@ -7713,6 +7759,7 @@ rp77uu.net
 rp888abd.top
 rpghs.com
 rpihockey.net
+rplusklinikgigi.com
 rr1221asia.poker
 rr1221asiartpgacor2025.netlify.app
 rrakkyaatt4d.com
@@ -7813,6 +7860,7 @@ rtp05.republik365.live
 rtp1-sendok88.xyz
 rtp1.mutasigacor.com
 rtp1.rtpmember77.org
+rtp11play.com
 rtp12.gacor-beluga99.xyz
 rtp1337kemenangan.pages.dev
 rtp16groupa10.xyz
@@ -8031,6 +8079,7 @@ rtplivepragmatic.com
 rtplivesgcwin88.store
 rtplivetradisibet.info
 rtplongdukpk.com
+rtplumi777vip14.click
 rtpluxehoki22.xyz
 rtplvonline.my
 rtpmaenyuk.sbs
@@ -8284,6 +8333,7 @@ saintmarkamez.org
 saintmartinlottery.com
 saipanetour.co.kr
 sajssh.com
+sakamilenial.id
 sakau.id
 sakauujudi.info
 sakti-kalselprov.pages.dev
@@ -8312,10 +8362,12 @@ salamancalottery.com
 salamancapools.com
 salamku01.online
 sales-suzuki.id
+salesdaihatsu.id
 salinamonamour.com
 salju-4d.org
 saloononcalhoun.com
 salvadorlottery.com
+salvadorsoftware.com
 salvatorebonafede.com
 samarinda-pools.com
 sambalgurami.top
@@ -8336,6 +8388,7 @@ sangatgacorpunya.com
 sangdompet.xyz
 sanggarmolek.shop
 sanjuanlottery.com
+sankofa-rhythm.com
 sankydirect.com
 sanmarinoprize.com
 sansalito.com
@@ -8347,6 +8400,7 @@ santiagolottery.online
 santuy4dbuyspin.com
 santuy4djackpt.com
 saopaulopools.com
+sapimelet.id
 saputerbang.cc
 sarangbest.pro
 saribumikusuma.net
@@ -8402,6 +8456,7 @@ scotlandialottery.com
 screamingtrees.net
 se.wikibudaya.cc
 se10-to9eldulu.click
+seanode.id
 seanwesleysmith.com
 seapup.co.id
 search.ewaycorphosting.com
@@ -8415,6 +8470,7 @@ securedomain.ca
 sedayubet-mantap.xyz
 sedayumaju.cc
 sedekahbang.site
+sedotwcmedan.id
 sega338luckyspin.vip
 seguecoffee.com
 segundamanoplasencia.es
@@ -8430,6 +8486,7 @@ selalugacor77.online
 selalusenangsekali.site
 selalusetia2024.xyz
 selalutersakiti.com
+selatan88.rate-up.live
 selawman.quest
 seldoviaharborinn.com
 seleb.menantugoogle.vip
@@ -8460,6 +8517,7 @@ semzoom.com
 semzoom1.pages.dev
 senang303-lib.site
 senang303altf.store
+senararestaurants.com
 senatorhaine.com
 sendok88.com
 sendok88atas.pro
@@ -8562,6 +8620,7 @@ shordmantap.xyz
 short77.co
 shortasu.xyz
 shortclick.vip
+shortcutvirusremover.com
 shortenerlink.site
 shortininja.xyz
 shortstoriesnj.com
@@ -8607,6 +8666,7 @@ silolessinc.com
 silumantobrut.com
 silventarphotography.com
 simalakama.info
+simatupangbatubara.id
 simlabftb.top
 simonmackinnon.com
 simpan369.com
@@ -8630,6 +8690,7 @@ singaporepools.com.sg
 singaporepoolsnight.com
 singawinrtp.top
 singconsortium.org
+sinhairshampo.id
 sinibang.cariregistaza.one
 sinopools.com
 sinsekaiimage.xyz
@@ -8723,6 +8784,8 @@ slaaa.top
 slack.hyperquery.ai
 slalu81dihati.shop
 slangcash.com
+slash-pro.id
+slashtag.id
 slgghoki.com
 slot-1win.com
 slot-gacor.bid
@@ -8746,6 +8809,7 @@ slot16t.xyz
 slot16u.xyz
 slot188-top.xyz
 slot2000au.com
+slot2121judi.com
 slot4dmainyuk.xyz
 slot5000bb40.lat
 slot5000cc40.lat
@@ -9120,11 +9184,14 @@ superttoogel.com
 superwiraspin88.pro
 supir.top
 supmakanan.com
+supmiso.com
 support.burning-glass.com
 support.marschpat.com
 supportmaxb.com
 supportncare.org.np
+suptauge.com
 suptogel.net
+suptogelmasuk.com
 suptogelprediksi.com
 surabayaprize.com
 surabayasosial.com
@@ -9735,6 +9802,9 @@ udin88f.top
 udin8a.dev
 ufabetrend.finance
 ufacity.info
+ug11play.com
+ug11playboy.org
+ug11playtech.net
 ug8king.com
 ug8meriah.com
 ugogirl.shop
@@ -10396,6 +10466,7 @@ zyngapoker.com
 888rpae.com
 88ksr.wordpress.com
 8r0h54-553-ppp.oss-accelerate.aliyuncs.com
+a1211.dscr.akamai.net
 a5cdn.com
 aceh4dblog.wordpress.com
 adomselfrecigency.com
@@ -10605,6 +10676,7 @@ i.scdn.co
 idnpopups.s3.ap-southeast-1.amazonaws.com
 iframe.oasisid.com
 iili.io
+image777.sgp1.cdn.digitaloceanspaces.com
 imagebank.b-cdn.net
 imagedel.com
 images.ctfassets.net
@@ -10764,6 +10836,7 @@ sobajimakmur.com
 sohogroupblog.wordpress.com
 source.ligasumut.com
 spacerbucket.com
+staging-9a793.firebaseapp.com
 static-content.pro
 static.augipt.com
 static.geevisit.com

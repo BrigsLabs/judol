@@ -4,14 +4,12 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1084
+# Number of entries: 1083
 #
 # *slot*.*
 # *toto*.*
-# *aj4d* # may cause false positive
-# *mi[0-9]* # may cause false positive 
-# *n69* # may cause false positive
-# *ug[0-9]* # may cause false positive
+# *plat7[0-9]* # stuck on python generator
+# [0-9]-win* # stuck on python generator
 *11wbet*
 *168gg*
 *4d.com
@@ -82,6 +80,7 @@
 *bandar[0-9]*
 *bandarq*
 *barito[0-9]*
+*barudak*
 *bayam[0-9]*
 *bdk[0-9]*
 *beluga*
@@ -476,7 +475,6 @@
 *pin69*
 *pisces[0-9]*
 *planet1[0-9]*
-*plat7[0-9]*
 *platinumslot*
 *play88*
 *playking[0-9]*
@@ -701,7 +699,6 @@
 *yukdwt*
 *yuktg[0-9]*
 *zeus[0-9]*
-[0-9]-win*
 aa[0-9]*
 amp*
 apkapi-*
