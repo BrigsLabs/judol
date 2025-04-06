@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1083
+# Number of entries: 1091
 #
 # *slot*.*
 # *toto*.*
@@ -64,6 +64,7 @@
 *asianslot[0-9]*
 *athena[0-9]*
 *att4d*
+*awan1[0-9]*
 *ayobet*
 *babeltoto*
 *bacan4*
@@ -752,6 +753,7 @@ up[0-9]*
 *.ceo
 *.cfd
 *.charity
+*.cheap
 *.christmas
 *.church
 *.city
@@ -781,9 +783,11 @@ up[0-9]*
 *.dog
 *.download
 *.eco
+*.engineer
 *.esq
 *.events
 *.expert
+*.faith
 *.fan
 *.fashion
 *.finance
@@ -829,6 +833,7 @@ up[0-9]*
 *.loans
 *.locker
 *.lol
+*.london
 *.love
 *.ltd
 *.luxe
@@ -850,6 +855,7 @@ up[0-9]*
 *.name
 *.navy
 *.new
+*.ninja
 *.non
 *.okinawa
 *.ong
@@ -900,8 +906,10 @@ up[0-9]*
 *.site
 *.skin
 *.solar
+*.soy
 *.space
 *.sport
+*.srl
 *.store
 *.studio
 *.style
