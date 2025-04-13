@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 11238
+# Number of entries: 11298
 #
 #
 #
@@ -440,6 +440,7 @@ akses.jepe-mutasit0t0.store
 akses2dotaslot.site
 akses8.ladang78alt.site
 aksesbayar.com
+aksescepat.xyz
 aksesgacor.co
 aksesgbk76.sbs
 akseskilat.live
@@ -1299,6 +1300,7 @@ bisabos88no1.com
 bisabos88star.pro
 bisaindonesia.id
 bisalogin.net
+bishopsmediterranean.com
 bistrorichard.com
 bistroturkuazseattle.com
 bistrovgroswell.com
@@ -1548,6 +1550,7 @@ bukan-aku-bang.site
 bukanagita.com
 bukti-jptg88.cc
 bukti-pembayaran-cola.lol
+bukti.lapakinfo.click
 bukti.neototopage.bond
 buktibayartogel.com
 buktibayarwak.com
@@ -1577,6 +1580,7 @@ buktijpmothonda.com
 buktijpmulia77.store
 buktijpnanagroup.cc
 buktijpnanagroup.me
+buktijpnona88.xyz
 buktijposg888.in
 buktijposg888a.com
 buktijppohon4d.org
@@ -3117,7 +3121,9 @@ garuda4dinfo.pro
 garuda4dlancar.lol
 garuda4dslot.online
 garuda4dways.site
+garuda999.icu
 garuda999.pages.dev
+garuda999play.info
 garudagacorku.site
 garudagacorku.xyz
 garudagamertp.lat
@@ -3516,6 +3522,7 @@ hb188-banc.xyz
 hb188aura.online
 hbostatic.us
 hdbet88.tv
+healthfinancejournal.site
 healthycherrylipstick.com
 healthyskinsolutions.com
 hebat99-oke.top
@@ -3788,6 +3795,7 @@ ig247slots.top
 ig247win.biz
 igamble247arenazona.fitness
 igamble24tujh.top
+igbobicollegeyaba.com
 igm247boss.net
 igm247real.org
 igmblemaxwin.xyz
@@ -3815,6 +3823,10 @@ ilmutotokuat.xyz
 ilmutotoonigiri.com
 ilmutototakoyaki.com
 ilovebabybushka.com
+ilucky88bet34.net
+ilucky88bet60.link
+ilucky88rtppro.icu
+ilucky88slotzona.bond
 imagecurl.hospital
 imagedelivery.net
 imagehost.live
@@ -3899,6 +3911,7 @@ indomutasi.store
 indonesia-belajar.org
 indonesiadigitaltribe.id
 indonesiaoke.id
+indonesiapost.icu
 indopokerku.com
 indopokerku.gold
 indoslot.bio
@@ -4097,6 +4110,7 @@ j200mwin.cam
 j99playasli.shop
 jack.marontoto.help
 jackinkhakis.com
+jackpot.rtplpk7d.xyz
 jackpot.t4live.xyz
 jackpot108a.ink
 jackpot108c.net
@@ -4284,6 +4298,11 @@ jivs.net
 jiwa168.lol
 jiwa168a.cyou
 jiwa168b.cc
+jiwaku88answer.online
+jiwaku88linux.website
+jiwaku88ons.icu
+jiwaku88vip3.com
+jiwaku88young.xyz
 jixiti.info
 jjaawwaabbaarraatt.store
 jkt303terik.top
@@ -4490,6 +4509,7 @@ kakek188a.shop
 kakek188a.top
 kakekajudan88.xyz
 kakekjp.cc
+kakekjpgacor.icu
 kakekmerah-apk.cloud
 kakekmerah4d.fun
 kakhap99.site
@@ -4899,6 +4919,10 @@ kuyselalujayasekali.xyz
 kw303a.site
 kyoto4dpools.asia
 kyoto4dpools.store
+kyoto98alternatif.icu
+kyoto98jitu.it.com
+kyoto98live.rtpreal.org
+kyoto98max.it.com
 kyototoujikikaikan.kyoto
 kyoungpay.com
 l22campaign.com
@@ -4971,7 +4995,9 @@ laopanganas.com
 laoslotto.asia
 laoslotto.store
 lapak303asia.one
+lapak7dlord.icu
 lapak7dmaju.club
+lapak7dtoto.sbs
 laparrillaranchera.com
 laporanolx06.info
 laporkendala.co
@@ -5164,6 +5190,7 @@ linkpanglimajp.biz
 linkpanglimajp.college
 linkpanglimajp.space
 linkpanglimajp.store
+linkpck88.info
 linkpg.me
 linkpro39judi.lol
 linkpusatgamegacor.info
@@ -5182,6 +5209,7 @@ linktembus.pro
 linkternama.com
 linktjpgacor.xyz
 linkvip39judi.lol
+linkviprajasloto.icu
 linkwa.org
 linkz.store
 linkz1.xyz
@@ -5406,6 +5434,7 @@ luckyspinbento4d16.xyz
 luckyspincerutu.net
 luckyspindewaraja88-antizonk.lol
 luckyspingold.click
+luckyspinjiwaku88mantap.one
 luckyspinkrisna96.lat
 luckyspinlexitoto.quest
 luckyspinpanen96.xyz
@@ -5657,6 +5686,7 @@ masasushi828.com
 mascocco.net
 masihtirai.me
 masimumma.com
+maskot88e.icu
 maslele.pro
 maslele.xyz
 masonicdictionary.com
@@ -6299,12 +6329,15 @@ nightcoreshadow.xyz
 nightmareshadow.xyz
 nightshadow.xyz
 nightyd20.com
+nihlinkninjajago.beauty
 nihrtp365raja.com
 ninja188alternatif.xyz
 ninja96-006.me
 ninja96.cc
 ninjaamp96.xyz
+ninjachance.icu
 ninjakatana.vip
+ninjaproguard.fun
 nirwana88jp.shop
 nishkammediacentre.com
 nissan-serang-banten.id
@@ -6325,6 +6358,11 @@ nolimitx500.live
 nomercyamp.org
 nomerku.com
 nomormimpiweng.pro
+nona88-geneva.icu
+nona88advent.xyz
+nona88archero.xyz
+nona88diadem.xyz
+nona88javelin.xyz
 nonamerestaurantwm.com
 nongkrongasik.lol
 nono4done.com
@@ -7268,6 +7306,9 @@ pp88.asia
 pphki.cc
 pphoki33.cfd
 pphoki88.fun
+pphoki89.cfd
+pphoki99.sbs
+pphokirtp99.beauty
 pphokirtp99.click
 ppikotadepok.or.id # malicious backlink
 ppseonlinejournal.org
@@ -7363,6 +7404,7 @@ premansukses.com
 preprod.solarbotics.net
 preranahospital.com
 presidentabang.com
+prestige-parkgrove.com
 prettynotincluded.com
 prettywittycakes.com
 priaidaman.xyz
@@ -7423,6 +7465,8 @@ proyek88-rtp.fun
 proyek88slot-rtp.shop
 prudencei.shop
 prudent.thegallerycollection.com
+psg77.icu
+psgspinwheel.site
 pshd.org
 psisiemens.com
 pspbisa.com
@@ -7440,6 +7484,7 @@ pub-030bf10fe1a0403cb36d73c3e2e2b903.r2.dev
 pub-06ff85254fab4956804723ef05e9c0bc.r2.dev
 pub-0d925b1b3c6944ea948fa415c38c775c.r2.dev
 pub-0dd12ba69dc1432c9bb2a3b626142b83.r2.dev
+pub-1311e419213248cf91ada26081c6c888.r2.dev
 pub-182efdc943d14ef5a0be9eb8450958a6.r2.dev
 pub-1afacac1f4734757b0908784991abb88.r2.dev
 pub-24d67f26c9d542d28930bae82da3a415.r2.dev
@@ -7500,6 +7545,8 @@ pub-f60bd858425e49cb9949aa6ea0b94e86.r2.dev
 pub.finance
 public.victorrodrigues.com
 pucuk138.com
+pucuk88best.icu
+pucuk88official.com
 pueblogrande.org
 pugprotectiontrust.org
 pujajagat.com
@@ -7510,6 +7557,7 @@ pulsamaxwin.com
 pulsaojk.com
 pulsaslot.gg
 puncak123.pro
+puncak88.icu
 puncakbook.online
 puraviespa.com
 puri-118.live
@@ -8033,6 +8081,7 @@ rtp-siangtoto.xyz
 rtp-siangtoto2.xyz
 rtp-siangtoto3.xyz
 rtp-sip33.fun
+rtp-slot.com
 rtp-slotmaxwindana.site
 rtp-slotogel.wiki
 rtp-tambakjp.xyz
@@ -8332,8 +8381,10 @@ rtpnagita188go.net
 rtpnagitavip.one
 rtpnanagroup.me
 rtpnanagroup.wiki
+rtpninjamenang.shop
 rtpnobitabet.shop
 rtpnobitabet.space
+rtpnona88.xyz
 rtpnos4d4.site
 rtpodin77luck.xyz
 rtpomo777gas.site
@@ -8365,6 +8416,7 @@ rtppro8eta.site
 rtpqdal88.com
 rtpqqpalace.xyz
 rtpraja88jp2.lol
+rtprajasloto.com
 rtpratoto.com
 rtpreal.miaw4dempire.xyz
 rtprimbagacor.click
@@ -8397,6 +8449,7 @@ rtpsky77gacor.icu
 rtpslot-miliarbet.online
 rtpslot.rtptbet.store
 rtpslot5000xrp750.lat
+rtpslot88.autos
 rtpslot88ku7.site
 rtpslot88ku8.club
 rtpslot88resmi3.art
@@ -8660,6 +8713,7 @@ scatterapi.com
 scatterapi.net
 scatterhitam.id
 scatterhitam69.org
+scatterhitamkakekjp.makeup
 scatterkaskus.com
 scattermulia77.hair
 schfess.id
@@ -8699,6 +8753,7 @@ sekolahweek.com
 sektoralk.com
 sektorjasa.com
 selalubar.xyz
+selalucuanbrayrtpjiwaku88.online
 selalugacor77.online
 selalusenangsekali.site
 selalusetia2024.xyz
@@ -9243,6 +9298,7 @@ sqltemp.co.uk
 squareeyes.blog
 srghokiwheel.info
 srt.lat
+ss.jagoanneo.info
 ss88-back.xyz
 ss88-emo.xyz
 ss88ulecoi.com
@@ -9730,6 +9786,7 @@ thepredictablesource.com
 thepurecbdcompany.shop
 thepursuitofliberty.org
 theraleighconcertband.org
+therpmexploratorium.site
 thertpttjkeren.life
 thesharingbros.com
 thesoteriamethod.com
@@ -10270,6 +10327,7 @@ vip88jp.com
 vipbirutoto.com
 vipenamkosongtiga.pro
 vipjantan69.com
+vipjiwaku88.com
 vipkinggaruda138n.shop
 viplane.vip
 viplogika4d.com
@@ -10443,6 +10501,7 @@ webmail.novusgroup.my
 webmail.randomem.com
 webmail.reiqblog.com
 webmail.rrr.physicalprofits.com
+webrajasloto.pro
 websitekokitoto.com
 websitemain.xyz
 websitepedia.com
@@ -10982,6 +11041,7 @@ fileku.cc
 filemu.cc
 fonts.cdnfonts.com
 form.6mbr.com
+forms.zohopublic.com
 fpnpmcdn.net
 freeimage.host
 gachaengine.com
