@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1107
+# Number of entries: 1103
 #
 # *slot*.*
 # *toto*.*
@@ -148,6 +148,7 @@
 *detik[0-9]*
 *dewa[0-9]*
 *dewadora*
+*dewahoki*
 *dewaraja[0-9]*
 *dewasultan*
 *dewata[0-9]*
@@ -191,6 +192,7 @@
 *gambler*
 *gambling*
 *gamesgg*
+*ganas69*
 *gap8*
 *garibet*
 *garuda4d*
@@ -419,6 +421,7 @@
 *mvia88*
 *naga[0-9]*
 *nagabola*
+*nagahoki*
 *nagaslot*
 *nana4d*
 *nanagroup*
@@ -436,6 +439,7 @@
 *new[0-9]*
 *next[0-9]*
 *niagabet*
+*niagahoki*
 *ninja96*
 *nobitabet*
 *nona88*
@@ -684,6 +688,7 @@
 *venom[0-9]*
 *vgslot[0-9]*
 *virgobet[0-9]*
+*visabet*
 *vitamin88*
 *vivaslot[0-9]*
 *vivo4did*
@@ -729,6 +734,7 @@ paki*.org
 ss88* 
 ug8*
 up[0-9]*
+vsa88bos.*
 # TLD abuse list from source : https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/spam-tlds-rpz-aggressive.txt
 *.actor
 *.africa
