@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 11441
+# Number of entries: 11446
 #
 #
 #
@@ -228,7 +228,6 @@
 98abadi.com
 98acung.com
 99ruby.com
-9ae44tdbvs.com
 9eruh30g4wb67ugtwj5d.papatogeljin.xyz
 9naga-ai.net
 9nagagacor3.net
@@ -509,6 +508,7 @@ allenbarandlounge.com
 allieddoorsflorida.com
 allintair.com
 allnew888.com
+allnewpoker.net
 alloascend.vip
 allsindhjobz.com
 alnoof.com
@@ -1155,7 +1155,6 @@ beijingpools4d.net
 beko.pages.dev
 belahduren.xyz
 belajarakuntnsi.org
-belajarcasino.com
 belarusialottery.com
 belarusiapools.com
 belionline.store
@@ -2787,7 +2786,6 @@ exaget.com
 excelmkt.com
 exeter-pools.com
 exmuros.org
-exp.boobsbymassage.com
 expeditionprofesional.org
 expermed2024.org
 explicitdirect.net
@@ -3100,7 +3098,6 @@ game-online-bgn168.one
 game16group.com
 game27.republik365.site
 gamecuan.lat
-gameiosapk.com
 gamejazz.xyz
 gamelandblog.xyz
 gameonfire.xyz
@@ -6451,6 +6448,7 @@ nova126-new.lol
 novel.starman.cn
 noxiousadvocate.id
 npbelarus.info
+npselalu.net
 nptfilms.org
 nro.ezentis.com
 nsp2d.com
@@ -9924,6 +9922,7 @@ thrivethrumenopause.com
 thunderteacher.com
 tianjinlotterypools.com
 tianlong666.com
+tianlongpoker.net
 tibatibamenyala.icu
 tibatibat8.one
 tibyouth2019.com
@@ -11044,6 +11043,7 @@ apk.e-droid.net
 app-a.gm-ldr-82r2tndnuha5.com
 app-a.ply-ldr-rfo6v4aqd6cqw84z.com
 appsgeyser.com
+ascendercorp.com
 asdfcasa.com
 asetkadek.s3.ap-southeast-2.amazonaws.com
 asiasigma.sgp1.cdn.digitaloceanspaces.com
@@ -11061,7 +11061,6 @@ backend.gameswhitelabel.com
 bandar-jaya.com
 bangaset.s3.ap-southeast-1.amazonaws.com
 bas3data.xyz
-belajarcasino.com
 beritaindonesia.co
 bestlink.ly
 birototo.sgp1.cdn.digitaloceanspaces.com
@@ -11124,6 +11123,7 @@ d2qos86h2u305y.cloudfront.net
 d2rzzcn1jnr24x.cloudfront.net
 d2te5kruq0pvbl.cloudfront.net
 d2tgl6ertesjei.cloudfront.net
+d2ujflorbtfzji.cloudfront.net
 d30uvy2l9rv94q.cloudfront.net
 d30xzloyu3qfm5.cloudfront.net
 d32jers.com
@@ -11147,6 +11147,7 @@ dbxmjjzl5pc1g.cloudfront.net
 dd8p0622bwh41.cloudfront.net
 designku.io
 detikslot.clouderbase.com
+devsuperteam.com
 dewab2b.s3.amazonaws.com
 dfiz23mj879i2.cloudfront.net
 dha92jo6cen2v.cloudfront.net
@@ -11157,6 +11158,7 @@ diqv0ct81hsy8.cloudfront.net
 dlmxz0etq5yy6.cloudfront.net
 dmwl0ca1bvnm.cloudfront.net
 domain7264.wordpress.com
+downloads.blissroms.org # malicious
 dr71dvn7kc6me.cloudfront.net
 dsbmedia.s3.ap-southeast-1.amazonaws.com
 dsuown9evwz4y.cloudfront.net
@@ -11167,9 +11169,9 @@ edcdesign.sgp1.digitaloceanspaces.com
 edge.api.flagsmith.com
 enak.la
 entecomputer.com
+eq37fu2xth.com
 erp.sphoki88.com
 exito.my.id
-exp.boobsbymassage.com
 fastads.b-cdn.net
 felixhospitals.com
 feritogel.sgp1.cdn.digitaloceanspaces.com
@@ -11271,6 +11273,7 @@ livechat.design
 livechat88.chat
 lkdfvx-pub-aws-sss.sgp1.digitaloceanspaces.com
 lobbygambar.com
+lobbyplay.com
 m-g.io
 m1cdn.com
 marinecorp.xyz
@@ -11291,6 +11294,7 @@ mobileservices.sbs
 modelkit1.com
 mplay-live-5-default-rtdb.firebaseio.com
 mutami845.wordpress.com
+mutliple.com
 mybluehost.me
 naocontemglutendoc.com
 nationalhemorrhoiddirectory.org
@@ -11312,6 +11316,7 @@ p670ty4f35.gcdikeagzb.net
 padangtoto1.wordpress.com
 padangtotoofficial.wordpress.com
 pafirogtoto.org
+patch.sdfbvsdfb44trbsts65y67xs6.xyz 
 pg888pp.com
 photoku.io
 photosaya.io
