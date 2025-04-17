@@ -4,10 +4,20 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1119
+# Number of entries: 1112
 # *slot*.*
 # *toto*.*
 # meme*
+# *rtpasiajp[0-9]*
+# *rtphoki*
+# *rtpindobit*
+# *rtpirit4d*
+# *rtpistana*
+# *rtplive*
+# *rtpnobita*
+# *rtppisces[0-9]*
+# *rtppp*
+# *rtpslot*
 *11wbet*
 *168gg*
 *4d.com
@@ -472,7 +482,6 @@
 *paktuaslotaman*
 *panda[0-9]*
 *pandabet*
-*panen1[0-9]*
 *panen[0-9]*
 *pangerantoto[0-9]*
 *pangkat88*
@@ -489,7 +498,7 @@
 *pesona[0-9]*
 *pin69*
 *pisces[0-9]*
-*planet1[0-9]*
+*planet[0-9]*
 *platinumslot*
 *play88*
 *playking[0-9]*
@@ -510,6 +519,7 @@
 *prediksi[0-9]*
 *preman*
 *primerplay*
+*prince88*
 *promo[0-9]*
 *proyek[0-9]*
 *pttgroup*
@@ -551,16 +561,6 @@
 *royalslot*
 *rp888*
 *rtp*
-*rtpasiajp[0-9]*
-*rtphoki*
-*rtpindobit*
-*rtpirit4d*
-*rtpistana*
-*rtplive*
-*rtpnobita*
-*rtppisces[0-9]*
-*rtppp*
-*rtpslot*
 *runnerball[0-9]*
 *rupiah[0-9]*
 *rupiahtoto*
@@ -730,6 +730,8 @@ antinwl.*
 apkapi-*
 bn77*
 bos[0-9]*
+cuankelas.*
+cuanmewah.*
 k86*
 koi*.com
 kpk*.com
