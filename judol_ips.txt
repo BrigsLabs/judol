@@ -4,14 +4,16 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_ips.md5
 # Syntax: Active IP server with uncommon http port
-# Number of entries: 7
+# Number of entries: 8
 # 
 # 
 #
-47.84.51.205
-47.84.40.215
 104.168.242.230
-188.166.253.233
-209.38.82.232
+146.190.201.150
 172.104.89.143
+188.166.253.233
 206.189.155.240
+209.38.82.232
+47.84.40.215
+47.84.51.205
+
