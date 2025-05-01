@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1122
+# Number of entries: 1156
 # *slot*.*
 # *toto*.*
 # meme*
@@ -58,9 +58,11 @@
 *amanbos*
 *amavi[0-9]*
 *amdbet*
+*angkanet4d*
 *angkasa[0-9]*
 *angkot88*
 *antinawala*
+*anugerahtoto*
 *apekslot*
 *api777*
 *aquartp*
@@ -105,6 +107,7 @@
 *big365*
 *bigklik[0-9]*
 *bigo234*
+*bintang4d*
 *biru138*
 *bisabos[0-9]*
 *blitar4d*
@@ -329,6 +332,8 @@
 *kilat[0-9]*
 *king[0-9]*
 *kingkong[0-9]*
+*kisaran4d*
+*kisarantoto*
 *klik[0-9]*
 *koi.org
 *koin[0-9]*
@@ -496,6 +501,7 @@
 *pedroslot*
 *pekantoto*
 *pelita[0-9]*
+*pelitatoto*
 *pencariangka*
 *peso138*
 *pesona[0-9]*
@@ -583,6 +589,7 @@
 *sepuh*
 *seru[0-9]*
 *shibatoto*
+*shio[0-9]*
 *siapbet*
 *sibayak*
 *sikat[0-9]*
@@ -605,6 +612,7 @@
 *sm4d*
 *sniperslot*
 *soju[0-9]*
+*sonic4d*
 *sor[0-9]*
 *sortoto*
 *spinhadiah*
@@ -694,8 +702,11 @@
 *uu4d.*
 *uu4dd.*
 *vaksin99*
+*vegas[0-9]*
 *venom[0-9]*
 *vgslot[0-9]*
+*vip4d*
+*viral4d*
 *virgobet[0-9]*
 *visabet*
 *vitamin88*
@@ -726,16 +737,19 @@
 *yuktg[0-9]*
 *zapslot*
 *zeus[0-9]*
+4dsuper.*
 [0-9]-win*
 aa[0-9]*
 alexavegas*
 amp*
+angkasetan.*
 antinwl.*
 apkapi-*
 bn77*
 bos[0-9]*
 cuankelas.*
 cuanmewah.*
+dunialot*
 gamespool*
 ijp88.*
 k86*
@@ -766,6 +780,7 @@ vsa88bos.*
 *.band
 *.bar
 *.beauty
+*.beer
 *.best
 *.bet
 *.bid
@@ -791,6 +806,7 @@ vsa88bos.*
 *.center
 *.ceo
 *.cfd
+*.channel
 *.charity
 *.cheap
 *.christmas
@@ -802,6 +818,7 @@ vsa88bos.*
 *.club
 *.college
 *.computer
+*.consulting
 *.cool
 *.coupons
 *.cymru
@@ -823,10 +840,15 @@ vsa88bos.*
 *.download
 *.eco
 *.engineer
+*.enterprises
+*.equipment
 *.esq
 *.events
+*.exchange
 *.expert
+*.exposed
 *.faith
+*.family
 *.fan
 *.fashion
 *.finance
@@ -835,10 +857,12 @@ vsa88bos.*
 *.fit
 *.fitness
 *.foo
+*.forex
 *.forsale
 *.foundation
 *.fund
 *.fyi
+*.games
 *.gdn
 *.gent
 *.gift
@@ -861,6 +885,8 @@ vsa88bos.*
 *.ink
 *.international
 *.irish
+*.jewelry
+*.joburg
 *.kim
 *.lat
 *.legal
@@ -921,18 +947,22 @@ vsa88bos.*
 *.qpon
 *.quest
 *.realtor
+*.realty
 *.recipes
 *.red
 *.rehab
 *.ren
 *.rent
+*.repair
 *.rest
 *.restaurant
 *.review
+*.reviews
 *.rich
 *.rip
 *.rodeo
 *.rugby
+*.ryukyu
 *.sale
 *.sbs
 *.schule
@@ -959,6 +989,7 @@ vsa88bos.*
 *.tattoo
 *.tax
 *.taxi
+*.tienda
 *.tk
 *.today
 *.tokyo
@@ -966,6 +997,7 @@ vsa88bos.*
 *.town
 *.trade
 *.trading
+*.tube
 *.uno
 *.vacations
 *.vegas
@@ -976,6 +1008,7 @@ vsa88bos.*
 *.vlaanderen
 *.vote
 *.voto
+*.wales
 *.wang
 *.webcam
 *.website
@@ -988,6 +1021,7 @@ vsa88bos.*
 *.wtf
 *.xin
 *.yachts
+*.yoga
 *.you
 *.zip
 *.xn--p1acf
@@ -1141,3 +1175,4 @@ vsa88bos.*
 *.xn--qxa6a
 *.xn--qxam
 *.xn--y9a3aq
+
