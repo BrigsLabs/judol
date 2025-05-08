@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 12186
+# Number of entries: 12215
 #
 #
 #
@@ -656,6 +656,7 @@ amptcp.site
 ampumum.store
 ampvalidgg.com
 ampvegas.one
+ampz-page.site
 amsterdam-lottery.com
 amsterdampools.xyz
 amtechmodels.com
@@ -1113,6 +1114,7 @@ bandarnusantara.lol
 bandartogel77-2.click
 bandartogelslot4d.com
 bandarzonagacor.xyz
+bandot.ink
 bandotbacktoyou.com
 bandotteuqilla.xyz
 bandottoto.vip
@@ -1167,6 +1169,7 @@ barudak4d.com
 barudak88.com
 barudaklangit.site
 barudakmain.site
+basicseries.com
 basmiphising.xyz
 basseru.space
 batacore.xyz
@@ -1548,11 +1551,13 @@ borutoto2.org
 borutoto3.vip
 borutoto4.live
 bos-hoki.info
+bos.ngo
 bos288a.lol
 bos303rtp.click
 bos303ss.site
 bosbandarq1.autos
 bosergeist.com
+bosgacorkeren.site
 boshoki-2.lat
 boshoki.biz
 boshoki.lat
@@ -2649,6 +2654,7 @@ dogelexuss.work
 dogonefunchicago.com
 dohalottery.com
 dokterkulitkering.xyz
+doktorair.com
 dolan11569.com
 dolan1258.com
 dolan13378.com
@@ -2679,6 +2685,7 @@ donatekaisartoto88.net
 donegalbowls.com
 donomulyo-desa.id
 dontddos.xyz
+dontdelete.site
 dontread.org
 door7.aresgacor-rtp.live
 doordashh.com
@@ -3277,6 +3284,7 @@ galikubur.lol
 galleries.tribapps.com
 gallery.corysilken.com
 galottery.com
+gambar-tg.pro
 gambarapaantuh.site
 gambarmanis.xyz
 gambarweb.com
@@ -3414,6 +3422,8 @@ geennerasitogel.org
 gelek4djjgroup.top
 gelek4djjgroup.xyz
 gelekslot4d.com
+gelora188q.website
+gelora188rx.site
 gemarakyat.info
 gemarbintang.net
 gemarsinga.org
@@ -3764,6 +3774,8 @@ hebat99-oke.top
 hebat99cod.com
 hebat99star.com
 hebeipools.com
+heboh.link
+hebohtoto24.com
 hechoenbsas.net
 heirloomtoms.org
 heljves.gr
@@ -4026,7 +4038,9 @@ idn.zone
 idn96main.shop
 idnplay.com
 idns889.net
+idnsport.com
 idnsports.app
+idnsports889.com
 idola88slot.store
 idolottery.net
 idr77id.monster
@@ -5258,7 +5272,10 @@ kuy4d1.link
 kuy4d1.pro
 kuy4daz.com
 kuyselalujayasekali.xyz
+kw303-rtppro.site
 kw303a.site
+kw303com.com
+kw303gold.com
 kyoto4dpools.asia
 kyoto4dpools.store
 kyoto98alternatif.icu
@@ -5700,6 +5717,7 @@ loginsibayaktoto.com
 loginslot4d.online
 loitery-taiwan.com
 loiterycairo.com
+loklakayam.site
 lollytrolley.com
 lombaturnover.com
 london-pools.com
@@ -6058,6 +6076,7 @@ mantapbetberry.com
 mantapgogogo.com
 mantapgokil.top
 manteslotto.online
+manuelsvintageroom.com
 map.aiaracorp.com
 mapdow.com
 maps.technicalsupportresources.com
@@ -7030,6 +7049,7 @@ onecnbcloudmail.com
 onehourppm.com
 onemedicalcentre.org
 onengresto.com
+onepercentshow.site
 oneshotfitness.com
 onestaorganics.com
 oneterminalbet.lol
@@ -7689,6 +7709,7 @@ plan6692.planeo-solution.de
 plan6753.planeo-solution.de
 planet128.net
 planet128aa.com
+planet778899.com
 planet77cek.site
 planet77here.lol
 planet77new.mom
@@ -8278,6 +8299,7 @@ rajabacrat.com
 rajabandot.lol
 rajabandot.me
 rajabandot.wiki
+rajabandot114.com
 rajabandot13.com
 rajabandot71.com
 rajabandotsire.site
@@ -9731,6 +9753,7 @@ situsgacordapurtoto.store
 situsgacormangga2bet.online
 situsjanjigacorr.online
 situsjanjigacorr.shop
+situskw.com
 situsmesir77.store
 situsmplay777.com
 situsmpojagoan88.shop
@@ -10287,6 +10310,7 @@ swastibhat.com
 sweatygooch.com
 sweeneysgrill.com
 sweetbasilga.com
+sweetfish-poke.com
 sweetwater-countryclub.com
 swiftsetup.com
 swiftwaterfarm.com
@@ -10910,6 +10934,7 @@ turtleaksara4d.net
 tutorgacor.store
 tuttokitchenandbar.com
 tutwilercommunityeducationcenter.org
+tuyulku-vegas138.site
 tv-preview.massiveaxis.com
 tvnassets.mediaprima.com.my
 tvtogelku.vip
@@ -11173,6 +11198,7 @@ virgobet88-stream-3.pro
 virgobet88.biz
 virtualscrumcoach.com
 virtualsexology.com
+virtualtuyul.site
 virtueslot.vip
 visa8hoki.com
 visabet88.to
@@ -12036,6 +12062,7 @@ mplay-live-5-default-rtdb.firebaseio.com
 mutami845.wordpress.com
 mutliple.com
 mybluehost.me
+myimg.site
 naocontemglutendoc.com
 nationalhemorrhoiddirectory.org
 neftdocs.com
@@ -12098,6 +12125,7 @@ s3-r-w.ap-southeast-1.amazonaws.com
 savegambar.com
 sayangkurtpnyani.b-cdn.net
 sayursawi.xyz
+script386.cloud
 scriptbambu.team
 scriptlexi.cloud
 scutimedia.online
@@ -12166,6 +12194,7 @@ usglobalasset.com
 voss-helmet.info
 vulture.rest
 vxbrkq1luxtv.gpa2glsjhw.xyz
+wdnotif.sgp1.digitaloceanspaces.com
 web-istana2000.linkapp99.com
 website-monitor-c8444-default-rtdb.asia-southeast1.firebasedatabase.app
 wgfasttest.skystarbiru.com
