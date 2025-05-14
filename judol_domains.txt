@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 12262
+# Number of entries: 12289
 #
 #
 #
@@ -471,6 +471,7 @@ aksesgbk76.sbs
 akseskilat.live
 aksesplayer.vip
 aksesrtpholyslots88.click
+aksestanpalelet.com
 akseswahanaslot.top
 aktif7up.com
 aktortogel.top
@@ -1933,6 +1934,7 @@ cerger.site
 ceria.pndwa168.top
 ceriawlatogl88.com
 cerita77asli.click
+ceritajudiasik.monster
 ceritakita.id
 cerofilas.com
 cerofilas.pages.dev
@@ -1960,6 +1962,7 @@ chateauclosluce.com
 cheapincoming.com
 cheapnbajerseyscn.com
 cheatbungaselot2.site
+cheatengine.website
 cheatfreak.com
 cheatpancing77a.site
 cheatsultan618.pro
@@ -2335,6 +2338,7 @@ darkhablar.es
 darklathe.com
 darlingtonpools.com
 darrellang.net
+darushfurnishings.com
 darwin4d.com
 dashboard.asia-pos.com
 dashboard.gbbp.gasbuddy.io
@@ -3163,6 +3167,7 @@ freebom.com
 freebooksplanet.com
 freeclinicofbraddock.org
 freekerangwin.us
+freelivescore.online
 freespinbandungtoto.com
 freespinpik.com
 freetarotreadinglove.com
@@ -3704,12 +3709,16 @@ halo303.bid
 halo303.com
 halo303.help
 halo303.org.im
+halo4d.click
+halo4d.org
+halo4dtajir.space
 halo88rtp.cloud
 halo88wow.site
 halocuan.net
 halocuanklik.click
 halocuanklik.lol
 halohalo.icu
+halosukses.monster
 halusbet77asli.org
 halusbet77asli.shop
 halusbet77asli.site
@@ -3921,6 +3930,7 @@ horuus303.shop
 hospitaldemascotas.com
 hospitalmedicalcare.com
 hospitalsaoluiz.org
+hospitalshub.com
 hosting.pic2go.com
 hostinganddomainreviews.com
 hostingblues.com.cdn.cloudflare.net
@@ -4328,6 +4338,7 @@ ipos2023.org
 ipskiler.com
 ipterbang.pages.dev
 iqbalhakim.xyz
+ir-plc.com
 ir.solarbotics.net
 iranrtp.store
 irantoto.id
@@ -4546,6 +4557,7 @@ jbwatson.bid
 jdgirls.icu
 jebol78.live
 jebolsk.xyz
+jedar88top.monster
 jeeniiussstoto.info
 jejakng303.xyz
 jejuprize.com
@@ -5748,7 +5760,13 @@ londonlottery.one
 londonstrawberryfestival.com
 londonwiffleball.com
 lonepeakcinema.com
+long-binjai.cyou
+long-surabaya.space
+long-surabaya.store
+longasdtgltur.com
+longasli.monster
 longislandpekin.com
+longtogel1.com
 lookingforlilith.org
 lookingforward.vip
 loop-hq.com
@@ -5857,6 +5875,7 @@ luckyspin-p138g.xyz
 luckyspin.aresgacor.online
 luckyspin.hair
 luckyspin.rent
+luckyspin.sbs
 luckyspin.slotsableng88.com
 luckyspin2.shop
 luckyspinabangda.com
@@ -5898,6 +5917,7 @@ luxury1288.life
 luxury138tq.com
 luxuryautoservice.net
 luxurycornerclothing.com
+luxurywheel.xyz
 luzernlottery.com
 luzhoupools.com
 lvobet.homes
@@ -8008,6 +8028,7 @@ prediksipusat.com
 prediksirasa4d.com
 prediksiratogeljitu.store
 prediksiria4d.com
+prediksisbo.online
 prediksison1.christmas
 prediksisumesh.shop
 prediksitepatnyaweng.lol
@@ -10011,6 +10032,10 @@ sor777jp.net
 sor777jp.online
 sor777official.pro
 sor777top.info
+sorongtoto.in
+sorongtoto2.monster
+sorongtotoid.top
+sorongutama.xyz
 sortedservices.com.au
 sosialkaisartoto88.com
 sotopakedi.net
@@ -10386,6 +10411,7 @@ taiwan-lotto.com
 taiwanball.com
 taiwanlottery.net
 taiyuan-pools.com
+tajihalo.com
 tajir777-amp.xyz
 tajir777.co.ua
 tajir77max.top
@@ -12068,6 +12094,7 @@ kamuchat.com
 kaya787.dataklmsad902.site
 kaya787.dataklmsad903.site
 kgames.b-cdn.net
+kumpulangambars.com
 l43fnw-1198-ppp.oss-accelerate.aliyuncs.com
 les.sgp1.digitaloceanspaces.com
 lfiles.s3.eu-west-2.amazonaws.com
