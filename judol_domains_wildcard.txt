@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1171
+# Number of entries: 1182
 # *slot*.*
 # *toto*.*
 # meme*
@@ -137,6 +137,7 @@
 *bun69*
 *bungjpaja2*
 *bungtoto*
+*buyspin*
 *bwtoto*
 *c200m*
 *cafe69*
@@ -404,6 +405,7 @@
 *lvonline*
 *m69ku*
 *mabar[0-9]*
+*maco4d*
 *mahjong*
 *mahoni[0-9]*
 *mainpastiwin[0-9]*
@@ -510,6 +512,7 @@
 *panutantoto*
 *papa4d*
 *pasir4d*
+*pedia4d*
 *pedro4d*
 *pedroslot*
 *pekantoto*
@@ -518,6 +521,7 @@
 *pencariangka*
 *peso138*
 *pesona[0-9]*
+*pilarplay[0-9]*
 *pin69*
 *pisces[0-9]*
 *planet[0-9]*
@@ -587,6 +591,7 @@
 *runnerball[0-9]*
 *rupiah[0-9]*
 *rupiahtoto*
+*sabi4d*
 *sableng[0-9]*
 *sabun[0-9]*
 *sabung50*
@@ -599,6 +604,7 @@
 *sastoto*
 *scatterhitam*
 *sendok[0-9]*
+*senior4d*
 *senju33a*
 *sepuh*
 *seru[0-9]*
@@ -788,6 +794,7 @@ vsa88bos.*
 *.actor
 *.africa
 *.agency
+*.apartments
 *.army
 *.asia
 *.auction
@@ -837,6 +844,7 @@ vsa88bos.*
 *.consulting
 *.cool
 *.coupons
+*.credit
 *.cymru
 *.cyou
 *.dad
@@ -877,6 +885,7 @@ vsa88bos.*
 *.forsale
 *.foundation
 *.fund
+*.futbol
 *.fyi
 *.games
 *.gdn
@@ -939,6 +948,7 @@ vsa88bos.*
 *.new
 *.ninja
 *.non
+*.observer
 *.okinawa
 *.ong
 *.ooo
@@ -1007,6 +1017,7 @@ vsa88bos.*
 *.tax
 *.taxi
 *.tienda
+*.tires
 *.tk
 *.today
 *.tokyo
@@ -1192,3 +1203,4 @@ vsa88bos.*
 *.xn--qxa6a
 *.xn--qxam
 *.xn--y9a3aq
+
