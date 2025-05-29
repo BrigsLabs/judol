@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 12712
+# Number of entries: 12739
 #
 #
 #
@@ -374,6 +374,7 @@ admin.ai.amber.infeedo.com
 admin.esca.io
 admin.trademarkperfect.com
 adopteerightsaustralia.com
+adsclick.cfd
 adskita.shop
 adslayla.com
 aduankendala.co
@@ -1209,6 +1210,7 @@ banjarasri-desa.id
 banktalk.org
 bansosyy.xyz
 banten-pools.com
+bantuakses.app
 banyubet.vip
 bar88sx.pro
 barangkorea.store
@@ -1306,6 +1308,7 @@ beijingpools4d.net
 beko.pages.dev
 belahduren.xyz
 belajarakuntnsi.org
+belajarpenting.shop
 belarusialottery.com
 belarusiapools.com
 belionline.store
@@ -1783,6 +1786,7 @@ buktijpmothonda.com
 buktijpmulia77.store
 buktijpnanagroup.cc
 buktijpnanagroup.me
+buktijpnanagroup.store
 buktijpnona88.xyz
 buktijposg888.in
 buktijposg888a.com
@@ -2067,6 +2071,7 @@ chicagoresourceexpo.com
 chickenfight.lol
 chilepools.com
 chilepools4d.com
+chillingeffects.org
 chimetest.com
 chinapools.asia
 chinapoolsnight.com
@@ -2634,6 +2639,7 @@ dewadorabet.lat
 dewafortune.cloud
 dewafortune.vip
 dewafortune889.net
+dewagacor77pgsoft.mom
 dewagacor89dor.xyz
 dewagacorbgt89.com
 dewagunung.lat
@@ -4203,6 +4209,7 @@ ideesta.com
 identivlabs.com
 idesktech.com
 idhobi.com
+idjago168.com
 idmax.fun
 idmax.one
 idn-slot.rtprajasgptoto.store
@@ -4595,6 +4602,8 @@ jagat88.christmas
 jagat88.lat
 jagat88.today
 jagat88.world
+jago168bidau.com
+jago168run.xyz
 jago89lr.lat
 jago89officialvip.lat
 jago89servip.lat
@@ -4837,6 +4846,7 @@ journal-mandiracendikia.com
 journalberitaterkini.id
 jowopools.biz
 jowoslottiga.click
+joyfulhouselv.com
 joyotimur.xyz
 jp-pelita168.com
 jp.jumbo99-resmi.com
@@ -5794,6 +5804,7 @@ linkpusatgamegacor.info
 linkqqvio.store
 linkr.com
 linkrimbaslot.net
+linkrtp.top
 linkrtp.vip
 linksitustkt77.vip
 linkslot-terpercaya.shop
@@ -6208,6 +6219,7 @@ mailmagazine.nanouniverse.jp
 mailthehorse.com
 mailthehorsee.pages.dev
 maimsgb.xyz
+main-bersih.xyz
 main-indoslots.com
 main.rtpnagahoki88.com
 main06.mahjong88site.fun
@@ -6399,6 +6411,7 @@ masuktoto6.top
 masukunoggzona.icu
 matahitamwaw.site
 matahitamwew.xyz
+matauangkita.com
 matauangmax.com
 matawanita.id
 match-cloud.com.au
@@ -6434,6 +6447,7 @@ maxwinigamble247zona.sbs
 maxwinmenang.xyz
 maxxbrides.id
 mayaconic.org
+mbah-cuan.xyz
 mbahmarijan.com
 mbaktoto.bid
 mbgacor77.xyz
@@ -6938,6 +6952,7 @@ namphopools.com
 nana4djoker.com
 nana4dku.com
 nana4dnow.com
+nana4dungu.com
 nanafilm.com
 nanjing-pools.co
 nanyangpool.com
@@ -7083,6 +7098,7 @@ nightcoreshadow.xyz
 nightmareshadow.xyz
 nightshadow.xyz
 nightyd20.com
+nigthshide.xyz
 nihlinkninjajago.beauty
 nihrtp365raja.com
 nikotiinipussi.gay
@@ -7122,8 +7138,10 @@ nona88diadem.xyz
 nona88javelin.xyz
 nonamerestaurantwm.com
 nongkrongasik.lol
+nono4damai.com
 nono4done.com
 nono4dred.com
+nono4dviral.com
 nontontvonline.id
 noonaspizza.com
 nopw.org
@@ -8698,6 +8716,7 @@ rakyatsltmaxx.com
 rakyattt4dd.co
 ramalan.info
 ramalanangka-tototogel.com
+ramalanpamansam.dev
 ramalanpamansam.my
 ramalanpamansam.store
 ramalantotal.xyz
@@ -9052,6 +9071,7 @@ rtp-gtcbet.pages.dev
 rtp-guetoto5.com
 rtp-harum4d33.xyz
 rtp-ios368.xyz
+rtp-jago168btc.homes
 rtp-k86sport-super.pro
 rtp-kaizen88-cool.site
 rtp-kakek188.buzz
@@ -9211,6 +9231,7 @@ rtpdetik123dotz.xyz
 rtpdetik88jos.fun
 rtpdewa4dku9.live
 rtpdewa4dku9.vip
+rtpdewagacor77.info
 rtpdino69.college
 rtpdomino4d.baby
 rtpdragon303.life
@@ -9410,6 +9431,7 @@ rtpnaga4dgo.xyz
 rtpnaga913.fun
 rtpnagita188go.net
 rtpnagitavip.one
+rtpnanagroup.farm
 rtpnanagroup.me
 rtpnanagroup.wiki
 rtpniagabetvip.icu
@@ -9819,6 +9841,7 @@ seasaltatl.com
 seatfrog.com.au
 seattlelotto.com
 sebonicfinancial.com
+secgrouphaxor.xyz
 secularismforiran.com
 securedomain.ca
 sedayubet-mantap.xyz
@@ -11679,6 +11702,7 @@ vivo4did.top
 vladimir-pools.com
 vno48lxyyxk8f03d2jxs.buah4dbaru.com
 vo.fod4.com
+vodka138-amp.xyz
 volleycortese.com
 voltagehairgel.com
 voteforjennifer.com
@@ -12404,6 +12428,7 @@ dlmxz0etq5yy6.cloudfront.net
 dmwl0ca1bvnm.cloudfront.net
 domain7264.wordpress.com
 downloads.blissroms.org # malicious
+dpw3m2v9dxyrl.cloudfront.net
 dr71dvn7kc6me.cloudfront.net
 dsbmedia.s3.ap-southeast-1.amazonaws.com
 dsuown9evwz4y.cloudfront.net
@@ -12613,6 +12638,7 @@ ruangkomunikasilc.com
 rujak.cc
 s1.kwai.net
 s1.kwai.net.cdn.dnsv1.com
+s15-def.ap4r.com
 s16-11187.ap4r.com
 s3-ap-southeast-1.amazonaws.com
 s3-r-w.ap-southeast-1.amazonaws.com
@@ -12629,6 +12655,7 @@ senyumterus.xyz
 sga-cdn-hxg6b2d7ctb2c0eu.z02.azurefd.net
 sgacdn.azureedge.net
 sgalabel.blob.core.windows.net
+sgw.stape.au
 shareservice.net
 simpangambar.fun
 simplyworks.xyz
