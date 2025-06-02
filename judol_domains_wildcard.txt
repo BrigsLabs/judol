@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1188
+# Number of entries: 1197
 # *slot*.*
 # *toto*.*
 # meme*
@@ -20,6 +20,7 @@
 # *rtpslot*
 # *paitopaman*
 # *paitowarna*
+# *koi.org
 *11wbet*
 *168gg*
 *4d.com
@@ -210,6 +211,7 @@
 *gachor*
 *gacor*
 *gadunslot*
+*gajah[0-9]*
 *gambler*
 *gambling*
 *gamesgg*
@@ -232,6 +234,7 @@
 *gg66*
 *gga88*
 *gigaspin*
+*gjh[0-9]*
 *go188*
 *go500*
 *gocap[0-9]*
@@ -288,9 +291,12 @@
 *ipar4d*
 *irantoto*
 *irit4d*
+*istana-gaming*
 *istana9[0-9]*
 *istanacasino*
+*istanagaming*
 *istanaimpian*
+*istanascore*
 *iustoto*
 *iustott*
 *jackpot[0-9]*
@@ -349,7 +355,7 @@
 *kisaran4d*
 *kisarantoto*
 *klik[0-9]*
-*koi.org
+*koi[0-9]*
 *koin[0-9]*
 *koinhoki*
 *kokitoto*
@@ -362,6 +368,7 @@
 *kpot108*
 *kraken1[0-9]*
 *kristal[0-9]*
+*kungfu4d*
 *kurnia8[0-9]*
 *kuy[0-9]*
 *kw303*
@@ -445,6 +452,7 @@
 *miko[0-9]*
 *miliarbet*
 *miliarslot*
+*mola62*
 *monaco[0-9]*
 *monas[0-9]*
 *money[0-9]*
@@ -556,6 +564,7 @@
 *pusat-koin*
 *pusat4d*
 *pusatkoin*
+*putra[0-9]*
 *qiuqiu*
 *qq[0-9]
 *qqmacan*
@@ -1022,6 +1031,7 @@ vsa88bos.*
 *.tattoo
 *.tax
 *.taxi
+*.tennis
 *.tienda
 *.tires
 *.tk
