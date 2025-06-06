@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1201
+# Number of entries: 1211
 # *slot*.*
 # *toto*.*
 # meme*
@@ -504,6 +504,7 @@
 *olislot*
 *olx50*
 *omg[0-9]*
+*operabola*
 *orca1[0-9]*
 *ovo[0-9]*
 *ovoslot*
@@ -533,6 +534,8 @@
 *pelita[0-9]*
 *pelitatoto*
 *pencariangka*
+*permata[0-9]*
+*permen4d*
 *peso138*
 *pesona[0-9]*
 *pilarplay[0-9]*
@@ -590,6 +593,7 @@
 *republik365*
 *rgaqq[0-9]*
 *ria4d*
+*rimbatoto*
 *rjs138*
 *rogtoto*
 *roket[0-9]*
@@ -846,6 +850,7 @@ vsa88bos.*
 *.cc
 *.center
 *.ceo
+*.cf
 *.cfd
 *.channel
 *.charity
@@ -902,9 +907,11 @@ vsa88bos.*
 *.forex
 *.forsale
 *.foundation
+*.fun
 *.fund
 *.futbol
 *.fyi
+*.ga
 *.games
 *.gdn
 *.gent
@@ -914,6 +921,7 @@ vsa88bos.*
 *.glass
 *.gold
 *.golf
+*.gq
 *.gratis
 *.green
 *.guide
@@ -969,6 +977,7 @@ vsa88bos.*
 *.observer
 *.okinawa
 *.ong
+*.onl
 *.online
 *.ooo
 *.partners
@@ -1035,6 +1044,7 @@ vsa88bos.*
 *.tattoo
 *.tax
 *.taxi
+*.tel
 *.tennis
 *.tienda
 *.tires
