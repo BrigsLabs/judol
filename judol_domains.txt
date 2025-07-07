@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 13230
+# Number of entries: 13256
 #
 #
 #
@@ -4103,6 +4103,7 @@ hidden4u.com
 highendbeautybags.com
 hiimenangterus.siapkanterusblog.co
 hijaukupt2.xyz
+hijaulebat.xyz
 hijautotosgp.org
 hilkoil.com
 himalayanhutstl.com
@@ -4989,6 +4990,7 @@ jnadesigns.com
 jnj88.app
 jnt77tobaccojackpot.net
 jnwluxe.autos
+jobdone.click
 joeandbelle.com
 johannalong.com
 johnsalvitti.com
@@ -5542,6 +5544,7 @@ koinaman.vip
 koinhoki88.net
 koinhokislot.com
 koinmelayang.vip
+koinslot.vegas
 koinsltssgg.us
 koipucuk.com
 koirazor.com
@@ -5625,6 +5628,9 @@ ksicargo.com
 ksmnet.org
 ksmuconfs.org
 kssfoundation.com
+kstcuan.vip # cfhak02521.kstcuan.vip, olxjq70232.kstcuan.vip, vjios62620.kstcuan.vip
+kstjitu.com
+kstlah.pro # lonic80528.kstlah.pro, qhbra96591.kstlah.pro, rkqlp24283.kstlah.pro
 ksustapgs.net
 ktdt.hu
 ktvtogelgacor.net
@@ -8949,6 +8955,7 @@ quegamer.com
 quirinuscup.org
 quirkykids.co
 quotchemical-bin.info
+r138putih.xyz
 r1bsemestabet.xyz
 r3socialmedia.com
 r8-cpo333.store
@@ -8973,6 +8980,23 @@ rafaelapanisset.com
 raffi888pasti.com
 rahasiaprimer.us
 rainbowkick.shop
+raja138.com
+raja138.vegas
+raja138arahan.com
+raja138belikat.com
+raja138bintang.com
+raja138bus.com
+raja138enam.com
+raja138idaman.com
+raja138lompat.com
+raja138men.com
+raja138mu.com
+raja138mungil.com
+raja138nusa.com
+raja138obat.com
+raja138odama.com
+raja138patut.com
+raja138purba.com
 raja168h.info
 raja328id.cam
 raja787.store
@@ -12848,6 +12872,7 @@ d145yfon394ak6.cloudfront.net
 d1ayxb9ooonjts.cloudfront.net
 d1bnhxh1olb98c.cloudfront.net
 d1r7v8bs1sf4js.cloudfront.net
+d24m60q82dzu8y.cloudfront.net
 d28h3jm4r3crf8.cloudfront.net
 d290ny10omyv12.cloudfront.net
 d2f3dnusg0rbp7.cloudfront.net
@@ -13042,6 +13067,7 @@ marinecorp.xyz
 market-online.wiki
 mawartt.sgp1.cdn.digitaloceanspaces.com
 media.giphy.com
+media.mediatelekomunikasisejahtera.com
 media.tenor.com
 media.wtgplay.xyz
 media4.giphy.com

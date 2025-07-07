@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1218
+# Number of entries: 1221
 # *slot*.*
 # *toto*.*
 # meme*
@@ -894,6 +894,7 @@ vsa88bos.*
 *.dog
 *.download
 *.eco
+*.edu.eu
 *.engineer
 *.enterprises
 *.equipment
@@ -1026,6 +1027,7 @@ vsa88bos.*
 *.rodeo
 *.rugby
 *.ryukyu
+*.sa.com
 *.sale
 *.sbs
 *.schule
@@ -1089,6 +1091,7 @@ vsa88bos.*
 *.yachts
 *.yoga
 *.you
+*.za.com
 *.zip
 *.xn--p1acf
 *.xn--11b4c3d
