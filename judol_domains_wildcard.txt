@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1221
+# Number of entries: 1224
 # *slot*.*
 # *toto*.*
 # meme*
@@ -284,6 +284,7 @@
 *indoslot*
 *indosup*
 *indovegas*
+*indowin[0-9]*
 *informasibaru*
 *ing303*
 *inibet*
@@ -678,6 +679,7 @@
 *superhoki*
 *supertarik*
 *surga88*
+*surya[0-9]*
 *sydneycuan*
 *t0gel*
 *tajir[0-9]*
@@ -715,6 +717,7 @@
 *topwdplay*
 *toto[0-9]*
 *totoagung*
+*totobeta*
 *totocc*
 *totog*
 *totohok[0-9]*

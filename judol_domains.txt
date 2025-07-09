@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 13256
+# Number of entries: 13283
 #
 #
 #
@@ -191,6 +191,7 @@
 5kslot88.com
 5star-gaming.store
 5sultanking.online
+5unsurlegend.com
 5vwmxx79h8bv9elu9rwd.papatogeljin.xyz
 6000enam20.lat
 65gvi.operabola.life
@@ -693,6 +694,7 @@ amprtp-update.fun
 amprumahduit.live
 ampscatterhitam.pro
 amptcp.site
+amptoxremsow.cyou
 ampumum.store
 ampvalidgg.com
 ampvegas.one
@@ -1249,6 +1251,10 @@ banten-pools.com
 bantuakses.app
 banyubet.vip
 bar88sx.pro
+baranggokil.buzz
+baranggokil.icu
+barangkeren.cyou
+barangkeren.top
 barangkorea.store
 barca.menantugoogle.vip
 barcatoto.com
@@ -2252,6 +2258,7 @@ cnsglobaladvisors.com
 cnwpg.org
 co2olclean.com
 coba-wowhoki.top
+cobabuatanak.org
 cobacobajeeee.pages.dev
 cobaivg.com
 cobaivg.net
@@ -4369,6 +4376,7 @@ idr77kita.lat
 idrslot22.com
 idthunter.com
 idtmenang.shop
+idw168rtpgame.pages.dev
 idw88.fun
 idwin88.us
 ieltsvictoria.com
@@ -4520,6 +4528,9 @@ indosurga88a.icu
 indotogelku.com
 indovegas.rocks
 indovegas.shop
+indowin168cc.xyz
+indowin168dd.xyz
+indowin168spinwheels.live
 indowin88.lat
 indowla.menantugoogle.vip
 indowlatoto.com
@@ -4596,6 +4607,7 @@ iniunogg888.com
 inkristal777.motorcycles
 inmyexperience.net
 innokaizindia.com
+innovation-factory.info
 inorestaurant.com
 inrtpkristal777.store
 ins-ert.cc
@@ -6024,6 +6036,7 @@ linkjuragan77seru.xyz
 linkkitaslot777.store
 linkmain.click
 linkmewah.club
+linkmu.cyou
 linknemo69.store
 linknext303woah.pro
 linkpanglimajp.biz
@@ -6067,9 +6080,11 @@ liputancilegon.farm
 liquidcapital.finance
 listenwhileyouwait.com
 listkudewaseru.live
+literariocast.com
 little5pointsrx.com
 littleangelsnetwork.org
 littleanimation4kids.com
+littlebhe.com
 littleshows.com
 lituaniapools.com
 live-rtpbandarkoin99.com
@@ -6754,6 +6769,7 @@ media77partner.com
 mediafor911truth.org
 mediaplazashop.com
 mediarestorasi.com
+mediatuak.cyou
 medicdocs.com
 medium.com
 medlinkus.com
@@ -7366,6 +7382,7 @@ nghwheels.store
 ngkfbads.pages.dev
 ngpk.store
 ngpkrg0ld.com
+nhcyaounde.org
 ni-s1.demoslotbaru.com
 ni1-r15.rtpni1.com
 ni1-w2.topwdplay.com
@@ -9529,6 +9546,7 @@ rtp4dslot88.cfd
 rtp4dsuper.info
 rtp5.indo500gacor.com
 rtp5.livetahta.com
+rtp5unsurmarket.com
 rtp7.rtpmagicslot.com
 rtp777gold.thegot.co
 rtp7luck.sbs
@@ -11134,6 +11152,9 @@ surgartpterpercaya.xyz
 surkale.vip
 surrogacybabypodcast.com
 surya123asli.site
+surya88bos.online
+surya88gokil.pics
+surya88yes.life
 suryademox.site
 suryauntung.site
 susahpayah.com
@@ -11674,6 +11695,9 @@ totoagung2air.com
 totoagung2app.com
 totoagung2you.mom
 totoarizona.yachts
+totobeta39.com
+totobeta40.com
+totobeta41.com
 totobosku.info
 totocc.co
 totocc.top
@@ -11727,6 +11751,7 @@ tournament4.mbo.online
 tower-jp.live
 townofromecity.org
 townshipchicago.com
+toxicremnantsofwar.info
 toyeenartstudio.com
 toyotamedan.net # malicious backlink
 tpklikcc.com
@@ -12998,6 +13023,7 @@ images4.imagebam.com
 imagme.com
 img-cdngames.s3.amazonaws.com
 img.atomgaming88images.com
+img.cupr.us
 img.ligasumut.com
 img.lovepik.com
 img.nextgen.sg-sin1.upcloudobjects.com
@@ -13026,6 +13052,7 @@ ip36.sgp1.cdn.digitaloceanspaces.com
 istana2000.nsp2d.com
 jamepix.com
 jandamuda.cfd
+jasj.us
 jlfafafa3.com
 jp-api.namesvr.dev
 jp-api.nexuswlb.com
