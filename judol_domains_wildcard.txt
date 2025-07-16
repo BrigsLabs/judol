@@ -22,6 +22,7 @@
 # *paitowarna*
 # *koi.org
 # *harumslotrtp*
+# *pangerantoto[0-9]*
 *11wbet*
 *168gg*
 *4d.com
@@ -522,7 +523,7 @@
 *panda[0-9]*
 *pandabet*
 *panen[0-9]*
-*pangerantoto[0-9]*
+*pangerantoto*
 *pangkat88*
 *panglima4dku[0-9]*
 *pangtoto*
@@ -569,6 +570,7 @@
 *promo[0-9]*
 *proyek[0-9]*
 *pttgroup*
+*publiktoto*
 *pucuk88*
 *pusaka[0-9]*
 *pusat-koin*
@@ -585,6 +587,7 @@
 *raja[0-9]*
 *rajabandot*
 *rajabet[0-9]*
+*rajabotak*
 *rajacuan*
 *rajasawit[0-9]*
 *rajaslot*
@@ -1028,7 +1031,6 @@ vsa88bos.*
 *.rich
 *.rip
 *.rodeo
-*.rugby
 *.ryukyu
 *.sa.com
 *.sale
@@ -1079,7 +1081,6 @@ vsa88bos.*
 *.vlaanderen
 *.vote
 *.voto
-*.wales
 *.wang
 *.webcam
 *.website
