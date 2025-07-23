@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 13394
+# Number of entries: 13406
 #
 #
 #
@@ -2588,6 +2588,7 @@ davismarine.org.uk
 daxinsight.com
 dayaprimasports.net
 daywinbet.bid
+daywinbet.cash
 db55-dewi.lol
 dbindt.com
 dblraffi.com
@@ -3839,6 +3840,7 @@ gogelpro.cyou
 gogelpro.quest
 gogomeriah.com
 gogon4dmeledak.site
+gogosab.fun
 gojekfarefinder.com
 gojekonline.com
 gokapten69.xyz
@@ -4199,6 +4201,7 @@ holland-lottery.com
 hollisters-canada.ca
 holybetgacor.org
 holyhoki88-baru.online
+holyslots88.cash
 holyslt88new.online
 holywoodlottery.com
 home-bingo89.site
@@ -4807,6 +4810,7 @@ jackpot108a.ink
 jackpot108c.net
 jackpot168maju.com
 jackpot999.xyz
+jackpotholyslots88rtp.hair
 jackpotnyaweng.lol
 jackthe.one
 jacobsreservetx.org
@@ -8492,6 +8496,7 @@ playbet788.com
 player.allpermission.com
 player.tmsplay.com
 playforwin.xyz
+playhly88.online
 playking88asik.com
 playking88asli.com
 playking88mabar.com
@@ -9529,6 +9534,7 @@ rtp-blitar4d-gacor.xyz
 rtp-bonafit88.fun
 rtp-cashnet88.online
 rtp-cpo333.pages.dev
+rtp-daywinbet.sbs
 rtp-gacor.cuan-1m.com
 rtp-gacoran.pro
 rtp-gacorcola.lol
@@ -10005,6 +10011,7 @@ rtpslot88.autos
 rtpslot88ku7.site
 rtpslot88ku8.club
 rtpslot88resmi3.art
+rtpslotasiabet5.gamingplay.co
 rtpslotbom77keren.lol
 rtpslotbom77live.lol
 rtpslotegp.com
@@ -10783,6 +10790,9 @@ slot88resmi12.lol
 slotagen108b.me
 slotairbet88terbaru.info
 slotasiabet-jaya.net
+slotasiabet.cash
+slotasiabet.co
+slotasiabet1c.com
 slotbagus.store
 slotbagus.us
 slotbom-77.click
@@ -11053,6 +11063,7 @@ staging.carbonneutralclubapp.com
 staging.forbeslegalcouncil.com
 staging.vqode.com
 staminaindo4dpools.net
+stamparena.com
 stanleyfoodsinc.com
 stanleystrailside.com
 stannesbismarck.org
@@ -13290,6 +13301,7 @@ s15-def.ap4r.com
 s16-11187.ap4r.com
 s3-ap-southeast-1.amazonaws.com
 s3-r-w.ap-southeast-1.amazonaws.com
+sab-oke.b-cdn.net
 savegambar.com
 sayangkurtpnyani.b-cdn.net
 sayursawi.xyz
