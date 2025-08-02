@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 13545
+# Number of entries: 13616
 #
 #
 #
@@ -656,6 +656,7 @@ amp-jarum.vip
 amp-kopi77links1.xyz
 amp-kungfu4d2.com
 amp-m.lol
+amp-main.sbs
 amp-pages.info
 amp-sportsjabber-net.pages.dev
 amp-sun.com
@@ -1117,6 +1118,9 @@ ayosini.lat
 ayovoxy88.xyz
 ayto-torrijos.com
 ayu89top.org
+ayukakses.com
+ayukbet15.sbs
+ayukbet15.site
 ayukbet1a.life
 ayukbets1a.top
 ayuktekan.co
@@ -1410,13 +1414,16 @@ berde.bar
 berenam.com
 bergerak.cc
 bergsson.net
+bergurukecina.fun
 berhadiahspin.shop
 berhadiahundian4.xyz
 berhadiahundian6.xyz
 berhasilmasuk.site
 berita.imgix.net
 beritabarujtg.space
+beritabolagbo1.beauty
 berjaya.cc
+berkahkasihkita.xyz
 berkahpasti.pro
 berkahsgg.store
 berkahslotpro.site
@@ -1925,6 +1932,7 @@ busandraw.com
 busanlottery.co
 busanpools.asia
 busanprize.com
+buscandomar.com
 buset-rtpninja002.pages.dev
 butebwzt3ttvflbezdzk.papatogeljin.xyz
 butetsantet.xyz
@@ -2014,6 +2022,7 @@ caprakspin.xyz
 captainbillstreasureisland.com
 captainchallenge.com
 captaindividend.com
+capuletcompany.com
 car.sagooo.com
 carabermain-kaskus.com
 carabermainsuptogel.com
@@ -2210,6 +2219,8 @@ cika303pro5.lat
 cika303tas2.lat
 cika303tas6.lat
 cilukbaa.pro
+cina1.online
+cina777.com
 cincinbetskuy.online
 cinemadeinasia.com
 cinematecaboliviana.org
@@ -2388,6 +2399,7 @@ cpgaming-id.com
 crabebills.com
 craftconnectiontours.com
 crazyballcc.shop
+crazybulksale.com
 crazygrillca.com
 crbakery.com
 crchc.info
@@ -3663,6 +3675,8 @@ gascagur.pro
 gascagur.store
 gascici4d.online
 gascwalangulam.org
+gashunter.online
+gashunter.space
 gasjeppe.xyz
 gaskan2.ug8dewa.com
 gaskenaja.click
@@ -3670,6 +3684,7 @@ gaskenaja.info
 gaskenaja.shop
 gaskenaja.store
 gaslajubet.com
+gasmetropol.sbs
 gaspol189.live
 gaspol189.pro
 gaspol189vip.online
@@ -3710,6 +3725,19 @@ gaya4d17.org
 gb777vip.lol
 gb88rtp.quest
 gbapp.site
+gbo007j.forum
+gbo303b.guru
+gbo303m.homes
+gbo338l.motorcycles
+gbo4d10.fashion
+gbo777c.icu
+gbo777h.yoga
+gboplay138g.biz
+gboslot12.sbs
+gboslot12.yachts
+gboslot3.com
+gboslotwheels.cfd
+gbowin.partners
 gbowin.store
 gbowin14.today
 gc57.baby
@@ -3894,6 +3922,7 @@ gordiscos.com
 gorengantempe.xyz
 gorhamdynastybuffet.com
 gorontalo-pools.com
+gortp.org
 gortptiti.vip
 gotothelincoln.com
 gov.idg.com.au
@@ -4208,6 +4237,7 @@ hoki78-bro.xyz
 hoki88bos.bond
 hokiabadi.com
 hokian.store
+hokicina.sbs
 hokidc.vip
 hokimajalah4d.shop
 hokimolek.info
@@ -4252,6 +4282,9 @@ hongarialottery.com
 hongkencana.com
 hongkongbuffetflint.com
 hongkongeven.com
+hongkonglive.com
+hongkonglive.net
+hongkonglive81.com
 hongkonglotto-official.today
 hongkonglotto.today
 hongkonglottoku.com
@@ -4352,6 +4385,7 @@ hyundaimedan.com # malicious backlink
 i-sportwetten.com
 i6d.menantugoogle.vip
 i8idr5.com
+i8live01.motorcycles
 iagg2023.org
 iamgigiweng.com
 iaminvictus.net
@@ -4503,6 +4537,7 @@ impian2.fun
 impian2istana.xyz
 implantedente.com
 imposeware.com
+improslot.com
 improveeyesighthq.com
 imroket.com
 imt.ge.sg
@@ -5274,6 +5309,7 @@ k.mn4xt.com
 k0ng.org
 k200m.store
 k4palk0piku77.xyz
+k69.778899303.xyz
 k86bola.info
 k86hk.pro
 k86shio.pro
@@ -5358,6 +5394,8 @@ kaptenlaut.xyz
 kaptentiga.xyz
 karahanoutdoor.com
 karangtarunabireuen.com
+karengacor.sbs
+karengacor4.store
 karimun.link-antinawala-viocash.shop
 karinastore.id
 karirbank.id
@@ -5472,6 +5510,8 @@ kenanganmu69.com
 kenanganmupgg.com
 kenanganmupnn.com
 kenanganmupnnslt.com
+kencana69.org
+kencanajayaabadi.sbs
 kenchikushikai-seinen.org
 kentang88masuk.fun
 kentangoke.fun
@@ -5898,6 +5938,7 @@ langitfungame777.org
 langitnimbostratus.pro
 langkatkab.store
 lanierlandscapingllc.com
+lanjutberkah.click
 lanjutgacor.click
 lanjutpetir.xyz
 lantai6ip.live
@@ -7584,6 +7625,7 @@ nova-pola.lol
 nova-trik.site
 nova126-new.lol
 novel.starman.cn
+novisecurity.com
 noxiousadvocate.id
 npbelarus.info
 npselalu.net
@@ -7858,6 +7900,9 @@ ovo.arenawin88slot.cc
 ovo777jaya.club
 ovo777jaya.vip
 ovo88.twinkel.store
+ovobet288.homes
+ovobet288.shop
+ovobet288f.site
 ovoslotdua.top
 ovoslotqq.shop
 owa.zengaentertainment.com
@@ -8124,6 +8169,7 @@ panengudeg.xyz
 panenjaya.lat
 panenmainrtpslot.pages.dev
 panensilver.com
+panenterus.autos
 pangandaranflorist.com
 pangeran-pt1.shop
 pangeran-pt4.click
@@ -9618,6 +9664,7 @@ rtp-jago168btc.homes
 rtp-k86sport-super.pro
 rtp-kaizen88-cool.site
 rtp-kakek188.buzz
+rtp-karengacor.click
 rtp-kelinciapi801.shop
 rtp-kenzo188.sbs
 rtp-kingasia77.com
@@ -9687,6 +9734,7 @@ rtp1.mutasigacor.com
 rtp1.rtpmember77.org
 rtp11play.com
 rtp12.gacor-beluga99.xyz
+rtp13.cina777.site
 rtp1337kemenangan.pages.dev
 rtp16groupa10.xyz
 rtp16groupb1.xyz
@@ -9742,6 +9790,7 @@ rtpbantuan3-online.pages.dev
 rtpbatik77v1.top
 rtpbee168.autos
 rtpbenua3.buzz
+rtpberkah-gokil5.sbs
 rtpbesteyp.shop
 rtpbetnation5.click
 rtpbibirgacor.com
@@ -9829,6 +9878,7 @@ rtpgatotwinhepi.shop
 rtpgawang01.com
 rtpgaya4d6.net
 rtpgb88.bond
+rtpgboku4.site
 rtpgestun.com
 rtpggjbest.site
 rtpggjbisa.fun
@@ -9929,6 +9979,7 @@ rtplive.rtprajasgptoto.store
 rtplivedhx.xyz
 rtplivegelek4d.shop
 rtplivehoki289.com
+rtplivekencana.online
 rtplivelaku.art
 rtplivepaket4d.shop
 rtplivepepe77.xyz
@@ -10006,6 +10057,7 @@ rtponline1.xyz
 rtpopungwina.info
 rtpovo777f.vip
 rtpovo777f.xyz
+rtpovobet288.online
 rtpp.rupiahtotoprediksi.com
 rtppadangslot.s3.wasabisys.com
 rtppalingbagus.site
@@ -10566,6 +10618,7 @@ sg88rtp11.site
 sgcwin88best.today
 sggmenang.com
 sggpastiwin.xyz
+sglivepools.com
 sgp777.pro
 sgpliveresult.xyz
 shanebartonmd.com
@@ -11207,6 +11260,8 @@ stmarysonthelake.org
 stmatthewspotatofestival.com
 stockholm4d.com
 stonestudio.shop
+stonewarden.org
+stopcopcitysolidarity.org
 storage-california.inbake.com
 storage-hsh.cc
 storage288.com
@@ -11243,6 +11298,7 @@ sugarlab.net
 sugestitogel.com
 sugitazangetsu.com
 suka.xo368menyala.lol
+sukacina25.shop
 sukakodok.xyz
 sukaslot88.bid
 sukasukaguedong.store
@@ -12143,6 +12199,7 @@ umassmedcloud.com
 umdunia188.online
 umov.it
 undangansah.com
+undiangbo.xyz
 unetealclubplay.com
 unfreezeafghanistan.org
 unggulsaktijambi.sch.id
@@ -12370,7 +12427,10 @@ visabt88se.org
 viscats.art
 visiainvestimentos.com.br
 visitmoscowlottery.com
+visitorbet.app
+visitorbet.lol
 visitorbet5.space
+visitorbet9.sbs
 visitosakalottery.com
 vitabrainofficial.id
 vitajuwel.id
@@ -12409,6 +12469,7 @@ vsa88bos.com
 vsa88bos.me
 vsa88bos.xyz
 vsbcuan.com
+vsbrtp2.site
 vslots88free.click
 vspbuniversity.com
 vtconsulting.ch
@@ -13033,6 +13094,7 @@ anehoo.com
 anhuidingyue.com
 antoboomerblog.wordpress.com
 ap-south-1.linodeobjects.com.akadns.net
+api-3m2b.seamlesss-hptech.com
 api-99gaming-live-2-default-rtdb.firebaseio.com
 api-giga-ns2-1-default-rtdb.firebaseio.com
 api-giga1b-ns2.seamless-hptech.com
@@ -13052,6 +13114,7 @@ api-royal-ns2.seamless-hptech.com
 api-skygaming2.seamlesss-hptech.com
 api.cloud.mime.services
 api.scorebat.com
+api3m.seamlesss-hptech.com
 apiace-v2.seamlesss-hptech.com
 apionix-7-default-rtdb.firebaseio.com
 apionix3-3-default-rtdb.asia-southeast1.firebasedatabase.app
@@ -13091,6 +13154,7 @@ bangaset.s3.ap-southeast-1.amazonaws.com
 bas3data.xyz
 beritaindonesia.co
 bestlink.ly
+binder-nx2.nameserver.cfd
 birototo.sgp1.cdn.digitaloceanspaces.com
 bitly.sbs
 bkid.sgp1.cdn.digitaloceanspaces.com
@@ -13244,6 +13308,7 @@ gate.continue.group
 gd88.app
 ghoulfire.pro
 gifyu.com
+global-config-3m-1-default-rtdb.firebaseio.com
 global-config-ug-default-rtdb.firebaseio.com
 global-configs-2-default-rtdb.asia-southeast1.firebasedatabase.app
 global-configs-default-rtdb.asia-southeast1.firebasedatabase.app
@@ -13304,6 +13369,7 @@ ios88app.com
 ip104.sgp1.cdn.digitaloceanspaces.com
 ip188baru.sgp1.cdn.digitaloceanspaces.com
 ip36.sgp1.cdn.digitaloceanspaces.com
+is3.cloudhost.id
 istana2000.nsp2d.com
 jamepix.com
 jandamuda.cfd
@@ -13366,6 +13432,8 @@ mobile-server-zqsdy7qyda-as.a.run.app
 mobileservices.sbs
 modelkit1.com
 moho.sgp1.cdn.digitaloceanspaces.com
+mplay-live-2-default-rtdb.firebaseio.com
+mplay-live-4-default-rtdb.firebaseio.com
 mplay-live-5-default-rtdb.firebaseio.com
 mutami845.wordpress.com
 mutliple.com
@@ -13379,6 +13447,7 @@ neftsoft.co
 nextgen.sg-sin1.upcloudobjects.com
 notif.trycodes.cloud
 nx-cdn.nx1wl.com
+nxt-upload-bucket.ajp7e.upcloudobjects.com
 nyanpasu.click
 object-d001-cloud.cloudstoragesharingservice.com
 objek-d001-cloud-akucloud-valid.sukagambarku.com
@@ -13406,6 +13475,7 @@ poskampung.com
 postimg.cc
 premicloud.net
 prod-api-ug3bv2.web-sample.live
+prod-api-ug4bv2.ns1-prototype.org
 prod-api-ug5cv2.web-sample.live
 projectgalery.xyz
 pub-2ea0a2d7577347c3a124333fd65b6494.r2.dev
@@ -13515,6 +13585,7 @@ ucarecdn.com
 ug-meoh-pub.cloudassets.online
 untidy-robin-production.up.railway.app
 uoaeiz3recbrojp76imxpthfemovjaxecjudzg8wytc.bithe.net
+updatechecker3-14ecc.firebaseio.com
 upload.ee
 user-upload.aws-s3-r1r2str0bjx.sg-sin1.upcloudobjects.com
 usglobalasset.com
