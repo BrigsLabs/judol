@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1244
+# Number of entries: 1247
 # *slot*.*
 # *toto*.*
 # meme*
@@ -149,6 +149,7 @@
 *cafe69*
 *cahaya[0-9]*
 *candu[0-9]*
+*cantik[0-9]*
 *cashnet[0-9]*
 *cemara[0-9]*
 *cerutuviral*
@@ -731,6 +732,7 @@
 *topwdplay*
 *toto[0-9]*
 *totoagung*
+*totobayar*
 *totobeta*
 *totocc*
 *totog*
@@ -832,6 +834,7 @@ kumbang*
 mw68*
 nitroplay*
 ola62*
+on[0-9]*
 pafi*.org
 paki*.org
 ss88* 
