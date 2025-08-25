@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 832
+# Number of entries: 831
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -13,6 +13,7 @@
 # cdn.digitaloceanspaces.com # whitelist
 # sgp1.digitaloceanspaces.com # whitelist
 # images.ctfassets.net # whitelist
+# i.scdn.co # whitelist
 10fr4ame-b3stweeb.xyz
 21assetmanagement.com
 2fr4me-my4web.site
@@ -358,7 +359,6 @@ hotelvillaveneta.com
 hslmantap.sgp1.cdn.digitaloceanspaces.com
 i.ibb.co
 i.ibb.co.com
-i.scdn.co
 ibu4d-rtp.pages.dev
 idl-cdn.rika.online
 idl-socket.rika.online
