@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 831
+# Number of entries: 839
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -36,6 +36,7 @@ aceh4dblog.wordpress.com
 acuitykit.pages.dev
 adomselfrecigency.com
 adsdewigg.com
+agent-bola-terpercaya.pages.dev
 agentotoplay.pages.dev
 aix-asset.s3.ap-southeast-1.amazonaws.com
 akamai-assets.squarespace.com
@@ -69,6 +70,7 @@ antoboomerblog.wordpress.com
 ap-south-1.linodeobjects.com.akadns.net
 api-3m2b.seamlesss-hptech.com
 api-99gaming-live-2-default-rtdb.firebaseio.com
+api-eclipse-ns2.seamless-hptech.com
 api-giga-ns2-1-default-rtdb.firebaseio.com
 api-giga1b-ns2.seamless-hptech.com
 api-giga2-ns3-1-default-rtdb.firebaseio.com
@@ -127,6 +129,7 @@ atg88.atomgaming88images.com
 atom4d.sgp1.cdn.digitaloceanspaces.com
 atomgaming88.sgp1.cdn.digitaloceanspaces.com
 ayodaftar.co
+azkabet1234rtp-baru.pages.dev
 b1speed.info
 baccdn.com
 backend.gameswhitelabel.com
@@ -138,6 +141,7 @@ bandar388-rtp.pages.dev
 bandung1.pages.dev
 bandungtoto11.pages.dev
 bangaset.s3.ap-southeast-1.amazonaws.com
+bannerfoto.shop
 bas3data.xyz
 beko.pages.dev
 bellekay.pages.dev
@@ -291,6 +295,7 @@ dwlink.skystarbiru.com
 dz5xbhxy6sjp4.cloudfront.net
 dztwieyphe62d.cloudfront.net
 e39296.b.akamaiedge.net
+e39296.dscb.akamaiedge.net
 e39296.f.akamaiedge.net
 edcdesign.sgp1.digitaloceanspaces.com
 edge.api.flagsmith.com
@@ -375,10 +380,12 @@ images.mixlink.top
 images.squarespace-cdn.com
 images.wlsf.link
 images4.imagebam.com
+imagesku.pages.dev
 imagme.com
 img-cdngames.s3.amazonaws.com
 img.atomgaming88images.com
 img.cupr.us
+img.hotimg.com
 img.ligasumut.com
 img.lovepik.com
 img.nextgen.sg-sin1.upcloudobjects.com
@@ -795,6 +802,7 @@ tranfertous.com
 ucarecdn.com
 ug-meoh-pub.cloudassets.online
 univ-ikopin.pages.dev
+unsur138.pages.dev
 untidy-robin-production.up.railway.app
 uoaeiz3recbrojp76imxpthfemovjaxecjudzg8wytc.bithe.net
 updatechecker3-14ecc.firebaseio.com

@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1260
+# Number of entries: 1268
 # *slot*.*
 # *toto*.*
 # meme*
@@ -83,10 +83,12 @@
 *asianslot[0-9]*
 *atg88*
 *athena[0-9]*
+*atom138*
 *att4d*
 *awan1[0-9]*
 *ayobet*
 *ayu89*
+*azkabet*
 *babeltoto*
 *bacan4*
 *badak[0-9]*
@@ -190,6 +192,7 @@
 *dino[0-9]*
 *divisi3[0-9]*
 *dogelexus*
+*dokter[0-8]*
 *dolan[0-9]*
 *dolarslot*
 *domino*
@@ -453,6 +456,7 @@
 *mars[0-9]*
 *maslele*
 *master[0-9]*
+*matauang*
 *matrixslot*
 *maxi188*
 *maxwin[0-9]*
@@ -931,6 +935,7 @@ vsa88bos.*
 *.diy
 *.dog
 *.download
+*.dpdns.org
 *.eco
 *.edu.eu
 *.engineer
@@ -1051,6 +1056,7 @@ vsa88bos.*
 *.pw
 *.qpon
 *.quest
+*.qzz.io
 *.realtor
 *.realty
 *.recipes
@@ -1108,6 +1114,7 @@ vsa88bos.*
 *.trading
 *.tube
 *.uno
+*.us.kg
 *.vacations
 *.vegas
 *.ventures
@@ -1128,6 +1135,7 @@ vsa88bos.*
 *.world
 *.wtf
 *.xin
+*.xx.kg
 *.yachts
 *.yoga
 *.you
