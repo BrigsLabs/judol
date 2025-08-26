@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 13278
+# Number of entries: 13276
 #
 #
 #
@@ -813,7 +813,6 @@ api-sandbox.geocloud.com.br
 api.cloud.uangloka.com
 api.fwdev.cloud
 api.tianlongpoker.net
-api.whatsapp.com
 api2-jaj.tr8ngames.com
 api2000av.com
 api214.cloud.mime.services
@@ -1288,7 +1287,6 @@ bangungkaget02.xyz
 bangunsari.id
 banjarasri-desa.id
 banktalk.org
-bannerfoto.shop
 bansosyy.xyz
 banten-pools.com
 bantuakses.app
