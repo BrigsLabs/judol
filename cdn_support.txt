@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 839
+# Number of entries: 848
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -53,6 +53,7 @@ amp-cermat.pages.dev
 amp-cerrodelvalle-com-br.pages.dev
 amp-escobar.sgp1.cdn.digitaloceanspaces.com
 amp-estanciaimoveis-com-br.pages.dev
+amp-gacor-01.pages.dev
 amp-gafasland-com.pages.dev
 amp-iboslot-com.pages.dev
 amp-sportsjabber-net.pages.dev
@@ -113,6 +114,7 @@ app-a.ply-ldr-rfo6v4aqd6cqw84z.com
 app-imgstore.cc
 appsgeyser.com
 arcanism.pages.dev
+areahoki.com
 ascendercorp.com
 asdfcasa.com
 asetkadek.s3.ap-southeast-2.amazonaws.com
@@ -128,6 +130,7 @@ aswransi.com
 atg88.atomgaming88images.com
 atom4d.sgp1.cdn.digitaloceanspaces.com
 atomgaming88.sgp1.cdn.digitaloceanspaces.com
+autoredirectjack.me
 ayodaftar.co
 azkabet1234rtp-baru.pages.dev
 b1speed.info
@@ -143,6 +146,7 @@ bandungtoto11.pages.dev
 bangaset.s3.ap-southeast-1.amazonaws.com
 bannerfoto.shop
 bas3data.xyz
+behh-skuy-lah.s3.eu-north-1.amazonaws.com
 beko.pages.dev
 bellekay.pages.dev
 beritaindonesia.co
@@ -196,6 +200,7 @@ cdn.projectapp.dev
 cdn.rawgit.com
 cdn.rbtasset.com
 cdn.rek8k8.cloud
+cdn.robotsatelit.net
 cdn.store-assets.com
 cdn.susu-na-khap.com
 cdn.tbgroup.vip
@@ -304,6 +309,7 @@ entecomputer.com
 ephysicsvn.pages.dev
 eq37fu2xth.com
 erp.sphoki88.com
+estate77media.com
 ethiobusiness.pages.dev
 euphoria-percentage.pages.dev
 exito.my.id
@@ -458,6 +464,7 @@ lineicons.com
 linkapk.org
 linkgacor.sgp1.cdn.digitaloceanspaces.com
 linkgambar.my.id
+linkgresiktotoaman.pages.dev
 linkinfortpcsowin.pages.dev
 linktogelslot4d.fra1.cdn.digitaloceanspaces.com
 livebolaparlaypng.pages.dev
@@ -487,6 +494,7 @@ media.mediatelekomunikasisejahtera.com
 media.tenor.com
 media.wtgplay.xyz
 media4.giphy.com
+mediainternal.com
 meme4d-rtpslotgacor.pages.dev
 meriah4d-login.pages.dev
 metrosporsegundo.pages.dev
@@ -731,6 +739,7 @@ sgacdn.azureedge.net
 sgalabel.blob.core.windows.net
 sgw.stape.au
 shareservice.net
+shj918.com
 shortlink-hotjitu-login.pages.dev
 sicolab.me
 simpangambar.fun

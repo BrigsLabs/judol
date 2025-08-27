@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 13276
+# Number of entries: 13337
 #
 #
 #
@@ -501,6 +501,7 @@ akbku.net
 akbku1.quest
 akimboliving.com
 akita-kao.com
+akongisback.com
 akospace.com
 akpatterson.com
 akrnconsulting.com
@@ -512,8 +513,10 @@ aksesbayar.com
 aksescepat.xyz
 aksesgacor.co
 aksesgbk76.sbs
+aksesgresik.store
 akseskaiko.cam
 akseskilat.live
+aksesnias.xyz
 aksespedia4d.store
 aksespilarplay.site
 aksesplayer.vip
@@ -540,7 +543,6 @@ akusayangsamakamu.pro
 aladin138spin.click
 alain-suguenot.com
 alakadarnya.net
-alakadarnya.pages.dev
 alamiahtravel.com
 alamjp-chio.lat
 alamjpet.com
@@ -679,6 +681,7 @@ amp7clagi.site
 amparab.lol
 ampbiru138.store
 ampbvs.live
+ampcloackingbaru.com
 ampcoin.vip
 ampcupang.lol
 ampdinasti247.xyz
@@ -835,6 +838,7 @@ apkdownlod.my.id
 apkhondatoto.com
 apkidngoal.com
 apkkiatoto.com
+apkkita.site
 apkklikfifa.com
 apkkpktoto.com
 apkmeme4d.com
@@ -852,6 +856,7 @@ apkskor88.com
 apksktt.xyz
 apkslotsgg.us
 apkstore888.com
+apksule.site
 apktotogg88.us
 apktribun.com
 apkwb403.site
@@ -919,6 +924,7 @@ armeniancommunitycentre.org
 arnaudcosson.com
 aromavapes.com
 artawards.info
+artesaniasolyturpo.com
 artglace.com
 artikelsh.xyz
 artingle.org
@@ -1041,6 +1047,7 @@ atgroup-link.id
 athena168.rtppay.org
 athena168.vip
 athletesheart.org
+atidla.com
 atlantahomesearchexperts.com
 atlantalottery.xyz
 atlantapools.us
@@ -1084,6 +1091,7 @@ autoconfig.admin.consumersappliancerecycling.com
 autodiscover.packardsoforegon.org
 autofast1.com
 autoloanhelpers.com
+autolookservice.com # hacked site
 automeledax.vip
 autookbos86.top
 autotogel.org
@@ -1398,6 +1406,7 @@ beijingpools.org
 beijingpools4d.net
 belahduren.xyz
 belajarakuntnsi.org
+belajarcasino.com
 belajarpenting.shop
 belarusialottery.com
 belarusiapools.com
@@ -1511,6 +1520,7 @@ bibirtoto4841.com
 bibirtotoo.com
 biddokkespoldametro.com
 bieberstein.ca
+bierhausgalway.com
 bierviltjes.org
 big.wargapola.net
 big365.cc
@@ -1859,6 +1869,7 @@ buffalo4d.com
 bugispools.com
 build.amazingticket.site
 build2crm.amazingticket.site
+buildingbrandyou.in
 buildthegames.com
 bujangenam.org
 bukagamespools.com
@@ -1885,6 +1896,7 @@ buktijp-pt.com
 buktijp-raban18.lol
 buktijp-raban28.lol
 buktijp.one
+buktijp.peramalangkamerdeka.site
 buktijp1.asdjitu.online
 buktijpbandungtoto.site
 buktijpboba.christmas
@@ -2072,6 +2084,7 @@ cargillglobalscholars.com
 cari127.site
 cariberita.id
 caricinta.us
+caridong.com
 carikan.id
 carikita.id
 carisitus.id
@@ -2125,6 +2138,7 @@ cdn.qdalplaylive.com
 cdn.respomondo.com
 cdn.snowmobiletrader.com.cdn.cloudflare.net
 cdn.subastasfts.com.gt
+cdn.verdesigns.com
 cdn.wotevermedia.com
 cdn2.schindler-edv.de
 cdn5.codigonet.net
@@ -2134,6 +2148,7 @@ cebulottery.asia
 cebulottery.store
 ceklivertp.linkrtpthor138.lol
 cekrtp-asiagacor77.blog
+cekrtpgresiktoto.site
 celebrityspy.org
 celupsekali.site
 cemara123.co
@@ -2200,6 +2215,7 @@ chengduprize.com
 cherrytreebakehouse.com
 chester-pools.com
 chestercountylinks.com
+chestnutridgedressage.com
 chevaleriedesace.org
 chezhushi.com
 chezmaroca.com
@@ -2214,6 +2230,7 @@ chilepools.com
 chilepools4d.com
 chillingeffects.org
 chimetest.com
+chinabrideonline.com
 chinapools.asia
 chinapoolsnight.com
 chinapoolsnight.info
@@ -2329,6 +2346,7 @@ cnwpg.org
 co2olclean.com
 coba-wowhoki.top
 cobabuatanak.org
+cobainfo.site
 cobaivg.com
 cobaivg.net
 cobalagi.vip
@@ -2446,6 +2464,7 @@ crownlah126.crowntogelgacor.net
 crowntogelgacor.com
 cs010.gap8.info
 csalexistogel.pro
+csgresiktoto.site
 csibainschool.org
 csisprosper.com
 csita2024.org
@@ -2871,6 +2890,7 @@ dickenshouse.com
 diggieroam.com
 digidream.org
 digital-publishing.com
+digital14.niastoto4d.info
 digitalcodenetwork.com
 digitalisierungstour-bw.org
 dikursi4d.pro
@@ -3365,6 +3385,7 @@ fav77rtpeng.info
 fav77tor.info
 fav77trust.com
 fave.by
+fawnreview.com
 fazendadatoca.com
 fb.berenam.com
 fb88pro.store
@@ -4038,6 +4059,11 @@ greenupbox.com
 greenwich-pools.com
 gregcave.net
 grenadapools.com
+gresikasik.store
+gresikmenyala.com
+gresikpromo.site
+gresiktoto.it.com
+gresikweb.online
 greybintang4dp.net
 gripinfotech.com
 groovehouse.org
@@ -4287,7 +4313,6 @@ hkpools1.com
 hlk88b.xyz
 hnacare.net
 hobiduren777.shop
-hobimainnews.github.io
 hochiminhprize.com
 hochiminlotto.co
 hocki.shop
@@ -4339,6 +4364,7 @@ holyslt88new.online
 holywoodlottery.com
 home-bingo89.site
 home4rentatlanta.com
+homecling.xyz # apk
 homeklondike.com
 homemadesimple.dja.com
 homemakers.shop
@@ -4940,6 +4966,7 @@ its2023.org
 itsmfusa.org
 itsoftup.com
 itsvibrent.com
+itu-rtp.info
 ituagen1.club
 ituolx1.cloud
 ivankiv-museum.site
@@ -5119,6 +5146,7 @@ jaysbedandbreakfast.com
 jazz4d2.vip
 jazzpanen303.site
 jbaghlaf.com
+jbgroup-st.com
 jbwatson.bid
 jdgirls.icu
 jdmfilmreviews.com
@@ -5128,6 +5156,7 @@ jebolsk.xyz
 jedar88top.monster
 jeeniiussstoto.info
 jeeterjuice.net
+jejak14.niastoto4d.info
 jejakng303.xyz
 jejuprize.com
 jejuwla.asia
@@ -5442,6 +5471,7 @@ kaisar328cuan.vip
 kaisar328vip.site
 kaisar88login.com
 kaisarslot.id
+kaisarsultan88.net
 kaisydneycuan.org
 kaiyili.com
 kaizen88.design
@@ -5523,6 +5553,7 @@ kartupkrguest.org
 kartupkrqq.org
 kartupokerways.com
 kartupokerzonamain.bond
+kartutoto889.com
 kartzone.lat
 karyaaksara4d.net
 kasarsekali.pro
@@ -5556,6 +5587,7 @@ katana89.cc
 katanaindo-pools.com
 katanashio88.net
 katespadeoutlet.store
+katherineramsland.com
 katsu5-terbaru.com
 katsu5sl.site
 katsuyamaprize.com
@@ -5833,6 +5865,7 @@ konco88-max.site
 konco88-ok.xyz
 konkurs-president.ru
 konohatoto78assets.com
+kontakniastoto.com
 kopi77g2.com
 kopi77h1.com
 kopiaren5.com
@@ -6129,6 +6162,7 @@ laut7win.com
 lawu88slotapp.com
 lawyersforassange.org
 layanan.gocap-4d.one
+layanan24jam.vip
 layyourballson.me
 laza118.live
 laza118.store
@@ -6252,6 +6286,7 @@ limabesar.org
 limapools.com
 limocyprus.com
 lincolnpools.net
+lindafornebraska.com
 lindeloft.com
 line007.republik365vip.com
 line3.airbet88-vip.com
@@ -6452,6 +6487,7 @@ lms-alirsyadjember.id
 lo-quay.com
 load1.ai88-rtpgacor.site
 load9.ai88-rtpgacor.site
+loading-server.com
 lobby1.lobbyroom88.com
 lobbyroom88.com
 localsportsphotos.com
@@ -7318,6 +7354,7 @@ mola62slot.com
 mollybloomspub.com
 mollygibson.com
 molottery.com
+mombasa-city.com
 momentum-education.com
 mommy-academy.com
 momobola.poker
@@ -7501,6 +7538,7 @@ mycloudbread.shop
 mydeepdrugurl.shop
 myfest.id
 myfiles.uk
+myfolder.me 
 myforlder.com
 myimagehost.me
 myindicabeauty.com
@@ -7718,6 +7756,8 @@ ni1-w2.topwdplay.com
 niagabet.bid
 niagabetin.com
 niagahoki.online
+niastoto-4d.com
+niastoto.carrd.co
 nicediscounteditems.com
 nicholasdaines.com
 nicksloan.org
@@ -7898,6 +7938,7 @@ ojoltogelb.com
 ojoltogelteam.com
 okayamaprize.com
 okegas02.site
+okelink.cc
 okewla2025.com
 okewlajitu.com
 okewlaku.com
@@ -8397,6 +8438,7 @@ panglimajp.homes
 panglimasisil.store
 pangseh.com
 pangsitbgpanji.rent
+pantaudulu.icu
 pantengin-rtp-medusa88.bond
 panutanhati.com
 panutannih.com
@@ -8525,6 +8567,8 @@ pedangbayarlunas.com
 pedangberkilau.xyz
 pedangksatria.co
 pedangtogel.pro
+pedasgila.icu
+pedasgila.top
 pedia4d66.shop
 pedia4d68.shop
 pedia4d69.shop
@@ -8605,6 +8649,7 @@ peppesbistro.com
 perahu4d.vzy.io
 perak.menantugoogle.vip
 peraktoto.com
+peramaltogeljitu.store
 perangvictory4dp.net
 percaya-lunaskaskus.com
 percayaneko.net
@@ -8863,6 +8908,7 @@ pohon8-lp.dog
 pohon8official2.pics
 poin.suryamentari.xyz
 poinlibra.org
+pokamekamek.com
 pokaslot.quest
 pokaslotvip.shop
 pokatop.vip
@@ -9111,6 +9157,7 @@ prince88on.com
 prince88ratu.com
 prince88super.com
 prince88win.com
+principal.emperadoramarillo.net
 prioritizethis.com
 prioritizingprivacy.org
 prismabox-enterprise.com
@@ -9479,8 +9526,10 @@ rasa-sedap.online
 rasa4d16.xyz
 rasa4d28.xyz
 rasa4d32.xyz
+rasa4d53.xyz
 rasa4drtp25.xyz
 rasa4drtp33.xyz
+rasa4drtp38.xyz
 rasastar.site
 rashakai.com
 rashakai.sijago88.workers.dev
@@ -9576,6 +9625,7 @@ resepbarat.store
 resepku.id
 resepmanjur.fun
 resepracikan198.site
+resetsandi.site
 resilience2024.org
 resiliencecouncil.org
 resmi-beluga99id.info
@@ -10814,6 +10864,7 @@ shanebartonmd.com
 shanghaidailyphoto.com
 shanghailottery.co
 shanghaizuozhi.com
+shaphirehead.com
 share.tempinfo.net
 sharepoint.tudorplace.org
 sharnise.com
@@ -11508,6 +11559,9 @@ suksesterus.xyz
 sukubunga.com
 sukucut.com
 sulebetwin.id
+suleid.it.com
+sulejitu.online # sub dom : buktijp1.sulejitu.online, prediksi1.sulejitu.online, rtp1.sulejitu.online
+sulemio.it.com
 sultan188-questzone.vip
 sultan33f.one
 sultan33gas.xyz
@@ -11983,6 +12037,7 @@ tigerair.au.qa.ibe.amber.airblackbox.com
 tigeraksara4.com
 tigergroup.vip
 tigerwoods10.com
+tiket-ngluckyspin.site
 tiketbola16j.xyz
 tiketjepe.pro
 tiketjepe001.com
@@ -12239,6 +12294,7 @@ travelblogsquad.com
 trawers.org
 treadntrails.com
 treasuredepoebay.org
+treeservicedentontx.com
 treksantuy.pro
 trendfitwear.com
 triaddealer.net
@@ -12272,6 +12328,7 @@ trynora.com
 ts-vip.rrqesports.com
 ts77maxjp.cfd
 tsubakisummit.com
+tt02.utamatoto4d.shop
 tt4ku.co
 tt88.one
 tt88.poker
@@ -12951,9 +13008,12 @@ wikiprize.cc
 wikiscatter.cc
 wikivg78.cc
 willhsucafe.com
+willinkcuanvip.com
+wilsepuh.com
 wilsonwong.me
 wilstonfuneralhome.com
 wiltontack.com
+wiltotojayajaya.com
 win138.web.id
 win303.cc
 win303master.live
@@ -13027,6 +13087,7 @@ woles4d.link
 woles4d1.info
 wolesbosku.ink
 wolfiescarousel.com
+wolfinways.shop # cloacking
 wolupitu.com
 womenspeakout.org
 won-022.pro

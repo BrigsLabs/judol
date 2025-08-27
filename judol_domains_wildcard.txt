@@ -23,6 +23,8 @@
 # *koi.org
 # *harumslotrtp*
 # *pangerantoto[0-9]*
+# *prediksi[0-9]*
+# bn77d*
 *11wbet*
 *168gg*
 *3rp[0-9]*
@@ -433,6 +435,7 @@
 *lucky88*
 *luckykudus*
 *luckyspin*
+*luckywheel*
 *luna4d*
 *lux128*
 *lvobet*
@@ -514,6 +517,7 @@
 *next[0-9]*
 *niagabet*
 *niagahoki*
+*niastoto*
 *ninja96*
 *nobitabet*
 *nona88*
@@ -586,7 +590,6 @@
 *pos[0-9]*
 *prada55*
 *prediksi*
-*prediksi[0-9]*
 *preman*
 *primerplay*
 *prince88*
@@ -835,7 +838,6 @@ angkasetan.*
 antinwl.*
 apkapi-*
 bn77*
-bn77d*
 bos[0-9]*
 cuankelas.*
 cuanmewah.*
