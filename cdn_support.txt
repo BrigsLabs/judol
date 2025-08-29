@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 848
+# Number of entries: 857
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -70,7 +70,9 @@ anhuidingyue.com
 antoboomerblog.wordpress.com
 ap-south-1.linodeobjects.com.akadns.net
 api-3m2b.seamlesss-hptech.com
+api-99gaming-live-1-default-rtdb.asia-southeast1.firebasedatabase.app
 api-99gaming-live-2-default-rtdb.firebaseio.com
+api-99gaming.seamlesss-hptech.com
 api-eclipse-ns2.seamless-hptech.com
 api-giga-ns2-1-default-rtdb.firebaseio.com
 api-giga1b-ns2.seamless-hptech.com
@@ -373,6 +375,7 @@ i.ibb.co.com
 ibu4d-rtp.pages.dev
 idl-cdn.rika.online
 idl-socket.rika.online
+idn.sgp1.cdn.digitaloceanspaces.com
 idnpopups.s3.ap-southeast-1.amazonaws.com
 idw168rtpgame.pages.dev
 iframe.oasisid.com
@@ -444,10 +447,12 @@ kageru.site
 kamuchat.com
 kaos1.sgp1.cdn.digitaloceanspaces.com
 karep.pro
+kari-nih-ges.sgp1.digitaloceanspaces.com
 kaya787.dataklmsad902.site
 kaya787.dataklmsad903.site
 kgames.b-cdn.net
 khusus.nyc3.cdn.digitaloceanspaces.com
+kita-cobalagi-za.pages.dev
 kumpulanfile.sgp1.digitaloceanspaces.com
 kumpulangambars.com
 kungfu4d-rtp.pages.dev
@@ -481,10 +486,12 @@ loginsungaito2.blogspot.com
 lovya.pages.dev
 lp4d.nyc3.cdn.digitaloceanspaces.com
 lpip209.sgp1.cdn.digitaloceanspaces.com
+lpnyabatak.sgp1.digitaloceanspaces.com
 m-g.io
 m.ozzogame.com
 m1cdn.com
 mailthehorsee.pages.dev
+maraset.site # CDN
 marinecorp.xyz
 market-online.wiki
 mawartt.sgp1.cdn.digitaloceanspaces.com
@@ -741,6 +748,7 @@ sgw.stape.au
 shareservice.net
 shj918.com
 shortlink-hotjitu-login.pages.dev
+si-ladusing.pages.dev
 sicolab.me
 simpangambar.fun
 simplyworks.xyz
@@ -809,6 +817,7 @@ tokolontong.com
 tr8ngames.com
 tranfertous.com
 ucarecdn.com
+udah-lama-gakjumpa.pages.dev
 ug-meoh-pub.cloudassets.online
 univ-ikopin.pages.dev
 unsur138.pages.dev
