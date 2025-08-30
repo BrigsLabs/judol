@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 857
+# Number of entries: 870
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -41,6 +41,7 @@ agentotoplay.pages.dev
 aix-asset.s3.ap-southeast-1.amazonaws.com
 akamai-assets.squarespace.com
 akucloud.com
+akun-terbaiq.b-cdn.net
 akundewaa.site
 alakadarnya.pages.dev
 alb-ipppw0c8ujq4ywp6eq.ap-southeast-1.alb.aliyuncs.com
@@ -133,6 +134,7 @@ atg88.atomgaming88images.com
 atom4d.sgp1.cdn.digitaloceanspaces.com
 atomgaming88.sgp1.cdn.digitaloceanspaces.com
 autoredirectjack.me
+awan.pw
 ayodaftar.co
 azkabet1234rtp-baru.pages.dev
 b1speed.info
@@ -140,6 +142,7 @@ baccdn.com
 backend.gameswhitelabel.com
 baduitoto.sgp1.cdn.digitaloceanspaces.com
 baikal-research.pages.dev
+bakso-kojek-5k.sfo3.cdn.digitaloceanspaces.com
 balicenter-1000.pages.dev
 bandar-jaya.com
 bandar388-rtp.pages.dev
@@ -151,6 +154,7 @@ bas3data.xyz
 behh-skuy-lah.s3.eu-north-1.amazonaws.com
 beko.pages.dev
 bellekay.pages.dev
+berbagaicaragif.com
 beritaindonesia.co
 bestlink.ly
 bierviltjes.pages.dev
@@ -248,6 +252,7 @@ d30uvy2l9rv94q.cloudfront.net
 d30xzloyu3qfm5.cloudfront.net
 d32jers.com
 d33egg70nrp50s.cloudfront.net
+d35uxhjf90umnp.cloudfront.net
 d37kf7rs4g1hyv.cloudfront.net
 d39ezjiev2gct0.cloudfront.net
 d39r7a227pxlxu.cloudfront.net
@@ -459,6 +464,8 @@ kungfu4d-rtp.pages.dev
 kungfu4d2-rtp.pages.dev
 l0bs-tterr.k0llpst3r.net
 l43fnw-1198-ppp.oss-accelerate.aliyuncs.com
+l78img.sgp1.cdn.digitaloceanspaces.com
+lai-le.b-cdn.net
 landak-idm.pages.dev
 les.sgp1.digitaloceanspaces.com
 lfiles.s3.eu-west-2.amazonaws.com
@@ -484,9 +491,11 @@ lobbyplay.com
 logingacoremperor33.pages.dev
 loginsungaito2.blogspot.com
 lovya.pages.dev
+lp-togel138.b-cdn.net
 lp4d.nyc3.cdn.digitaloceanspaces.com
 lpip209.sgp1.cdn.digitaloceanspaces.com
 lpnyabatak.sgp1.digitaloceanspaces.com
+lumpiagoreng.xyz
 m-g.io
 m.ozzogame.com
 m1cdn.com
@@ -494,6 +503,7 @@ mailthehorsee.pages.dev
 maraset.site # CDN
 marinecorp.xyz
 market-online.wiki
+mata-najwa-sihab.pages.dev
 mawartt.sgp1.cdn.digitaloceanspaces.com
 mclarenvale.pages.dev
 media.giphy.com
@@ -519,6 +529,7 @@ mobileservices.sbs
 modalkecil-untungbesar.pages.dev
 modelkit1.com
 moho.sgp1.cdn.digitaloceanspaces.com
+monbalcon.pages.dev
 moneysitedotaslot.pages.dev
 mplay-live-2-default-rtdb.firebaseio.com
 mplay-live-4-default-rtdb.firebaseio.com
@@ -722,6 +733,7 @@ s1.kwai.net
 s1.kwai.net.cdn.dnsv1.com
 s15-def.ap4r.com
 s16-11187.ap4r.com
+s21-def.ks-la.net
 s3-ap-southeast-1.amazonaws.com
 s3-r-w.ap-northeast-1.amazonaws.com
 s3-r-w.ap-southeast-1.amazonaws.com
@@ -793,6 +805,7 @@ storetn.in
 style.mixlink.top
 stylesheet.site
 subimage.xyz
+suhu-amavi.s-ed1.cloud.gcore.lu
 suka-staging.s3.ap-southeast-1.amazonaws.com
 sukakopi.xyz
 superqris.com
