@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1275
+# Number of entries: 1278
 # *slot*.*
 # *toto*.*
 # meme*
@@ -575,6 +575,7 @@
 *pesona[0-9]*
 *pilarplay[0-9]*
 *pin69*
+*pisangbet*
 *pisces[0-9]*
 *planet[0-9]*
 *platinumslot*
@@ -861,6 +862,7 @@ kumbang*
 mw68*
 nitroplay*
 ola62*
+on-[0-9]*
 on[0-9]*
 pafi*.org
 paki*.org
@@ -964,6 +966,7 @@ vsa88bos.*
 *.fishing
 *.fit
 *.fitness
+*.florist
 *.foo
 *.forex
 *.forsale
@@ -993,6 +996,7 @@ vsa88bos.*
 *.healthcare
 *.help
 *.homes
+*.hot
 *.how
 *.icu
 *.ink
@@ -1031,7 +1035,6 @@ vsa88bos.*
 *.monster
 *.motorcycles
 *.mov
-*.my
 *.name
 *.navy
 *.new

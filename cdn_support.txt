@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 870
+# Number of entries: 884
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -57,6 +57,7 @@ amp-estanciaimoveis-com-br.pages.dev
 amp-gacor-01.pages.dev
 amp-gafasland-com.pages.dev
 amp-iboslot-com.pages.dev
+amp-ohlillydesign.pages.dev
 amp-sportsjabber-net.pages.dev
 ampjuaranet.pages.dev
 ampjuaraspinlol.pages.dev
@@ -148,6 +149,7 @@ bandar-jaya.com
 bandar388-rtp.pages.dev
 bandung1.pages.dev
 bandungtoto11.pages.dev
+bang-jago.b-cdn.net
 bangaset.s3.ap-southeast-1.amazonaws.com
 bannerfoto.shop
 bas3data.xyz
@@ -304,6 +306,7 @@ dsuown9evwz4y.cloudfront.net
 dunia-rtp.pages.dev
 dvbs75l69qv8d.cloudfront.net
 dwlink.skystarbiru.com
+dwnldapk.sgp1.cdn.digitaloceanspaces.com
 dz5xbhxy6sjp4.cloudfront.net
 dztwieyphe62d.cloudfront.net
 e39296.b.akamaiedge.net
@@ -331,6 +334,7 @@ figprayer.pages.dev
 file001.nxtengine.net
 fileku.cc
 filemu.cc
+florensia-gacor.lon1.cdn.digitaloceanspaces.com
 fonts.cdnfonts.com
 form.6mbr.com
 forms.zohopublic.com
@@ -382,6 +386,7 @@ idl-cdn.rika.online
 idl-socket.rika.online
 idn.sgp1.cdn.digitaloceanspaces.com
 idnpopups.s3.ap-southeast-1.amazonaws.com
+idr-ong-huat.s-ed1.cloud.gcore.lu
 idw168rtpgame.pages.dev
 iframe.oasisid.com
 iili.io
@@ -389,6 +394,7 @@ image-cdn.link
 image777.sgp1.cdn.digitaloceanspaces.com
 imagebank.b-cdn.net
 imagedel.com
+imagekoi.io
 images.linkcdn.cloud
 images.mixlink.top
 images.squarespace-cdn.com
@@ -397,6 +403,7 @@ images4.imagebam.com
 imagesku.pages.dev
 imagme.com
 img-cdngames.s3.amazonaws.com
+img-source.b-cdn.net
 img.atomgaming88images.com
 img.cupr.us
 img.hotimg.com
@@ -418,6 +425,7 @@ imgsaya.io
 imgsaya2.io
 imgsaya3.io
 imgstack.net
+imgstore.io
 imgtop.io
 imgumk.online
 imgzm.com
@@ -449,10 +457,12 @@ jp-api2.namesvr.dev
 jp-api2.namesvr.devl43fnw-1198-ppp.oss-accelerate.aliyuncs.com
 jpgsatset.com
 kageru.site
+kalkulatort4d.pages.dev
 kamuchat.com
 kaos1.sgp1.cdn.digitaloceanspaces.com
 karep.pro
 kari-nih-ges.sgp1.digitaloceanspaces.com
+kaucengkia.atl1.cdn.digitaloceanspaces.com
 kaya787.dataklmsad902.site
 kaya787.dataklmsad903.site
 kgames.b-cdn.net
@@ -503,6 +513,7 @@ mailthehorsee.pages.dev
 maraset.site # CDN
 marinecorp.xyz
 market-online.wiki
+masbulo.b-cdn.net
 mata-najwa-sihab.pages.dev
 mawartt.sgp1.cdn.digitaloceanspaces.com
 mclarenvale.pages.dev
@@ -512,6 +523,7 @@ media.tenor.com
 media.wtgplay.xyz
 media4.giphy.com
 mediainternal.com
+mediamsg2.com
 meme4d-rtpslotgacor.pages.dev
 meriah4d-login.pages.dev
 metrosporsegundo.pages.dev
@@ -814,6 +826,8 @@ t4.ftcdn.net
 takenupload.com
 tamansejahtra.com
 tambangmu.com
+target4d-seo.pages.dev
+target4duhuy.pages.dev
 tasya51.wordpress.com
 teamglobalasset.com
 teeviso.pages.dev
