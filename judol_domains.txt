@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 13617
+# Number of entries: 13635
 #
 #
 # 
@@ -75,6 +75,7 @@
 1nsupgg.com
 1oberon.com
 1pangkat88.online
+1priaqq.art
 1rdo4d.xyz
 1rtpgacorjempol.click
 1rtpgacorwsp.click
@@ -116,7 +117,9 @@
 2idrslot138.com
 2iso777.com
 2kidsbrewing.com
+2liga99.run
 2museumvvip.xyz
+2priaqq.co
 2rimbaslot.online
 2spincuanwin77.click
 3.bp.blogspot.com
@@ -305,6 +308,7 @@ Verona-wlalottery.com
 a.buktijpdikia.com
 a.rtpdikia.com
 a.siakkab.com
+a01.rumahmenang.xyz
 a1.bimasakti.club
 a1.officialpartner.org
 a200masli.pics
@@ -420,6 +424,7 @@ afaloop6.com
 afalution26.com
 afalution3.com
 afastep.com
+afbgg.info
 aff.ole694.com
 affiliasimaha.com
 affiliate-eksternal.com
@@ -1309,6 +1314,7 @@ bandungtop.id
 bandungtoto.cc
 bandungtotomantap.id
 bangbos.top
+bangjennifer.fit # cloaking
 bangjono.shop
 bangka-pools.net
 bangkok-wlalottery.com
@@ -1375,8 +1381,10 @@ batiksatu.vip
 batinangkanet4d.com
 batinangkanet4d.net
 batman138.cc
+batmanslotjepe88.com
 batmantotoasia.com
 batmantotolinkgacor.com
+batmantotosakura99.com
 batmanxzlfsr.com
 batterseareview.com
 bayam89-a1.xyz
@@ -3246,6 +3254,7 @@ ekorestaurantnyc.com
 ekuadorlottery.com
 elangwin-rtp.icu
 elbarbecuesd.com
+elblag.lions.org.pl # cloaking
 eldergodspizza.com
 eldoretleo.com
 electric-waterkettle.com
@@ -3577,6 +3586,7 @@ formdaftar.com
 forosemana.com
 forsakenstar.store
 fortalezabrazilstonefair.com
+fortuneindonesia.org # landing
 fortuneprediksi.online
 fortworthmexicanrestaurant.com
 forumberita.com
@@ -4256,6 +4266,7 @@ halocuanklik.click
 halocuanklik.lol
 halohalo.icu
 halosukses.monster
+halubet76.yoga
 halusbet77asli.org
 halusbet77asli.shop
 halusbet77asli.site
@@ -6370,6 +6381,7 @@ lenke.digital
 lentera4d-digit.top
 lentera4dbook.top
 lentera4dsor.top
+leo88server.com
 leoslot88.bio
 leoslot88a.store
 lepetitboismoseley.com
@@ -6413,6 +6425,7 @@ liga178bestlink.com
 liga178dongbos.net
 liga2000at.com
 liga7m.top
+liga99.yoga
 ligahoki89.baby
 ligahoki89.pro
 ligaibetwinasia.store
@@ -6457,6 +6470,7 @@ link-herototo-antinawala.site
 link-pasarantogel.com
 link-pasarantogel2.com
 link-planet128.com
+link-resmi.com # cloaking
 link-rtpkristal777.icu
 link-toge123.com
 link-top05.com
@@ -7703,6 +7717,7 @@ mydeepdrugurl.shop
 myfest.id
 myfiles.uk
 myfolder.me 
+myfolderjen.vip
 myforlder.com
 myimagehost.me
 myindicabeauty.com
@@ -8823,6 +8838,7 @@ pengeluaransgp2024.com
 pengeluarantaiwan.org
 pengembanglumi777.asia
 pengertianahli.id
+penjuruhan.my.id # cloaking
 penmedia.org
 pensilkayu.com
 pensiunankerang.info
@@ -8854,6 +8870,7 @@ permata-wheel.us.exp.quest
 permata123id.xyz
 permata123jaya.com
 permata123win.site
+permaulle.me
 permen4dwin19.xyz
 permencuan.com
 perpusbicara.id
@@ -12436,6 +12453,7 @@ tornadohockey.com
 torontocentre.org
 torontolotto.co
 tortinorestaurant.com
+totalaction.xyz # landing
 totalimghost.site
 totaloutlet.shop
 toto.sgpools.live

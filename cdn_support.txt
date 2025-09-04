@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 884
+# Number of entries: 885
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -254,6 +254,7 @@ d30uvy2l9rv94q.cloudfront.net
 d30xzloyu3qfm5.cloudfront.net
 d32jers.com
 d33egg70nrp50s.cloudfront.net
+d346e5v8wxznq7.cloudfront.net
 d35uxhjf90umnp.cloudfront.net
 d37kf7rs4g1hyv.cloudfront.net
 d39ezjiev2gct0.cloudfront.net
