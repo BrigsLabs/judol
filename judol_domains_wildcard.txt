@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1281
+# Number of entries: 1286
 # *slot*.*
 # *toto*.*
 # meme*
@@ -70,6 +70,7 @@
 *angkanet4d*
 *angkasa[0-9]*
 *angkot88*
+*anoboy*
 *antinawala*
 *anugerahtoto*
 *apekslot*
@@ -142,6 +143,7 @@
 *bosbet*
 *boshoki*
 *bosstoto*
+*boytoto*
 *brandlokal*
 *btv4d*
 *buah4d*
@@ -597,6 +599,8 @@
 *pools.net
 *poolstoday.com
 *pos[0-9]*
+*pososlot*
+*posototo*
 *prada55*
 *prediksi*
 *preman*
@@ -732,6 +736,7 @@
 *tasenslot*
 *teamwish[0-9]*
 *telurtoto*
+*tempur[0-9]*
 *ten69*
 *tera4d*
 *terminalbet*

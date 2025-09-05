@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 885
+# Number of entries: 893
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -69,6 +69,7 @@ amprjs138login.pages.dev
 amprsma.pages.dev
 anehoo.com
 anhuidingyue.com
+anoboygroup.pages.dev
 antoboomerblog.wordpress.com
 ap-south-1.linodeobjects.com.akadns.net
 api-3m2b.seamlesss-hptech.com
@@ -423,6 +424,7 @@ imgku.io
 imgnxa.com
 imgnxb.com
 imgsaya.io
+imgsaya.online
 imgsaya2.io
 imgsaya3.io
 imgstack.net
@@ -574,6 +576,7 @@ olxjaya168.com
 omo77-2qn.pages.dev
 onelive.dataklmsad902.site
 onix-live-5-default-rtdb.firebaseio.com
+orashellorajoss.pages.dev
 oxplay.api-oplbo.com
 p4n9k4t88.pages.dev
 p670ty4f35.gcdikeagzb.net
@@ -603,6 +606,7 @@ pokerace-bb5be.firebaseio.com
 polagacor-png.pages.dev
 polakumbang.pages.dev
 poskampung.com
+poso.b-cdn.net
 postimg.cc
 premicloud.net
 prod-api-ug3bv2.web-sample.live
@@ -632,6 +636,7 @@ pub-56dc6e91c6b14ae39d02ca37deae98ec.r2.dev
 pub-56fddca6d9364d3daea6dda86f9cb226.r2.dev
 pub-5790736c854842c889298b4f6a8691ea.r2.dev
 pub-5a9db6e770a34346af628507f632d126.r2.dev
+pub-5aefe5b9063e4c45869d74a6562c0a9b.r2.dev
 pub-5baf076623b641729bf27ad88e7a26f9.r2.dev
 pub-609ed79ad73a45f6a3f93fd77dbfc4a6.r2.dev
 pub-63ef8a83684343d788bc4e2196ba7dbe.r2.dev
@@ -797,6 +802,7 @@ sobajimakmur.com
 softsfiles.pages.dev
 sohogroupblog.wordpress.com
 source.ligasumut.com
+southkitchenrestaurant.pages.dev
 spacerbucket.com
 spaces-mtg.sgp1.cdn.digitaloceanspaces.com
 spaces-ptg.sgp1.cdn.digitaloceanspaces.com
@@ -832,6 +838,7 @@ target4duhuy.pages.dev
 tasya51.wordpress.com
 teamglobalasset.com
 teeviso.pages.dev
+terhubung.xyz # subdom : pot.terhubung.xyz big.terhubung.xyz
 terla.lu
 test-drive-3-s6uit34pua-wl.a.run.app
 testdriver.site
@@ -864,6 +871,7 @@ w5svj.syd1.cdn.digitaloceanspaces.com
 wdnotif.sgp1.digitaloceanspaces.com
 web-istana2000.linkapp99.com
 web-template77.b-cdn.net
+webbiotech.pages.dev
 website-monitor-c8444-default-rtdb.asia-southeast1.firebasedatabase.app
 wgaming-assets.ap-south-1.linodeobjects.com
 wgfasttest.skystarbiru.com
