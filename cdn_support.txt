@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 893
+# Number of entries: 896
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -14,6 +14,7 @@
 # sgp1.digitaloceanspaces.com # whitelist
 # images.ctfassets.net # whitelist
 # i.scdn.co # whitelist
+# cdn.datatables.net # whitelist
 10fr4ame-b3stweeb.xyz
 21assetmanagement.com
 2fr4me-my4web.site
@@ -94,6 +95,7 @@ api-onix4b.seamlesss-hptech.com
 api-onix5b.seamlesss-hptech.com
 api-onix6-2-default-rtdb.firebaseio.com
 api-onix6.seamlesss-hptech.com
+api-onix7-2-default-rtdb.firebaseio.com
 api-onix7.seamlesss-hptech.com
 api-royal-ns2-1-default-rtdb.firebaseio.com
 api-royal-ns2.seamless-hptech.com
@@ -194,7 +196,6 @@ cdn.areabermain.club
 cdn.bosluna.com
 cdn.bunkerkiamat.com
 cdn.databerjalan.com
-cdn.datatables.net
 cdn.embed.ly
 cdn.gambarsejarah.com
 cdn.globalcontentcloud.com
@@ -480,6 +481,7 @@ l43fnw-1198-ppp.oss-accelerate.aliyuncs.com
 l78img.sgp1.cdn.digitaloceanspaces.com
 lai-le.b-cdn.net
 landak-idm.pages.dev
+ler-leicesterstudent.pages.dev
 les.sgp1.digitaloceanspaces.com
 lfiles.s3.eu-west-2.amazonaws.com
 lh3-dz.googleusercontent.com
@@ -700,6 +702,7 @@ r1zengrp.link
 rabanimage.io
 radartulungagung.co.id # malicious backlink
 rajabandot.sgp1.cdn.digitaloceanspaces.com
+rakyatacehloveanoboy.pages.dev
 rawontotortp.pages.dev
 rdjb.pages.dev
 recamweek.com
@@ -721,6 +724,7 @@ rtp-bayam89-v3.pages.dev
 rtp-cpo333.pages.dev
 rtp-gtcbet.pages.dev
 rtp-istanagaming.pages.dev
+rtp-pohon169-populer.pages.dev
 rtp.sgp1.cdn.digitaloceanspaces.com
 rtp1337kemenangan.pages.dev
 rtp389slots.pages.dev

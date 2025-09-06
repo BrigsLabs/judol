@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1286
+# Number of entries: 1287
 # *slot*.*
 # *toto*.*
 # meme*
@@ -25,6 +25,10 @@
 # *pangerantoto[0-9]*
 # *prediksi[0-9]*
 # bn77d*
+# *liga123*
+# *liga99*
+# *pohon4d*
+# *pohon8*
 *11wbet*
 *168gg*
 *3rp[0-9]*
@@ -424,8 +428,7 @@
 *lentera4d*
 *lglive[0-9]*
 *libra[0-9]*
-*liga123*
-*liga99*
+*liga[0-9]*
 *ligahoki[0-9]*
 *ligatunai*
 *limajp*
@@ -588,8 +591,7 @@
 *playsgg*
 *poa[0-9]*
 *pocari4d*
-*pohon4d*
-*pohon8*
+*pohon[0-9]*
 *pokaslot*
 *poker*
 *polawish[0-9]*
@@ -728,11 +730,13 @@
 *surya[0-9]*
 *sydneycuan*
 *t0gel*
+*taipan[0-9]*
 *tajir[0-9]*
 *talibetwin*
 *tan69*
 *tanduktoto*
 *taruhantoto*
+*tarungtoto*
 *tasenslot*
 *teamwish[0-9]*
 *telurtoto*
@@ -1033,6 +1037,7 @@ vsa88bos.*
 *.markets
 *.mba
 *.men
+*.menu
 *.miami
 *.ml
 *.moda
@@ -1312,4 +1317,3 @@ vsa88bos.*
 *.xn--qxa6a
 *.xn--qxam
 *.xn--y9a3aq
-
