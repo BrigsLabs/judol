@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1287
+# Number of entries: 1294
 # *slot*.*
 # *toto*.*
 # meme*
@@ -147,6 +147,7 @@
 *bosbet*
 *boshoki*
 *bosstoto*
+*boxing[0-9]*
 *boytoto*
 *brandlokal*
 *btv4d*
@@ -198,6 +199,7 @@
 *dewihoki*
 *dewiku[0-9]*
 *dewislot*
+*dewisri[0-9]*
 *dinasti2[0-9]*
 *dino[0-9]*
 *divisi3[0-9]*
@@ -222,6 +224,7 @@
 *estabet*
 *ewi4d*
 *facebookslot*
+*fals4d*
 *fbslot*
 *fijislot*
 *formasi4d*
@@ -426,6 +429,7 @@
 *lego77daftar*
 *lemacau*
 *lentera4d*
+*leo[0-9]*
 *lglive[0-9]*
 *libra[0-9]*
 *liga[0-9]*
@@ -580,6 +584,7 @@
 *permen4d*
 *peso138*
 *pesona[0-9]*
+*pewe[0-9]*
 *pilarplay[0-9]*
 *pin69*
 *pisangbet*
@@ -608,6 +613,7 @@
 *preman*
 *primerplay*
 *prince88*
+*profesional[0-9]*
 *promo[0-9]*
 *proyek[0-9]*
 *pttgroup*
@@ -640,6 +646,7 @@
 *ratu[0-9]*
 *rawit1[0-9]*
 *republik365*
+*rezekispin*
 *rgaqq[0-9]*
 *ria4d*
 *rimbatoto*

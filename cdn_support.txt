@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 896
+# Number of entries: 915
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -32,6 +32,7 @@
 a1211.dscr.akamai.net
 a1570.dscb.akamai.net
 a5cdn.com
+ab.da31889.com
 abutogel-newrtpslot.pages.dev
 aceh4dblog.wordpress.com
 acuitykit.pages.dev
@@ -60,6 +61,8 @@ amp-gafasland-com.pages.dev
 amp-iboslot-com.pages.dev
 amp-ohlillydesign.pages.dev
 amp-sportsjabber-net.pages.dev
+ampboxing55ten.pages.dev
+ampjavabet99alg.pages.dev
 ampjuaranet.pages.dev
 ampjuaraspinlol.pages.dev
 ampjuaraspinvipcom.pages.dev
@@ -119,6 +122,7 @@ apk.e-droid.net
 app-a.gm-ldr-82r2tndnuha5.com
 app-a.ply-ldr-rfo6v4aqd6cqw84z.com
 app-imgstore.cc
+appsetup.yidaiyiluclub.com
 appsgeyser.com
 arcanism.pages.dev
 areahoki.com
@@ -267,6 +271,7 @@ d3dy5gmtp8yhk7.cloudfront.net
 d3ejb2l5e3bvmc.cloudfront.net
 d3h1yom8coubmj.cloudfront.net
 d3mqo97n0n0k7d.cloudfront.net
+d3pjq3rrv5sdh6.cloudfront.net
 d3pr994l7txgml.cloudfront.net
 d3pvfi6m7bxu71.cloudfront.net
 d6ve0grjeaee7.cloudfront.net
@@ -296,6 +301,7 @@ dhv857qjzfs98.cloudfront.net
 dilip.at
 dinohost.vip
 diqv0ct81hsy8.cloudfront.net
+dl.zhenwudadi.net
 dlmxz0etq5yy6.cloudfront.net
 dmwl0ca1bvnm.cloudfront.net
 domain7264.wordpress.com
@@ -322,6 +328,7 @@ entecomputer.com
 ephysicsvn.pages.dev
 eq37fu2xth.com
 erp.sphoki88.com
+espaciocreativoelche.pages.dev
 estate77media.com
 ethiobusiness.pages.dev
 euphoria-percentage.pages.dev
@@ -451,6 +458,7 @@ jamuplayrtp.pages.dev
 jandamuda.cfd
 jangan-di-report-ya-bg.pages.dev
 jasj.us
+javabet99vpn.pages.dev
 jeuxflashgratuits.pages.dev
 jiitubagibagiduit.pages.dev
 jlfafafa3.com
@@ -530,6 +538,7 @@ media4.giphy.com
 mediainternal.com
 mediamsg2.com
 meme4d-rtpslotgacor.pages.dev
+menubumi-bumicafe-go-international.pages.dev
 meriah4d-login.pages.dev
 metrosporsegundo.pages.dev
 meyerweb.com
@@ -548,6 +557,8 @@ modelkit1.com
 moho.sgp1.cdn.digitaloceanspaces.com
 monbalcon.pages.dev
 moneysitedotaslot.pages.dev
+mpc-prod-1-1053047382554.us-central1.run.app
+mpc-prod-4-1053047382554.us-central1.run.app
 mplay-live-2-default-rtdb.firebaseio.com
 mplay-live-4-default-rtdb.firebaseio.com
 mplay-live-5-default-rtdb.firebaseio.com
@@ -567,6 +578,7 @@ ngkfbads.pages.dev
 notif.trycodes.cloud
 numbersneverdie.pages.dev
 nx-cdn.nx1wl.com
+nx-cdn.nx2wl.com
 nxt-upload-bucket.ajp7e.upcloudobjects.com
 nyanpasu.click
 object-d001-cloud.cloudstoragesharingservice.com
@@ -607,6 +619,7 @@ png999.com
 pokerace-bb5be.firebaseio.com
 polagacor-png.pages.dev
 polakumbang.pages.dev
+pomf2.lain.la
 poskampung.com
 poso.b-cdn.net
 postimg.cc
@@ -641,8 +654,10 @@ pub-5a9db6e770a34346af628507f632d126.r2.dev
 pub-5aefe5b9063e4c45869d74a6562c0a9b.r2.dev
 pub-5baf076623b641729bf27ad88e7a26f9.r2.dev
 pub-609ed79ad73a45f6a3f93fd77dbfc4a6.r2.dev
+pub-61adfb4568d94aaea721503fa0df9f5a.r2.dev
 pub-63ef8a83684343d788bc4e2196ba7dbe.r2.dev
 pub-6667608f0e5a467697ee61610950a063.r2.dev
+pub-6de05fd8a9f5478ebaaf615c1e697720.r2.dev
 pub-6ff7e30e22464f96947ce2aa0e3171db.r2.dev
 pub-74364a6978354ed487f58b7b61e7eabc.r2.dev
 pub-7a0e94009e8a47869ca0456d09c14727.r2.dev
@@ -817,6 +832,7 @@ starlink4d.sgp1.cdn.digitaloceanspaces.com
 static-content.pro
 static.augipt.com
 static.geevisit.com
+static.gwvkyk.com
 static.marsul.xyz
 static.nukeasset.com
 static.sameorigin.net
@@ -844,6 +860,8 @@ teamglobalasset.com
 teeviso.pages.dev
 terhubung.xyz # subdom : pot.terhubung.xyz big.terhubung.xyz
 terla.lu
+test-drive-10-s6uit34pua-uc.a.run.app
+test-drive-20-1053047382554.us-central1.run.app
 test-drive-3-s6uit34pua-wl.a.run.app
 testdriver.site
 thestarsomerset.pages.dev
@@ -869,6 +887,7 @@ usglobalasset.com
 visabet88rtp.pages.dev
 vm.homeleasyn.com
 voss-helmet.info
+vpn-app.s3.ap-southeast-3.amazonaws.com
 vulture.rest
 vxbrkq1luxtv.gpa2glsjhw.xyz
 w5svj.syd1.cdn.digitaloceanspaces.com
