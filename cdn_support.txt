@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 915
+# Number of entries: 926
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -224,6 +224,7 @@ cdn568.net
 cdncode.org
 cdndir.b-cdn.net
 cdnmonster.net
+cdnres.yidaiyiluclub.com
 cdnsimple.top
 cekrtpbokaptoto.pages.dev
 ceritabahagia.lol
@@ -282,6 +283,7 @@ dataconnect.sbs
 dataklmsad902.site
 dataklmsad903.site
 datasvc.xyz
+db351sg6odjv.cloudfront.net
 dbxmjjzl5pc1g.cloudfront.net
 dd8p0622bwh41.cloudfront.net
 demohabanero.pages.dev
@@ -301,6 +303,9 @@ dhv857qjzfs98.cloudfront.net
 dilip.at
 dinohost.vip
 diqv0ct81hsy8.cloudfront.net
+dl.erlangyao.com
+dl.leigong.net
+dl.whfdckfzzdl.com
 dl.zhenwudadi.net
 dlmxz0etq5yy6.cloudfront.net
 dmwl0ca1bvnm.cloudfront.net
@@ -325,6 +330,8 @@ edcdesign.sgp1.digitaloceanspaces.com
 edge.api.flagsmith.com
 enak.la
 entecomputer.com
+entry.gyeitee.com
+entry.nuanmokeji.com
 ephysicsvn.pages.dev
 eq37fu2xth.com
 erp.sphoki88.com
@@ -381,6 +388,7 @@ harta-simpati.pages.dev
 hbostatic.xyz
 helenafrithpowell.com
 hfaker.com
+himspeshawar.pages.dev
 hkbchat.com
 ho-bxry-com.k0llpst3r.org
 hokibagus.club
@@ -392,6 +400,7 @@ hslmantap.sgp1.cdn.digitaloceanspaces.com
 i.ibb.co
 i.ibb.co.com
 ibu4d-rtp.pages.dev
+icccibfim.pages.dev
 idl-cdn.rika.online
 idl-socket.rika.online
 idn.sgp1.cdn.digitaloceanspaces.com
@@ -542,6 +551,8 @@ menubumi-bumicafe-go-international.pages.dev
 meriah4d-login.pages.dev
 metrosporsegundo.pages.dev
 meyerweb.com
+mgapi2.lansn-model.com
+mgt.zhiwushui.com
 midme.xyz
 militia-watchdog.org
 mjitincorp.club
