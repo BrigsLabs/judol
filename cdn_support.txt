@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 926
+# Number of entries: 933
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -35,6 +35,7 @@ a5cdn.com
 ab.da31889.com
 abutogel-newrtpslot.pages.dev
 aceh4dblog.wordpress.com
+acehmediacom.wordpress.com # suspicious
 acuitykit.pages.dev
 adomselfrecigency.com
 adsdewigg.com
@@ -59,6 +60,7 @@ amp-estanciaimoveis-com-br.pages.dev
 amp-gacor-01.pages.dev
 amp-gafasland-com.pages.dev
 amp-iboslot-com.pages.dev
+amp-knptechno.pages.dev
 amp-ohlillydesign.pages.dev
 amp-sportsjabber-net.pages.dev
 ampboxing55ten.pages.dev
@@ -538,6 +540,7 @@ market-online.wiki
 masbulo.b-cdn.net
 mata-najwa-sihab.pages.dev
 mawartt.sgp1.cdn.digitaloceanspaces.com
+maycokhi.pages.dev
 mclarenvale.pages.dev
 media.giphy.com
 media.mediatelekomunikasisejahtera.com
@@ -631,6 +634,7 @@ pokerace-bb5be.firebaseio.com
 polagacor-png.pages.dev
 polakumbang.pages.dev
 pomf2.lain.la
+posgradoupea-edu-bo.pages.dev
 poskampung.com
 poso.b-cdn.net
 postimg.cc
@@ -640,6 +644,7 @@ prod-api-ug4bv2.ns1-prototype.org
 prod-api-ug5cv2.web-sample.live
 project-lembagatoto-mobile.pages.dev
 projectgalery.xyz
+promomantraslot.pages.dev
 pub-030bf10fe1a0403cb36d73c3e2e2b903.r2.dev
 pub-06ff85254fab4956804723ef05e9c0bc.r2.dev
 pub-0d925b1b3c6944ea948fa415c38c775c.r2.dev
@@ -771,6 +776,7 @@ rtpmantap.sgp1.cdn.digitaloceanspaces.com
 rtpmantap303bos.pages.dev
 rtpmantapjawabarat4d.pages.dev
 rtpmaster-glory777.pages.dev
+rtpms8.pages.dev
 rtpslotnew-rtibuntogel.pages.dev
 rtpslottanggawin.pages.dev
 rtpsoju88-1.pages.dev
@@ -876,6 +882,7 @@ test-drive-20-1053047382554.us-central1.run.app
 test-drive-3-s6uit34pua-wl.a.run.app
 testdriver.site
 thestarsomerset.pages.dev
+theyashotel.pages.dev
 tianlonghi.com
 tiktakimage.shop
 tiktakspace.cc
