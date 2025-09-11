@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1307
+# Number of entries: 1310
 # *slot*.*
 # *toto*.*
 # meme*
@@ -193,6 +193,7 @@
 *dewa[0-9]*
 *dewadora*
 *dewahoki*
+*dewakakek[0-9]*
 *dewaraja[0-9]*
 *dewascore*
 *dewasultan*
@@ -571,6 +572,7 @@
 *pajak88*
 *paket4d*
 *paktuaslotaman*
+*paluapi[0-9]*
 *pancing77*
 *panda[0-9]*
 *pandabet*
@@ -721,6 +723,7 @@
 *slotter[0-9]*
 *sm4d*
 *sniperslot*
+*sohib4d*
 *soju[0-9]*
 *sonic4d*
 *sonitoto*

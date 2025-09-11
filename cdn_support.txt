@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 933
+# Number of entries: 941
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -63,6 +63,7 @@ amp-iboslot-com.pages.dev
 amp-knptechno.pages.dev
 amp-ohlillydesign.pages.dev
 amp-sportsjabber-net.pages.dev
+amp-thefirearmexperts.pages.dev
 ampboxing55ten.pages.dev
 ampjavabet99alg.pages.dev
 ampjuaranet.pages.dev
@@ -237,6 +238,7 @@ chat.onechat.dev
 cici4d.s3.wasabisys.com
 cikatech.sgp1.digitaloceanspaces.com
 clanker-events.squarespace.com
+clickdrive.tech
 cloudcdnetw.com
 cloudinary.com
 cobacobajeeee.pages.dev
@@ -409,6 +411,7 @@ idn.sgp1.cdn.digitaloceanspaces.com
 idnpopups.s3.ap-southeast-1.amazonaws.com
 idr-ong-huat.s-ed1.cloud.gcore.lu
 idw168rtpgame.pages.dev
+iframe.archopay.com
 iframe.oasisid.com
 iili.io
 image-cdn.link
@@ -645,6 +648,7 @@ prod-api-ug5cv2.web-sample.live
 project-lembagatoto-mobile.pages.dev
 projectgalery.xyz
 promomantraslot.pages.dev
+pub-01daae9cfed641489a104989d6c91115.r2.dev
 pub-030bf10fe1a0403cb36d73c3e2e2b903.r2.dev
 pub-06ff85254fab4956804723ef05e9c0bc.r2.dev
 pub-0d925b1b3c6944ea948fa415c38c775c.r2.dev
@@ -679,6 +683,7 @@ pub-74364a6978354ed487f58b7b61e7eabc.r2.dev
 pub-7a0e94009e8a47869ca0456d09c14727.r2.dev
 pub-7c0d840b179d47749c3f9eeb88ae1f0a.r2.dev
 pub-7eb86c0b50ec4a9a9f40b1bc21055c7a.r2.dev
+pub-7ee75aa7f76a4d2da0e7f58f6e718bf5.r2.dev
 pub-880936a030424bda8a513a41b225624d.r2.dev
 pub-8b23969a255c4173816091bcb72b03c7.r2.dev
 pub-8b55f6b3152f449eb2adee51596073e1.r2.dev
@@ -830,6 +835,7 @@ siuntung.vip
 sivanlevy.com
 sk88-mime-a3b28.firebaseio.com
 skilfulessays.pages.dev
+skobam-theluckythirtykate.pages.dev
 skylacosmetics.pages.dev
 slotgacor2024rupiah.pages.dev
 smbstatic.sgp1.digitaloceanspaces.com
@@ -898,6 +904,7 @@ univ-ikopin.pages.dev
 unsur138.pages.dev
 untidy-robin-production.up.railway.app
 uoaeiz3recbrojp76imxpthfemovjaxecjudzg8wytc.bithe.net
+upcristo.pages.dev
 updatechecker3-14ecc.firebaseio.com
 upload.ee
 user-upload.aws-s3-r1r2str0bjx.sg-sin1.upcloudobjects.com
@@ -925,6 +932,7 @@ winwin25.wordpress.com
 wlinetpos.com
 wllink.skystarbiru.com
 woainistef.sgp1.digitaloceanspaces.comwoainistef.sgp1.digitaloceanspaces.com
+writingiscakepapua.pages.dev
 x.it-cg.group
 xasia.me
 xdewa-rtp.pages.dev
