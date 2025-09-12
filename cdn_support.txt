@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 941
+# Number of entries: 946
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -36,6 +36,7 @@ ab.da31889.com
 abutogel-newrtpslot.pages.dev
 aceh4dblog.wordpress.com
 acehmediacom.wordpress.com # suspicious
+active.b-cdn.net
 acuitykit.pages.dev
 adomselfrecigency.com
 adsdewigg.com
@@ -77,6 +78,8 @@ amprsma.pages.dev
 anehoo.com
 anhuidingyue.com
 anoboygroup.pages.dev
+anoboytoto-gacor.pages.dev
+anoboytoto.pages.dev
 antoboomerblog.wordpress.com
 ap-south-1.linodeobjects.com.akadns.net
 api-3m2b.seamlesss-hptech.com
@@ -157,6 +160,7 @@ bakso-kojek-5k.sfo3.cdn.digitaloceanspaces.com
 balicenter-1000.pages.dev
 bandar-jaya.com
 bandar388-rtp.pages.dev
+bandartogelonlinetoto.pages.dev
 bandung1.pages.dev
 bandungtoto11.pages.dev
 bang-jago.b-cdn.net
@@ -537,6 +541,7 @@ m-g.io
 m.ozzogame.com
 m1cdn.com
 mailthehorsee.pages.dev
+malangtogel.pages.dev
 maraset.site # CDN
 marinecorp.xyz
 market-online.wiki
