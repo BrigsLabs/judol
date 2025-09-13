@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 946
+# Number of entries: 954
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -22,6 +22,7 @@
 66555.xyz
 777tech.cloud
 818webhost.com
+8327771864.kggamingapi.com
 87h0gp2tfu.ipkdwipf.net
 888rpaa.com
 888rpab.com
@@ -271,6 +272,7 @@ d32jers.com
 d33egg70nrp50s.cloudfront.net
 d346e5v8wxznq7.cloudfront.net
 d35uxhjf90umnp.cloudfront.net
+d36i6r7ov1g766.cloudfront.net
 d37kf7rs4g1hyv.cloudfront.net
 d39ezjiev2gct0.cloudfront.net
 d39r7a227pxlxu.cloudfront.net
@@ -311,6 +313,7 @@ dhv857qjzfs98.cloudfront.net
 dilip.at
 dinohost.vip
 diqv0ct81hsy8.cloudfront.net
+dkexc23x457ak.cloudfront.net
 dl.erlangyao.com
 dl.leigong.net
 dl.whfdckfzzdl.com
@@ -446,6 +449,7 @@ imgambarku.com
 imgbob.online
 imgbox.com
 imgfire.art
+imghn.com
 imgku.io
 imgnxa.com
 imgnxb.com
@@ -498,6 +502,7 @@ kaya787.dataklmsad903.site
 kgames.b-cdn.net
 khusus.nyc3.cdn.digitaloceanspaces.com
 kita-cobalagi-za.pages.dev
+kokobread.com
 kumpulanfile.sgp1.digitaloceanspaces.com
 kumpulangambars.com
 kungfu4d-rtp.pages.dev
@@ -507,6 +512,7 @@ l43fnw-1198-ppp.oss-accelerate.aliyuncs.com
 l78img.sgp1.cdn.digitaloceanspaces.com
 lai-le.b-cdn.net
 landak-idm.pages.dev
+layarnonton.com # malicious
 ler-leicesterstudent.pages.dev
 les.sgp1.digitaloceanspaces.com
 lfiles.s3.eu-west-2.amazonaws.com
@@ -523,6 +529,7 @@ linktogelslot4d.fra1.cdn.digitaloceanspaces.com
 livebolaparlaypng.pages.dev
 livechat.design
 livechat88.chat
+livenobar.org
 livescore-dunia77.pages.dev
 livescorekristal777.pages.dev
 lkdfvx-pub-aws-sss.nxtengine.id
@@ -855,6 +862,7 @@ spaces-mtg.sgp1.cdn.digitaloceanspaces.com
 spaces-ptg.sgp1.cdn.digitaloceanspaces.com
 spaces-ptg.sgp1.digitaloceanspaces.com
 spaces-slg.sgp1.cdn.digitaloceanspaces.com
+srv1648-files.hstgr.io
 staging-9a793.firebaseapp.com
 starlink4d.sgp1.cdn.digitaloceanspaces.com
 static-content.pro
