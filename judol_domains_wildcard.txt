@@ -4,31 +4,10 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1316
+# Number of entries: 1323
 # *slot*.*
 # *toto*.*
 # meme*
-# *rtpasiajp[0-9]*
-# *rtphoki*
-# *rtpindobit*
-# *rtpirit4d*
-# *rtpistana*
-# *rtplive*
-# *rtpnobita*
-# *rtppisces[0-9]*
-# *rtppp*
-# *rtpslot*
-# *paitopaman*
-# *paitowarna*
-# *koi.org
-# *harumslotrtp*
-# *pangerantoto[0-9]*
-# *prediksi[0-9]*
-# bn77d*
-# *liga123*
-# *liga99*
-# *pohon4d*
-# *pohon8*
 *11wbet*
 *168gg*
 *3rp[0-9]*
@@ -296,6 +275,7 @@
 *harumslot*
 *hebat[0-9]*
 *herototo*
+*hijautoto*
 *hinototo*
 *hoki[0-9]*
 *hokijp[0-9]*
@@ -347,6 +327,7 @@
 *jakartaslot*
 *jangkar1[0-9]*
 *jantan[0-9]*
+*jaringbet*
 *jasacuan*
 *jawara88x*
 *jawaraslot*
@@ -381,6 +362,7 @@
 *kakekjepe*
 *kakekjp*
 *kakekmerah*
+*kaki[0-9]*
 *kamarhoki*
 *kampungtoto*
 *kangslot*
@@ -445,6 +427,7 @@
 *lentera4d*
 *leo[0-9]*
 *lglive[0-9]*
+*lgopro[0-9]*
 *libra[0-9]*
 *liga[0-9]*
 *ligahoki[0-9]*
@@ -515,6 +498,7 @@
 *miko[0-9]*
 *miliarbet*
 *miliarslot*
+*mitosbet*
 *mola62*
 *monaco[0-9]*
 *monas[0-9]*
@@ -682,6 +666,7 @@
 *royalslot*
 *rp888*
 *rtp*
+*rudaltoto*
 *runnerball[0-9]*
 *rupiah[0-9]*
 *rupiahtoto*
@@ -825,6 +810,7 @@
 *unogg*
 *unovegas*
 *up2000*
+*usahatoto*
 *usstoto*
 *usstto*
 *ustotoo*
@@ -910,7 +896,7 @@ ss88*
 sungai*.com
 sungai*.in
 twslive*
-ug8*
+ug[0-9]*
 up[0-9]*
 vsa88bos.*
 # TLD abuse list from source : https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/spam-tlds-rpz-aggressive.txt

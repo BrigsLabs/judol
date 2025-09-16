@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 954
+# Number of entries: 980
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -15,9 +15,12 @@
 # images.ctfassets.net # whitelist
 # i.scdn.co # whitelist
 # cdn.datatables.net # whitelist
+1.bp.blogspot.com
 10fr4ame-b3stweeb.xyz
 21assetmanagement.com
 2fr4me-my4web.site
+3.bp.blogspot.com
+4.bp.blogspot.com
 4n76bph80j.gbgfstie.biz
 66555.xyz
 777tech.cloud
@@ -173,6 +176,7 @@ beko.pages.dev
 bellekay.pages.dev
 berbagaicaragif.com
 beritaindonesia.co
+bersyukur-its-a-key.pages.dev
 bestlink.ly
 bierviltjes.pages.dev
 binder-nx1.namesvr.xyz
@@ -235,6 +239,7 @@ cdnmonster.net
 cdnres.yidaiyiluclub.com
 cdnsimple.top
 cekrtpbokaptoto.pages.dev
+cemara123vip.blogspot.com
 ceritabahagia.lol
 cerofilas.pages.dev
 chaport.com
@@ -260,6 +265,7 @@ d290ny10omyv12.cloudfront.net
 d2f3dnusg0rbp7.cloudfront.net
 d2fdcuev2flsum.cloudfront.net
 d2g2ks6h98pvqo.cloudfront.net
+d2lcoivv20vty7.cloudfront.net
 d2mpatx37cqexb.cloudfront.net
 d2qos86h2u305y.cloudfront.net
 d2rzzcn1jnr24x.cloudfront.net
@@ -282,6 +288,7 @@ d3dy5gmtp8yhk7.cloudfront.net
 d3ejb2l5e3bvmc.cloudfront.net
 d3h1yom8coubmj.cloudfront.net
 d3mqo97n0n0k7d.cloudfront.net
+d3nglpcg1mlj3k.cloudfront.net
 d3pjq3rrv5sdh6.cloudfront.net
 d3pr994l7txgml.cloudfront.net
 d3pvfi6m7bxu71.cloudfront.net
@@ -431,6 +438,7 @@ images.mixlink.top
 images.squarespace-cdn.com
 images.wlsf.link
 images4.imagebam.com
+imageshare.click
 imagesku.pages.dev
 imagme.com
 img-cdngames.s3.amazonaws.com
@@ -479,11 +487,13 @@ jamepix.com
 jamuplayrtp.pages.dev
 jandamuda.cfd
 jangan-di-report-ya-bg.pages.dev
+jaringbet-official.blogspot.com
 jasj.us
 javabet99vpn.pages.dev
 jeuxflashgratuits.pages.dev
 jiitubagibagiduit.pages.dev
 jlfafafa3.com
+joyopetir.blogspot.com
 jp-api.namesvr.dev
 jp-api.nexuswlb.com
 jp-api.zoomwlb.com
@@ -494,6 +504,7 @@ kageru.site
 kalkulatort4d.pages.dev
 kamuchat.com
 kaos1.sgp1.cdn.digitaloceanspaces.com
+kapten808com.pages.dev
 karep.pro
 kari-nih-ges.sgp1.digitaloceanspaces.com
 kaucengkia.atl1.cdn.digitaloceanspaces.com
@@ -536,6 +547,8 @@ lkdfvx-pub-aws-sss.nxtengine.id
 lkdfvx-pub-aws-sss.sgp1.digitaloceanspaces.com
 lobbygambar.com
 lobbyplay.com
+loginapkspbutoto.blogspot.com
+logindapurtoto.blogspot.com
 logingacoremperor33.pages.dev
 loginsungaito2.blogspot.com
 lovya.pages.dev
@@ -553,6 +566,7 @@ maraset.site # CDN
 marinecorp.xyz
 market-online.wiki
 masbulo.b-cdn.net
+mastronetlpo88.pages.dev
 mata-najwa-sihab.pages.dev
 mawartt.sgp1.cdn.digitaloceanspaces.com
 maycokhi.pages.dev
@@ -575,6 +589,7 @@ midme.xyz
 militia-watchdog.org
 mjitincorp.club
 mm3wrcjtz2ctcker.sgp1.cdn.digitaloceanspaces.com
+mobile-api.5k2an3or4q209.xyz
 mobile-server-naeywn2b5q-as.a.run.app
 mobile-server-s7n7536nxa-as.a.run.app
 mobile-server-xovczxfxsq-as.a.run.app
@@ -653,6 +668,8 @@ posgradoupea-edu-bo.pages.dev
 poskampung.com
 poso.b-cdn.net
 postimg.cc
+prediksi-togel-wahanatoto.blogspot.com
+prediksitogelangkakembar1-2.blogspot.com
 premicloud.net
 prod-api-ug3bv2.web-sample.live
 prod-api-ug4bv2.ns1-prototype.org
@@ -697,6 +714,7 @@ pub-7c0d840b179d47749c3f9eeb88ae1f0a.r2.dev
 pub-7eb86c0b50ec4a9a9f40b1bc21055c7a.r2.dev
 pub-7ee75aa7f76a4d2da0e7f58f6e718bf5.r2.dev
 pub-880936a030424bda8a513a41b225624d.r2.dev
+pub-88639e2cebd24f0e87a482ceaaa59fc6.r2.dev
 pub-8b23969a255c4173816091bcb72b03c7.r2.dev
 pub-8b55f6b3152f449eb2adee51596073e1.r2.dev
 pub-8b7d6144a9c74a41a866be14066dbcc9.r2.dev
@@ -765,6 +783,8 @@ riskct.geetest.com
 rizkynadiateknik.pages.dev
 robotaset.com
 roket1.sgp1.cdn.digitaloceanspaces.com
+roomangkakembar.blogspot.com
+rootaccess.b-cdn.net
 royalslot-resmi.pages.dev
 rp888aabb.com
 rto-new77-terbaru.pages.dev
@@ -850,6 +870,7 @@ skilfulessays.pages.dev
 skobam-theluckythirtykate.pages.dev
 skylacosmetics.pages.dev
 slotgacor2024rupiah.pages.dev
+slotonlinegacor22.blogspot.com
 smbstatic.sgp1.digitaloceanspaces.com
 snapy.photo
 sobajimakmur.com
@@ -884,6 +905,8 @@ suhu-amavi.s-ed1.cloud.gcore.lu
 suka-staging.s3.ap-southeast-1.amazonaws.com
 sukakopi.xyz
 superqris.com
+sydneylotto-livedraw.tumblr.com
+sydneylotto.tumblr.com
 t3cdn.com
 t4.ftcdn.net
 takenupload.com
@@ -908,6 +931,7 @@ tiktakspace.cc
 tinypic.host
 tmc-group.photos
 tokolontong.com
+toto188official.taplink.ws
 tr8ngames.com
 tranfertous.com
 ucarecdn.com
@@ -922,6 +946,7 @@ updatechecker3-14ecc.firebaseio.com
 upload.ee
 user-upload.aws-s3-r1r2str0bjx.sg-sin1.upcloudobjects.com
 usglobalasset.com
+violet-top-one.pages.dev
 visabet88rtp.pages.dev
 vm.homeleasyn.com
 voss-helmet.info
@@ -929,6 +954,7 @@ vpn-app.s3.ap-southeast-3.amazonaws.com
 vulture.rest
 vxbrkq1luxtv.gpa2glsjhw.xyz
 w5svj.syd1.cdn.digitaloceanspaces.com
+warnascore.com
 wdnotif.sgp1.digitaloceanspaces.com
 web-istana2000.linkapp99.com
 web-template77.b-cdn.net
