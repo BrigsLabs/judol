@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 980
+# Number of entries: 986
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -58,6 +58,7 @@ all-images-game.pages.dev
 alphabod.org
 amatic.com
 ambengine.com
+americanlightworks.pages.dev
 amp-cermat.pages.dev
 amp-cerrodelvalle-com-br.pages.dev
 amp-escobar.sgp1.cdn.digitaloceanspaces.com
@@ -67,6 +68,7 @@ amp-gafasland-com.pages.dev
 amp-iboslot-com.pages.dev
 amp-knptechno.pages.dev
 amp-ohlillydesign.pages.dev
+amp-project-wonderboy.pages.dev
 amp-sportsjabber-net.pages.dev
 amp-thefirearmexperts.pages.dev
 ampboxing55ten.pages.dev
@@ -112,6 +114,7 @@ api-onix7-2-default-rtdb.firebaseio.com
 api-onix7.seamlesss-hptech.com
 api-royal-ns2-1-default-rtdb.firebaseio.com
 api-royal-ns2.seamless-hptech.com
+api-seo-1354997367.ap-southeast-1.elb.amazonaws.com
 api-skygaming2.seamlesss-hptech.com
 api.cloud.mime.services
 api.freshapp.top
@@ -618,6 +621,7 @@ neftdocs.com
 neftsoft.co
 new77-slotgacor-rtp.pages.dev
 nextgen.sg-sin1.upcloudobjects.com
+ngecas-terus.pages.dev
 ngkfbads.pages.dev
 notif.trycodes.cloud
 numbersneverdie.pages.dev
@@ -674,6 +678,7 @@ premicloud.net
 prod-api-ug3bv2.web-sample.live
 prod-api-ug4bv2.ns1-prototype.org
 prod-api-ug5cv2.web-sample.live
+prod-api-ug6v2.ns1-prototype.org
 project-lembagatoto-mobile.pages.dev
 projectgalery.xyz
 promomantraslot.pages.dev
@@ -949,6 +954,7 @@ usglobalasset.com
 violet-top-one.pages.dev
 visabet88rtp.pages.dev
 vm.homeleasyn.com
+vorcen-reborn.b-cdn.net
 voss-helmet.info
 vpn-app.s3.ap-southeast-3.amazonaws.com
 vulture.rest
