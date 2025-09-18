@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 986
+# Number of entries: 993
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -364,6 +364,7 @@ exito.my.id
 exp.boobsbymassage.com
 exteriorinteriors.pages.dev
 fastads.b-cdn.net
+fasttrackinbatman.pages.dev
 fd-strikermuda09.pages.dev
 felixhospitals.com
 feritogel.sgp1.cdn.digitaloceanspaces.com
@@ -452,6 +453,7 @@ img.hotimg.com
 img.ligasumut.com
 img.lovepik.com
 img.nextgen.sg-sin1.upcloudobjects.com
+img.pay4d.info
 img.thesports.com
 img.zhenqinghua.com
 img1.wsimg.com
@@ -504,6 +506,7 @@ jp-api2.namesvr.dev
 jp-api2.namesvr.devl43fnw-1198-ppp.oss-accelerate.aliyuncs.com
 jpgsatset.com
 kageru.site
+kaliiniuntukmusim.b-cdn.net
 kalkulatort4d.pages.dev
 kamuchat.com
 kaos1.sgp1.cdn.digitaloceanspaces.com
@@ -609,11 +612,13 @@ mpc-prod-4-1053047382554.us-central1.run.app
 mplay-live-2-default-rtdb.firebaseio.com
 mplay-live-4-default-rtdb.firebaseio.com
 mplay-live-5-default-rtdb.firebaseio.com
+musimtogel-login.pages.dev
 mutami845.wordpress.com
 mutliple.com
 mybluehost.me
 myimg.site
 nagavip88resmi.notion.site
+nakamauploader.com # file cdn
 namakami.com
 naocontemglutendoc.com
 nationalhemorrhoiddirectory.org
@@ -847,6 +852,7 @@ sdnbre.pages.dev
 selalusiap.site
 semzoom1.pages.dev
 senyumterus.xyz
+seo-baru-1-minggu.pages.dev
 serverkaos.com
 sg1wg.b-cdn.net
 sga-cdn-hxg6b2d7ctb2c0eu.z02.azurefd.net
@@ -964,6 +970,7 @@ warnascore.com
 wdnotif.sgp1.digitaloceanspaces.com
 web-istana2000.linkapp99.com
 web-template77.b-cdn.net
+web-vegas123.linkapp77.com
 webbiotech.pages.dev
 website-monitor-c8444-default-rtdb.asia-southeast1.firebasedatabase.app
 wgaming-assets.ap-south-1.linodeobjects.com
