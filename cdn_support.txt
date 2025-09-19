@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 993
+# Number of entries: 1003
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -17,13 +17,16 @@
 # cdn.datatables.net # whitelist
 1.bp.blogspot.com
 10fr4ame-b3stweeb.xyz
+18ea70d2d9a945cfb97d818ba71817dc.pacloudflare.com
 21assetmanagement.com
+2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 2fr4me-my4web.site
 3.bp.blogspot.com
 4.bp.blogspot.com
 4n76bph80j.gbgfstie.biz
 66555.xyz
 777tech.cloud
+7c7b02d4bc3d48dd81a7c7738d4de1ab.pacloudflare.com
 818webhost.com
 8327771864.kggamingapi.com
 87h0gp2tfu.ipkdwipf.net
@@ -38,12 +41,15 @@ a1570.dscb.akamai.net
 a5cdn.com
 ab.da31889.com
 abutogel-newrtpslot.pages.dev
+accallyhigingola.com
 aceh4dblog.wordpress.com
 acehmediacom.wordpress.com # suspicious
 active.b-cdn.net
 acuitykit.pages.dev
 adomselfrecigency.com
 adsdewigg.com
+afkpicture.vip
+afktotoamp.b-cdn.net
 agent-bola-terpercaya.pages.dev
 agentotoplay.pages.dev
 aix-asset.s3.ap-southeast-1.amazonaws.com
@@ -201,8 +207,10 @@ buktiedctoto.sgp1.digitaloceanspaces.com
 bulan.b-cdn.net
 bulario.pages.dev
 buset-rtpninja002.pages.dev
+c23f1bb1b6d0420a94d3aeebea36c4c1.pacloudflare.com
 cafe-69-moneysite-default-rtdb.firebaseio.com
 cal-pass.pages.dev
+cashier.onetoauto.com
 cd537.wordpress.com
 cdn-host.proxy188.com
 cdn-master.it-cg.group
@@ -362,6 +370,7 @@ ethiobusiness.pages.dev
 euphoria-percentage.pages.dev
 exito.my.id
 exp.boobsbymassage.com
+exshin.pages.dev
 exteriorinteriors.pages.dev
 fastads.b-cdn.net
 fasttrackinbatman.pages.dev
@@ -702,6 +711,7 @@ pub-2a991c69018043aa97bece03d85e2fe4.r2.dev
 pub-2cb70b23ac0f4ad982d6b04d7c96aebe.r2.dev
 pub-2ea0a2d7577347c3a124333fd65b6494.r2.dev
 pub-33f79e4933584e76ac497eed3b0b39c5.r2.dev
+pub-3a497eec89554a7087393a495285cca8.r2.dev
 pub-434259f7298942e39387d59f922d4cb6.r2.dev
 pub-4d167d231b1e441db42fc94681994c45.r2.dev
 pub-4dab336953a44439993e62117ab2003c.r2.dev
