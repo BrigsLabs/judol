@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1003
+# Number of entries: 1022
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -36,6 +36,7 @@
 888rpae.com
 88ksr.wordpress.com
 8r0h54-553-ppp.oss-accelerate.aliyuncs.com
+9degreegolf.com # hacked web
 a1211.dscr.akamai.net
 a1570.dscb.akamai.net
 a5cdn.com
@@ -94,6 +95,7 @@ anoboytoto-gacor.pages.dev
 anoboytoto.pages.dev
 antoboomerblog.wordpress.com
 ap-south-1.linodeobjects.com.akadns.net
+apgapartments.com # hacked web
 api-3m2b.seamlesss-hptech.com
 api-99gaming-live-1-default-rtdb.asia-southeast1.firebasedatabase.app
 api-99gaming-live-2-default-rtdb.firebaseio.com
@@ -160,6 +162,7 @@ aswransi.com
 atg88.atomgaming88images.com
 atom4d.sgp1.cdn.digitaloceanspaces.com
 atomgaming88.sgp1.cdn.digitaloceanspaces.com
+autolookservice.com # hacked site
 autoredirectjack.me
 awan.pw
 ayodaftar.co
@@ -202,6 +205,7 @@ bo.gacha.business
 bola16-cgi.pages.dev
 borju89livescore.pages.dev
 bosjackpotgif.pages.dev
+bramblecreeks-faqs.pages.dev
 brtnet.pages.dev
 buktiedctoto.sgp1.digitaloceanspaces.com
 bulan.b-cdn.net
@@ -210,6 +214,7 @@ buset-rtpninja002.pages.dev
 c23f1bb1b6d0420a94d3aeebea36c4c1.pacloudflare.com
 cafe-69-moneysite-default-rtdb.firebaseio.com
 cal-pass.pages.dev
+calculator-parlay.pages.dev
 cashier.onetoauto.com
 cd537.wordpress.com
 cdn-host.proxy188.com
@@ -260,6 +265,7 @@ cici4d.s3.wasabisys.com
 cikatech.sgp1.digitaloceanspaces.com
 clanker-events.squarespace.com
 clickdrive.tech
+clk.sgp1.cdn.digitaloceanspaces.com
 cloudcdnetw.com
 cloudinary.com
 cobacobajeeee.pages.dev
@@ -328,6 +334,7 @@ dfiz23mj879i2.cloudfront.net
 dha92jo6cen2v.cloudfront.net
 dhro5khzpwdga.cloudfront.net
 dhv857qjzfs98.cloudfront.net
+digitalwaypro.com # hacked web
 dilip.at
 dinohost.vip
 diqv0ct81hsy8.cloudfront.net
@@ -338,6 +345,7 @@ dl.whfdckfzzdl.com
 dl.zhenwudadi.net
 dlmxz0etq5yy6.cloudfront.net
 dmwl0ca1bvnm.cloudfront.net
+dog-lilicos.com # hacked web
 domain7264.wordpress.com
 dor-aah.pages.dev
 dora77-rtp.pages.dev
@@ -384,6 +392,7 @@ fileku.cc
 filemu.cc
 florensia-gacor.lon1.cdn.digitaloceanspaces.com
 fonts.cdnfonts.com
+foodforestcafe.com # hacked web
 form.6mbr.com
 forms.zohopublic.com
 fpnpmcdn.net
@@ -391,18 +400,21 @@ freeimage.host
 gachaengine.com
 gadingmedia.com
 galeri.cloud
+galerybanner.site
 gama69.sgp1.cdn.digitaloceanspaces.com
 gambar.store
 gambar1.sgp1.cdn.digitaloceanspaces.com
 gambarcuy.online
 gambarin.site
 gambarku.art
+gambarterkeren.xyz
 game-apk.s3.ap-northeast-1.amazonaws.com
 game.sfo2.digitaloceanspaces.com
 gameslotimage.sgp1.cdn.digitaloceanspaces.com
 garuda999.pages.dev
 gate.continue.group
 gd88.app
+gestione-e-logistica.pages.dev
 getvideo.pages.dev
 gg-rtpnyala.pages.dev
 ghoulfire.pro
@@ -562,6 +574,7 @@ lkdfvx-pub-aws-sss.nxtengine.id
 lkdfvx-pub-aws-sss.sgp1.digitaloceanspaces.com
 lobbygambar.com
 lobbyplay.com
+login-kuningtoto.pages.dev
 loginapkspbutoto.blogspot.com
 logindapurtoto.blogspot.com
 logingacoremperor33.pages.dev
@@ -596,6 +609,7 @@ mediamsg2.com
 meme4d-rtpslotgacor.pages.dev
 menubumi-bumicafe-go-international.pages.dev
 meriah4d-login.pages.dev
+merona4dsor.pages.dev
 metrosporsegundo.pages.dev
 meyerweb.com
 mgapi2.lansn-model.com
@@ -627,6 +641,7 @@ mutliple.com
 mybluehost.me
 myimg.site
 nagavip88resmi.notion.site
+naiklamek.pages.dev
 nakamauploader.com # file cdn
 namakami.com
 naocontemglutendoc.com
@@ -696,6 +711,7 @@ prod-api-ug6v2.ns1-prototype.org
 project-lembagatoto-mobile.pages.dev
 projectgalery.xyz
 promomantraslot.pages.dev
+protecer.org # hacked web
 pub-01daae9cfed641489a104989d6c91115.r2.dev
 pub-030bf10fe1a0403cb36d73c3e2e2b903.r2.dev
 pub-06ff85254fab4956804723ef05e9c0bc.r2.dev
@@ -863,6 +879,7 @@ selalusiap.site
 semzoom1.pages.dev
 senyumterus.xyz
 seo-baru-1-minggu.pages.dev
+seo268.vip
 serverkaos.com
 sg1wg.b-cdn.net
 sga-cdn-hxg6b2d7ctb2c0eu.z02.azurefd.net
@@ -955,6 +972,7 @@ tokolontong.com
 toto188official.taplink.ws
 tr8ngames.com
 tranfertous.com
+trinetraeyecare.com # hacked web
 ucarecdn.com
 udah-lama-gakjumpa.pages.dev
 ug-meoh-pub.cloudassets.online
@@ -967,6 +985,7 @@ updatechecker3-14ecc.firebaseio.com
 upload.ee
 user-upload.aws-s3-r1r2str0bjx.sg-sin1.upcloudobjects.com
 usglobalasset.com
+verifyfrydextracts.com # hacked web
 violet-top-one.pages.dev
 visabet88rtp.pages.dev
 vm.homeleasyn.com

@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 14884
+# Number of entries: 14942
 #
 #
 # medium.com # whitelist
@@ -279,7 +279,6 @@
 98acung.com
 99grouptogel.xyz
 99ruby.com
-9degreegolf.com # hacked web
 9eruh30g4wb67ugtwj5d.papatogeljin.xyz
 9naga-ai.net
 9nagagacor3.net
@@ -1242,7 +1241,6 @@ autoconfig.admin.consumersappliancerecycling.com
 autodiscover.packardsoforegon.org
 autofast1.com
 autoloanhelpers.com
-autolookservice.com # hacked site
 automeledax.vip
 autookbos86.top
 autotogel.org
@@ -1947,6 +1945,7 @@ bolmarka.com
 bologna-pools4d.com
 boluisijuara.xyz
 bom-arenadewa.pro
+bom.rtplivekuningtoto.id
 bom.rtpvioletslot.me
 bombayschutney.com
 bomerakyatseperak.xyz
@@ -2045,6 +2044,7 @@ bradwelllottery.live
 braintechsolution.id
 brakeswideopen.com
 brambillasinc.com
+bramblecreekfarms.com
 brand-391.com
 branddokter88.lat
 brandeissfv.org
@@ -2480,6 +2480,7 @@ cerutuviral.com
 cerutuviral.net
 cervusunicolor.site
 cewekslot.vip
+ceylanbodrumkorsan.com
 cfcnigeria.org
 cfid.dev
 cfsitservices.com
@@ -2686,6 +2687,7 @@ coingpt2u.com
 coinwatch.finance
 cokehayjan.com
 cokimay.net
+cokmerahhokivip.com
 cola-prediksiku.lol
 cola-rtp.lol
 cola.simplyworks.xyz
@@ -3268,6 +3270,7 @@ diatom138.xyz
 dibowo.site
 dibowo.xyz
 dickenshouse.com
+dicoklagigacor01.org
 diggieroam.com
 digidream.org
 digital-publishing.com
@@ -3290,6 +3293,7 @@ dinasti168-rtp.club
 dinasti247.com
 dinasti247.net
 dinasti247.org
+dinatadisini.com
 dindapay.com
 dingdong77gas.cfd
 dingin-di-pucuk.site
@@ -3478,6 +3482,7 @@ dropcontrol.es
 dropsandcrops.com
 dropshipin.id
 drrode.co.uk
+drsarahnabai.com
 drtuprofet.com
 drumstore.org
 drunkencamp.com
@@ -3510,6 +3515,7 @@ duniamewah69.pro
 duniasableng88.click
 duniasableng88.top
 duogaming.vip
+durbanplumbers.com
 durian.lol
 dusesbet.net
 dvinelounge.com
@@ -3581,6 +3587,7 @@ egys7.com
 ehf-org.org
 eibarpools.com
 eipelham.com
+ejurnal.uniwara.ac.id
 ekoheals.com
 ekorestaurantnyc.com
 ekuadorlottery.com
@@ -3589,6 +3596,7 @@ elbalondon.com
 elbarbecuesd.com
 elblag.lions.org.pl # cloaking
 elchelottery.com
+elcoyotemexicanrestaurant.com
 eldergodspizza.com
 eldoretleo.com
 electric-waterkettle.com
@@ -3602,6 +3610,7 @@ elgacor.com
 elgodrolotto.com
 elgrullensepaloalto.com
 elhassan.org
+elhogarideal.com.mx
 elipets.com
 elitesporthorses.com
 elitetogelapp.top
@@ -3612,12 +3621,14 @@ elitjplivechat.online
 elizabethspizzawilmington.com
 ellingtontimepiece.com
 elmaycosmetic.com # cloaking
+elmo.co
 eloterie.ma
 elpaseolimo.com
 elrefugiobaja.com
 elrodeohyannis.com
 elsalvadorelottery.com
 elu.gr
+elysianfieldscafe.com
 em-jeh-sip.shop
 emas787gaming.store
 emas787good.com
@@ -3676,6 +3687,7 @@ envisioningcards.com
 envismadrasuniv.org
 envynail.com
 eonsitesolutions.com
+epaper.vaarthavedhikasurya.com
 epbiocomposites.com # suspicious
 ephysicsvn.com
 epicjitutoto.com
@@ -3700,6 +3712,7 @@ erengacor.com
 erengacor.org
 ergastirio.edu.gr
 ergocontractfurniture.com
+erinlodiphotography.com
 erm2023.com
 ermit-acp.org
 eropalotto.info
@@ -3711,6 +3724,7 @@ erthzayed.com
 ertpjitu.shop
 es.solarbotics.net
 esacollections.com
+esaontherise.com
 esarealtyllc.com
 esbeoemas.cc
 escom2017.org
@@ -3768,6 +3782,7 @@ ewn-ct.org
 ex.rtpikut4d.link
 exactusphysicians.com
 exaget.com
+exago.de.com
 examhelpbook.com
 exanyabang.site
 exasentosa.xyz
@@ -3812,6 +3827,7 @@ facebookslot.org
 facingtheworld.co.uk # seo
 fafa188thb1.com
 fafajay.com
+fairygarden.id
 fajarhaha.site
 faktavegas6d.net
 faktorvegas6d.com
@@ -3870,11 +3886,13 @@ featuresbarandgrill.com
 fedq.org
 feedelbistro.com
 feelingoodlagasut.vip
+felpi.es
 feministcoalition2020.com
 feniba.org
 ferreteriacerca.info
 fertilitylabinsider.com
 festivalnetworkonline.com
+festivalsayulita.com
 fetishsextext.co.uk
 fewsmusic.com
 ff9933.com
@@ -3898,6 +3916,7 @@ files.thinkdataworks.com
 fileupload.lumentouch.com
 filmgratis21.com
 filmsacrossborders.org
+filth.com.mx
 find-arg.us
 finenewz.com
 finesvic.com.au
@@ -3957,7 +3976,6 @@ fonovic.com
 food-defense.com
 foodandwine.pro
 foodavacado.com
-foodforestcafe.com # hacked web
 foodforyoureyes.com
 foodgallerynyc.com
 foodpandatw.com
@@ -4267,6 +4285,7 @@ gashunter.online
 gashunter.space
 gasjeppe.xyz
 gaskan2.ug8dewa.com
+gaskanter.us # cloaking
 gaskenaja.click
 gaskenaja.info
 gaskenaja.shop
@@ -4484,6 +4503,7 @@ go77.online
 go77.today
 goagacor.xyz
 goalluckymania.pro
+goalparlay.com
 goatse.cyou
 gocap123amaze.monster
 gocap4dair.com
@@ -4827,6 +4847,7 @@ herototomembara.io
 herzideen.shop
 hessenlotto.org
 hesterglock.net
+hexdigitalplanet.com 
 heykids.pro
 heylink.club
 heymobllee.vip
@@ -5596,6 +5617,7 @@ iwantogelberkibar.com
 iwantogelbet.id
 iwantogelcof.com
 iwantogelkeras.com
+iwantogelonline.com
 iwatchmore.com
 ixp88gas.shop
 ixplay88-rtp.com
@@ -5940,6 +5962,7 @@ jos257go.online
 jos257om.com
 jos77h.com
 journal-mandiracendikia.com
+journal.moripublishing.com
 journalberitaterkini.id
 jowopools.biz
 jowoslottiga.click
@@ -5970,6 +5993,10 @@ jpecgroup.com
 jpjati.info
 jpkoki.pro
 jpmaju.com
+jpmania-x.com # subdom : akses38.jpmania-x.com akses42.jpmania-x.com akses15.jpmania-x.com
+jpmaniaplease.com
+jpmaniasayang.com # subdom : hgbhn4xohkjr24jiycb7.jpmaniasayang.com 7s3zcf1lsbfivo81jzdl.jpmaniasayang.com tsde6eyw87ii3dpz0spq.jpmaniasayang.com
+jpmaniasemangat.com
 jpmiaw.info
 jpraja768.xyz
 jpromawibet.com
@@ -6764,6 +6791,11 @@ kungfu4d2.center
 kungfu4d2.com
 kungfu4djp.store
 kungfucrab.com
+kuningjitu.com
+kuningjitu.info
+kuningtoto.eu.com
+kuningtotohoki.com
+kuningtotomax.one
 kunmingpool.com
 kunshinnoshishui.com
 kuntogel-link.top
@@ -6810,6 +6842,7 @@ l78thrive.site
 la88821.com
 labcd.org
 labeljagruti.com
+labioskitchenlounge.com
 labr.net
 labubu-cun.pro
 lacakonline.com
@@ -6912,6 +6945,7 @@ laperregist.shop
 laporaltokendala.com
 laporanhino.com
 laporanolx06.info
+laporanpengaduan.site
 lapordultokendala.com
 laporhokijp168.org
 laporkendala.co
@@ -7049,6 +7083,7 @@ lewat.top # cloaking
 lexingtonlottery.com
 lezat.bolupisangkukus.xyz
 lfhd.net
+lfo81ryx.rtpjpmania-slot.com
 lft-maintenance.co.uk
 lgo188.club
 lgo188nescafe.xyz
@@ -7673,6 +7708,7 @@ main9koi.info
 mainbos.pro
 maindeposlot.xyz
 maindiacekslot.info
+maindicokenakkali02.charity
 maindimerak555.com
 maindisabun69.com
 maindisini.rtpsrajamahjong.com
@@ -8091,6 +8127,7 @@ mentoz4dyuk5.xyz
 menuhoki-78.xyz
 menuhoki.com
 menuju.net
+menuprijzenplaats.nl
 menutogel.id
 menutogelweb.com
 menyala-roket303.store
@@ -8110,6 +8147,8 @@ meredithlonggallery.com
 merekvictory4dp.com
 meriah4d09.net
 meriah4dgame.com
+merona4d.com
+merona4d.io
 mesin128.biz
 mesin128.live
 mesin128.studio
@@ -9911,6 +9950,7 @@ platinumslotgacor.com
 platinumtotogacor.com
 plauyagencyaus.com
 play-dwlive.store
+play-merona4d.com # sudom : menang.play-merona4d.com live.play-merona4d.com
 play-vulkan-club.com
 play.bingotogelapp.top
 play.crowntogelapp.top
@@ -10648,6 +10688,7 @@ rakyatdotsltshop.com
 rakyatmedan.com
 rakyatsltmaxx.com
 rakyattt4dd.co
+raleighvietnameserestaurant.com
 ramalan.info
 ramalanangka-tototogel.com
 ramalanpamansam.dev
@@ -11408,6 +11449,7 @@ rtplivedhx.xyz
 rtplivegelek4d.shop
 rtplivehoki289.com
 rtplivekencana.online
+rtplivekuningtoto.id # subdom : hoki2.rtplivekuningtoto.id zeus.rtplivekuningtoto.id
 rtplivelaku.art
 rtplivepaket4d.shop
 rtplivepepe77.xyz
@@ -11589,6 +11631,7 @@ rtpslotline66142.com
 rtpslotmahir.shop
 rtpslotogel.app
 rtpsloton94672.com
+rtpslotonlineasikcoktogel.com
 rtpslotratogel.live
 rtpslotresmi.store
 rtpslotspo777.pro
@@ -11617,6 +11660,7 @@ rtptektk77k.site
 rtpterbaikirit4d.fun
 rtpterbarukrisnatogel.site
 rtpterkinicerutu.net
+rtptermantapstarjpp.site
 rtpterserah77.online
 rtptexas77jp.online
 rtpthaigacor.com
@@ -12071,6 +12115,7 @@ seomadu303.space
 seonara.shop
 seoshibutbubu.lol
 seosuite.com
+seosurginggeneral.com
 seoteam6.top
 seoul-pools.co
 seouna.xyz
@@ -12167,6 +12212,7 @@ shiowlagroup.com
 shirazfnb.com
 shirlyschvartzman.com
 shizuokalottery.com
+shoesgala.com
 shoesuedeblues.com
 shootryl.click
 shop.autoconfig.mobiledevteam.com
@@ -12192,6 +12238,7 @@ shortinz.com
 shortlinkjogja.online
 shortstoriesnj.com
 shorturlonline.com # cloaking
+shortwarna.xyz # cloaking
 showin.bio
 showwcase.id
 shredmom.com
@@ -12358,6 +12405,7 @@ situsgacordapurtoto.store
 situsgacormangga2bet.online
 situsjanjigacorr.online
 situsjanjigacorr.shop
+situskuningtoto.com
 situskw.com
 situsmaco4d.shop
 situsmesir77.store
@@ -12376,6 +12424,7 @@ situsthor138.com
 situstogel.co
 situstokyo88.pro
 situstoto.info
+situsvipjpmania.site # cloaking
 situswin1.fit
 situswin1.shop
 situswinking.xyz
@@ -12779,6 +12828,8 @@ star303gas.shop
 starjoker88.bid
 starjoker88.dev
 starjokerr888.com
+starjpsejahtera.com
+starjpular1.site
 starkpsychedelics.com
 starlabqly.com
 starlin69oke.org
@@ -13469,6 +13520,7 @@ tncbf.org
 tnli.co
 tnlottery.com
 tnmfg.org
+tnpbts.vip # cloaking
 tnsea.org
 to9el88.site
 toast.finance
@@ -13750,6 +13802,7 @@ tropicannahorticulture.com
 tropong.com
 troyes-pools.com
 troymcnitt.com
+trtrecovery.com
 truechiroandrehab.com
 truenarrator.com
 trybokashi.com
@@ -13890,6 +13943,7 @@ ug8king.com
 ug8meriah.com
 ugogirl.shop
 uicivf.org
+uisek55.kuningtoto.io
 ukafricangrey.co.uk
 ukip-ynl.org
 ukraineprize.com
@@ -14081,7 +14135,6 @@ venusgaib.com
 ver-ti-go.com
 verandasmb.com
 verhagefurniture.com
-verifyfrydextracts.com # hacked web
 veronapoolstoday.com
 versaillespools.com
 veta-d-thailand.com
@@ -14159,9 +14212,11 @@ vipenamkosongtiga.pro
 vipjantan69.com
 vipjiwaku88.com
 vipkinggaruda138n.shop
+vipkuningtoto.com # cloaking
 viplane.vip
 viplogika4d.com
 vipmember.cyou
+vipmerona4d.com
 viprmwin.online
 viprtptembus777.com
 vipsikat88.com
@@ -14293,6 +14348,7 @@ wahanatoto2-two.xyz
 wahyuasli.biz
 waitsaja.ink
 wajibbecek.uk
+wajibwd.vip
 wajibwede.top
 wak89login.org
 wakijapanese.com
@@ -14553,6 +14609,7 @@ winkijangwin.com
 winlotre1.rtp-hariini.xyz
 winlotre217.info
 winlotreprediksi.com
+winmoon.org
 winnbatman168.com
 winnertotox10.com
 winpaus.info
@@ -14768,6 +14825,7 @@ yongtotojp.top
 yorkmart.com
 yorkshiresports.co.uk
 youngadaptif.com
+youngvoicesonclimatechange.com
 yourbd.com
 yourflowerlady.com
 yourmkitchen.com
