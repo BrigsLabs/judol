@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1022
+# Number of entries: 1028
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -147,6 +147,8 @@ appsetup.yidaiyiluclub.com
 appsgeyser.com
 arcanism.pages.dev
 areahoki.com
+arya88slot.pages.dev
+aryagames.com # subdom : internal.aryagames.com member.aryagames.com
 ascendercorp.com
 asdfcasa.com
 asetkadek.s3.ap-southeast-2.amazonaws.com
@@ -408,6 +410,7 @@ gambarcuy.online
 gambarin.site
 gambarku.art
 gambarterkeren.xyz
+gamch.goel.edu.in # hacked web
 game-apk.s3.ap-northeast-1.amazonaws.com
 game.sfo2.digitaloceanspaces.com
 gameslotimage.sgp1.cdn.digitaloceanspaces.com
@@ -496,6 +499,7 @@ imgstore.io
 imgtop.io
 imgumk.online
 imgzm.com
+immortalseo.1b2u.asia
 inchofcreativity.pages.dev
 ios88app.com
 ip104.sgp1.cdn.digitaloceanspaces.com
@@ -567,6 +571,7 @@ linktogelslot4d.fra1.cdn.digitaloceanspaces.com
 livebolaparlaypng.pages.dev
 livechat.design
 livechat88.chat
+livehelpnow.net # might be false positif
 livenobar.org
 livescore-dunia77.pages.dev
 livescorekristal777.pages.dev
@@ -907,6 +912,7 @@ sk88-mime-a3b28.firebaseio.com
 skilfulessays.pages.dev
 skobam-theluckythirtykate.pages.dev
 skylacosmetics.pages.dev
+slotgacor-vip88.pages.dev
 slotgacor2024rupiah.pages.dev
 slotonlinegacor22.blogspot.com
 smbstatic.sgp1.digitaloceanspaces.com
