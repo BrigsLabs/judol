@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1038
+# Number of entries: 1049
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -164,6 +164,7 @@ aswransi.com
 atg88.atomgaming88images.com
 atom4d.sgp1.cdn.digitaloceanspaces.com
 atomgaming88.sgp1.cdn.digitaloceanspaces.com
+autodeluxecenter.net # hacked web
 autolookservice.com # hacked site
 autoredirectjack.me
 awan.pw
@@ -193,6 +194,7 @@ berbagaicaragif.com
 beritaindonesia.co
 bersyukur-its-a-key.pages.dev
 bestlink.ly
+beton138amp2-ecp.pages.dev
 bierviltjes.pages.dev
 binder-nx1.namesvr.xyz
 binder-nx2.nameserver.cfd
@@ -272,6 +274,7 @@ clk.sgp1.cdn.digitaloceanspaces.com
 cloudcdnetw.com
 cloudinary.com
 cobacobajeeee.pages.dev
+coderedtacos.com #hacked web
 computerhope.com
 coolidealbike.pages.dev
 crisp.chat
@@ -361,6 +364,7 @@ dunia-rtp.pages.dev
 dvbs75l69qv8d.cloudfront.net
 dwlink.skystarbiru.com
 dwnldapk.sgp1.cdn.digitaloceanspaces.com
+dxqm4i1swgb5o.cloudfront.net
 dz5xbhxy6sjp4.cloudfront.net
 dztwieyphe62d.cloudfront.net
 e39296.b.akamaiedge.net
@@ -393,6 +397,7 @@ figprayer.pages.dev
 file001.nxtengine.net
 fileku.cc
 filemu.cc
+findingford.com # hacked web
 florensia-gacor.lon1.cdn.digitaloceanspaces.com
 fonts.cdnfonts.com
 foodforestcafe.com # hacked web
@@ -559,6 +564,7 @@ l43fnw-1198-ppp.oss-accelerate.aliyuncs.com
 l78img.sgp1.cdn.digitaloceanspaces.com
 lai-le.b-cdn.net
 landak-idm.pages.dev
+laurelofleaves.com # hacked web
 layarnonton.com # malicious
 ler-leicesterstudent.pages.dev
 les.sgp1.digitaloceanspaces.com
@@ -566,6 +572,7 @@ lfiles.s3.eu-west-2.amazonaws.com
 lh3-dz.googleusercontent.com
 license.gonative.io
 lido-white-label.firebaseio.com
+lilamericapdx.com # hacked web
 lineicons.com
 linkapk.org
 linkgacor.sgp1.cdn.digitaloceanspaces.com
@@ -649,8 +656,10 @@ musimtogel-login.pages.dev
 mutami845.wordpress.com
 mutliple.com
 mybluehost.me
+myimage.ink
 myimg.site
 nagavip88resmi.notion.site
+nagitabet-shortlink.pages.dev
 naiklamek.pages.dev
 nakamauploader.com # file cdn
 namakami.com
@@ -715,6 +724,7 @@ postimg.cc
 prediksi-togel-wahanatoto.blogspot.com
 prediksitogelangkakembar1-2.blogspot.com
 premicloud.net
+priv-img.b-cdn.net
 prod-api-ug3bv2.web-sample.live
 prod-api-ug4bv2.ns1-prototype.org
 prod-api-ug5cv2.web-sample.live
@@ -928,6 +938,7 @@ snapy.photo
 sobajimakmur.com
 softsfiles.pages.dev
 sohogroupblog.wordpress.com
+solusi-terbaik-untuk-menang.pages.dev
 source.ligasumut.com
 southkitchenrestaurant.pages.dev
 spacerbucket.com
