@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1049
+# Number of entries: 1055
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -66,6 +66,7 @@ alphabod.org
 amatic.com
 ambengine.com
 americanlightworks.pages.dev
+americano-doubleshoot.pages.dev
 amp-cermat.pages.dev
 amp-cerrodelvalle-com-br.pages.dev
 amp-escobar.sgp1.cdn.digitaloceanspaces.com
@@ -434,6 +435,7 @@ global-config-3m-1-default-rtdb.firebaseio.com
 global-config-ug-default-rtdb.firebaseio.com
 global-configs-2-default-rtdb.asia-southeast1.firebasedatabase.app
 global-configs-default-rtdb.asia-southeast1.firebasedatabase.app
+gomanagedit.com # hacked web
 grd-super.pages.dev
 gso.kommo.com
 h85cndf2moxnwjz.com
@@ -553,6 +555,7 @@ kaya787.dataklmsad902.site
 kaya787.dataklmsad903.site
 kgames.b-cdn.net
 khusus.nyc3.cdn.digitaloceanspaces.com
+kick.com
 kita-cobalagi-za.pages.dev
 kokobread.com
 kumpulanfile.sgp1.digitaloceanspaces.com
@@ -666,6 +669,7 @@ namakami.com
 naocontemglutendoc.com
 nationalhemorrhoiddirectory.org
 nationalsportsboard.com # hacked web
+naturalbalanceosteopathy.com # hacked web
 neftdocs.com
 neftsoft.co
 new77-slotgacor-rtp.pages.dev
@@ -725,6 +729,7 @@ prediksi-togel-wahanatoto.blogspot.com
 prediksitogelangkakembar1-2.blogspot.com
 premicloud.net
 priv-img.b-cdn.net
+privatepageone.pages.dev
 prod-api-ug3bv2.web-sample.live
 prod-api-ug4bv2.ns1-prototype.org
 prod-api-ug5cv2.web-sample.live
@@ -732,6 +737,7 @@ prod-api-ug6v2.ns1-prototype.org
 project-lembagatoto-mobile.pages.dev
 projectgalery.xyz
 promomantraslot.pages.dev
+promosi-fiftoto.pages.dev
 protecer.org # hacked web
 pub-01daae9cfed641489a104989d6c91115.r2.dev
 pub-030bf10fe1a0403cb36d73c3e2e2b903.r2.dev
