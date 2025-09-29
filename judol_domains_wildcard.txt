@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1341
+# Number of entries: 1345
 # *slot*.*
 # *toto*.*
 # meme*
@@ -31,6 +31,7 @@
 *aaa4d*
 *aat4d*
 *abcslt*
+*acgwin*
 *adam77*
 *afktoto*
 *agen[0-9]*
@@ -603,6 +604,7 @@
 *permen4d*
 *peso138*
 *pesona[0-9]*
+*petir[0-9]*
 *pewe[0-9]*
 *pilarplay[0-9]*
 *pin69*
@@ -769,6 +771,7 @@
 *tarungtoto*
 *tasenslot*
 *teamwish[0-9]*
+*tekun4d*
 *telurtoto*
 *tempur[0-9]*
 *ten69*
@@ -1042,6 +1045,7 @@ vsa88bos.*
 *.help
 *.homes
 *.hot
+*.house
 *.how
 *.icu
 *.ink
@@ -1350,3 +1354,4 @@ vsa88bos.*
 *.xn--qxa6a
 *.xn--qxam
 *.xn--y9a3aq
+

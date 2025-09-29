@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1055
+# Number of entries: 1066
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -63,6 +63,7 @@ alb-ipppw0c8ujq4ywp6eq.ap-southeast-1.alb.aliyuncs.com
 alcopay.com
 all-images-game.pages.dev
 alphabod.org
+alternativ-musimtogel-etactics-org.pages.dev
 amatic.com
 ambengine.com
 americanlightworks.pages.dev
@@ -98,6 +99,8 @@ antoboomerblog.wordpress.com
 ap-south-1.linodeobjects.com.akadns.net
 apgapartments.com # hacked web
 api-3m2b.seamlesss-hptech.com
+api-3m4-2-80a0f-default-rtdb.firebaseio.com
+api-3m4.seamlesss-hptech.com
 api-99gaming-live-1-default-rtdb.asia-southeast1.firebasedatabase.app
 api-99gaming-live-2-default-rtdb.firebaseio.com
 api-99gaming.seamlesss-hptech.com
@@ -221,6 +224,7 @@ c23f1bb1b6d0420a94d3aeebea36c4c1.pacloudflare.com
 cafe-69-moneysite-default-rtdb.firebaseio.com
 cal-pass.pages.dev
 calculator-parlay.pages.dev
+caradepositqris.pages.dev
 cashier.onetoauto.com
 cd537.wordpress.com
 cdn-host.proxy188.com
@@ -546,6 +550,7 @@ kageru.site
 kaliiniuntukmusim.b-cdn.net
 kalkulatort4d.pages.dev
 kamuchat.com
+kaos-lai-liaw.b-cdn.net
 kaos1.sgp1.cdn.digitaloceanspaces.com
 kapten808com.pages.dev
 karep.pro
@@ -595,6 +600,7 @@ lkdfvx-pub-aws-sss.sgp1.digitaloceanspaces.com
 lobbygambar.com
 lobbyplay.com
 login-kuningtoto.pages.dev
+login-togel900.pages.dev
 loginapkspbutoto.blogspot.com
 logindapurtoto.blogspot.com
 logingacoremperor33.pages.dev
@@ -705,6 +711,7 @@ pangerantoto2-rtp.pages.dev
 pangerantoto3-rtp.pages.dev
 pangerantoto4-rtp.pages.dev
 papitogel.sgp1.cdn.digitaloceanspaces.com
+pasti-khi-liau-nih.b-cdn.net
 pasticuanbosku.pages.dev
 pastisuksesterus.xyz
 patch.sdfbvsdfb44trbsts65y67xs6.xyz 
@@ -908,7 +915,9 @@ selalusiap.site
 semzoom1.pages.dev
 senyumterus.xyz
 seo-baru-1-minggu.pages.dev
+seo-ltl.b-cdn.net
 seo268.vip
+serunyaberbag.com
 serverkaos.com
 sg1wg.b-cdn.net
 sga-cdn-hxg6b2d7ctb2c0eu.z02.azurefd.net
@@ -974,6 +983,7 @@ suhu-amavi.s-ed1.cloud.gcore.lu
 suka-staging.s3.ap-southeast-1.amazonaws.com
 sukakopi.xyz
 superqris.com
+svobodnoe-propovedi.pages.dev
 sydneylotto-livedraw.tumblr.com
 sydneylotto.tumblr.com
 t3cdn.com
@@ -1036,6 +1046,7 @@ website-monitor-c8444-default-rtdb.asia-southeast1.firebasedatabase.app
 wgaming-assets.ap-south-1.linodeobjects.com
 wgfasttest.skystarbiru.com
 wglink.skystarbiru.com
+whatsappofficial.pages.dev
 whatsform.com
 wika.live
 wika.pages.dev
