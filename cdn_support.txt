@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1066
+# Number of entries: 1080
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -80,6 +80,7 @@ amp-ohlillydesign.pages.dev
 amp-project-wonderboy.pages.dev
 amp-sportsjabber-net.pages.dev
 amp-thefirearmexperts.pages.dev
+ampabadi.com # suspicious
 ampboxing55ten.pages.dev
 ampjavabet99alg.pages.dev
 ampjuaranet.pages.dev
@@ -191,6 +192,7 @@ bang-jago.b-cdn.net
 bangaset.s3.ap-southeast-1.amazonaws.com
 bannerfoto.shop
 bas3data.xyz
+be-qris-socket-redis.ropuntada.com
 behh-skuy-lah.s3.eu-north-1.amazonaws.com
 beko.pages.dev
 bellekay.pages.dev
@@ -260,6 +262,7 @@ cdn.wgsources.com
 cdn1.epicgames.com
 cdn568.net
 cdncode.org
+cdndeliver.xyz
 cdndir.b-cdn.net
 cdnmonster.net
 cdnres.yidaiyiluclub.com
@@ -300,6 +303,7 @@ d2rzzcn1jnr24x.cloudfront.net
 d2te5kruq0pvbl.cloudfront.net
 d2tgl6ertesjei.cloudfront.net
 d2ujflorbtfzji.cloudfront.net
+d2vgu95hoyrpkh.cloudfront.net
 d30uvy2l9rv94q.cloudfront.net
 d30xzloyu3qfm5.cloudfront.net
 d32jers.com
@@ -501,6 +505,7 @@ imgbob.online
 imgbox.com
 imgfire.art
 imghn.com
+imgkit.b-cdn.net
 imgku.io
 imgnxa.com
 imgnxb.com
@@ -686,6 +691,7 @@ notif.trycodes.cloud
 numbersneverdie.pages.dev
 nx-cdn.nx1wl.com
 nx-cdn.nx2wl.com
+nx-cdn.trgwl.com
 nxt-upload-bucket.ajp7e.upcloudobjects.com
 nyanpasu.click
 object-d001-cloud.cloudstoragesharingservice.com
@@ -723,6 +729,8 @@ photosaya.io
 pict1.sgp1.cdn.digitaloceanspaces.com
 platforms3-yzw03img-0ejj3sb721.s3.ap-northeast-1.amazonaws.com
 playstarevent.com
+ply288.b-cdn.net
+pmk.ac.id # scam
 png999.com
 pokerace-bb5be.firebaseio.com
 polagacor-png.pages.dev
@@ -732,6 +740,7 @@ posgradoupea-edu-bo.pages.dev
 poskampung.com
 poso.b-cdn.net
 postimg.cc
+prdstream.com # media promo
 prediksi-togel-wahanatoto.blogspot.com
 prediksitogelangkakembar1-2.blogspot.com
 premicloud.net
@@ -746,6 +755,7 @@ projectgalery.xyz
 promomantraslot.pages.dev
 promosi-fiftoto.pages.dev
 protecer.org # hacked web
+prsd.b-cdn.net
 pub-01daae9cfed641489a104989d6c91115.r2.dev
 pub-030bf10fe1a0403cb36d73c3e2e2b903.r2.dev
 pub-06ff85254fab4956804723ef05e9c0bc.r2.dev
@@ -762,6 +772,7 @@ pub-2cb70b23ac0f4ad982d6b04d7c96aebe.r2.dev
 pub-2ea0a2d7577347c3a124333fd65b6494.r2.dev
 pub-33f79e4933584e76ac497eed3b0b39c5.r2.dev
 pub-3a497eec89554a7087393a495285cca8.r2.dev
+pub-423755b7060d41bd991640eb44ea574c.r2.dev
 pub-434259f7298942e39387d59f922d4cb6.r2.dev
 pub-4d167d231b1e441db42fc94681994c45.r2.dev
 pub-4dab336953a44439993e62117ab2003c.r2.dev
@@ -790,6 +801,7 @@ pub-8b55f6b3152f449eb2adee51596073e1.r2.dev
 pub-8b7d6144a9c74a41a866be14066dbcc9.r2.dev
 pub-93f9ca09def24762be5ffeed338b6638.r2.dev
 pub-955cbf34740e45a384e4cd978b1a0ea1.r2.dev
+pub-995e76621bfc452683a98412d81cd909.r2.dev
 pub-9af3357a7d594a559a7d47c4b0e7ca1f.r2.dev
 pub-a19ec9f103b045a4ba6b9e6902d7d4d5.r2.dev
 pub-a32bf03db96f40e5932b2982a8681a2b.r2.dev
@@ -917,6 +929,7 @@ senyumterus.xyz
 seo-baru-1-minggu.pages.dev
 seo-ltl.b-cdn.net
 seo268.vip
+serenitycorner-amp.pages.dev
 serunyaberbag.com
 serverkaos.com
 sg1wg.b-cdn.net
@@ -1028,6 +1041,7 @@ user-upload.aws-s3-r1r2str0bjx.sg-sin1.upcloudobjects.com
 usglobalasset.com
 verifyfrydextracts.com # hacked web
 violet-top-one.pages.dev
+violetslot-go.pages.dev
 visabet88rtp.pages.dev
 vm.homeleasyn.com
 vorcen-reborn.b-cdn.net
