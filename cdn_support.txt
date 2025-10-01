@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1080
+# Number of entries: 1092
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -37,6 +37,8 @@
 88ksr.wordpress.com
 8r0h54-553-ppp.oss-accelerate.aliyuncs.com
 9degreegolf.com # hacked web
+[a-z0-9\-_]*.dodir.hr # hacked web
+[a-z0-9\-_]*.muncha.com # hacked web
 a1211.dscr.akamai.net
 a1570.dscb.akamai.net
 a5cdn.com
@@ -54,6 +56,7 @@ afktotoamp.b-cdn.net
 agent-bola-terpercaya.pages.dev
 agentotoplay.pages.dev
 aix-asset.s3.ap-southeast-1.amazonaws.com
+ajoystoryphotography.com # hacked web
 akamai-assets.squarespace.com
 akucloud.com
 akun-terbaiq.b-cdn.net
@@ -337,6 +340,7 @@ dbxmjjzl5pc1g.cloudfront.net
 dd8p0622bwh41.cloudfront.net
 demohabanero.pages.dev
 dengerin.pages.dev
+denvermineral.com # hacked web
 desaterbaik.com
 designku.io
 detikslot.clouderbase.com
@@ -406,6 +410,7 @@ figprayer.pages.dev
 file001.nxtengine.net
 fileku.cc
 filemu.cc
+findaspring.org # hacked web
 findingford.com # hacked web
 florensia-gacor.lon1.cdn.digitaloceanspaces.com
 fonts.cdnfonts.com
@@ -471,6 +476,7 @@ idn.sgp1.cdn.digitaloceanspaces.com
 idnpopups.s3.ap-southeast-1.amazonaws.com
 idr-ong-huat.s-ed1.cloud.gcore.lu
 idw168rtpgame.pages.dev
+ifr.ascentpay.net
 iframe.archopay.com
 iframe.oasisid.com
 iili.io
@@ -552,6 +558,7 @@ jp-api2.namesvr.devl43fnw-1198-ppp.oss-accelerate.aliyuncs.com
 jpgsatset.com
 jurnal.univpgri-palembang.ac.id # hacked web
 kageru.site
+kaira-club.com # hacked web
 kaliiniuntukmusim.b-cdn.net
 kalkulatort4d.pages.dev
 kamuchat.com
@@ -576,6 +583,7 @@ l0bs-tterr.k0llpst3r.net
 l43fnw-1198-ppp.oss-accelerate.aliyuncs.com
 l78img.sgp1.cdn.digitaloceanspaces.com
 lai-le.b-cdn.net
+lakewoodparkumc.org # hacked web
 landak-idm.pages.dev
 laurelofleaves.com # hacked web
 layarnonton.com # malicious
@@ -914,6 +922,7 @@ s3-r-w.ap-northeast-1.amazonaws.com
 s3-r-w.ap-southeast-1.amazonaws.com
 sab-oke.b-cdn.net
 sakti-kalselprov.pages.dev
+samuelkigelman.com # hacked web
 savegambar.com
 sayangkurtpnyani.b-cdn.net
 sayursawi.xyz
@@ -938,6 +947,7 @@ sgacdn.azureedge.net
 sgalabel.blob.core.windows.net
 sgw.stape.au
 shareservice.net
+shishkarestaurant.com # hacked web
 shj918.com
 shortlink-hotjitu-login.pages.dev
 si-ladusing.pages.dev
@@ -1009,8 +1019,10 @@ target4duhuy.pages.dev
 tasya51.wordpress.com
 teamglobalasset.com
 teeviso.pages.dev
+tenissauconymexico.com.mx # hacked web
 terhubung.xyz # subdom : pot.terhubung.xyz big.terhubung.xyz
 terla.lu
+tertuliafest.pages.dev
 test-drive-10-s6uit34pua-uc.a.run.app
 test-drive-20-1053047382554.us-central1.run.app
 test-drive-3-s6uit34pua-wl.a.run.app
