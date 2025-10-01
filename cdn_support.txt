@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1092
+# Number of entries: 1090
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -37,8 +37,6 @@
 88ksr.wordpress.com
 8r0h54-553-ppp.oss-accelerate.aliyuncs.com
 9degreegolf.com # hacked web
-[a-z0-9\-_]*.dodir.hr # hacked web
-[a-z0-9\-_]*.muncha.com # hacked web
 a1211.dscr.akamai.net
 a1570.dscb.akamai.net
 a5cdn.com
