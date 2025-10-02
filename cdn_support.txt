@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1090
+# Number of entries: 1098
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -62,6 +62,7 @@ akundewaa.site
 alakadarnya.pages.dev
 alb-ipppw0c8ujq4ywp6eq.ap-southeast-1.alb.aliyuncs.com
 alcopay.com
+all-carousel.xyz # apk
 all-images-game.pages.dev
 alphabod.org
 alternativ-musimtogel-etactics-org.pages.dev
@@ -167,6 +168,7 @@ assetrtp.assetftpcanvas.com
 assets-global.website-files.com
 assets-vip.sfo2.cdn.digitaloceanspaces.com
 aswransi.com
+ateamvan.com # hacked web
 atg88.atomgaming88images.com
 atom4d.sgp1.cdn.digitaloceanspaces.com
 atomgaming88.sgp1.cdn.digitaloceanspaces.com
@@ -708,6 +710,7 @@ olx.recamweek.com
 olxjaya168.com
 omo77-2qn.pages.dev
 onelive.dataklmsad902.site
+onix-live-2-default-rtdb.firebaseio.com
 onix-live-5-default-rtdb.firebaseio.com
 orashellorajoss.pages.dev
 oxplay.api-oplbo.com
@@ -858,14 +861,17 @@ r1zengrp.link
 rabanimage.io
 radartulungagung.co.id # malicious backlink
 rajabandot.sgp1.cdn.digitaloceanspaces.com
+rajabom-c5s.pages.dev
 rakyatacehloveanoboy.pages.dev
 rawontotortp.pages.dev
+raximhai.pages.dev
 rdjb.pages.dev
 recamweek.com
 regalez-vous.farm
 renaimall.com
 republiktoto-rtp.pages.dev
 res-odx.op-mobile.opera.com
+res.qqkwbase.net # apk
 resavskipostonosa.pages.dev
 resultsgp.pages.dev
 rikhania.pages.dev
@@ -883,6 +889,7 @@ rtp-cpo333.pages.dev
 rtp-gtcbet.pages.dev
 rtp-istanagaming.pages.dev
 rtp-pohon169-populer.pages.dev
+rtp-raj4bom.pages.dev
 rtp.sgp1.cdn.digitaloceanspaces.com
 rtp1337kemenangan.pages.dev
 rtp389slots.pages.dev
@@ -1037,6 +1044,7 @@ toto188official.taplink.ws
 tr8ngames.com
 tranfertous.com
 trinetraeyecare.com # hacked web
+uaim.edu.mx # hacked web
 ucarecdn.com
 udah-lama-gakjumpa.pages.dev
 ug-meoh-pub.cloudassets.online

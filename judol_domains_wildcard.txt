@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1357
+# Number of entries: 1361
 # *slot*.*
 # *toto*.*
 # meme*
@@ -254,6 +254,7 @@
 *gerbang88*
 *gg66*
 *gga88*
+*giga[0-9]*
 *gigaspin*
 *gjh[0-9]*
 *go188*
@@ -462,6 +463,7 @@
 *lotto*
 *lotus[0-9]*
 *loyal303*
+*lpo88*
 *luck[0-9]*
 *lucky88*
 *luckykudus*
@@ -625,6 +627,7 @@
 *poa[0-9]*
 *pocari4d*
 *pohon[0-9]*
+*poka[0-9]*
 *pokaslot*
 *poker*
 *polawish[0-9]*
@@ -897,6 +900,7 @@
 *zoom[0-9]*
 4dsuper.*
 [0-9]-win*
+[a-z0-9\-_]*.brandoutlet.co.id # subdom hacked link
 [a-z0-9\-_]*.dodir.hr # hacked web
 [a-z0-9\-_]*.muncha.com # hacked web
 aa[0-9]*
@@ -1366,4 +1370,3 @@ vsa88bos.*
 *.xn--qxa6a
 *.xn--qxam
 *.xn--y9a3aq
-
