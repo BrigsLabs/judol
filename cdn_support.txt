@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1098
+# Number of entries: 1102
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -279,6 +279,7 @@ chat-socket.onechat.dev
 chat.onechat.dev
 cici4d.s3.wasabisys.com
 cikatech.sgp1.digitaloceanspaces.com
+cindo.b-cdn.net
 clanker-events.squarespace.com
 clickdrive.tech
 clk.sgp1.cdn.digitaloceanspaces.com
@@ -501,6 +502,7 @@ img.hotimg.com
 img.ligasumut.com
 img.lovepik.com
 img.nextgen.sg-sin1.upcloudobjects.com
+img.outsidefound.org
 img.pay4d.info
 img.thesports.com
 img.zhenqinghua.com
@@ -878,6 +880,7 @@ rikhania.pages.dev
 riskct.geetest.com
 rizkynadiateknik.pages.dev
 robotaset.com
+rog-toto.tor1.cdn.digitaloceanspaces.com
 roket1.sgp1.cdn.digitaloceanspaces.com
 roomangkakembar.blogspot.com
 rootaccess.b-cdn.net
@@ -1091,6 +1094,7 @@ writingiscakepapua.pages.dev
 x.it-cg.group
 xasia.me
 xdewa-rtp.pages.dev
+xjkknx.sgp1.cdn.digitaloceanspaces.com
 xn--u9jvhkcug1b2130h86sa.com
 xx1toto4.wordpress.com
 y2cdn.com
