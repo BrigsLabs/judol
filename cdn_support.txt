@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1102
+# Number of entries: 1112
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -78,6 +78,7 @@ amp-gacor-01.pages.dev
 amp-gafasland-com.pages.dev
 amp-iboslot-com.pages.dev
 amp-knptechno.pages.dev
+amp-nusa89-sugar.pages.dev
 amp-ohlillydesign.pages.dev
 amp-project-wonderboy.pages.dev
 amp-sportsjabber-net.pages.dev
@@ -283,11 +284,13 @@ cindo.b-cdn.net
 clanker-events.squarespace.com
 clickdrive.tech
 clk.sgp1.cdn.digitaloceanspaces.com
+cloud-assets.sgp1.cdn.digitaloceanspaces.com
 cloudcdnetw.com
 cloudinary.com
 cobacobajeeee.pages.dev
 coderedtacos.com #hacked web
 computerhope.com
+cool-assets.sgp1.cdn.digitaloceanspaces.com
 coolidealbike.pages.dev
 crisp.chat
 d145yfon394ak6.cloudfront.net
@@ -397,7 +400,9 @@ espaciocreativoelche.pages.dev
 estate77media.com
 ethiobusiness.pages.dev
 euphoria-percentage.pages.dev
+ex-seo-gembira-ria.pages.dev
 exito.my.id
+exotica.pages.dev
 exp.boobsbymassage.com
 exshin.pages.dev
 exteriorinteriors.pages.dev
@@ -413,6 +418,7 @@ fileku.cc
 filemu.cc
 findaspring.org # hacked web
 findingford.com # hacked web
+flexbox-audio-store-new-updated.pages.dev
 florensia-gacor.lon1.cdn.digitaloceanspaces.com
 fonts.cdnfonts.com
 foodforestcafe.com # hacked web
@@ -452,6 +458,7 @@ global-configs-default-rtdb.asia-southeast1.firebasedatabase.app
 gomanagedit.com # hacked web
 grd-super.pages.dev
 gso.kommo.com
+gudang138ofc.pages.dev
 h85cndf2moxnwjz.com
 haikai.pages.dev
 harta-simpati.pages.dev
@@ -511,6 +518,7 @@ imgalx.art
 imgambarku.com
 imgbob.online
 imgbox.com
+imgdate.com
 imgfire.art
 imghn.com
 imgkit.b-cdn.net
@@ -551,6 +559,7 @@ javabet99vpn.pages.dev
 jeuxflashgratuits.pages.dev
 jiitubagibagiduit.pages.dev
 jlfafafa3.com
+jornadaseconomicas-uccuyosl-edu-ar.pages.dev
 joyopetir.blogspot.com
 jp-api.namesvr.dev
 jp-api.nexuswlb.com
@@ -1096,6 +1105,7 @@ xasia.me
 xdewa-rtp.pages.dev
 xjkknx.sgp1.cdn.digitaloceanspaces.com
 xn--u9jvhkcug1b2130h86sa.com
+xseounhide.pages.dev
 xx1toto4.wordpress.com
 y2cdn.com
 yatanokagami.pages.dev
