@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1112
+# Number of entries: 1117
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -76,6 +76,7 @@ amp-escobar.sgp1.cdn.digitaloceanspaces.com
 amp-estanciaimoveis-com-br.pages.dev
 amp-gacor-01.pages.dev
 amp-gafasland-com.pages.dev
+amp-grab89-ip-ong.pages.dev
 amp-iboslot-com.pages.dev
 amp-knptechno.pages.dev
 amp-nusa89-sugar.pages.dev
@@ -154,6 +155,7 @@ app-imgstore.cc
 appsetup.yidaiyiluclub.com
 appsgeyser.com
 arcanism.pages.dev
+arcastudio.co.id # malicious backlink
 areahoki.com
 arya88slot.pages.dev
 aryagames.com # subdom : internal.aryagames.com member.aryagames.com
@@ -361,6 +363,7 @@ digitalwaypro.com # hacked web
 dilip.at
 dinohost.vip
 diqv0ct81hsy8.cloudfront.net
+djctha7hqvwmk.cloudfront.net
 dkexc23x457ak.cloudfront.net
 dl.erlangyao.com
 dl.leigong.net
@@ -703,6 +706,7 @@ naturalbalanceosteopathy.com # hacked web
 neftdocs.com
 neftsoft.co
 new77-slotgacor-rtp.pages.dev
+nexiangaming.com
 nextgen.sg-sin1.upcloudobjects.com
 ngecas-terus.pages.dev
 ngkfbads.pages.dev
@@ -1056,6 +1060,7 @@ toto188official.taplink.ws
 tr8ngames.com
 tranfertous.com
 trinetraeyecare.com # hacked web
+trustx.id/ # qris payment 
 uaim.edu.mx # hacked web
 ucarecdn.com
 udah-lama-gakjumpa.pages.dev

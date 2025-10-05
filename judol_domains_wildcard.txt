@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1366
+# Number of entries: 1373
 # *slot*.*
 # *toto*.*
 # meme*
@@ -74,6 +74,7 @@
 *asianslot[0-9]*
 *atg88*
 *athena[0-9]*
+*atlasbet*
 *atom138*
 *att4d*
 *awan1[0-9]*
@@ -905,9 +906,6 @@
 *zoom[0-9]*
 4dsuper.*
 [0-9]-win*
-[a-z0-9\-_]*.brandoutlet.co.id # subdom hacked link
-[a-z0-9\-_]*.dodir.hr # hacked web
-[a-z0-9\-_]*.muncha.com # hacked web
 aa[0-9]*
 alexavegas*
 amp*
@@ -942,6 +940,16 @@ twslive*
 ug[0-9]*
 up[0-9]*
 vsa88bos.*
+# [a-z0-9\-_]*.example.com # block all sub *.example.com but pass top domain example.com
+[a-z0-9\-_]*.dodir.hr # 
+[a-z0-9\-_]*.gandum.co.id # at88.gandum.co.id c138.gandum.co.id cindototo.gandum.co.id j805.gandum.co.id m88.gandum.co.id prodak.gandum.co.id web.gandum.co.id
+[a-z0-9\-_]*.icsa.co.id # at88.icsa.co.id cindototo.icsa.co.id j805.icsa.co.id jaya805.icsa.co.id jj805.icsa.co.id m88.icsa.co.id macanasia.icsa.co.id
+[a-z0-9\-_]*.momsbaby.co.id
+[a-z0-9\-_]*.morumotto.co.id 
+[a-z0-9\-_]*.muliamakmur.co.id
+[a-z0-9\-_]*.muncha.com # 
+[a-z0-9\-_]*.vizaistalpersada.co.id # 
+[a-z0-9\-_]*.ydl.co.id # 
 # TLD abuse list from source : https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/spam-tlds-rpz-aggressive.txt
 *.actor
 *.africa
