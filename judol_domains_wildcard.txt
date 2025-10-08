@@ -4,10 +4,11 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1373
+# Number of entries: 1379
 # *slot*.*
 # *toto*.*
 # meme*
+# *mola62*
 *11wbet*
 *168gg*
 *3rp[0-9]*
@@ -228,6 +229,7 @@
 *g888*
 *ga2000*
 *gaa88*
+*gacha[0-9]*
 *gachor*
 *gacor*
 *gadunslot*
@@ -503,7 +505,7 @@
 *matauang*
 *matrixslot*
 *maxi188*
-*maxwin[0-9]*
+*maxwin*
 *mbterbang*
 *mdg188*
 *medusa[0-9]*
@@ -527,7 +529,6 @@
 *miliarbet*
 *miliarslot*
 *mitosbet*
-*mola62*
 *monaco[0-9]*
 *monas[0-9]*
 *money[0-9]*
@@ -574,6 +575,7 @@
 *oddigo*
 *odin[0-9]*
 *okewla*
+*ola62*
 *olb[0-9]*
 *ole[0-9]*
 *olislot*
@@ -697,6 +699,7 @@
 *ronin86*
 *roratoto*
 *royal1000*
+*royal22*
 *royalslot*
 *rp888*
 *rtp*
@@ -720,6 +723,7 @@
 *sastoto*
 *scatterhitam*
 *selayar[0-9]*
+*semut[0-9]*
 *sendok[0-9]*
 *senior4d*
 *senju33a*
@@ -729,6 +733,7 @@
 *shio[0-9]*
 *siapbet*
 *sibayak*
+*sigmaslot*
 *sikat[0-9]*
 *simpan369*
 *simpati[0-9]*
@@ -786,6 +791,7 @@
 *taruhantoto*
 *tarungtoto*
 *tasenslot*
+*taxi[0-9]*
 *teamwish[0-9]*
 *tekun4d*
 *telurtoto*
@@ -920,7 +926,8 @@ dunialot*
 evo[0-9]*
 gamespool*
 hadiahcuan.*
-ijp88.*
+ijp88*
+ixp88*
 k86*
 kendi*
 koi*.com
@@ -928,7 +935,6 @@ kpk*.com
 kumbang*
 mw68*
 nitroplay*
-ola62*
 on-[0-9]*
 on[0-9]*
 pafi*.org
