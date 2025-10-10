@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1091
+# Number of entries: 1093
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -14,66 +14,6 @@
 # images.ctfassets.net # whitelist
 # i.scdn.co # whitelist
 # cdn.datatables.net # whitelist
-# active.b-cdn.net
-# afktotoamp.b-cdn.net
-# akun-terbaiq.b-cdn.net
-# bang-jago.b-cdn.net
-# bulan.b-cdn.net
-# cdndir.b-cdn.net
-# cindo.b-cdn.net
-# dagelan4d-publisher.b-cdn.net
-# fastads.b-cdn.net
-# fotogroup.b-cdn.net
-# imagebank.b-cdn.net
-# img-source.b-cdn.net
-# imgkit.b-cdn.net
-# kaliiniuntukmusim.b-cdn.net
-# kaos-lai-liaw.b-cdn.net
-# kgames.b-cdn.net
-# lai-le.b-cdn.net
-# lp-togel138.b-cdn.net
-# masbulo.b-cdn.net
-# official-link.b-cdn.net
-# pak-de.b-cdn.net
-# pasti-khi-liau-nih.b-cdn.net
-# ply288.b-cdn.net
-# poso.b-cdn.net
-# priv-img.b-cdn.net
-# prsd.b-cdn.net
-# pushalert-main.b-cdn.net
-# rootaccess.b-cdn.net
-# rtpcici4d12.b-cdn.net
-# sab-oke.b-cdn.net
-# sayangkurtpnyani.b-cdn.net
-# seo-ltl.b-cdn.net
-# sg1wg.b-cdn.net
-# vorcen-reborn.b-cdn.net
-# web-template77.b-cdn.net
-# cabewin.b-cdn.net
-# cabewin77.b-cdn.net
-# dont-play-play-with-sese.b-cdn.net
-# api-3m2b.seamlesss-hptech.com
-# api-3m4.seamlesss-hptech.com
-# api-3mplay2-ns2-v2.seamless-hptech.com
-# api-99gaming.seamlesss-hptech.com
-# api-eclipse-ns2.seamless-hptech.com
-# api-giga1b-ns2.seamless-hptech.com
-# api-giga2-ns3.seamless-hptech.com
-# api-giga2b-ns2.seamless-hptech.com
-# api-giga4-ns2.seamless-hptech.com
-# api-giga4-ns3.seamless-hptech.com
-# api-giga7-ns2.seamless-hptech.com
-# api-kixplay-ns2.seamless-hptech.com
-# api-metawings-ns2.seamless-hptech.com
-# api-onix4b.seamlesss-hptech.com
-# api-onix5b.seamlesss-hptech.com
-# api-onix6.seamlesss-hptech.com
-# api-onix7.seamlesss-hptech.com
-# api-royal-ns2.seamless-hptech.com
-# api-skygaming2.seamlesss-hptech.com
-# api3m.seamlesss-hptech.com
-# apiace-v2.seamlesss-hptech.com
-# apionix3b.seamlesss-hptech.com
 1.bp.blogspot.com
 10fr4ame-b3stweeb.xyz
 18ea70d2d9a945cfb97d818ba71817dc.pacloudflare.com
@@ -265,6 +205,7 @@ borju89livescore.pages.dev
 bosjackpotgif.pages.dev
 bramblecreeks-faqs.pages.dev
 brtnet.pages.dev
+buamm.pages.dev
 buktiedctoto.sgp1.digitaloceanspaces.com
 bulario.pages.dev
 buset-rtpninja002.pages.dev
@@ -338,6 +279,7 @@ d145yfon394ak6.cloudfront.net
 d1ayxb9ooonjts.cloudfront.net
 d1bnhxh1olb98c.cloudfront.net
 d1r7v8bs1sf4js.cloudfront.net
+d1zjar5ju5ryim.cloudfront.net
 d24m60q82dzu8y.cloudfront.net
 d28h3jm4r3crf8.cloudfront.net
 d290ny10omyv12.cloudfront.net
