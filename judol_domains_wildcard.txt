@@ -4,11 +4,10 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1379
-# *slot*.*
-# *toto*.*
-# meme*
-# *mola62*
+# Number of entries: 1382
+# 
+# 
+# 
 *11wbet*
 *168gg*
 *3rp[0-9]*
@@ -37,6 +36,7 @@
 *afktoto*
 *agen[0-9]*
 *agenolx*
+*agent[0-9]*
 *agentoto*
 *aha4d*
 *airbet*
@@ -313,6 +313,7 @@
 *indo[0-9]*
 *indobet*
 *indobit-[0-9]*
+*indomax[0-9]*
 *indoslot*
 *indosup*
 *indovegas*
@@ -615,6 +616,7 @@
 *pelita[0-9]*
 *pelitatoto*
 *pencariangka*
+*penidabet*
 *permata[0-9]*
 *permen4d*
 *peso138*
@@ -892,6 +894,7 @@
 *win[0-9]*
 *winbet*
 *wing4d*
+*winsortoto*
 *wis7[0-9]*
 *wisdom77*
 *wla234*
