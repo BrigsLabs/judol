@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1093
+# Number of entries: 1107
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -50,6 +50,7 @@ adsdewigg.com
 afkpicture.vip
 agent-bola-terpercaya.pages.dev
 agentotoplay.pages.dev
+agrotek.unimen.ac.id # hacked 
 aix-asset.s3.ap-southeast-1.amazonaws.com
 ajoystoryphotography.com # hacked web
 akamai-assets.squarespace.com
@@ -91,6 +92,7 @@ amppejuangskateronline.pages.dev
 amppohon.pages.dev
 amprjs138login.pages.dev
 amprsma.pages.dev
+ampstar.pages.dev
 anehoo.com
 anhuidingyue.com
 anoboygroup.pages.dev
@@ -128,6 +130,8 @@ apk-depot.s3.ap-northeast-1.amazonaws.com
 apk-host.com
 apk-login-84719-default-rtdb.firebaseio.com
 apk.e-droid.net
+apk.hi11office.com # apk
+apk.wtgplay.xyz # apk
 app-a.gm-ldr-82r2tndnuha5.com
 app-a.ply-ldr-rfo6v4aqd6cqw84z.com
 app-imgstore.cc
@@ -193,6 +197,7 @@ binder-nx1.namesvr.xyz
 binder-nx2.nameserver.cfd
 birototo.sgp1.cdn.digitaloceanspaces.com
 bitly.sbs
+bk.unimen.ac.id # hacked
 bkid.sgp1.cdn.digitaloceanspaces.com
 blazzpay-b7pktst.gamma.site
 blazzpay.com
@@ -469,6 +474,7 @@ idl-cdn.rika.online
 idl-socket.rika.online
 idn.sgp1.cdn.digitaloceanspaces.com
 idnpopups.s3.ap-southeast-1.amazonaws.com
+idnsp.net # subdom : api.idnsp.net global.idnsp.net singaasia-image.idnsp.net
 idr-ong-huat.s-ed1.cloud.gcore.lu
 idw168rtpgame.pages.dev
 ifr.ascentpay.net
@@ -565,6 +571,7 @@ kari-nih-ges.sgp1.digitaloceanspaces.com
 kaucengkia.atl1.cdn.digitaloceanspaces.com
 kaya787.dataklmsad902.site
 kaya787.dataklmsad903.site
+kesembilan.online
 khusus.nyc3.cdn.digitaloceanspaces.com
 kick.com
 kita-cobalagi-za.pages.dev
@@ -612,6 +619,7 @@ loginapkspbutoto.blogspot.com
 logindapurtoto.blogspot.com
 logingacoremperor33.pages.dev
 loginsungaito2.blogspot.com
+love-kyoto.net # hacked web
 lovya.pages.dev
 lp4d.nyc3.cdn.digitaloceanspaces.com
 lpip209.sgp1.cdn.digitaloceanspaces.com
@@ -630,6 +638,7 @@ mata-najwa-sihab.pages.dev
 mawartt.sgp1.cdn.digitaloceanspaces.com
 maycokhi.pages.dev
 mclarenvale.pages.dev
+media.api-sports.io
 media.giphy.com
 media.mediatelekomunikasisejahtera.com
 media.tenor.com
@@ -710,6 +719,7 @@ onix-live-2-default-rtdb.firebaseio.com
 onix-live-5-default-rtdb.firebaseio.com
 orashellorajoss.pages.dev
 oxplay.api-oplbo.com
+p3i.unimen.ac.id # hacked
 p4n9k4t88.pages.dev
 p670ty4f35.gcdikeagzb.net
 padangtoto1.wordpress.com
@@ -730,6 +740,7 @@ pg888pp.com
 photoku.io
 photosaya.io
 pict1.sgp1.cdn.digitaloceanspaces.com
+pictday.org
 platforms3-yzw03img-0ejj3sb721.s3.ap-northeast-1.amazonaws.com
 playstarevent.com
 pmk.ac.id # scam
@@ -915,6 +926,7 @@ s3-ap-southeast-1.amazonaws.com
 s3-r-w.ap-northeast-1.amazonaws.com
 s3-r-w.ap-southeast-1.amazonaws.com
 sakti-kalselprov.pages.dev
+sakurawin.linkofgod.pages.dev
 samuelkigelman.com # hacked web
 savegambar.com
 sayursawi.xyz
@@ -962,6 +974,7 @@ sk88-mime-a3b28.firebaseio.com
 skilfulessays.pages.dev
 skobam-theluckythirtykate.pages.dev
 skylacosmetics.pages.dev
+slotdanagacorterpercaya.blogspot.com # seo
 slotgacor-vip88.pages.dev
 slotgacor2024rupiah.pages.dev
 slotonlinegacor22.blogspot.com
@@ -1108,3 +1121,4 @@ jpu-viral-eya8bjbwh9gacqg6.uksouth-01.azurewebsites.net # https://jpu-viral-eya8
 jurnal-indonesia-hhhfbzexhjbpb6aj.uksouth-01.azurewebsites.net # https://jurnal-indonesia-hhhfbzexhjbpb6aj.uksouth-01.azurewebsites.net/10-trik-efektif-bermain-wins-3-game-online.html
 kumparan-bhcqhdhea6bzases.uksouth-01.azurewebsites.net # https://kumparan-bhcqhdhea6bzases.uksouth-01.azurewebsites.net/pola-spin-rahasia-yang-disukai-pemain-sultan.html
 telkomsel-id-a7e9czaddcc7fbcq.uksouth-01.azurewebsites.net # https://telkomsel-id-a7e9czaddcc7fbcq.uksouth-01.azurewebsites.net/guru-honorer-sukses-bawa-pulang-hadiah-puluhan-juta-dari-mahjong-ways.php
+validatedata.azurewebsites.net

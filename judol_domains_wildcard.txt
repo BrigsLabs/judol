@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1382
+# Number of entries: 1389
 # 
 # 
 # 
@@ -105,8 +105,10 @@
 *bento4d*
 *benuabet*
 *berhadiahundian[0-9]*
+*bet-coin*
 *bet[0-9]*
 *betberry*
+*betcoin*
 *beton[0-9]*
 *betwin*
 *bgn168*
@@ -117,6 +119,7 @@
 *bintang4d*
 *biru138*
 *bisabos[0-9]*
+*bitkoin*
 *blitar4d*
 *blu89*
 *bmx4d*
@@ -222,6 +225,7 @@
 *fals4d*
 *fbslot*
 *fijislot*
+*for4d*
 *formasi4d*
 *fptoto*
 *fulltoto*
@@ -254,6 +258,7 @@
 *gc57*
 *gelora[0-9]*
 *gen69*
+*gengwd*
 *gerbang88*
 *gg66*
 *gga88*
@@ -550,6 +555,7 @@
 *nanagroup*
 *nara4d*
 *narkobet*
+*nasa4d*
 *nekoslot[0-9]*
 *nemo[0-9]*
 *nenekslot*
@@ -740,6 +746,7 @@
 *simpan369*
 *simpati[0-9]*
 *sinarlampung*
+*singaasia*
 *sip[0-9]*
 *siputri[0-9]*
 *sis4d*
