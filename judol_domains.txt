@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 16092
+# Number of entries: 16089
 #
 #
 # medium.com # whitelist
@@ -729,7 +729,6 @@ allsindhjobz.com
 almaidahkitchen.com
 alnoof.com
 aloha4d.asia # cloaking
-aloha4d.lucky-panel.xyz
 aloha4dgas.com
 aloha4dindo.com
 alpha.focalpool.com
@@ -2262,6 +2261,7 @@ bsreg-303.site
 bst.suksesterus.xyz
 bsw77.com
 bt-acc.com
+btcasiaaja.xyz
 btcidn.club
 btcidr.club
 btpshark.com
@@ -6173,7 +6173,6 @@ jantan69-gacor.baby
 jantan69-gacor.lol
 jantan69official.shop
 jantan69slot-rtp.site
-januaritoto.lucky-panel.xyz
 januaritoto10.com
 japanesehouse.org
 japaneven.com
@@ -8070,6 +8069,8 @@ luck99pro.site
 luck99utama.xyz
 luckgaming138.net
 lucky-api.xyz
+lucky-dhx.live # subdom : panel-alba.lucky-dhx.live panel-bmx.lucky-dhx.live panel-kiyo.lucky-dhx.live panel.lucky-dhx.live
+lucky-panel.xyz # subdom : nasa4d.lucky-panel.xyz aloha4d.lucky-panel.xyz januaritoto.lucky-panel.xyz
 lucky.9nagapola.co
 lucky.9nagaspin.net
 luckybetcoin.info
@@ -10185,10 +10186,6 @@ pandora88.org
 pandora88slot.org
 panduanrogtoto07.site
 panduanwengtoto.com
-panel-alba.lucky-dhx.live
-panel-bmx.lucky-dhx.live
-panel-kiyo.lucky-dhx.live
-panel.lucky-dhx.live
 panel1.coretangka.sbs
 panen100.org
 panen100master.com

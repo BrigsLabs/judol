@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1107
+# Number of entries: 1108
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -101,6 +101,7 @@ anoboytoto.pages.dev
 antoboomerblog.wordpress.com
 ap-south-1.linodeobjects.com.akadns.net
 apgapartments.com # hacked web
+api-3m2-ns2-2-default-rtdb.firebaseio.com
 api-3m2-ns2-4-default-rtdb.asia-southeast1.firebasedatabase.app 
 api-3m4-2-80a0f-default-rtdb.firebaseio.com
 api-99gaming-live-1-default-rtdb.asia-southeast1.firebasedatabase.app
@@ -111,6 +112,7 @@ api-giga4-ns2-default-rtdb.firebaseio.com
 api-giga7-ns2-default-rtdb.firebaseio.com
 api-giga9-ns2-1-default-rtdb.firebaseio.com
 api-kixplay-ns2-default-rtdb.firebaseio.com
+api-lgoplay-live2-default-rtdb.firebaseio.com
 api-metawings-ns2-default-rtdb.firebaseio.com
 api-onix-ns2-live1-default-rtdb.firebaseio.com
 api-onix6-2-default-rtdb.firebaseio.com
@@ -131,7 +133,6 @@ apk-host.com
 apk-login-84719-default-rtdb.firebaseio.com
 apk.e-droid.net
 apk.hi11office.com # apk
-apk.wtgplay.xyz # apk
 app-a.gm-ldr-82r2tndnuha5.com
 app-a.ply-ldr-rfo6v4aqd6cqw84z.com
 app-imgstore.cc
@@ -642,7 +643,6 @@ media.api-sports.io
 media.giphy.com
 media.mediatelekomunikasisejahtera.com
 media.tenor.com
-media.wtgplay.xyz
 media4.giphy.com
 mediainternal.com
 mediamsg2.com
@@ -1093,6 +1093,7 @@ wlinetpos.com
 wllink.skystarbiru.com
 woainistef.sgp1.digitaloceanspaces.comwoainistef.sgp1.digitaloceanspaces.com
 writingiscakepapua.pages.dev
+wtgplay.xyz # subdom : apk.wtgplay.xyz media.wtgplay.xyz
 x.it-cg.group
 xasia.me
 xdewa-rtp.pages.dev
