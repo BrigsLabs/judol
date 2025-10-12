@@ -466,7 +466,7 @@
 *limajp*
 *line[0-9]*
 *link4d*
-*linkku*
+*link-*
 *livedraw*
 *loginsamudera*
 *long-*
