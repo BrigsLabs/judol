@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 16089
+# Number of entries: 16148
 #
 #
 # medium.com # whitelist
@@ -585,6 +585,7 @@ ak4dtop.club
 akaaka.net
 akademik.sdn36pekanbaru.sch.id
 akangwinamp.com
+akatrust.com
 akbidboda.ac.id
 akbku.net
 akbku1.quest
@@ -1456,6 +1457,7 @@ baduitoto2.com
 baduitoto4d.org
 badutsulap.click
 bagananugerahtoto.net
+bagandroll.com
 baginda-168t.com
 bagindasitusgacor.shop
 baguskali.org
@@ -1793,6 +1795,7 @@ bet-coinasiagg.xyz
 bet-t0gelasia.pro
 bet1000-rtp.shop
 bet1000.art
+bet1000.icu
 bet1000.live
 bet1000.net
 bet4dgas.com
@@ -2063,6 +2066,7 @@ bocoranpolakangtoto2.site
 bocoranrtpproplay88.baby
 bocoransuptogel.com
 bodyandbirth.ca
+boekabsukabumi.com # subdom, cloaking
 boffins.prescoapps.co
 bogemenyatu.org
 bogemenyatu.pro
@@ -3009,6 +3013,7 @@ craterchicxulub.com.mx
 crazyballcc.shop
 crazybulksale.com
 crazygrillca.com
+crazyjoykids.com # cloaking
 crbakery.com
 crchc.info
 creativeoklahoma.org
@@ -3171,6 +3176,7 @@ dale-capital.com
 dalianforex.com
 dallasboulevardier.com
 damaskuslottery.com
+dameednafarewell.com
 damladuman.com
 damorekonstrukce.com
 damritogel14.com
@@ -3813,6 +3819,7 @@ eachstorymatters.net
 eandevideos.co.uk
 earnbitprofit.com # cloaking
 earthscallfoundation.org
+eastwingbiennial.org
 easydocumentshop.com
 easylikewater.com
 easywinbro.fun
@@ -3890,6 +3897,7 @@ elitetogelgacor.net
 elitjp69.com
 elitjp70.com
 elitjplivechat.online
+elizabethsfootprint.com 
 elizabethspizzawilmington.com
 ellingtontimepiece.com
 elmaycosmetic.com # cloaking
@@ -3967,6 +3975,8 @@ ephysicsvn.com
 epicjitutoto.com
 epictoto55.net
 epictotofans.pro
+episode88c.icu
+episode88c.lol
 eptexasautocollision.com
 eqncdn.com
 equador-lotto.com
@@ -5031,11 +5041,16 @@ habanero188-tergacor.xyz
 habitatwd.org
 hackergorilla.online
 hackthefashion.com
+hadiahbansos.monster
 hadiahcuan.skin
 hadiahcuan.website
+hadiahgokil.life
+hadiahgokil.monster
 hadiahmg.com
 hadiahmisteridarat.xyz
 hadiahmisterinaga.com
+hadiahmudah.click # landing seo
+hadiahmudah.monster
 haha388ni.site
 haha388rtp.com
 haha788g.com
@@ -5288,6 +5303,7 @@ hokidc.vip
 hokiimage.online
 hokijp168fire.site
 hokikale.melogin # cloaking
+hokilunabet78.com # parking
 hokimajalah4d.shop
 hokimolek.info
 hokinxbisa.com
@@ -5887,6 +5903,7 @@ iontoggeelll.co
 iontogggelll.co
 iontogggelll.info
 iontoogeelll.co
+ionwin77gacor.icu
 ioonnntttoogelll.co
 ioonntogell.co
 ioonntogelll.co
@@ -6727,7 +6744,9 @@ kapakmedia.org
 kapal-cambodia.site
 kapal-dubai.site
 kapal-thailand.site
+kapalboatt.site
 kapalracing.org
+kapaltoto.icu
 kapsulcorp.xyz
 kapten.mbox69.buzz
 kapten69jitu.com
@@ -6813,6 +6832,7 @@ kawasakiprize.com
 kawwansslot.org
 kaya787.shop
 kaya787gacor.com
+kaya787gacor123.xyz
 kaya787gacor73.xyz
 kayabet99ori.top
 kaybeer.click
@@ -7350,6 +7370,9 @@ lacruisetours.com
 ladang78pride.site
 ladang78r.com
 ladangangkameme.com
+ladesaffi.com
+ladesbet423.com
+ladesbonustalep.com
 ladislessia.org
 ladivina.mx
 ladulcepedia.com
@@ -7744,6 +7767,7 @@ linkjuragan77seru.xyz
 linkkitaslot777.store
 linkku.best # cloaking
 linkku2.best # cloaking
+linklunabet78-53.xyz
 linkmain.click
 linkmewah.club
 linkmu.cyou
@@ -7786,6 +7810,7 @@ linkviprajasloto.icu
 linkwa.org
 linkz.store
 linkz1.xyz
+linnkly.com #cloaking
 lintasbatasbali.com
 linuxiso.org
 lion88maxwin.info
@@ -7793,6 +7818,7 @@ lioncasa.com
 lionghitam.xyz
 lionheart.audio
 lioshutan.info
+lipatkainselatan.desa.id # hacked web
 liputancilegon.farm
 liquidcapital.finance
 list-gigantic.com
@@ -8096,6 +8122,7 @@ luckypremiumbola.makeup
 luckyputarciputra88.site
 luckyspin-p138f.xyz
 luckyspin-p138g.xyz
+luckyspin-toko123.com
 luckyspin.aresgacor.online
 luckyspin.hair
 luckyspin.magicjamur.xyz
@@ -8144,6 +8171,8 @@ luksemburglottery.com
 lumicoklatkeju.pro
 luminasa.co.uk
 lumipermata.pro
+lunabet78.blog
+lunabet78sekawan.click
 lunarfoom.lol
 lusakapools.com
 lux1288a.com
@@ -8193,6 +8222,9 @@ maahhhaaa4d.org
 mabar189ofc.top
 mabar69-help.info
 mabar69.quest
+mabar88jelas.mom
+mabar88jelas.online
+mabar88pasti.monster
 mabarmenangsama.site
 mabbar69.org
 mabesbatmantoto.ac
@@ -8405,6 +8437,7 @@ maniakslot-rtp.site
 maniakslot.me
 maniakslotmaxwin.icu
 maniakslotwin.autos
+manicube.com
 manila-pools4d.com
 manisankering.site
 manisbakery.com
@@ -8719,6 +8752,7 @@ member77idaman.sbs
 member77info.click
 membermenang.com # cloaking
 members.welovevino.com.au
+membersprotect.xyz # complain platform minobet
 meme4dpusat.org
 memevipp.com
 menang.buktiwdjoko4d.com
@@ -8867,6 +8901,9 @@ minggirlumiskin.xyz
 mini-1221.rest
 minicomputers.net
 minmincafe.com
+minobet.icu
+minobet.rest
+minobetrtp.cyou
 minseo2.org
 miomni.com
 mioskitchen.com
@@ -8894,6 +8931,7 @@ mitraidrslot138.com
 mitrajp4.bid
 mitrajp7.pics
 mitrarjs138.com
+mitraslot5.icu
 mitsubishimedan.org # malicious backlink
 mittratogel.club
 mittratogel.com
@@ -9211,6 +9249,7 @@ n69ku.lol
 n69ku.me
 n77game.cfd
 n77ptk.beauty
+n77ptk.bond
 n9nomor1.store
 naclgames.com
 nadaviolet.com
@@ -9225,6 +9264,7 @@ naga2000bh.com
 nagabet76.com
 nagabet76c.cyou
 nagabet76c.sbs
+nagabet76z.icu
 nagabet787.net
 nagabet787.space
 nagabolademak.com
@@ -10373,6 +10413,8 @@ pbjaya.fun
 pbk.co.id
 pbtaurus.com
 pci-water.co.uk
+pck138.net
+pck138.org
 pcl3.space
 pcroissant.com
 pcso.gov.ph
@@ -10434,6 +10476,7 @@ pelukuang.xyz
 peluruindo-pools.com
 pemaile.me
 pemainbola.id
+pemaininti.xyz # cloaking
 pemainterbaik.xyz
 pembayaranlunas.my.id
 pemburulion.com
@@ -11190,7 +11233,9 @@ pttogeltokyo.net
 pub.finance
 public.pg-demo.com
 public.victorrodrigues.com
+pucuk138-alt.com # cloaking
 pucuk138.com
+pucuk138.it.com
 pucuk88best.icu
 pucuk88official.com
 pueblogrande.org
@@ -11230,6 +11275,7 @@ pusdiknas.id
 push2extreme.com
 pusingkalibosku.store
 puskesmaskotaagung.org
+pustaka.akuntansi.fekon.unand.ac.id
 pustaka4dsejati.shop
 pustakatimur.org
 pustakatoto.vip
@@ -11590,6 +11636,7 @@ redstoneinvitations.com
 redue-alcue.org
 redwoodappliancecenter.com
 reelfootlakeinnsmotel.com
+reevz.net
 reexamine.info
 refer.ryanyun.com
 referralexchange.org
@@ -11849,6 +11896,7 @@ rooterurl.com
 roots1027fm.com
 roratoto.com
 roratotobuktijp.com
+roronoakasihpaham.click
 rosalindfranklinstem.com
 roseglenaz.com
 rossperennialfarm.com
@@ -11917,6 +11965,7 @@ rtp-angkajitu-iwantogel.com
 rtp-ayu89new.com
 rtp-banyu4d.org
 rtp-bengkulutoto.online
+rtp-bet1000.website
 rtp-blitar4d-gacor.shop
 rtp-blitar4d-gacor.xyz
 rtp-bonafit88.fun
@@ -11953,6 +12002,7 @@ rtp-live-23.ceerduad.com
 rtp-livescore.186hstng.com
 rtp-mamen123.lat
 rtp-miliarbet-today.store
+rtp-nagabet76.site
 rtp-nagabet787.live
 rtp-oktoberlgo188.xyz
 rtp-omg138.link
@@ -12169,6 +12219,7 @@ rtpdvs303.ink
 rtpelangwinc.top
 rtpemas787gacor.store
 rtpenterslots.lol
+rtpepisode1.autos
 rtpetgprize.space
 rtpexac.lol
 rtpfbslot.shop
@@ -12336,6 +12387,8 @@ rtplivesgcwin88.store
 rtplivetradisibet.info
 rtplongdukpk.com
 rtplumi777vip14.click
+rtplunabet78-3.store
+rtplunabet78.pro
 rtpluxehoki22.xyz
 rtplvonline.my
 rtpmacanslot138.online
@@ -12441,6 +12494,7 @@ rtpph-9.shop
 rtppilarplay5.shop
 rtppisces88supergacor16.lat
 rtppixiu.online
+rtppkapallaut.store
 rtpplat789.motorcycles
 rtppltsatu.live
 rtppm77.club
@@ -13058,6 +13112,7 @@ seokeras.org
 seokokwibu.xyz
 seomadu303.space
 seonara.shop
+seosensawin.com
 seoshibutbubu.lol
 seosuite.com
 seosurginggeneral.com
@@ -14377,6 +14432,7 @@ thailandpools.asia
 thailandpoolseveryday.com
 thankyouforcoming.la
 thatsmilan.com
+the21convention.com
 the360massage.com
 theafoss.com
 theamishvillage.net
@@ -14538,6 +14594,7 @@ timuna.org
 timuna.web.id
 timuna.xyz
 tinggikali.org
+tintheater.com
 tinylinkidn.com
 tipografieconstanta.com
 tipplesandtreats.co.uk
@@ -14773,6 +14830,7 @@ totomacau-pools.online
 totomacau4d.id
 totomacau888.com
 totomacaupools.asia
+totomacaupools.club
 totomacaupools.co
 totomacaupools.com
 totomagnum.com
@@ -14974,6 +15032,7 @@ u9zv0uq6tomfchp.store
 ua.faqukr.com
 uae4d.com
 uanggila12.com
+uanglimpol.click
 uat-comunidades.biencubierto.com
 uban-4id.com
 uban.lol

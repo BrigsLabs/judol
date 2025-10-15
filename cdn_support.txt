@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1108
+# Number of entries: 1115
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -442,6 +442,7 @@ getvideo.pages.dev
 gg-rtpnyala.pages.dev
 ghoulfire.pro
 gifyu.com
+giga-live-2-default-rtdb.asia-southeast1.firebasedatabase.app
 global-config-3m-1-default-rtdb.firebaseio.com
 global-config-ug-default-rtdb.firebaseio.com
 global-configs-2-default-rtdb.asia-southeast1.firebasedatabase.app
@@ -478,6 +479,7 @@ idnpopups.s3.ap-southeast-1.amazonaws.com
 idnsp.net # subdom : api.idnsp.net global.idnsp.net singaasia-image.idnsp.net
 idr-ong-huat.s-ed1.cloud.gcore.lu
 idw168rtpgame.pages.dev
+ifr.absolutepay.app
 ifr.ascentpay.net
 iframe.archopay.com
 iframe.oasisid.com
@@ -541,6 +543,7 @@ istanaimpian-rtp.pages.dev
 istanaimpian2-rtp.pages.dev
 istanaimpian3-rtp.pages.dev
 istanaimpian4-rtp.pages.dev
+jalurtelkom.net # scam
 jamepix.com
 jamuplayrtp.pages.dev
 jandamuda.cfd
@@ -603,6 +606,7 @@ linkgambar.my.id
 linkgresiktotoaman.pages.dev
 linkinfortpcsowin.pages.dev
 linktogelslot4d.fra1.cdn.digitaloceanspaces.com
+lipatkainselatan-desa.pages.dev
 livebolaparlaypng.pages.dev
 livechat.design
 livechat88.chat
@@ -958,6 +962,7 @@ shj918.com
 shortlink-hotjitu-login.pages.dev
 si-ladusing.pages.dev
 sicolab.me
+sidesupports.com
 simpangambar.fun
 simplyworks.xyz
 sinjai.info # backlink malicious & gambling inside 
@@ -1013,6 +1018,7 @@ sugarmochi-official.com # hacked web : https://www.sugarmochi-official.com/order
 suhu-amavi.s-ed1.cloud.gcore.lu
 suka-staging.s3.ap-southeast-1.amazonaws.com
 sukakopi.xyz
+suksesidrbo1.com
 sultanbnajamudin.com # hacked web : https://sultanbnajamudin.com/profile/
 superqris.com
 svobodnoe-propovedi.pages.dev
@@ -1073,6 +1079,7 @@ vpn-app.s3.ap-southeast-3.amazonaws.com
 vulture.rest
 vxbrkq1luxtv.gpa2glsjhw.xyz
 w5svj.syd1.cdn.digitaloceanspaces.com
+walletconnect.com # payment gate
 warnascore.com
 waterlilybeauty.com # hacked web : https://www.waterlilybeauty.com/waterlilyfacials
 wdnotif.sgp1.digitaloceanspaces.com
