@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1396
+# Number of entries: 1403
 # 
 # 
 # 
@@ -17,6 +17,7 @@
 *888rp*
 *9koi*
 *[0-9]bet*
+*[0-9]dewi*
 *[0-9]evenlucknew*
 *[0-9]gtoto*
 *[0-9]hoki*
@@ -44,6 +45,7 @@
 *ajp99*
 *ajudan88*
 *ak4d*
+*akong*
 *akurat[0-9]*
 *alamjp*
 *albaslot*
@@ -73,6 +75,7 @@
 *asiajp[0-9]*
 *asialive[0-9]*
 *asianslot[0-9]*
+*asura[0-9]*
 *atg88*
 *athena[0-9]*
 *atlasbet*
@@ -319,6 +322,7 @@
 *igm247*
 *iii4d*
 *ilmutoto*
+*ilucky*
 *indo[0-9]*
 *indobet*
 *indobit-[0-9]*
@@ -653,6 +657,7 @@
 *poker*
 *polawish[0-9]*
 *polayb*
+*polo[0-9]*
 *polototo*
 *pools.com
 *pools.net
@@ -815,6 +820,7 @@
 *ten69*
 *tera4d*
 *terminalbet*
+*teslatoto*
 *texas88*
 *tiara-4d*
 *tiktok[0-9]*
@@ -880,6 +886,7 @@
 *uu4dd.*
 *vaksin99*
 *vegas[0-9]*
+*vegasslot*
 *venom[0-9]*
 *vgslot[0-9]*
 *victory[0-9]*

@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1115
+# Number of entries: 875
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -40,64 +40,29 @@ a1211.dscr.akamai.net
 a1570.dscb.akamai.net
 a5cdn.com
 ab.da31889.com
-abutogel-newrtpslot.pages.dev
 accallyhigingola.com
 aceh4dblog.wordpress.com
 acehmediacom.wordpress.com # suspicious
-acuitykit.pages.dev
 adomselfrecigency.com
 adsdewigg.com
 afkpicture.vip
-agent-bola-terpercaya.pages.dev
-agentotoplay.pages.dev
 agrotek.unimen.ac.id # hacked 
+aiwasanfrancisco.com # hacked web
 aix-asset.s3.ap-southeast-1.amazonaws.com
 ajoystoryphotography.com # hacked web
 akamai-assets.squarespace.com
 akucloud.com
 akundewaa.site
-alakadarnya.pages.dev
 alb-ipppw0c8ujq4ywp6eq.ap-southeast-1.alb.aliyuncs.com
 alcopay.com
 all-carousel.xyz # apk
-all-images-game.pages.dev
 alphabod.org
-alternativ-musimtogel-etactics-org.pages.dev
 amatic.com
 ambengine.com
-americanlightworks.pages.dev
-americano-doubleshoot.pages.dev
-amp-cermat.pages.dev
-amp-cerrodelvalle-com-br.pages.dev
 amp-escobar.sgp1.cdn.digitaloceanspaces.com
-amp-estanciaimoveis-com-br.pages.dev
-amp-gacor-01.pages.dev
-amp-gafasland-com.pages.dev
-amp-grab89-ip-ong.pages.dev
-amp-iboslot-com.pages.dev
-amp-knptechno.pages.dev
-amp-nusa89-sugar.pages.dev
-amp-ohlillydesign.pages.dev
-amp-project-wonderboy.pages.dev
-amp-sportsjabber-net.pages.dev
-amp-thefirearmexperts.pages.dev
 ampabadi.com # suspicious
-ampboxing55ten.pages.dev
-ampjavabet99alg.pages.dev
-ampjuaranet.pages.dev
-ampjuaraspinlol.pages.dev
-ampjuaraspinvipcom.pages.dev
-ampmanado.pages.dev
-amppejuangskateronline.pages.dev
-amppohon.pages.dev
-amprjs138login.pages.dev
-amprsma.pages.dev
-ampstar.pages.dev
 anehoo.com
 anhuidingyue.com
-anoboygroup.pages.dev
-anoboytoto-gacor.pages.dev
-anoboytoto.pages.dev
 antoboomerblog.wordpress.com
 ap-south-1.linodeobjects.com.akadns.net
 apgapartments.com # hacked web
@@ -138,10 +103,8 @@ app-a.ply-ldr-rfo6v4aqd6cqw84z.com
 app-imgstore.cc
 appsetup.yidaiyiluclub.com
 appsgeyser.com
-arcanism.pages.dev
 arcastudio.co.id # malicious backlink
 areahoki.com
-arya88slot.pages.dev
 aryagames.com # subdom : internal.aryagames.com member.aryagames.com
 ascendercorp.com
 asdfcasa.com
@@ -151,6 +114,7 @@ asiasigma.sgp1.cdn.digitaloceanspaces.com
 asset-arw.xyz
 asset-cdn.cfd
 asset01.source-static.us
+assetcsn.site # suspicious
 assetrtp.assetftpcanvas.com
 assets-global.website-files.com
 assets-vip.sfo2.cdn.digitaloceanspaces.com
@@ -165,35 +129,23 @@ autolookservice.com # hacked site
 autoredirectjack.me
 awan.pw
 ayodaftar.co
-azkabet1234rtp-baru.pages.dev
 b-cdn.net # mostly used in web # kill them all
 b-cdu.net # hacked web
 b1speed.info
 baccdn.com
 backend.gameswhitelabel.com
 baduitoto.sgp1.cdn.digitaloceanspaces.com
-baikal-research.pages.dev
 bakso-kojek-5k.sfo3.cdn.digitaloceanspaces.com
-balicenter-1000.pages.dev
 bandar-jaya.com
-bandar388-rtp.pages.dev
-bandartogelonlinetoto.pages.dev
-bandung1.pages.dev
-bandungtoto11.pages.dev
 bangaset.s3.ap-southeast-1.amazonaws.com
 bannerfoto.shop
 bas3data.xyz
 batesvilleclinicms.com # hacked web : https://www.batesvilleclinicms.com/our-staff
 be-qris-socket-redis.ropuntada.com
 behh-skuy-lah.s3.eu-north-1.amazonaws.com
-beko.pages.dev
-bellekay.pages.dev
 berbagaicaragif.com
 beritaindonesia.co
-bersyukur-its-a-key.pages.dev
 bestlink.ly
-beton138amp2-ecp.pages.dev
-bierviltjes.pages.dev
 binder-nx1.namesvr.xyz
 binder-nx2.nameserver.cfd
 birototo.sgp1.cdn.digitaloceanspaces.com
@@ -202,24 +154,11 @@ bk.unimen.ac.id # hacked
 bkid.sgp1.cdn.digitaloceanspaces.com
 blazzpay-b7pktst.gamma.site
 blazzpay.com
-blitzbaru.pages.dev
-blockchainview.pages.dev
 bloonk.com
 bo.gacha.business
-bola16-cgi.pages.dev
-borju89livescore.pages.dev
-bosjackpotgif.pages.dev
-bramblecreeks-faqs.pages.dev
-brtnet.pages.dev
-buamm.pages.dev
 buktiedctoto.sgp1.digitaloceanspaces.com
-bulario.pages.dev
-buset-rtpninja002.pages.dev
 c23f1bb1b6d0420a94d3aeebea36c4c1.pacloudflare.com
 cafe-69-moneysite-default-rtdb.firebaseio.com
-cal-pass.pages.dev
-calculator-parlay.pages.dev
-caradepositqris.pages.dev
 cashier.onetoauto.com
 cd537.wordpress.com
 cdn-host.proxy188.com
@@ -259,10 +198,8 @@ cdndeliver.xyz
 cdnmonster.net
 cdnres.yidaiyiluclub.com
 cdnsimple.top
-cekrtpbokaptoto.pages.dev
 cemara123vip.blogspot.com
 ceritabahagia.lol
-cerofilas.pages.dev
 chaport.com
 chat-socket.onechat.dev
 chat.onechat.dev
@@ -274,11 +211,9 @@ clk.sgp1.cdn.digitaloceanspaces.com
 cloud-assets.sgp1.cdn.digitaloceanspaces.com
 cloudcdnetw.com
 cloudinary.com
-cobacobajeeee.pages.dev
 coderedtacos.com # hacked web
 computerhope.com
 cool-assets.sgp1.cdn.digitaloceanspaces.com
-coolidealbike.pages.dev
 creeksidenursing.com # hacked web : https://creeksidenursing.com/san-antonio-north-nursing-and-care/ 
 crisp.chat
 d145yfon394ak6.cloudfront.net
@@ -322,8 +257,6 @@ d3pr994l7txgml.cloudfront.net
 d3pvfi6m7bxu71.cloudfront.net
 d6ve0grjeaee7.cloudfront.net
 d84ify71m0ivu.cloudfront.net
-daft-idb88.pages.dev
-daftar-cabewin77.pages.dev
 dataconnect.sbs
 dataklmsad902.site
 dataklmsad903.site
@@ -331,23 +264,19 @@ datasvc.xyz
 db351sg6odjv.cloudfront.net
 dbxmjjzl5pc1g.cloudfront.net
 dd8p0622bwh41.cloudfront.net
-demohabanero.pages.dev
-dengerin.pages.dev
 denvermineral.com # hacked web
 desaterbaik.com
 designku.io
 detikslot.clouderbase.com
-devampksr88.pages.dev
 devsuperteam.com
 dewab2b.s3.amazonaws.com
-dewadora-rtp.pages.dev
 dfdo5rwtdmzk0.cloudfront.net
 dfiz23mj879i2.cloudfront.net
 dh4oiqg45nvw7.cloudfront.net
 dha92jo6cen2v.cloudfront.net
 dhro5khzpwdga.cloudfront.net
 dhv857qjzfs98.cloudfront.net
-digitalinnovationhub.pages.dev
+digitalassetpro.xyz
 digitalwaypro.com # hacked web
 dilip.at
 dinohost.vip
@@ -362,14 +291,11 @@ dlmxz0etq5yy6.cloudfront.net
 dmwl0ca1bvnm.cloudfront.net
 dog-lilicos.com # hacked web
 domain7264.wordpress.com
-dor-aah.pages.dev
-dora77-rtp.pages.dev
 downloads.blissroms.org # malicious
 dpw3m2v9dxyrl.cloudfront.net
 dr71dvn7kc6me.cloudfront.net
 dsbmedia.s3.ap-southeast-1.amazonaws.com
 dsuown9evwz4y.cloudfront.net
-dunia-rtp.pages.dev
 dvbs75l69qv8d.cloudfront.net
 dwlink.skystarbiru.com
 dwnldapk.sgp1.cdn.digitaloceanspaces.com
@@ -385,39 +311,30 @@ enak.la
 entecomputer.com
 entry.gyeitee.com
 entry.nuanmokeji.com
-ephysicsvn.pages.dev
 eq37fu2xth.com
 erp.sphoki88.com
-espaciocreativoelche.pages.dev
 estate77media.com
-ethiobusiness.pages.dev
-euphoria-percentage.pages.dev
-ex-seo-gembira-ria.pages.dev
 exito.my.id
-exotica.pages.dev
 exp.boobsbymassage.com
-exshin.pages.dev
-exteriorinteriors.pages.dev
-fasttrackinbatman.pages.dev
-fd-strikermuda09.pages.dev
+fargolandscape.com # hacked web
 felixhospitals.com
 feritogel.sgp1.cdn.digitaloceanspaces.com
 fffiiillleee.com
-figprayer.pages.dev
 file001.nxtengine.net
 fileku.cc
 filemu.cc
 findaspring.org # hacked web
 findingford.com # hacked web
-flexbox-audio-store-new-updated.pages.dev
 florensia-gacor.lon1.cdn.digitaloceanspaces.com
 fonts.cdnfonts.com
 foodforestcafe.com # hacked web
 form.6mbr.com
+form.jotform.com # may create false positive
 forms.zohopublic.com
 fpnpmcdn.net
 freeimage.host
 frescabowl.com # hacked web : https://www.frescabowl.com/egift-cards/
+frm88.pro
 gachaengine.com
 gadingmedia.com
 galeri.cloud
@@ -433,33 +350,26 @@ gamch.goel.edu.in # hacked web
 game-apk.s3.ap-northeast-1.amazonaws.com
 game.sfo2.digitaloceanspaces.com
 gameslotimage.sgp1.cdn.digitaloceanspaces.com
-garuda999.pages.dev
 gate.continue.group
 gate.networkappcomm.com
 gd88.app
-gestione-e-logistica.pages.dev
-getvideo.pages.dev
-gg-rtpnyala.pages.dev
 ghoulfire.pro
 gifyu.com
+giga-live-1-default-rtdb.asia-southeast1.firebasedatabase.app
 giga-live-2-default-rtdb.asia-southeast1.firebasedatabase.app
 global-config-3m-1-default-rtdb.firebaseio.com
 global-config-ug-default-rtdb.firebaseio.com
 global-configs-2-default-rtdb.asia-southeast1.firebasedatabase.app
 global-configs-default-rtdb.asia-southeast1.firebasedatabase.app
+global-server.net
 gomanagedit.com # hacked web
-grd-super.pages.dev
 greenbikefood.com # hacked web : https://greenbikefood.com/platters
 gso.kommo.com
-gudang138ofc.pages.dev
 h85cndf2moxnwjz.com
-haikai.pages.dev
-harta-simpati.pages.dev
 hbostatic.xyz
 helenafrithpowell.com
 hemmingways-bistro.com # hacked web : https://hemmingways-bistro.com/menu/
 hfaker.com
-himspeshawar.pages.dev
 hkbchat.com
 ho-bxry-com.k0llpst3r.org
 hokibagus.club
@@ -470,15 +380,12 @@ hotelvillaveneta.com
 hslmantap.sgp1.cdn.digitaloceanspaces.com
 i.ibb.co
 i.ibb.co.com
-ibu4d-rtp.pages.dev
-icccibfim.pages.dev
 idl-cdn.rika.online
 idl-socket.rika.online
 idn.sgp1.cdn.digitaloceanspaces.com
 idnpopups.s3.ap-southeast-1.amazonaws.com
 idnsp.net # subdom : api.idnsp.net global.idnsp.net singaasia-image.idnsp.net
 idr-ong-huat.s-ed1.cloud.gcore.lu
-idw168rtpgame.pages.dev
 ifr.absolutepay.app
 ifr.ascentpay.net
 iframe.archopay.com
@@ -495,7 +402,6 @@ images.squarespace-cdn.com
 images.wlsf.link
 images4.imagebam.com
 imageshare.click
-imagesku.pages.dev
 imagme.com
 img-cdngames.s3.amazonaws.com
 img.atomgaming88images.com
@@ -523,39 +429,27 @@ imgsaya.io
 imgsaya.online
 imgsaya2.io
 imgsaya3.io
+imgsaya4.io
 imgstack.net
 imgstore.io
 imgtop.io
 imgumk.online
 imgzm.com
 immortalseo.1b2u.asia
-inchofcreativity.pages.dev
 ios88app.com
 ip104.sgp1.cdn.digitaloceanspaces.com
 ip188baru.sgp1.cdn.digitaloceanspaces.com
 ip36.sgp1.cdn.digitaloceanspaces.com
-ipterbang.pages.dev
 is3.cloudhost.id
 isak.co.uk # hacked web
 istana2000.nsp2d.com
-istanacasino-rtp.pages.dev
-istanaimpian-rtp.pages.dev
-istanaimpian2-rtp.pages.dev
-istanaimpian3-rtp.pages.dev
-istanaimpian4-rtp.pages.dev
 jalurtelkom.net # scam
 jamepix.com
-jamuplayrtp.pages.dev
 jandamuda.cfd
-jangan-di-report-ya-bg.pages.dev
 jaringbet-official.blogspot.com
 jasj.us
-javabet99vpn.pages.dev
 jelajahyuk.id # scam
-jeuxflashgratuits.pages.dev
-jiitubagibagiduit.pages.dev
 jlfafafa3.com
-jornadaseconomicas-uccuyosl-edu-ar.pages.dev
 joyopetir.blogspot.com
 jp-api.namesvr.dev
 jp-api.nexuswlb.com
@@ -566,10 +460,8 @@ jpgsatset.com
 jurnal.univpgri-palembang.ac.id # hacked web
 kageru.site
 kaira-club.com # hacked web
-kalkulatort4d.pages.dev
 kamuchat.com
 kaos1.sgp1.cdn.digitaloceanspaces.com
-kapten808com.pages.dev
 karep.pro
 kari-nih-ges.sgp1.digitaloceanspaces.com
 kaucengkia.atl1.cdn.digitaloceanspaces.com
@@ -578,21 +470,16 @@ kaya787.dataklmsad903.site
 kesembilan.online
 khusus.nyc3.cdn.digitaloceanspaces.com
 kick.com
-kita-cobalagi-za.pages.dev
 kokobread.com
 kumpulanfile.sgp1.digitaloceanspaces.com
 kumpulangambars.com
-kungfu4d-rtp.pages.dev
-kungfu4d2-rtp.pages.dev
 l0bs-tterr.k0llpst3r.net
 l43fnw-1198-ppp.oss-accelerate.aliyuncs.com
 l78img.sgp1.cdn.digitaloceanspaces.com
 lakewoodparkumc.org # hacked web
-landak-idm.pages.dev
 laurelofleaves.com # hacked web
 layarnonton.com # malicious
 layarwibu.com
-ler-leicesterstudent.pages.dev
 les.sgp1.digitaloceanspaces.com
 lfiles.s3.eu-west-2.amazonaws.com
 lh3-dz.googleusercontent.com
@@ -603,29 +490,20 @@ lineicons.com
 linkapk.org
 linkgacor.sgp1.cdn.digitaloceanspaces.com
 linkgambar.my.id
-linkgresiktotoaman.pages.dev
-linkinfortpcsowin.pages.dev
 linktogelslot4d.fra1.cdn.digitaloceanspaces.com
-lipatkainselatan-desa.pages.dev
-livebolaparlaypng.pages.dev
 livechat.design
 livechat88.chat
 livehelpnow.net # might be false positif
 livenobar.org
-livescore-dunia77.pages.dev
-livescorekristal777.pages.dev
 lkdfvx-pub-aws-sss.nxtengine.id
 lkdfvx-pub-aws-sss.sgp1.digitaloceanspaces.com
 lobbygambar.com
 lobbyplay.com
-login-kuningtoto.pages.dev
-login-togel900.pages.dev
+localcloudhost.biz
 loginapkspbutoto.blogspot.com
 logindapurtoto.blogspot.com
-logingacoremperor33.pages.dev
 loginsungaito2.blogspot.com
 love-kyoto.net # hacked web
-lovya.pages.dev
 lp4d.nyc3.cdn.digitaloceanspaces.com
 lpip209.sgp1.cdn.digitaloceanspaces.com
 lpnyabatak.sgp1.digitaloceanspaces.com
@@ -633,16 +511,10 @@ lumpiagoreng.xyz
 m-g.io
 m.ozzogame.com
 m1cdn.com
-mailthehorsee.pages.dev
-malangtogel.pages.dev
 maraset.site # CDN
 marinecorp.xyz
 market-online.wiki
-mastronetlpo88.pages.dev
-mata-najwa-sihab.pages.dev
 mawartt.sgp1.cdn.digitaloceanspaces.com
-maycokhi.pages.dev
-mclarenvale.pages.dev
 media.api-sports.io
 media.giphy.com
 media.mediatelekomunikasisejahtera.com
@@ -650,11 +522,7 @@ media.tenor.com
 media4.giphy.com
 mediainternal.com
 mediamsg2.com
-meme4d-rtpslotgacor.pages.dev
-menubumi-bumicafe-go-international.pages.dev
-meriah4d-login.pages.dev
-merona4dsor.pages.dev
-metrosporsegundo.pages.dev
+meubelkayumurah.pics 
 meyerweb.com
 mgapi2.lansn-model.com
 mgt.zhiwushui.com
@@ -670,25 +538,19 @@ mobile-server-xovczxfxsq-as.a.run.app
 mobile-server-zqsdy7qyda-as.a.run.app
 mobileapp.web-sample.live
 mobileservices.sbs
-modalkecil-untungbesar.pages.dev
 modelkit1.com
 moho.sgp1.cdn.digitaloceanspaces.com
-monbalcon.pages.dev
-moneysitedotaslot.pages.dev
 mpc-prod-1-1053047382554.us-central1.run.app
 mpc-prod-4-1053047382554.us-central1.run.app
 mplay-live-2-default-rtdb.firebaseio.com
 mplay-live-4-default-rtdb.firebaseio.com
 mplay-live-5-default-rtdb.firebaseio.com
-musimtogel-login.pages.dev
 mutami845.wordpress.com
 mutliple.com
 mybluehost.me
 myimage.ink
 myimg.site
 nagavip88resmi.notion.site
-nagitabet-shortlink.pages.dev
-naiklamek.pages.dev
 nakamauploader.com # file cdn
 namakami.com
 naocontemglutendoc.com
@@ -697,15 +559,11 @@ nationalsportsboard.com # hacked web
 naturalbalanceosteopathy.com # hacked web
 neftdocs.com
 neftsoft.co
-new77-slotgacor-rtp.pages.dev
 nexiangaming.com
 nextgen.sg-sin1.upcloudobjects.com
-ngecas-terus.pages.dev
-ngkfbads.pages.dev
 nobhilltower.com # hacked web : https://www.nobhilltower.com/slot-gacor-rajapanen/
 northdeodar.com # hacked web : https://northdeodar.com/tours-treks-and-adventure-activities-in-and-around-kullu-valley
 notif.trycodes.cloud
-numbersneverdie.pages.dev
 nx-cdn.nx1wl.com
 nx-cdn.nx2wl.com
 nx-cdn.trgwl.com
@@ -713,33 +571,22 @@ nxt-upload-bucket.ajp7e.upcloudobjects.com
 nyanpasu.click
 object-d001-cloud.cloudstoragesharingservice.com
 objek-d001-cloud-akucloud-valid.sukagambarku.com
-offside-deff.pages.dev
-olitoplay.pages.dev
 olx.recamweek.com
 olxjaya168.com
-omo77-2qn.pages.dev
 onelive.dataklmsad902.site
 onix-live-2-default-rtdb.firebaseio.com
 onix-live-5-default-rtdb.firebaseio.com
-orashellorajoss.pages.dev
 oxplay.api-oplbo.com
 p3i.unimen.ac.id # hacked
-p4n9k4t88.pages.dev
 p670ty4f35.gcdikeagzb.net
 padangtoto1.wordpress.com
 padangtotoofficial.wordpress.com
 pafirogtoto.org
-panenmainrtpslot.pages.dev
-pangerantoto-rtp.pages.dev
-pangerantoto2-rtp.pages.dev
-pangerantoto3-rtp.pages.dev
-pangerantoto4-rtp.pages.dev
+pages.dev # mostly abused for dev web
 papitogel.sgp1.cdn.digitaloceanspaces.com
-pasticuanbosku.pages.dev
 pastisuksesterus.xyz
 patch.sdfbvsdfb44trbsts65y67xs6.xyz 
 pdv.co.id # malicious backlink 
-pedangtogel-cq0.pages.dev
 pg888pp.com
 photoku.io
 photosaya.io
@@ -750,25 +597,18 @@ playstarevent.com
 pmk.ac.id # scam
 png999.com
 pokerace-bb5be.firebaseio.com
-polagacor-png.pages.dev
-polakumbang.pages.dev
 pomf2.lain.la
-posgradoupea-edu-bo.pages.dev
 poskampung.com
 postimg.cc
 prdstream.com # media promo
 prediksi-togel-wahanatoto.blogspot.com
 prediksitogelangkakembar1-2.blogspot.com
 premicloud.net
-privatepageone.pages.dev
 prod-api-ug3bv2.web-sample.live
 prod-api-ug4bv2.ns1-prototype.org
 prod-api-ug5cv2.web-sample.live
 prod-api-ug6v2.ns1-prototype.org
-project-lembagatoto-mobile.pages.dev
 projectgalery.xyz
-promomantraslot.pages.dev
-promosi-fiftoto.pages.dev
 protecer.org # hacked web
 pub-01daae9cfed641489a104989d6c91115.r2.dev
 pub-030bf10fe1a0403cb36d73c3e2e2b903.r2.dev
@@ -853,72 +693,32 @@ pub-f02d5c5aa29e4d489f6c0a961f787e8b.r2.dev
 pub-f60bd858425e49cb9949aa6ea0b94e86.r2.dev
 public.pgsoft-games.com
 pulquemaniaeu.com # hacked web
-pusatbahasa.pages.dev
+pwcplay.com # subdom : cdn.pwcplay.net assets.pwcplay.com
 qdalplaylive.com
 qoopic.co
 qrishoki.com
-qrismob.pages.dev
 qrismvp.com
 qrispapitogel.sgp1.cdn.digitaloceanspaces.com
-qristanto.pages.dev
 r1zendigistr.com
 r1zengrp.link
 rabanimage.io
 radartulungagung.co.id # malicious backlink
 rajabandot.sgp1.cdn.digitaloceanspaces.com
-rajabom-c5s.pages.dev
-rakyatacehloveanoboy.pages.dev
-rawontotortp.pages.dev
-raximhai.pages.dev
-rdjb.pages.dev
 recamweek.com
 regalez-vous.farm
 renaimall.com
-republiktoto-rtp.pages.dev
 res-odx.op-mobile.opera.com
 res.qqkwbase.net # apk
-resavskipostonosa.pages.dev
-resultsgp.pages.dev
-rikhania.pages.dev
 riskct.geetest.com
-rizkynadiateknik.pages.dev
 robotaset.com
 rog-toto.tor1.cdn.digitaloceanspaces.com
 roket1.sgp1.cdn.digitaloceanspaces.com
 roomangkakembar.blogspot.com
-royalslot-resmi.pages.dev
 rp888aabb.com
-rto-new77-terbaru.pages.dev
-rtp-bayam89-v3.pages.dev
-rtp-cpo333.pages.dev
-rtp-gtcbet.pages.dev
-rtp-istanagaming.pages.dev
-rtp-pohon169-populer.pages.dev
-rtp-raj4bom.pages.dev
 rtp.sgp1.cdn.digitaloceanspaces.com
-rtp1337kemenangan.pages.dev
-rtp389slots.pages.dev
-rtp3libra168.pages.dev
-rtpbantuan2-rokok.pages.dev
-rtpbantuan3-online.pages.dev
-rtpfijislota.pages.dev
-rtpformasi4d.pages.dev
 rtpgacor419.pn.tc
-rtpgacorjawabarat4d.pages.dev
-rtpgacortoto168.pages.dev
-rtphoki88.pages.dev
-rtpjp99new.pages.dev
 rtpkita.sgp1.cdn.digitaloceanspaces.com
-rtplinkmaxwin89.pages.dev
 rtpmantap.sgp1.cdn.digitaloceanspaces.com
-rtpmantap303bos.pages.dev
-rtpmantapjawabarat4d.pages.dev
-rtpmaster-glory777.pages.dev
-rtpms8.pages.dev
-rtpslotnew-rtibuntogel.pages.dev
-rtpslottanggawin.pages.dev
-rtpsoju88-1.pages.dev
-rtpwaktogelplay.pages.dev
 ruangkomunikasilc.com
 rujak.cc
 s1.kwai.net
@@ -929,8 +729,6 @@ s21-def.ks-la.net
 s3-ap-southeast-1.amazonaws.com
 s3-r-w.ap-northeast-1.amazonaws.com
 s3-r-w.ap-southeast-1.amazonaws.com
-sakti-kalselprov.pages.dev
-sakurawin.linkofgod.pages.dev
 samuelkigelman.com # hacked web
 savegambar.com
 sayursawi.xyz
@@ -939,58 +737,42 @@ scriptbambu.team
 scriptlexi.cloud
 scutimedia.online
 sdl.jsoftdn.net
-sdnbre.pages.dev
 seamless-hptech.com # apk cdn
 seamlesss-hptech.com # apk cdn
 selalusiap.site
-semzoom1.pages.dev
-sendaljepit.pages.dev
 senyumterus.xyz
-seo-baru-1-minggu.pages.dev
 seo268.vip
-serenitycorner-amp.pages.dev
+seobangjago.sgp1.cdn.digitaloceanspaces.com
 serunyaberbag.com
 serverkaos.com
 sga-cdn-hxg6b2d7ctb2c0eu.z02.azurefd.net
 sgacdn.azureedge.net
 sgalabel.blob.core.windows.net
 sgw.stape.au
-shadowmafiaoperationsnetwork.pages.dev
 shareservice.net
 shishkarestaurant.com # hacked web
 shj918.com
-shortlink-hotjitu-login.pages.dev
-si-ladusing.pages.dev
+short.gy # cloaking with many subdom luckywish.short.gy sniperkill.short.gy lancarjaya.short.gy akunresmi.short.gy dc5f.short.gy drch.short.gy fu5z.short.gy
 sicolab.me
 sidesupports.com
 simpangambar.fun
 simplyworks.xyz
 sinjai.info # backlink malicious & gambling inside 
 sintesys-travel-software.com
-sisil4dop.pages.dev
 sitestatic.net
 situsjudigacor.sgp1.cdn.digitaloceanspaces.com
 situssukses.com
-situswin-footer.pages.dev
 situswin.nyc3.digitaloceanspaces.com
 siuntung.vip
 sivanlevy.com
 sk88-mime-a3b28.firebaseio.com
-skilfulessays.pages.dev
-skobam-theluckythirtykate.pages.dev
-skylacosmetics.pages.dev
 slotdanagacorterpercaya.blogspot.com # seo
-slotgacor-vip88.pages.dev
-slotgacor2024rupiah.pages.dev
 slotonlinegacor22.blogspot.com
 smbstatic.sgp1.digitaloceanspaces.com
 snapy.photo
 sobajimakmur.com
-softsfiles.pages.dev
 sohogroupblog.wordpress.com
-solusi-terbaik-untuk-menang.pages.dev
 source.ligasumut.com
-southkitchenrestaurant.pages.dev
 spacerbucket.com
 spaces-mtg.sgp1.cdn.digitaloceanspaces.com
 spaces-ptg.sgp1.cdn.digitaloceanspaces.com
@@ -1021,7 +803,6 @@ sukakopi.xyz
 suksesidrbo1.com
 sultanbnajamudin.com # hacked web : https://sultanbnajamudin.com/profile/
 superqris.com
-svobodnoe-propovedi.pages.dev
 sydneylotto-livedraw.tumblr.com
 sydneylotto.tumblr.com
 t3cdn.com
@@ -1029,21 +810,15 @@ t4.ftcdn.net
 takenupload.com
 tamansejahtra.com
 tambangmu.com
-target4d-seo.pages.dev
-target4duhuy.pages.dev
 tasya51.wordpress.com
 teamglobalasset.com
-teeviso.pages.dev
 tenissauconymexico.com.mx # hacked web
 terhubung.xyz # subdom : pot.terhubung.xyz big.terhubung.xyz
 terla.lu
-tertuliafest.pages.dev
 test-drive-10-s6uit34pua-uc.a.run.app
 test-drive-20-1053047382554.us-central1.run.app
 test-drive-3-s6uit34pua-wl.a.run.app
 testdriver.site
-thestarsomerset.pages.dev
-theyashotel.pages.dev
 tianlonghi.com
 tiktakimage.shop
 tiktakspace.cc
@@ -1058,21 +833,14 @@ trustx.id/ # qris payment
 tulumlatingastropubmke.com # hacked web : https://www.tulumlatingastropubmke.com/menus
 uaim.edu.mx # hacked web
 ucarecdn.com
-udah-lama-gakjumpa.pages.dev
 ug-meoh-pub.cloudassets.online
-univ-ikopin.pages.dev
-unsur138.pages.dev
 untidy-robin-production.up.railway.app
 uoaeiz3recbrojp76imxpthfemovjaxecjudzg8wytc.bithe.net
-upcristo.pages.dev
 updatechecker3-14ecc.firebaseio.com
 upload.ee
 user-upload.aws-s3-r1r2str0bjx.sg-sin1.upcloudobjects.com
 usglobalasset.com
 verifyfrydextracts.com # hacked web
-violet-top-one.pages.dev
-violetslot-go.pages.dev
-visabet88rtp.pages.dev
 vm.homeleasyn.com
 voss-helmet.info
 vpn-app.s3.ap-southeast-3.amazonaws.com
@@ -1085,33 +853,25 @@ waterlilybeauty.com # hacked web : https://www.waterlilybeauty.com/waterlilyfaci
 wdnotif.sgp1.digitaloceanspaces.com
 web-istana2000.linkapp99.com
 web-vegas123.linkapp77.com
-webbiotech.pages.dev
 website-monitor-c8444-default-rtdb.asia-southeast1.firebasedatabase.app
+wesleyggeorge.com # hacked web
 wgaming-assets.ap-south-1.linodeobjects.com
 wgfasttest.skystarbiru.com
 wglink.skystarbiru.com
-whatsappofficial.pages.dev
 whatsform.com
 wika.live
-wika.pages.dev
-winjitu-rtp-slot-gacor.pages.dev
 winwin25.wordpress.com
 wlinetpos.com
 wllink.skystarbiru.com
 woainistef.sgp1.digitaloceanspaces.comwoainistef.sgp1.digitaloceanspaces.com
-writingiscakepapua.pages.dev
 wtgplay.xyz # subdom : apk.wtgplay.xyz media.wtgplay.xyz
 x.it-cg.group
 xasia.me
-xdewa-rtp.pages.dev
 xjkknx.sgp1.cdn.digitaloceanspaces.com
 xn--u9jvhkcug1b2130h86sa.com
-xseounhide.pages.dev
 xx1toto4.wordpress.com
 y2cdn.com
-yatanokagami.pages.dev
 yellowbirdcoffeehouse.com # hacked web
-yesmovies-4uj.pages.dev
 yuk-wd.com
 zdataconnect.us
 zdataservices.us
