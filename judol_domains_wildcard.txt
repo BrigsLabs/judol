@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1403
+# Number of entries: 1406
 # 
 # 
 # 
@@ -100,6 +100,7 @@
 *bandar[0-9]*
 *bandarq*
 *barito[0-9]*
+*baron[0-9]*
 *barudak*
 *batmantoto*
 *bayam[0-9]*
@@ -441,6 +442,7 @@
 *kuningtoto*
 *kurnia8[0-9]*
 *kuy[0-9]*
+*kvtoto*
 *kw303*
 *kyoto98*
 *ladang[0-9]*
@@ -518,6 +520,7 @@
 *master[0-9]*
 *matauang*
 *matrixslot*
+*max88*
 *maxi188*
 *maxwin*
 *mbterbang*

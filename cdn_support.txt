@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 875
+# Number of entries: 882
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -333,6 +333,7 @@ form.jotform.com # may create false positive
 forms.zohopublic.com
 fpnpmcdn.net
 freeimage.host
+freespamfilter.org # seo # malicious backlink
 frescabowl.com # hacked web : https://www.frescabowl.com/egift-cards/
 frm88.pro
 gachaengine.com
@@ -561,6 +562,7 @@ neftdocs.com
 neftsoft.co
 nexiangaming.com
 nextgen.sg-sin1.upcloudobjects.com
+nghia-architect.com # scam fake
 nobhilltower.com # hacked web : https://www.nobhilltower.com/slot-gacor-rajapanen/
 northdeodar.com # hacked web : https://northdeodar.com/tours-treks-and-adventure-activities-in-and-around-kullu-valley
 notif.trycodes.cloud
@@ -588,6 +590,7 @@ pastisuksesterus.xyz
 patch.sdfbvsdfb44trbsts65y67xs6.xyz 
 pdv.co.id # malicious backlink 
 pg888pp.com
+photoin.io
 photoku.io
 photosaya.io
 pict1.sgp1.cdn.digitaloceanspaces.com
@@ -826,11 +829,13 @@ tinypic.host
 tmc-group.photos
 tokolontong.com
 toto188official.taplink.ws
+toxiclibs.org # landing
 tr8ngames.com
 tranfertous.com
 trinetraeyecare.com # hacked web
 trustx.id/ # qris payment 
 tulumlatingastropubmke.com # hacked web : https://www.tulumlatingastropubmke.com/menus
+turbokolor.com # hacked web
 uaim.edu.mx # hacked web
 ucarecdn.com
 ug-meoh-pub.cloudassets.online
@@ -867,11 +872,13 @@ woainistef.sgp1.digitaloceanspaces.comwoainistef.sgp1.digitaloceanspaces.com
 wtgplay.xyz # subdom : apk.wtgplay.xyz media.wtgplay.xyz
 x.it-cg.group
 xasia.me
+xemtinhay.com
 xjkknx.sgp1.cdn.digitaloceanspaces.com
 xn--u9jvhkcug1b2130h86sa.com
 xx1toto4.wordpress.com
 y2cdn.com
 yellowbirdcoffeehouse.com # hacked web
+yogaretreatguatemala.com # hacked web
 yuk-wd.com
 zdataconnect.us
 zdataservices.us
