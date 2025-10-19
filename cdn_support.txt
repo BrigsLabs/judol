@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 882
+# Number of entries: 888
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -104,6 +104,7 @@ app-imgstore.cc
 appsetup.yidaiyiluclub.com
 appsgeyser.com
 arcastudio.co.id # malicious backlink
+ardeobardeo.com # seo backlink
 areahoki.com
 aryagames.com # subdom : internal.aryagames.com member.aryagames.com
 ascendercorp.com
@@ -203,6 +204,7 @@ ceritabahagia.lol
 chaport.com
 chat-socket.onechat.dev
 chat.onechat.dev
+cialisrtl.com # seo backlink
 cici4d.s3.wasabisys.com
 cikatech.sgp1.digitaloceanspaces.com
 clanker-events.squarespace.com
@@ -307,6 +309,7 @@ e39296.dscb.akamaiedge.net
 e39296.f.akamaiedge.net
 edcdesign.sgp1.digitaloceanspaces.com
 edge.api.flagsmith.com
+elejabaa.com # seo backlink
 enak.la
 entecomputer.com
 entry.gyeitee.com
@@ -381,6 +384,7 @@ hotelvillaveneta.com
 hslmantap.sgp1.cdn.digitaloceanspaces.com
 i.ibb.co
 i.ibb.co.com
+iaibali.org # suspicious
 idl-cdn.rika.online
 idl-socket.rika.online
 idn.sgp1.cdn.digitaloceanspaces.com
@@ -451,6 +455,7 @@ jaringbet-official.blogspot.com
 jasj.us
 jelajahyuk.id # scam
 jlfafafa3.com
+jmm-net.com # hacked web : https://jmm-net.com/cocol88/
 joyopetir.blogspot.com
 jp-api.namesvr.dev
 jp-api.nexuswlb.com
@@ -600,6 +605,7 @@ playstarevent.com
 pmk.ac.id # scam
 png999.com
 pokerace-bb5be.firebaseio.com
+pol-ka.com # hacked web : https://pol-ka.com/bosswin/
 pomf2.lain.la
 poskampung.com
 postimg.cc
