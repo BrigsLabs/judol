@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 16454
+# Number of entries: 16542
 #
 #
 # medium.com # whitelist
@@ -509,6 +509,7 @@ afptwister.com
 africametro.com
 africanperspectives.wayamo.com
 afriscoop.net
+afriverse.xyz
 ag-r4.rtpag9.org
 ag-r5.rtpag9.org
 ag1-s4.spinterus.vip
@@ -649,6 +650,7 @@ aktortogel.top
 aktualdaerah.com
 akuhoki.org
 akun-hoki-9.xyz
+akun-spesial.com # cloaking
 akun.gg # cloaking
 akun188.net
 akunbos5.bid
@@ -698,6 +700,7 @@ albertalottoo.com
 albertaseparation.org
 albionincorporated.com
 alcancechile.com
+alchemy2.metasophiea.com
 alcoholinjectionsystems.com # xss
 aldospizzas.com
 alebagus.fun
@@ -809,6 +812,7 @@ amanaja.store
 amanbos515.com
 amanbos515id.yachts
 amandagracephoto.com
+amandahatt.ca
 amat05.com
 amatku.com
 amatnaga.com
@@ -928,6 +932,7 @@ andychrisman.net
 anehin.top
 anekagaminghk.rest
 angelapparels.in
+angelfall.net # suspicious
 angelsrestbbsuites.com
 anginprj.cyou
 angk.at
@@ -1029,8 +1034,15 @@ api-2103.ppgames.net
 api-777rtp-best.xyz
 api-gacor.xyz
 api-sandbox.geocloud.com.br
+api.arno.app
+api.burpandfartpiano.com
 api.cloud.uangloka.com
 api.fwdev.cloud
+api.gruelbox.com
+api.keepsake.de
+api.laxaltandmciver.co
+api.storybookhomes.com
+api.thepicturehouseproject.com
 api.tianlongpoker.net
 api2-jaj.tr8ngames.com
 api2000av.com
@@ -1089,10 +1101,13 @@ aplikasiafktoto.vip
 aplikasibandung.com
 aplikasisakau.com
 apollosales.info
+app.abinsgroup.com
 app.angkanet.pro
 app.apknagahoki88.xyz
 app.ariel.support
 app.avancoinfo.com.br
+app.burpandfartpiano.com
+app.christophersherrod.com
 app.claimwiserx.com
 app.coproxi.walkingnerds.dev
 app.deptracker.com
@@ -1101,7 +1116,11 @@ app.info.dig88api.com
 app.perfake.me
 app.qmica.io
 app.republik365.live
+app.ruby-sapporo.org
+app.storybookhomes.com
 app.thecmm123.com
+app.thepicturehouseproject.com
+app.trumptweettrack.com
 appcreator24.com
 appdownload.jra777.com
 appernetic.io
@@ -1277,6 +1296,7 @@ asliwinning303.com
 aslv-88.com
 asperahu.xyz
 aspiringblog.net
+asrisummi.live
 assetkitabersama.com
 assets.hopeglobalnetwork.com
 assets.mozo.co
@@ -1334,6 +1354,7 @@ atom138.deals
 atom138spin.buzz
 atommu.138.cam
 atomriders.com
+atomstudy.cn
 atpanta.com
 aturanmain.com
 atwaterkent.info
@@ -1381,6 +1402,7 @@ autox500.com
 autumncorp.com
 aux-deux-clefs.com
 avantisunsetpeak.com
+avaota.dongshanpi.com
 avatar-kyoshi.com
 avengersendgamefull.org
 aviator-guide.com
@@ -1443,11 +1465,14 @@ azokan.com
 azpc.info
 aztech-granat88.xyz
 aztecinfrastructure.com # subdom : lsdewi.aztecinfrastructure.com rtpdewi.aztecinfrastructure.com
+azucena-marroquin.com
 azurenapratica.com
 b-pride.com
+b.cruelcoding.com
 b.prediksibolavipp.com
 b.rtpdikia.com
 b.rtpkia.com
+b.tomreznick.com
 b.totomalika.com
 b200mcuan.top
 b6d.menantugoogle.vip
@@ -1471,6 +1496,7 @@ babos519.bosstotogacor.net
 babyangkanet4d.com
 babybazaar.com.my
 babycapy.com # cloaking
+babydancemd.info
 bacaandoa.id
 bacain.com
 bacan4dkeren.space
@@ -1656,6 +1682,7 @@ barudak88.com
 barudaklangit.site
 barudakmain.site
 barusd.com
+basabasa.digital
 basicseries.com
 basmiphising.xyz
 basseru.space
@@ -1691,6 +1718,9 @@ bayarjphino555.com
 bayarlunas-tototogel.com
 bayartangguh.site
 bayartotobos.site
+bayiservisi.com
+bayiservisi.com.tr
+bayodev.com
 baytcapital.id
 bayubiru.com
 bayusantai.com
@@ -1765,9 +1795,11 @@ belldavies.com
 bellekay.id
 bellevarde.careproperties.fr
 bellunovirtuale.com
+bellyf.at
 bemydomain.net
 bench2stg.cloudcore-tu.net
 benchwarmerscoffee.com
+benesseremassaggi.ch
 bengkulu-pools.com
 bengkuluhoki.pro
 bengkulutoto2.com
@@ -1903,6 +1935,7 @@ betwin188creatz.xyz
 betwin188siteweb.xyz
 betwinttair.xyz
 beydstar.site
+beyerslouw.com
 beyondedenrock.com
 bezgluten.net
 bhutan-lotto.com
@@ -2023,6 +2056,7 @@ blacktechmecca.org
 blakewaltersphoto.com
 blalang.com
 blasterastina333.blog
+blescred.com.br
 blessedelang.link
 blikobleko.net
 blinkindo4dpools.com
@@ -2278,6 +2312,7 @@ brasillottery.com
 brawijaya-desa.id
 brazilnightpools.com
 brdelimarket.com
+brdlf.dev
 breadandsalthospitality.com
 breef.id
 brenjitulog.xyz
@@ -2285,6 +2320,7 @@ brentcowles.com
 brescialotto.com
 bresciapools.com
 brewcomer.com
+brianmoody.dev
 bridgeroadbistro.com
 brimobpoldalampung.com
 brisbane4d.com
@@ -2531,6 +2567,7 @@ cafe69bl.xyz
 cafe69fo.xyz
 cafe69fp.xyz
 cafedalchini.com
+cafederose.com
 cafemimosatogo.com
 cafepranzo.com
 cagrichmondhill.com
@@ -2635,6 +2672,7 @@ caritasmali.org
 caritogel12.xyz
 caritogel14.com
 caritogel16.com
+carlos-olivares.com
 carlsongraciewestmore.com
 carmer.com.au
 carnocrown.vip
@@ -2712,6 +2750,7 @@ cekopoools.com
 cekrtp-asiagacor77.blog
 cekrtpgresiktoto.site
 celebrityspy.org
+celticspringband.com
 celupsekali.site
 cemara123.co
 cemaraslot.com
@@ -2764,6 +2803,7 @@ chanson-de-geste.com
 chargervip4dp.net
 charlieputhinjakarta.com
 charliesplaceonline.com
+charlottekane.com
 charts.tunegauge.me
 chasejaseph.com
 chat.romantix.tech
@@ -2828,6 +2868,8 @@ chonburipools.org
 chonburipoolsnight.com
 chonburiprize.com
 chraj.gov.gh
+chriskacerguis.com
+chrispsanta.co.uk
 chromaair.com
 chudetstvo.com
 churchai.xyz
@@ -2966,6 +3008,8 @@ cocolll88.org
 codafication.com.au
 codeblock.shop
 codekara.xyz
+coderun.biz
+codidharma.com
 cogitai.org
 coilgalvalumeindonesia.com
 coin.wisatapadang.buzz
@@ -3034,6 +3078,7 @@ congresoamcper.com
 connecthydepark.com
 connectionsguru.com
 connerandbuck.com
+connorgoodale.com
 consultrans.com
 continentaltours.net
 control.ozsub.com
@@ -3066,10 +3111,20 @@ covid19routtcounty.com
 covidcarenetwork.org
 coymayamp.com
 cp88.in
+cpanel.amerisouthrealty.com
 cpanel.beta.zengaentertainment.com
+cpanel.boughtonplace.co.uk
+cpanel.capstone-engine.org
+cpanel.cross-platform-blog.com
+cpanel.elastichq.org
 cpanel.novusgroup.my
 cpanel.physicalprofits.com
+cpanel.pimdewitte.com
 cpanel.pvacation.com
+cpanel.quandl4j.org
+cpanel.quotebookapp.com
+cpanel.samuelwford.com
+cpanel.sj-li.com
 cpanel.snowshow.tv
 cpcontacts.ff.org.nz
 cpedu.in
@@ -3083,6 +3138,7 @@ cramerhardwoodfloors.com
 craterchicxulub.com.mx
 crazyballcc.shop
 crazybulksale.com
+crazygriferman.com
 crazygrillca.com
 crazyjoykids.com # cloaking
 crbakery.com
@@ -3106,6 +3162,7 @@ csibainschool.org
 csic.com.ua
 csisprosper.com
 csita2024.org
+csmarston.com
 csnw.org
 csowinhh.com
 csroyaleth888.com
@@ -3275,7 +3332,9 @@ danielstefanovic.com
 danliberatori.com
 danmun.org
 dannymcknight.com
+dantbrady.page
 danvillebowl.com
+daojiao.sbs
 dapetduita.skin
 dapetgold.boats
 dapodikdasmen.com
@@ -3580,6 +3639,7 @@ dewplanter.com
 dewwiii4dd.com
 dewwiiii4d.info
 dewwwii4d.info
+dezemisiknog.nl
 dfomorang.koshi.gov.np
 dftr-joinbet99.site
 dg77-ratu.lol
@@ -4022,6 +4082,7 @@ empiremedan.com
 emremusic.com
 emsilang88.fun
 en-cdn.net # cloaking
+en.benchmarkdotnet.org
 en.creativejoana.pt
 en2.aisinovision.com
 enakanaja.vip
@@ -4134,6 +4195,7 @@ etglawyer.space
 ethiobusiness.net
 ethioinvest.com
 etntravelinsurance.com
+eugssmpv.shop
 eulogiesbyaubrey.com
 euphoriamantap.xyz
 euro4d.com
@@ -4151,9 +4213,11 @@ event.vipclub88.bz
 eventcola-new.lol
 ever-essay.com
 evergreentopsoil.com
+evermoss.io
 everychicway.com
 evgeniy-ivlev.com
 evilmora.org
+evimistanbul.co
 evionicsautomobile.com
 evo88g.cyou
 evo88g.skin
@@ -4207,6 +4271,7 @@ ezshort.me # cloaking
 ezshort.space # cloaking
 fa4collective.com
 fa8y3.xyz
+faberpagamento.shop
 fablab.ufps.edu.co # cloaking
 facebookslot.co
 facebookslot.nsp2d.com
@@ -4273,11 +4338,13 @@ fbslotgacor.top
 fbslotgacor.xyz
 fbslothoki88.xyz
 fciamericasyelcaribe.com
+featherfarm.live
 featurefiles.fuzoku.jp
 featuresbarandgrill.com
 fedq.org
 feedelbistro.com
 feelingoodlagasut.vip
+felixroden.dev
 felpi.es
 feministcoalition2020.com
 feniba.org
@@ -4308,9 +4375,11 @@ files.thinkdataworks.com
 filetesla.com # cdn subdom : img.filetesla.com cdn.filetesla.com
 fileupload.lumentouch.com
 filmgratis21.com
+filmruhu.online
 filmsacrossborders.org
 filth.com.mx
 find-arg.us
+findherrestaurant.us
 finell.co
 finenewz.com
 finesvic.com.au
@@ -4342,9 +4411,11 @@ fit4rri.eu
 fitkitonline.com
 five-pro.com
 five.alexistogel.world
+fivefootnine.band
 fiveprogroup.com
 fivesenses.melbourne
 fizika.uz # malicious backlink
+fizzybear.pro
 flagfootballphotos.com
 flametreeupholstery.com.au
 flashinternetcafe.com
@@ -4360,6 +4431,7 @@ floonet.net
 florence-lottery.com
 floresindotours.com
 floridalottery.com
+fluffybakebar.com.br
 flulf.de
 flyfishingvenues.co.uk
 flymalutisky.com
@@ -4461,6 +4533,7 @@ freexy.net
 freightpipes.com
 freshlearn.org
 freshpickeddeals.com
+freyge.org
 friendsofsloan.org
 friendsofsuffield.org
 friendware.info
@@ -4481,7 +4554,13 @@ ftp.construction-instruction.com
 ftp.dailypuppylove.com
 ftp.defisolutions.org
 ftp.demandgen.tv
+ftp.doege.pw
+ftp.epantzar.se
+ftp.eric.sh
+ftp.evanculver.com
 ftp.evercore.technology
+ftp.exetech.org.uk
+ftp.georgecallaway.com
 ftp.glory-success.com.sg
 ftp.greatchilibowl.com
 ftp.inforthtech.com
@@ -4713,6 +4792,7 @@ gascagur.pro
 gascagur.store
 gascici4d.online
 gascwalangulam.org
+gashajar.com # cloaking
 gashunter.online
 gashunter.space
 gasjeppe.xyz
@@ -5957,6 +6037,7 @@ inibet.com
 inibet1.net
 inibetalways.top
 inibukansusu.com
+inibuktijackpot.com
 inicemara123.live
 iniceritadewa.info
 inidarat.com
@@ -6746,6 +6827,7 @@ kabeh88-game.store
 kabkediri.com
 kacaindo.com
 kacakiri.info
+kacangmurah.site # cloaking
 kacapakresmi.com
 kadalgurun.info
 kadalgurun.shop
@@ -7907,6 +7989,7 @@ linkgg.xyz
 linkgua.ink
 linkhari88.site
 linkhari88.yachts
+linkhotelbetnih.store
 linkindoslots.cam
 linkitz.com
 linkjalur.vip # cloaking
@@ -8309,6 +8392,7 @@ luckyspinsabi4d.com
 luckyspinstadium.lol
 luckyspinsw.icu
 luckyspinsw.yachts
+luckyspinw303.net
 luckyspinwheel.vip
 luckytresure.pro
 luckywheel-mantap.com
@@ -12526,6 +12610,7 @@ rtphondacoen.com
 rtphondajadidong.com
 rtphondatotoresmi.com
 rtphonslowt.com
+rtphotelbet.com
 rtphtoto.shop
 rtphurajp.pro
 rtpidddhhhoki88.fun
@@ -13652,6 +13737,7 @@ site-baginda168.site
 site-ivru0f97j.godaddysites.com
 site.eliteroratoto.com
 site03.betwin88fun.com
+site03.rtphotelbet.net
 site32.hokitoto.best
 siteq.link
 sitex337.com
@@ -15933,6 +16019,7 @@ wdjantan69.fun
 wdlevel789.click
 wdsikat88.fun
 wearabletechworld.com
+wearepylon.com
 weatherlinkip.info
 web-Balon4D.linkapp88.com
 web-biotech.com
@@ -16089,6 +16176,7 @@ winme88.net
 winmoon.org
 winnbatman168.com
 winnertotox10.com
+winning303viral.live
 winningthestorywars.com
 winpaus.info
 winratearus.cfd

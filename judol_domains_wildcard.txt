@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1406
+# Number of entries: 1407
 # 
 # 
 # 
@@ -309,6 +309,7 @@
 *hokislot[0-9]*
 *horas88*
 *horus[0-9]*
+*hotelbet*
 *hotjitu*
 *hp-777*
 *hubtoto*

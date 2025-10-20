@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 888
+# Number of entries: 890
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -147,6 +147,7 @@ behh-skuy-lah.s3.eu-north-1.amazonaws.com
 berbagaicaragif.com
 beritaindonesia.co
 bestlink.ly
+bgdn.eu # hacked web
 binder-nx1.namesvr.xyz
 binder-nx2.nameserver.cfd
 birototo.sgp1.cdn.digitaloceanspaces.com
@@ -646,6 +647,7 @@ pub-5790736c854842c889298b4f6a8691ea.r2.dev
 pub-5a9db6e770a34346af628507f632d126.r2.dev
 pub-5aefe5b9063e4c45869d74a6562c0a9b.r2.dev
 pub-5baf076623b641729bf27ad88e7a26f9.r2.dev
+pub-5f522cdb68e746c9b5a9ef78a71b91cb.r2.dev
 pub-609ed79ad73a45f6a3f93fd77dbfc4a6.r2.dev
 pub-61adfb4568d94aaea721503fa0df9f5a.r2.dev
 pub-63ef8a83684343d788bc4e2196ba7dbe.r2.dev
