@@ -1,8 +1,8 @@
 # Title: Judi Online Dead Domains list
 # Homepage: https://github.com/BrigsLabs/judol
 # Issues: https://github.com/BrigsLabs/judol/issues
-# Expires: forever
-# Syntax: Domains
+# Expires: forever or have been block from top domain
+# Syntax: Sub Domains
 # Number of entries: 0
 #
 #
@@ -130,7 +130,9 @@ panel-bmx.lucky-dhx.live
 panel-kiyo.lucky-dhx.live
 panel.lucky-dhx.live
 
-# from cdn_support.txt , all subdom *.pages.dev
+# from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
+3dhoki-boyercellars.pages.dev
+3dhoki-sahara.pages.dev
 abutogel-newrtpslot.pages.dev
 acuitykit.pages.dev
 agent-bola-terpercaya.pages.dev
@@ -216,6 +218,7 @@ ex-seo-gembira-ria.pages.dev
 exotica.pages.dev
 exshin.pages.dev
 exteriorinteriors.pages.dev
+fast-rn-amp.pages.dev
 fasttrackinbatman.pages.dev
 fd-strikermuda09.pages.dev
 figprayer.pages.dev
@@ -263,8 +266,12 @@ login-kuningtoto.pages.dev
 login-togel900.pages.dev
 logingacoremperor33.pages.dev
 lovya.pages.dev
+m-angelicsignature-com.pages.dev
+m-eltoncrego-com.pages.dev
+m-hoianahotels-com.pages.dev
 mailthehorsee.pages.dev
 malangtogel.pages.dev
+marok-amp.pages.dev
 mastronetlpo88.pages.dev
 mata-najwa-sihab.pages.dev
 maycokhi.pages.dev
@@ -296,6 +303,7 @@ pangerantoto3-rtp.pages.dev
 pangerantoto4-rtp.pages.dev
 pasticuanbosku.pages.dev
 pedangtogel-cq0.pages.dev
+perbanyakcuan.pages.dev
 polagacor-png.pages.dev
 polakumbang.pages.dev
 posgradoupea-edu-bo.pages.dev
@@ -316,6 +324,7 @@ resavskipostonosa.pages.dev
 resultsgp.pages.dev
 rikhania.pages.dev
 rizkynadiateknik.pages.dev
+room-amp-62g.pages.dev
 royalslot-resmi.pages.dev
 rto-new77-terbaru.pages.dev
 rtp-bayam89-v3.pages.dev
@@ -387,5 +396,3 @@ xdewa-rtp.pages.dev
 xseounhide.pages.dev
 yatanokagami.pages.dev
 yesmovies-4uj.pages.dev
-3dhoki-boyercellars.pages.dev
-3dhoki-sahara.pages.dev

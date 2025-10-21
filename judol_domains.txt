@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 16542
+# Number of entries: 16628
 #
 #
 # medium.com # whitelist
@@ -2722,6 +2722,7 @@ cccphotolifelab.jp
 ccfrance.shop
 ccl88asik.xyz
 ccsita2023.org
+cdn-zeus.com
 cdn.bonanzakostum.site
 cdn.digitalbaxter.com
 cdn.heylink.dev # cloaking
@@ -4561,9 +4562,14 @@ ftp.evanculver.com
 ftp.evercore.technology
 ftp.exetech.org.uk
 ftp.georgecallaway.com
+ftp.glaive.org
 ftp.glory-success.com.sg
+ftp.goudenkomijburg.nl
 ftp.greatchilibowl.com
+ftp.hamishwoodrow.com
+ftp.iamjimtaylor.com
 ftp.inforthtech.com
+ftp.intercont.hu
 ftp.issicorp.com
 ftp.klondikeheights.net
 ftp.knorex.in
@@ -4574,7 +4580,11 @@ ftp.napsetree.com
 ftp.nextlogistics.com.au
 ftp.nomorewords.ca
 ftp.novusgroup.my
+ftp.outcoder.net
+ftp.phirea.com
+ftp.pointech.net
 ftp.robbiewaterhouse.com.au
+ftp.rogerstech.co.uk
 ftp.sarahcannonfund.com
 ftp.sheakleypay.com
 ftp.squaretradermi.com
@@ -4835,6 +4845,7 @@ gatotwin2.shop
 gaugemaster.net
 gaulgans.sbs
 gaulnevada.one
+gaurangmeghanathi.com
 gawangkami.com
 gawangtop.com
 gawangtoto04.com
@@ -4896,6 +4907,7 @@ geminihappy.com
 geminit99.com
 gemscool.co.id
 gemsgynaecology.com
+genclude.com
 generassiittogel.com
 genericpillmen.com
 generraassitogel.net
@@ -5343,6 +5355,7 @@ harusmax.com
 harvardpools.com
 harvestclay.com
 hasanagic.org
+hashcach.site
 hashtagcauseascene.com
 hasil6d.com
 hasilviral4dp.net
@@ -5367,6 +5380,7 @@ hazelhurstschool.co.uk
 hazrestaurant.co.uk # backlink malicious
 hb188-banc.xyz
 hb188aura.online
+hbe.world
 hbostatic.us
 hdbet88.tv
 hdlsuksesselalu.com # cloaking
@@ -5776,6 +5790,7 @@ idthunter.com
 idtmenang.shop
 idw88.fun
 idwin88.us
+ieltsspeakingtest.app
 ieltsvictoria.com
 ietepune.org
 iform.id
@@ -5823,6 +5838,7 @@ ilmutotoonigiri.com
 ilmutototakoyaki.com
 ilovebabybushka.com
 ilovenypizzadawsonville.com
+iloveregan.org
 ilucky88.csntv.space
 ilucky88bet34.net
 ilucky88bet60.link
@@ -6098,6 +6114,7 @@ intlfrenchbreadfest.com
 intra.nordcloud.fi
 intrepid232.com
 investasitanah.com
+investirou.com
 invictadivers.co.uk
 iogsport88love.com
 iongacor.com
@@ -6138,6 +6155,7 @@ iprakom.id
 ipskiler.com
 ipt79best.cfd
 iqbalhakim.xyz
+iqraskitchen.ca
 ir-plc.com
 ir.solarbotics.net
 iranrtp.store
@@ -6167,6 +6185,7 @@ isolucky.xyz
 isotechltd.com
 isotexpty.com
 israelinnovationexpo.com
+israelsucks.org
 iss99.com
 istana-casino.icu
 istana-four.xyz
@@ -6268,6 +6287,7 @@ ixplay88pol.com
 ixplay88wd.com
 izahed2023.org
 izorafalling.site
+j-riv.com
 j200mwin.cam
 j4yam4d.xyz
 j99playasli.shop
@@ -6406,6 +6426,7 @@ japanjumbodraw.com
 japanpools.online
 japanpoolstoday.com
 japanslot88.it.com
+jaqui.sh
 jarel.co.nz
 jari7win.org
 jariindo4dpools.com
@@ -6423,6 +6444,7 @@ jasacuan88.xyz
 jasacuanbuka.store
 jasacuann.xyz
 jasawordpress.shop
+jasonoh.site
 jasonscoupons.com
 jasus.net
 jatanrass.org
@@ -6463,6 +6485,7 @@ jazzpanen303.site
 jbaghlaf.com
 jbgroup-st.com
 jbwatson.bid
+jchenlab.info
 jdgirls.icu
 jdl688my.net
 jdl996my.com
@@ -6482,6 +6505,7 @@ jejuslotresmi.com
 jejuslotz.com
 jejuwla.asia
 jejuwla.store
+jellyjoeai.buzz
 jembatanindo-pools.com
 jembatanindo-pools.net
 jemmatools.co.uk
@@ -6628,6 +6652,7 @@ jos257.com
 jos257go.online
 jos257om.com
 jos77h.com
+josueandshanice.com
 journal-mandiracendikia.com
 journal.moripublishing.com
 journalberitaterkini.id
@@ -6696,6 +6721,7 @@ jtmiti.org
 jualamp.com
 jualikan.id
 jualjasa.online
+juanmeleiro.com.br
 juara126-aman.store
 juaraberkah.lol
 juaranya-pola.lol
@@ -6754,6 +6780,7 @@ juli4dslott.online
 julianjantosphotography.com
 julvius.org
 jumphackers.co.kr
+junglerent.live
 junitoto1.com
 junlee.id
 jupiter128.live
@@ -6788,6 +6815,7 @@ justcarhire.co.za
 justcars365.com
 justforfun88.com
 jutawan88712.com
+juticelight.fun
 juuka.co.uk
 juventuderevolucao.org
 juventuspools.com
@@ -6849,6 +6877,7 @@ kaiko2.com
 kaiko3.icu
 kaiko6.icu
 kaikoid.com
+kailaconsulting.ca
 kaimkt.com
 kairo-lottery.com
 kairopoolstoday.com
@@ -6867,6 +6896,7 @@ kaiyili.com
 kaizen88.design
 kaizen88game.top
 kajang4d.com
+kakadeka.cn
 kakaktogelace.com
 kakatoto.info
 kakek188.com
@@ -7138,6 +7168,7 @@ kenyatoto.online
 kenzievapestore.cloud
 kenzo188bless.co
 keongtogelalt.xyz
+keparal.cn
 kepitingladahitam.online
 keramasdong.cfd
 kerangbakarpakjul.online
@@ -7410,6 +7441,7 @@ kpktotoyura.com
 kppnmedan.id
 kpppratamamagelang.com
 kpscore.xyz
+kpsingh.ch
 kpu-rokanhulu.shop
 kpusulut.com
 kqxoso-online.com
@@ -7783,6 +7815,7 @@ ledak388a.com
 ledakan.id
 leedspools.com
 leeholtzman.m.remaxtexas.com
+leetking.cn
 leetwa.sbs
 leftysgourmetpizza.com
 legacy.lendfriend.com
@@ -7916,6 +7949,7 @@ limabesar.org
 limalottery.com
 limapools.com
 limocyprus.com
+linasdarul.is
 lincolnpools.net
 lindafornebraska.com
 lindeloft.com
@@ -8168,6 +8202,7 @@ loading-server.com
 loanssonline.com
 lobby1.lobbyroom88.com
 lobbyroom88.com
+localcleric.co
 localpulse.net
 localsportsphotos.com
 lodicellardoor.com
@@ -8324,6 +8359,7 @@ lppm.unipar.ac.id # malicious backlink
 lpsekemenag.com
 lpsekemenkes.com
 lptechlog.com
+lrschool.com
 lrtnbbhpqtypxxj.net
 ls178.xyz
 ltc-wallet.com
@@ -8433,6 +8469,7 @@ luxurywheel.xyz
 luyenthivan.com
 luzernlottery.com
 luzhoupools.com
+lvnadev.cc
 lvobet.homes
 lvobet.monster
 lvonline.bid
@@ -8445,12 +8482,52 @@ lyonandswan.com
 lz.longs.host
 lzzpl.info
 m-box.nagahoki88.art
+m.alhassanjawad.com
 m.aluminumblisterfoil.com
+m.angelicsignature.com
+m.arno.app
 m.bintang918.net
+m.blakeboxberger.dev
+m.colinjamesfirth.uk
+m.computerheritagegroup.org
+m.daxsoftronics.com
 m.dewan888.xyz
+m.dogtaggames.com
+m.eltoncrego.com
+m.exclamation.foundation
+m.freecodinglessons.com
+m.fruitinator.org
+m.hoianahotels.com
+m.hyrulezelda.hkotek.com
+m.inigoalonso.com
+m.jfparie.com
+m.joesutherland.rocks
 m.joinyuk.org
+m.keihan.or.jp
+m.kzngr.de
+m.laxaltandmciver.co
+m.liam.geek.nz
+m.markioannidis.com
+m.maximeborry.com
 m.mega56.com
+m.minormakerslab.nl
+m.momsconnection.net
+m.morita-ryo.com
+m.nikhilraghuraman.com
+m.nodiagnosticrequired.tv
+m.npufal.com
+m.papierhalm.com
 m.pg-demo.com
+m.qiqqa.org
+m.samituohino.com
+m.semverdoc.org
+m.squarefishdigital.com
+m.stotesburytransfer.com
+m.theevolutionofthearm.com
+m.thereproject.org
+m.trumptweettrack.com
+m.vinid.io
+m.willhamill.com
 m4uhd.top
 m69ku.one
 m69ku.top
@@ -11199,6 +11276,7 @@ polartphino1.com
 polartpstasiun.com
 polasiterbaik.com
 polaslot.rtpsdtoto.com
+polaslot.site
 polaterbaik.shop
 polatinggi.com
 polatotocc.site
@@ -11728,6 +11806,7 @@ raja787air.xyz
 raja787it.xyz
 raja88jp12.lat
 rajaa-bbom.space
+rajaabom-pp.space
 rajaakurat-maxwin02.shop
 rajaakurat-maxwin04.shop
 rajaakurat-maxwin12.shop
@@ -11861,6 +11940,7 @@ ramen136.xyz
 ramenbangaichi.com
 ramenterbaik.site
 ramentesdreches.com
+ramuansaya.org
 randrsoulfood.com
 rangewatch.org
 rankik.com
@@ -12113,6 +12193,7 @@ riyadhpools.com
 rizkynadiateknik.id
 rjb.simplyworks.xyz
 rjbaccarat.biz
+rjbom.ink # cloaking
 rjbom.link
 rjlprecisioneng.co.uk
 rjs138-amp.net
@@ -16176,6 +16257,7 @@ winme88.net
 winmoon.org
 winnbatman168.com
 winnertotox10.com
+winning303mantap.click
 winning303viral.live
 winningthestorywars.com
 winpaus.info
@@ -16488,6 +16570,8 @@ zarke.net
 zarwebcoders.com
 zazenlife.com
 zazula-music.net
+zbeventspin.site
+zbspin.com
 zelcole.com
 zen789caci.com
 zenkchat.com
@@ -16498,6 +16582,8 @@ zeus800.pro
 zeus800.shop
 zeus800a.xyz
 zeus8m.id
+zeusbo.la # cloaking
+zeusbolaresmi.net
 zeusgg.pro
 zeusto.to
 zeuswin88rtp3.xyz
