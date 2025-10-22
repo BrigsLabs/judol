@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 890
+# Number of entries: 809
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -620,88 +620,6 @@ prod-api-ug5cv2.web-sample.live
 prod-api-ug6v2.ns1-prototype.org
 projectgalery.xyz
 protecer.org # hacked web
-pub-01daae9cfed641489a104989d6c91115.r2.dev
-pub-030bf10fe1a0403cb36d73c3e2e2b903.r2.dev
-pub-06ff85254fab4956804723ef05e9c0bc.r2.dev
-pub-0d925b1b3c6944ea948fa415c38c775c.r2.dev
-pub-0dd12ba69dc1432c9bb2a3b626142b83.r2.dev
-pub-1311e419213248cf91ada26081c6c888.r2.dev
-pub-182efdc943d14ef5a0be9eb8450958a6.r2.dev
-pub-1afacac1f4734757b0908784991abb88.r2.dev
-pub-24d67f26c9d542d28930bae82da3a415.r2.dev
-pub-258d1a3dd2a04e60b982f72332a8ecbb.r2.dev
-pub-26006dc9bc8f4403b64969ad3176673e.r2.dev
-pub-2a991c69018043aa97bece03d85e2fe4.r2.dev
-pub-2cb70b23ac0f4ad982d6b04d7c96aebe.r2.dev
-pub-2ea0a2d7577347c3a124333fd65b6494.r2.dev
-pub-33f79e4933584e76ac497eed3b0b39c5.r2.dev
-pub-3a497eec89554a7087393a495285cca8.r2.dev
-pub-423755b7060d41bd991640eb44ea574c.r2.dev
-pub-434259f7298942e39387d59f922d4cb6.r2.dev
-pub-4d167d231b1e441db42fc94681994c45.r2.dev
-pub-4dab336953a44439993e62117ab2003c.r2.dev
-pub-56c7ffeacc6c46128f4c3806c3d91605.r2.dev
-pub-56dc6e91c6b14ae39d02ca37deae98ec.r2.dev
-pub-56fddca6d9364d3daea6dda86f9cb226.r2.dev
-pub-5790736c854842c889298b4f6a8691ea.r2.dev
-pub-5a9db6e770a34346af628507f632d126.r2.dev
-pub-5aefe5b9063e4c45869d74a6562c0a9b.r2.dev
-pub-5baf076623b641729bf27ad88e7a26f9.r2.dev
-pub-5f522cdb68e746c9b5a9ef78a71b91cb.r2.dev
-pub-609ed79ad73a45f6a3f93fd77dbfc4a6.r2.dev
-pub-61adfb4568d94aaea721503fa0df9f5a.r2.dev
-pub-63ef8a83684343d788bc4e2196ba7dbe.r2.dev
-pub-6667608f0e5a467697ee61610950a063.r2.dev
-pub-6de05fd8a9f5478ebaaf615c1e697720.r2.dev
-pub-6ff7e30e22464f96947ce2aa0e3171db.r2.dev
-pub-74364a6978354ed487f58b7b61e7eabc.r2.dev
-pub-7a0e94009e8a47869ca0456d09c14727.r2.dev
-pub-7c0d840b179d47749c3f9eeb88ae1f0a.r2.dev
-pub-7eb86c0b50ec4a9a9f40b1bc21055c7a.r2.dev
-pub-7ee75aa7f76a4d2da0e7f58f6e718bf5.r2.dev
-pub-880936a030424bda8a513a41b225624d.r2.dev
-pub-88639e2cebd24f0e87a482ceaaa59fc6.r2.dev
-pub-8b23969a255c4173816091bcb72b03c7.r2.dev
-pub-8b55f6b3152f449eb2adee51596073e1.r2.dev
-pub-8b7d6144a9c74a41a866be14066dbcc9.r2.dev
-pub-93f9ca09def24762be5ffeed338b6638.r2.dev
-pub-955cbf34740e45a384e4cd978b1a0ea1.r2.dev
-pub-995e76621bfc452683a98412d81cd909.r2.dev
-pub-9af3357a7d594a559a7d47c4b0e7ca1f.r2.dev
-pub-a19ec9f103b045a4ba6b9e6902d7d4d5.r2.dev
-pub-a32bf03db96f40e5932b2982a8681a2b.r2.dev
-pub-a5e60f748b7f4103b21c641be555c2a8.r2.dev
-pub-a770b1dceeff4a77b2401994f3884d48.r2.dev
-pub-a88660a944004e0ebbe60ef0b4e9b9cd.r2.dev
-pub-ad97bddd1e2d41c7a44e429848a49f0e.r2.dev
-pub-ae626d59dbef4bb0853b8cb41c614ec3.r2.dev
-pub-b0335f477a9e48038ec3c4f4707c086d.r2.dev
-pub-b1aec0296260431eb180cf3dc0b429ee.r2.dev
-pub-b3e96111297341b489bdc194afde5fa7.r2.dev
-pub-b46deae38bb647e3a791fd1aef7b827b.r2.dev
-pub-b6db1f7f47124fa7ad5e101e3bd32802.r2.dev
-pub-b7555f2e6c8d4f388774b3dda1ce3608.r2.dev
-pub-b8c3fe70a2464cad846a041c2161384b.r2.dev
-pub-c1eaf328d9564ccc920eaa2dcc988d83.r2.dev
-pub-c5324038b0694b359f625cffdb9464ef.r2.dev
-pub-c990085bac054264baf075425d966cb9.r2.dev
-pub-cb60a7ad4bdf470b8ad9ea4cc57e1d0c.r2.dev
-pub-cf66ebc0e50246aea864896563d60077.r2.dev
-pub-d2f8f19c86d349df8e7dfdfa598218c9.r2.dev
-pub-d36d8cd6a2064466b986229286106bca.r2.dev
-pub-d49d397603d14aeb83115296642b58be.r2.dev
-pub-d4e07f2f530f4af5912b4e83a049018b.r2.dev
-pub-d8fbadbadffb491985f60c957f55140c.r2.dev
-pub-d917f3f0def8490db8760f3969e9273f.r2.dev
-pub-dfecbce2e4204125ba3b0f0bcb75834a.r2.dev
-pub-e55302e5a199465b9bb9f1c6220f77f1.r2.dev
-pub-e7779c29cf914271befd85a90d4dc9a2.r2.dev
-pub-eb56614beba6415c8ac276bfd0437e01.r2.dev
-pub-eca00f27c0544dbfa967993f427253f6.r2.dev
-pub-ee8bc42fcaa94552af960b71fb20e6be.r2.dev
-pub-ef90194c58694130bb7a03b0e7096ef5.r2.dev
-pub-f02d5c5aa29e4d489f6c0a961f787e8b.r2.dev
-pub-f60bd858425e49cb9949aa6ea0b94e86.r2.dev
 public.pgsoft-games.com
 pulquemaniaeu.com # hacked web
 pwcplay.com # subdom : cdn.pwcplay.net assets.pwcplay.com
@@ -712,6 +630,7 @@ qrismvp.com
 qrispapitogel.sgp1.cdn.digitaloceanspaces.com
 r1zendigistr.com
 r1zengrp.link
+r2.dev # all subdom link move to deadlist
 rabanimage.io
 radartulungagung.co.id # malicious backlink
 rajabandot.sgp1.cdn.digitaloceanspaces.com

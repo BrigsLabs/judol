@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 16628
+# Number of entries: 16719
 #
 #
 # medium.com # whitelist
@@ -566,6 +566,7 @@ agrencogroup.com
 agricultureinhindi.com
 agusgalau.xyz
 agvoxy88.pro
+agwgroup.com
 ahluwaliamd.com
 ahzhuiyuan.com
 ai-university.id
@@ -1744,6 +1745,7 @@ bdhoki88gas.pro
 bdiyfd.com
 bdk99.fun
 bdk99.store
+bdsabungayam138.live
 bdseolab.com
 bdslot88vpn.com
 bdtoto4d.online
@@ -2075,11 +2077,13 @@ bloc145.com
 blockchaintalent.id
 blockchainview.shop
 blockmains.lol
+blog.darae.dev
 blog.epi.com
 blog.futuresportsmedia.com
 blog.golangbr.org
 blog.picassity.com
 blog.scmall.cc
+blog.sytone.com
 blogger8digital.xyz
 bloggercamp.id
 bloggermerdeka.id
@@ -2760,6 +2764,7 @@ cemeku.rocks
 cemproc.com
 cendana-top.com
 cendekiainovasi.org
+cenganoi.com # cloaking
 ceniamoinsieme.org
 cenib.com.br
 centraloregondrywall.com
@@ -8571,6 +8576,7 @@ macssilverton.com
 macworld.co.nz
 madagascar-lottery.com
 madawaska.shop
+maddieposhard.dev
 madhufilmandtvinstitute.com
 madhukartalks.com
 madrasads.com
@@ -8620,13 +8626,50 @@ mahonirtp1.store
 mahoutsuk.ai
 maicho1b4kthi408.info # cloaking
 mail.amazingpics.net
+mail.arno.app
 mail.carproducts.biz
 mail.demandgen.tv
+mail.freecoder.me
+mail.gruelbox.com
 mail.gumbootpress.com
+mail.hellomeet.co
+mail.hiromu.phd
+mail.hurshagrawal.com
+mail.iact.info
+mail.ieahts.org
+mail.iiife.com
+mail.jackphelps.net
+mail.jawsmartin.com
+mail.jewelmlnarik.com
+mail.josebmendozam.com
+mail.jpbriend.fr
+mail.keepsake.de
+mail.kenpousouan.com
+mail.kerosenelampsecrets.com
+mail.kidastro.com
+mail.kislyuk.com
+mail.laxaltandmciver.co
+mail.liam.geek.nz
 mail.monalisapage.com
 mail.oasys.ca
+mail.pousadaleange.com.br
+mail.pulaipieci.arno.app
+mail.pyphen.org
+mail.qixiaodong.com
+mail.qmlcode.org
+mail.rajatarora.in
+mail.ramnes.eu
+mail.retrocombs.com
+mail.router.gallery
+mail.ryanoday.com
 mail.sadasiderurgia.com.br
+mail.sandlug.org
+mail.scoutmasterbucky.com
+mail.semverdoc.org
+mail.shifpeng.cn
+mail.shumbaconsulting.ca
 mail.snowshow.tv
+mail.urzagatherer.app
 mail01.dirkomatik.de
 mailmagazine.nanouniverse.jp
 mailthehorse.com
@@ -8682,6 +8725,7 @@ makanrotimanis.com
 makansiangbergizi.com
 makantelurayam.site
 makantempebacem.com
+makapaka.jp
 makasar4dmantap.pro
 makassarlottery.com
 makebillionairespay.info
@@ -8697,8 +8741,10 @@ malang4d.vip
 malangtogel.com
 malaysialottery.net
 malaysiapools.net
+malcraft.xyz
 malibu4d.com
 malibucitypools.com
+malik.sh
 mallkun.com
 malta-lotto.com
 maluku4dgacor.com
@@ -8805,6 +8851,7 @@ mapsbetjp2.xyz
 maptrack.net
 marbella-pools.com
 marbella.slvj.es
+march1st.xyz
 margototo-desa.id
 mari2bmwcuanonline.shop
 mariannedupontverrier.org
@@ -8821,6 +8868,7 @@ mariowinjp.info
 mariposayosemiteairport.com
 marjorierwilliams.com
 markascolatogel.com
+markbalanay.site
 marketeammenuharrahsacpools.com
 markhealey.co.uk
 markherdman.com
@@ -8861,6 +8909,7 @@ masjidtuankumizan.gov.my # hacked web
 maskot88e.icu
 maslele.pro
 maslele.xyz
+mason.lgbt
 masonicdictionary.com
 masookkk.com
 maspanji.pro
@@ -8916,6 +8965,8 @@ matawanita.id
 match-cloud.com.au
 materiauxouellet.com
 mathercab.com
+matiahkim.com
+matiasbonfanti.xyz
 matome-vision.com
 matrixfitness.com.mx
 matrixslot.id
@@ -9111,6 +9162,7 @@ menangterus777.rtp-presidenmaxwin.lol
 menangwd.xyz
 mendoanenak.xyz
 mengarahkan.site # cloaking
+mengo.es
 menpan.org
 mentoneautocentersb.com
 mentorwomxn.org
@@ -9206,6 +9258,7 @@ midasplays.site
 midasplays.today
 midastangkas.autos
 midmichigansustainability.org
+midoai.cn
 midway-feed.com
 midwestcraftcon.com
 mie2023.org
@@ -9228,6 +9281,7 @@ milan-pools.com
 milan-pools4d.com
 milan-wlalottery.com
 milanopools.org
+milatrade.de
 miliarbetjp.net
 miliarnibos.ink
 miliarslot.site
@@ -9286,6 +9340,7 @@ miyazaki-rentacar.com
 miyoshilottery.com
 mizacatecasmexicanfood.com
 mizutamari-bond.com
+mjau-aiartfart.art
 mjpku.icu
 mjpku7.beauty
 mk-x4.com
@@ -9378,6 +9433,7 @@ monyethoki.autos
 monyethoki.wiki
 monyethoki8.one
 moodfeather.com
+moonlauncher.app
 mooseheadcabins.com
 moravianstudies.org
 morefamousquotes.com
@@ -9386,6 +9442,7 @@ moreonline.myriaddestinations.com
 morepuncak.store
 moresbylottery.com
 morganslot.org
+morningbiblestudy.com
 moroccopools.com
 morrisfarm.org
 mortilki.com
@@ -9795,6 +9852,7 @@ newqrisbar.pro
 newreleasesvideo.com
 newrgy.id
 newrtpmaha.top
+news.mysite.f5.si
 news.transperth.info
 news7tamil.live
 newsbizmag.com
@@ -9827,6 +9885,7 @@ ngespinbahagia777.com
 nghwheels.store
 ngpk.store
 ngpkrg0ld.com
+ngtrkhnguyenblog.com
 nguk.link
 nhcyaounde.org
 ni-s1.demoslotbaru.com
@@ -9866,6 +9925,7 @@ nissan-serang-banten.id
 nitroplay.space
 nitroplay.vip
 njikoka.an.gov.ng
+nkle.design
 nkqw22ro.rtpjpmania-slot.com
 nlcbplaywhelotto.com
 nlpai2024.org
@@ -9948,6 +10008,7 @@ noxiousadvocate.id
 npbelarus.info
 npselalu.net
 nptfilms.org
+nquerio.ca
 nro.ezentis.com
 nsp2d.com
 nswebdizajn.com
@@ -10038,6 +10099,7 @@ odin77spec.lat
 odin77withz.sbs
 odinjackpot.site
 odinnomero.top
+odsellar.com
 off-golf.shop
 offers.veganhood.net
 office.etikatech.com.au
@@ -10182,6 +10244,7 @@ onemedicalcentre.org
 onengresto.com
 onepercentshow.site
 oneshotfitness.com
+onesourceonelife.org
 onestaorganics.com
 onestophealthservice.com
 oneterminalbet.lol
@@ -10348,6 +10411,7 @@ padovapools.com
 padubet888.com
 padubet888.net
 padubet8899.com
+pafi-smknegeri2.com # scam cloaking
 pafiambon.id
 pafibangkalan.org
 pafibintang.org
@@ -10709,6 +10773,7 @@ parniboo.com
 parrocchiacrocetta.org
 partaikaryaperjuangan.org
 participle.net
+particleo.de
 partner.tagliosc.com
 partnerconnect.net
 pasal4d.net
@@ -10781,6 +10846,7 @@ payungbiru789.com
 pbjaya.fun
 pbk.co.id
 pbtaurus.com
+pc01.it
 pci-water.co.uk
 pck138.net
 pck138.org
@@ -11002,9 +11068,11 @@ phuketlotto.com
 phuketlotto.store
 phuyingsuay.xyz
 phweb3festival.com
+physx.fun
 pialaduniaolb228.pro
 pialaoscar12.oscartogelgacor.net
 pianopainter.com
+pianorepair.gr
 piass.org
 picalpantaco.com.mx
 picking.comprezipp.com
@@ -11057,6 +11125,7 @@ pistachiofestival.info
 pistol4d-a.online
 pistonbet.net
 pitbullrotorcraft.com
+pitler.xyz
 piton99fun.com
 pixiubetplay.net
 pizzaplayavista.com
@@ -11181,6 +11250,7 @@ plustogel.win
 plustogelgacor.com
 plustogelgacor.net
 pm2.rtpuncle.xyz
+pmeventz.com
 pn-bengkalis.net
 pn-surabayakota.com
 pnjakpus.dgitalbox.com
@@ -11310,21 +11380,26 @@ pomeraneo.com
 pompompopuler.pro
 ponpesnwjakarta.com
 pontianak-pools.com
+pontiuspilatetimemachine.com
+ponzi-vault.fun
 pooiiouondgavl.store
 poolehillbrewery.com
 poolstotomacao.com
 poorherbies.com
+pop.latex2html.org
 popofegi.com
 popojinda.id
 popokuranus.com
 popular-zeffiro.com
 populer4d999.pro
+poroto.dev
 port.putarroda.store
 portal.laticketera.com
 portal.mimikakab.com
 portal.unidoscontraelparkinson.com
 portaldaconstrucaobrasil.com
 portantas.org
+portfolio-terminal.xyz
 portlandcleanenergyfund.org
 portlandpools.us
 porto-pools4d.com
@@ -11633,6 +11708,7 @@ pulausamba.top
 pulsamaxwin.com
 pulsaojk.com
 pulsaslot.gg
+pumpxos.fun
 puncak123.pro
 puncak88.icu
 puncakbook.online
@@ -11748,6 +11824,7 @@ queensland4d.com
 queeselautismo.com
 quegamer.com
 quick-ly.com # cloaking
+quinnsamms.com
 quirinuscup.org
 quirkykids.co
 quotchemical-bin.info
@@ -12024,8 +12101,10 @@ redindbos6.net
 redir.live # cloaking
 redirect-omega-ruddy.vercel.app
 redirect.2e4.top
+redmond.link
 redmountainbbqsupply.com
 redstoneinvitations.com
+redublank.de
 redue-alcue.org
 redwoodappliancecenter.com
 reelfootlakeinnsmotel.com
@@ -12125,6 +12204,8 @@ resulttoto.com
 resultvictory4dp.net
 resumebycprw.com
 retailinvestorconferences.com
+retake.live
+retards.space
 retepe.twsutama.monster
 retepe4.kokomain.icu
 retirementplansmyway.com
@@ -12168,6 +12249,7 @@ ria4hebat.site
 riarmyguard.info
 ribonofc.org
 ricardosbargrill.com
+richardludwig.com
 richardmille.casa
 richrich.one
 ricostacosmoya.net
@@ -12219,6 +12301,7 @@ robot188.co
 robotsceter.shop
 rochesterconcretesolutions.com
 rochesterlottery.online
+rock-cat.xyz
 rockcomciencia.crp.ufv.br
 rocketrepublichsv.com
 rocnramenbronx.com
@@ -12237,6 +12320,7 @@ rodakks777.top
 rodaputar-bandar388.com
 rodarodaonline.club
 rodatiket.com
+roddyra.dev
 rogcuanbanyak2.site
 roger777.co
 rogmahjongways.com
@@ -12327,6 +12411,7 @@ rp369rtp.top
 rp77uu.net
 rp888abd.top
 rpacgallery.com
+rpeixoto.works
 rpghs.com
 rpihockey.net
 rplusklinikgigi.com
@@ -13000,6 +13085,7 @@ rtpsstop.fun
 rtpstar.online
 rtpsukatoto.beauty
 rtpsultan618l.site
+rtpsummer138.net
 rtpsungacor.com
 rtpsupergacorbeta.site
 rtpsuperhrb.space
@@ -13136,7 +13222,9 @@ rvparksbigspring.com
 rvsar.org
 rwandalottery.com
 rwb-18.xyz
+rwdrepair.com
 rwifo.com
+rzem.io
 rzg0uug5qkcbgx2uchez.kaskusjagoan.com
 s-rjb.click
 s.d-port.co
@@ -13925,6 +14013,7 @@ slot-gacor.bid
 slot-gsr4d.icu
 slot-kf1.xyz
 slot.fiftotopafi.com
+slot.rtpgacorluckygaming138.org
 slot123.apkdoh.com
 slot123ao.org
 slot123e.com
@@ -14458,6 +14547,7 @@ sumbersukolestari.id
 sumedanggoinvest.id
 summaryanalytics.com
 summerjamwest.org
+summerplay138.vip
 summertaskfest.com
 sumo777lk.shop
 sumotolottery.com
@@ -16436,6 +16526,7 @@ xn--eckuc1dya1l.xyz
 xn--fftt-vpa8bb.com
 xn--hy1b45civih1kue.com
 xn--ii5b09t.com
+xn--pet692ca5966b.xyz
 xn--ppadomino-q1a.com
 xn--qq365slt6-67a.net
 xn--rebttingonlin-9ebc7ik.com
