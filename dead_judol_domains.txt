@@ -396,6 +396,9 @@ xdewa-rtp.pages.dev
 xseounhide.pages.dev
 yatanokagami.pages.dev
 yesmovies-4uj.pages.dev
+nny-m-100dollarartshow.pages.dev
+nny-m-esdoc2.pages.dev
+nny-web01-danicholls.pages.dev
 
 # from cdn : *.r2.dev
 pub-01daae9cfed641489a104989d6c91115.r2.dev
@@ -483,3 +486,6 @@ pub-f60bd858425e49cb9949aa6ea0b94e86.r2.dev
 pub-1c6eeafc1def43f59eb463bbcf899f9e.r2.dev
 pub-8d55a7dd0428441ea6689ed05bdc3b62.r2.dev
 pub-cf81064dc4c543db9b9a86041b22e528.r2.dev
+pub-8ead12854d79423e94901ec103ffa2dd.r2.dev
+pub-06f6a1761e7e47edaa63a07446d5dda9.r2.dev
+

@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 16719
+# Number of entries: 16843
 #
 #
 # medium.com # whitelist
@@ -3141,6 +3141,7 @@ cr7game.net
 crabebills.com
 craftconnectiontours.com
 cramerhardwoodfloors.com
+crashedcarkit.uk
 craterchicxulub.com.mx
 crazyballcc.shop
 crazybulksale.com
@@ -3820,6 +3821,7 @@ dondetemetes.net
 dondeycuanto.com
 donegalbowls.com
 dongguanlottery.com
+donkey88.live
 donneesouvertes.info
 donomulyo-desa.id
 dontddos.xyz
@@ -4502,6 +4504,7 @@ foundry.bio
 fountaincheck.com
 fountainstories.id
 fourwheelworkout.com
+fox138.live
 foxlea.co.uk
 fpbisa.pro
 fpbisa.store
@@ -8006,6 +8009,7 @@ link99.pics
 link99.vip
 linkableamp.pro
 linkads77.space1.one
+linkagent188.com
 linkakungacor.vip
 linkaltairbet88slot.info
 linkalternatifdewavegas.online
@@ -8108,6 +8112,7 @@ littlebhe.com
 littleshows.com
 lituanialottery.com
 lituaniapools.com
+live-rtp.strongbet88.vip
 live-rtpbandarkoin99.com
 live.9nagaspin.net
 live.kaskuswinrtp.xyz
@@ -8487,10 +8492,21 @@ lyonandswan.com
 lz.longs.host
 lzzpl.info
 m-box.nagahoki88.art
+m.100dollarartshow.org
+m.7mo.org
+m.absolwenci-funduszu.org
+m.aisecuritysummit.org
 m.alhassanjawad.com
+m.alphacademy.org
 m.aluminumblisterfoil.com
+m.andrienko.org
 m.angelicsignature.com
+m.appave.org
+m.arabalsawahreh.org
 m.arno.app
+m.artisan-trails.org
+m.asafonov.org
+m.asfans.org
 m.bintang918.net
 m.blakeboxberger.dev
 m.colinjamesfirth.uk
@@ -8499,9 +8515,12 @@ m.daxsoftronics.com
 m.dewan888.xyz
 m.dogtaggames.com
 m.eltoncrego.com
+m.esdoc2.org
+m.esnacc.org
 m.exclamation.foundation
 m.freecodinglessons.com
 m.fruitinator.org
+m.gnubee.org
 m.hoianahotels.com
 m.hyrulezelda.hkotek.com
 m.inigoalonso.com
@@ -8516,6 +8535,7 @@ m.markioannidis.com
 m.maximeborry.com
 m.mega56.com
 m.minormakerslab.nl
+m.molthrop.com
 m.momsconnection.net
 m.morita-ryo.com
 m.nikhilraghuraman.com
@@ -8531,8 +8551,11 @@ m.stotesburytransfer.com
 m.theevolutionofthearm.com
 m.thereproject.org
 m.trumptweettrack.com
+m.vertexium.org
 m.vinid.io
+m.webont.org
 m.willhamill.com
+m.xcontrols.org
 m4uhd.top
 m69ku.one
 m69ku.top
@@ -12614,6 +12637,7 @@ rtpafslot-9.xyz
 rtpag3.com
 rtpag9.org
 rtpagencuan.art
+rtpagent188.net
 rtpagentop.com
 rtpagentoto88.fun
 rtpakuntoto22.store
@@ -13314,6 +13338,7 @@ salasbetterburger.com
 sales-suzuki.id
 salesake.com
 salesdaihatsu.id
+salesforcedebuglogs.com
 salin.cc # cloaking
 salina.ro
 salinamonamour.com
@@ -13376,6 +13401,7 @@ santodomingolottery.com
 santoryu.it.com # landingpage
 santuy4dbuyspin.com
 santuy4djackpt.com
+sanvigowda.com
 sanyoselottery.com
 saoliveresult.xyz
 saopaulo-lottery.co
@@ -13384,6 +13410,7 @@ saopaulopools.com
 saosbotol.store
 sapeurpompier.net
 sapimelet.id
+sapphyre.uk
 sapporo-pools.com
 saputerbang.cc
 sarajevopools.net
@@ -13429,7 +13456,9 @@ savepic.me
 saveursdailleurs.net
 savingsunnyinc.org
 savio.cc
+savorspace.systems
 sawanehimports.com
+saxsolana.online
 sayang-gacor.lol
 sayurcerutu.net
 sayurlodeh.com
@@ -13462,6 +13491,7 @@ sceducationlottery.com
 schams.org
 schfess.id
 schights.art
+schizomaniacgame.com
 school-bites.com
 schooltexts.info
 schrom.io
@@ -13484,6 +13514,7 @@ sdyliveresult.xyz
 sdypaitowarna.com
 se.wikibudaya.cc
 se10-to9eldulu.click
+sea-nhp.org
 seafoodtumpah.com
 seaforceboats.com
 seanode.id
@@ -13674,6 +13705,7 @@ sevilla-pools4d.com
 sevillaforex.com
 sevillafutbolclubpr.com
 sewmesunshine.shop
+sfur.st
 sfviewlounge.com
 sg45toto.com
 sg88net.xyz
@@ -13761,6 +13793,7 @@ shrimpfestfl.com
 shrtnr.site
 shrtx.cc
 shrtxt4d.pro
+shruffo.fun
 shtaikun.com
 shu156duo289v.mom
 shuroushien.com
@@ -13868,6 +13901,7 @@ sinhairshampo.id
 sinibang.cariregistaza.one
 sinopools.com
 sinsekaiimage.xyz
+sintbvvindmijnpet.nl
 siouxfallsrent.com
 sip.erpdirect.in
 sip33pafi.cyou
@@ -13969,8 +14003,10 @@ siwatoto.net
 sixdiengine.com
 sk88prediksi.dev
 skachat-winline.space
+skde.tech
 sketch.wcdavis.net
 skidipapap.site
+skimaskape.xyz
 skimtechnologies.com
 skobam.com 
 skor88.poker
@@ -14194,6 +14230,7 @@ soju88pro.pro
 soju88pro.vip
 soju88vvip.art
 solfia.org
+solini.net
 solitarybeeweek.com
 solnapravljica.eu
 solo333gp.xyz
@@ -14272,6 +14309,7 @@ speed-engine.art
 speed-engine.com
 speedynailsart.com
 speesial4d.shop
+speicher210.de
 spend.bento4dmain.com
 spendlocalni.com
 spesial4dnice.site
@@ -14431,10 +14469,12 @@ static22.nanouniverse.jp
 station4744.com
 stationktv.com
 stayp38.com
+stb88.org
 stbridefoundation.org
 stcn-educore-mg127.staticmbx.com
 steemit.com
 stegopath.vip
+stellarys.xyz
 stellatower.com
 stempowerus.org
 stepnogorsk.org
@@ -14480,6 +14520,8 @@ streetball.lol
 streetedition.net
 streetmoto.net
 strikegamesite.shop
+strikrrt.com
+strongbet88.dev
 ststworld.com
 studyranger.com
 stvincentsacademyicse.com
@@ -14545,9 +14587,11 @@ sumbawatotoao.com
 sumberrezeki.xyz
 sumbersukolestari.id
 sumedanggoinvest.id
+sumeshjagtani.com
 summaryanalytics.com
 summerjamwest.org
 summerplay138.vip
+summerplay138.xyz
 summertaskfest.com
 sumo777lk.shop
 sumotolottery.com
@@ -14604,6 +14648,7 @@ superwiraspin88.pro
 supir.top
 supmakanan.com
 supmiso.com
+suppisgarden.in
 support.burning-glass.com
 support.marschpat.com
 supportmaxb.com
@@ -14693,6 +14738,7 @@ sydneypools.online
 sydneypoolsmorning.com
 sydneypoolsnight.com
 sydneypoolstoday.com
+sysexer.com
 sysnoa.id
 syukurindovegas4d.com
 szuflada.net
@@ -14745,6 +14791,7 @@ talktofridaysus.shop
 talktostopandshopcom.shop
 talltalesfishing.com
 tallthebellus.shop
+tallyallah.club
 tamansultan88.icu
 tamaroa.org
 tambakbet668.com
@@ -15014,6 +15061,7 @@ thefilmsinmylife.com
 thefirearmexperts.com
 thefreeartfoundation.org
 thegameanderson.com
+thegaragellc.us
 thegirlwiththepurplecane.com
 theglamourazzis.com
 thegloballyminded.com
@@ -15038,6 +15086,7 @@ themadhouserageroom.com
 themasonjarcafefl.com
 themassivecollective.co.nz
 thematingpress.com
+themetawarse.com
 themoc.eu
 themoontemple.com
 themovingmuseum.com
@@ -15151,6 +15200,7 @@ tjmaohao.com
 tk69group.xyz
 tkdesigncompanyusa.com
 tlqkltxtqi.net
+tmahomeservices.org
 tmpt-pandawa88.com
 tncbf.org
 tnli.co
@@ -15453,6 +15503,7 @@ tribunpen.autos
 tribuntogel3d.com
 tribuntogeljitu.com
 trickslot.online
+trijssenaar.nl
 trikagenolx.info # subdom : web22.trikagenolx.info web20.trikagenolx.info web12.trikagenolx.info
 trikjepepajak88.store
 trikpola.xyz
@@ -15472,6 +15523,7 @@ troymcnitt.com
 trtrecovery.com
 truechiroandrehab.com
 truenarrator.com
+trumpycat.buzz
 trybokashi.com
 trynora.com
 ts-vip.rrqesports.com
@@ -15543,8 +15595,10 @@ turnamenalto.org
 turnamendulto.me
 turner.demonubiral.com
 turnkeye.com
+turnof.fun
 turnovermg.com
 turnovermtu.com
+turtel88.live
 turtleaksara4d.net
 tutorgacor.store
 tuttokitchenandbar.com
@@ -15558,6 +15612,7 @@ tvtogelpastikuat.com
 tw.com.kw
 tweetphoto.com
 tweetymail.com.cdn.cloudflare.net
+twi.center
 twinweng.lol
 twitter.healthyshare.com
 two777web.com
@@ -15569,6 +15624,7 @@ twslivein.top
 txlottery.org
 tybeeislandonline.com
 tyzjw.com
+u0.cx
 u5s.uji4da.live
 u9zv0uq6tomfchp.store
 ua.faqukr.com
@@ -15621,6 +15677,7 @@ ug8meriah.com
 ugogirl.shop
 ugt-fica.org
 uicivf.org
+uio.la
 uisek55.kuningtoto.io
 ukafricangrey.co.uk
 ukip-ynl.org
@@ -15644,6 +15701,7 @@ ultrajpas.com
 ultrajpnl.com
 ultramanlink.com
 ultramikro.id
+ultras-strong88.pro
 umass.info
 umassmedcloud.com
 umdunia188.online
@@ -15666,6 +15724,7 @@ unitogell.name
 unitogell.org
 unitogell.pro
 unitykekar.com
+univarch.com
 universigns.com
 universitaspahlawan.com
 unml.co.id
@@ -15767,6 +15826,7 @@ valenciaivf.com
 valentinagandini.com
 valhalla.web.id
 valimyers.com
+vallab.io
 valleyandcolifestyle.com
 valleymaintenancelandscape.com
 vallnordworldchampionships.com
@@ -16084,6 +16144,7 @@ wangsitgg.shop
 wannadocity.com
 wanseng.id
 wap.zengaentertainment.com
+wapcbdportal.com
 waplats792.platinumslotgacor.org
 warga188.com
 warga188l.com
@@ -16197,9 +16258,65 @@ web-biotech.com
 web-facebookslot.linkapp99.com
 web-siangtoto.linkapp99.com
 web-slot5000.linkapp77.com
+web.burpandfartpiano.com
+web.hadass-sternberg.com
+web.homelab.lt
+web.hopeandhavenforrefugees.org
+web.houseofbim.com
+web.ics-csirt.io
+web.ifeng.blog
+web.ihtc.cc
+web.immersivepoints.com
+web.imyangty.com
+web.jessicawinter.eu
+web.jinyili.top
+web.jmajhemela.eu
+web.joannekirkham.com
+web.johnnyblocks.com
+web.josecuevas.xyz
+web.kaffebryggan.com
+web.kayleelubick.com
+web.keepsake.de
+web.kickassprogrammers.org
+web.kononovicius.lt
+web.kryptomonitor-project.info
+web.kubamracek.com
+web.kylir.com
+web.kzngr.de
+web.laboratoriocelada.com.ar
+web.laxaltandmciver.co
+web.lemonhuang.com
+web.liamfiddler.com
+web.liangxiaolei.fun
+web.nnise.com
+web.poskam.ru
+web.preview-dai.com
+web.projectsprouts.com
+web.putsvackfonsterputs.se
+web.pythontoronto.com
+web.qianduan.wiki
+web.quantbot.org
+web.r8r.io
+web.remybach.dev
+web.rentchek.com
+web.rich-knight.com
+web.rickbutler.com
+web.roller8.com
+web.saviorx.com
+web.seqpipe.com
+web.sethome.cc
+web.sharpsbeats.com
 web.talkwit.tv
+web.trumptweettrack.com
 web.zonamerica.com # malicious backlink
+web00.nattfodd.com
+web01.danicholls.com
+web02.datacenterjourney.com
+web04.tobybase.com
+web09.thinksaydo.com
+web10.kenpower.com
 web10.tipsagenolx.info
+web100.kylir.com
 web2.solarbotics.net
 webasialive88zona.directory
 webdisk.abzoluteplumbing.com.au
@@ -16240,6 +16357,7 @@ welcometohongkongpools.net
 welcometosdypools.com
 wellborn.id
 wellingtonpools.org
+wellnessconnect.app
 weltonarms.com
 weng-langsungbayar.pro
 wengberkibar.xyz
@@ -16327,6 +16445,7 @@ winclub8888.com
 winclub8888.net
 winclub8888.org
 windmillrestaurantsusa.com
+windows97solana.fun
 windrivertailsandtrails.com
 wineconnoisseur.info
 winforcer.co.uk
@@ -16437,6 +16556,7 @@ wow66888.com
 wow99bandicot.cam
 wow99bandicot.lat
 wowterus.online
+wp-ai.me
 wp.griftery.com
 wp.tecnoysoc.com
 wpnerd.net
@@ -16451,6 +16571,7 @@ wrnewell.com
 wrseafood.sbs
 wsbtv.com
 wsdbola88.org
+wsnd.cc
 wtglfvprrq.kaosjingga.com
 wuhan-lottery.com
 wuhan-lottery.store
@@ -16551,6 +16672,7 @@ xyz-klub.info
 xyz-klub.site
 xyzklub.info
 xyzklub.site
+y-ambition.com
 y2.yypetired.site
 y200mbagus.quest
 y2ycommunity.org
@@ -16658,6 +16780,7 @@ zalo.me
 zaneym.org
 zanove.com
 zarke.net
+zarraf.io
 zarwebcoders.com
 zazenlife.com
 zazula-music.net
@@ -16721,6 +16844,7 @@ zoom555.zoom555sub.yachts
 zoom555put.yachts
 zoom555ratu.com
 zoomwithscott.co
+zrozumpsiakaikociaka.pl
 ztripae.com
 zukkiworks.com
 zurich-pools.com

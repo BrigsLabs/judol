@@ -650,7 +650,7 @@
 *pisces[0-9]*
 *planet[0-9]*
 *platinumslot*
-*play88*
+*play[0-9]*
 *playking[0-9]*
 *playsgg*
 *poa[0-9]*
