@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1408
+# Number of entries: 1413
 # 
 # 
 # 
@@ -53,6 +53,7 @@
 *alfabet[0-9]*
 *alitoto*
 *aloha4d*
+*aman[0-9]*
 *amanbos*
 *amavi[0-9]*
 *amdbet*
@@ -86,7 +87,7 @@
 *ayu89*
 *azkabet*
 *babeltoto*
-*bacan4*
+*bacan[0-9]*
 *badak[0-9]*
 *badakslot*
 *badakslt*
@@ -230,6 +231,7 @@
 *fals4d*
 *fbslot*
 *fijislot*
+*flores[0-9]*
 *for4d*
 *formasi4d*
 *fptoto*
@@ -250,8 +252,7 @@
 *ganas69*
 *gap8*
 *garibet*
-*garuda4d*
-*garuda9[0-9]*
+*garuda[0-9]*
 *gasbet[0-9]*
 *gascagur*
 *gasken*
@@ -275,6 +276,7 @@
 *gocap[0-9]*
 *gogelpro*
 *gojek[0-9]*
+*gojo[0-9]*
 *gol[0-9]*
 *goldenlele*
 *goyangtoto*
@@ -493,6 +495,7 @@
 *luckyspin*
 *luckywheel*
 *luna4d*
+*lunabet*
 *lux128*
 *lvobet*
 *lvonline*
@@ -630,6 +633,7 @@
 *papa4d*
 *pasir4d*
 *pck1[0-9]*
+*pecelbet*
 *pedia4d*
 *pedro4d*
 *pedroslot*
@@ -916,6 +920,7 @@
 *warunggol*
 *wayangtoto*
 *wdhoki*
+*wg77*
 *wii4d*
 *win[0-9]*
 *winbet*

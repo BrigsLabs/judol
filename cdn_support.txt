@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 811
+# Number of entries: 822
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -71,6 +71,7 @@ api-3m2-ns2-4-default-rtdb.asia-southeast1.firebasedatabase.app
 api-3m4-2-80a0f-default-rtdb.firebaseio.com
 api-99gaming-live-1-default-rtdb.asia-southeast1.firebasedatabase.app
 api-99gaming-live-2-default-rtdb.firebaseio.com
+api-fortune-live-1-default-rtdb.asia-southeast1.firebasedatabase.app
 api-giga-ns2-1-default-rtdb.firebaseio.com
 api-giga2-ns3-1-default-rtdb.firebaseio.com
 api-giga4-ns2-default-rtdb.firebaseio.com
@@ -82,6 +83,7 @@ api-metawings-ns2-default-rtdb.firebaseio.com
 api-onix-ns2-live1-default-rtdb.firebaseio.com
 api-onix6-2-default-rtdb.firebaseio.com
 api-onix7-2-default-rtdb.firebaseio.com
+api-royal-live-1-default-rtdb.firebaseio.com
 api-royal-ns2-1-default-rtdb.firebaseio.com
 api-seo-1354997367.ap-southeast-1.elb.amazonaws.com
 api.cloud.mime.services
@@ -119,6 +121,7 @@ assetcsn.site # suspicious
 assetrtp.assetftpcanvas.com
 assets-global.website-files.com
 assets-vip.sfo2.cdn.digitaloceanspaces.com
+assetsbanner.sgp1.cdn.digitaloceanspaces.com
 aswransi.com
 ateamvan.com # hacked web
 atg88.atomgaming88images.com
@@ -133,6 +136,8 @@ ayodaftar.co
 b-cdn.net # mostly used in web # kill them all
 b-cdu.net # hacked web
 b1speed.info
+bacan4dofficial.wordpress.com
+bacan7.wordpress.com
 baccdn.com
 backend.gameswhitelabel.com
 baduitoto.sgp1.cdn.digitaloceanspaces.com
@@ -192,7 +197,6 @@ cdn.rek8k8.cloud
 cdn.robotsatelit.net
 cdn.store-assets.com
 cdn.susu-na-khap.com
-cdn.tbgroup.vip
 cdn.wgsources.com
 cdn1.epicgames.com
 cdn568.net
@@ -215,6 +219,7 @@ clk.sgp1.cdn.digitaloceanspaces.com
 cloud-assets.sgp1.cdn.digitaloceanspaces.com
 cloudcdnetw.com
 cloudinary.com
+coastalmarket.org # scam
 coderedtacos.com # hacked web
 computerhope.com
 cool-assets.sgp1.cdn.digitaloceanspaces.com
@@ -307,7 +312,7 @@ dxqm4i1swgb5o.cloudfront.net
 dz5xbhxy6sjp4.cloudfront.net
 dztwieyphe62d.cloudfront.net
 e39296.b.akamaiedge.net
-e39296.dscb.akamaiedge.net
+e39296.dscb.akamaiedge.net # may create false positive
 e39296.f.akamaiedge.net
 edcdesign.sgp1.digitaloceanspaces.com
 edge.api.flagsmith.com
@@ -465,6 +470,7 @@ jp-api.zoomwlb.com
 jp-api2.namesvr.dev
 jp-api2.namesvr.devl43fnw-1198-ppp.oss-accelerate.aliyuncs.com
 jpgsatset.com
+jstakecloud.link
 jurnal.univpgri-palembang.ac.id # hacked web
 kageru.site
 kaira-club.com # hacked web
@@ -475,6 +481,7 @@ kari-nih-ges.sgp1.digitaloceanspaces.com
 kaucengkia.atl1.cdn.digitaloceanspaces.com
 kaya787.dataklmsad902.site
 kaya787.dataklmsad903.site
+kerenbanget7.wordpress.com
 kesembilan.online
 khusus.nyc3.cdn.digitaloceanspaces.com
 kick.com
@@ -485,6 +492,7 @@ l0bs-tterr.k0llpst3r.net
 l43fnw-1198-ppp.oss-accelerate.aliyuncs.com
 l78img.sgp1.cdn.digitaloceanspaces.com
 lakewoodparkumc.org # hacked web
+lartisan-restaurant.com # hacked web : https://lartisan-restaurant.com/lunch-menu/
 laurelofleaves.com # hacked web
 layarnonton.com # malicious
 layarwibu.com
@@ -592,6 +600,7 @@ padangtoto1.wordpress.com
 padangtotoofficial.wordpress.com
 pafirogtoto.org
 pages.dev # mostly abused for dev web
+papacitan.site # scam # suspicious
 papitogel.sgp1.cdn.digitaloceanspaces.com
 pastisuksesterus.xyz
 patch.sdfbvsdfb44trbsts65y67xs6.xyz 
@@ -742,6 +751,8 @@ takenupload.com
 tamansejahtra.com
 tambangmu.com
 tasya51.wordpress.com
+tawk.to # may create false positive
+tbgroup.vip # subdom : cdn.tbgroup.vip tool.tbgroup.vip
 teamglobalasset.com
 tenissauconymexico.com.mx # hacked web
 terhubung.xyz # subdom : pot.terhubung.xyz big.terhubung.xyz

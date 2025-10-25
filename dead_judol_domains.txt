@@ -121,6 +121,9 @@ vorcen-reborn.b-cdn.net
 web-template77.b-cdn.net
 wew-biawakpoipetnih.b-cdn.net
 nikmati-perlahan.b-cdn.net
+api-fortune.seamlesss-hptech.com
+api-giga.seamlesss-hptech.com
+api-royal.seamlesss-hptech.com
 
 # from judol_domains.txt
 aloha4d.lucky-panel.xyz
@@ -399,6 +402,10 @@ yesmovies-4uj.pages.dev
 nny-m-100dollarartshow.pages.dev
 nny-m-esdoc2.pages.dev
 nny-web01-danicholls.pages.dev
+panda99-1f7.pages.dev
+ptsp-papacitan-777.pages.dev
+rtpzb.pages.dev
+weboteric.pages.dev
 
 # from cdn : *.r2.dev
 pub-01daae9cfed641489a104989d6c91115.r2.dev
