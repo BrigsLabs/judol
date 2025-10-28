@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 16944
+# Number of entries: 16952
 #
 #
 # medium.com # whitelist
@@ -803,6 +803,7 @@ altojpan.xyz
 altrajakera.site
 alttogelonline88.lol
 altwa.link
+altzb.pro
 aluepisang.desa.id
 alumnisma6.com # malicious backlink
 alwayshoki.link
@@ -3122,6 +3123,7 @@ connectionsguru.com
 connerandbuck.com
 connorgoodale.com
 consultrans.com
+continentalacc.org
 continentaltours.net
 control.ozsub.com
 coolbanget.info
@@ -5300,6 +5302,7 @@ h38.kakekjepe.info
 h9snwo6x3k6mzxffju8r.nw3-koi388.com
 habanero188-tergacor.xyz
 habitatwd.org
+hablajapones.org
 hackergorilla.online
 hackthefashion.com
 hadiahbansos.monster
@@ -9000,6 +9003,7 @@ mason.lgbt
 masonicdictionary.com
 masookkk.com
 maspanji.pro
+masslottery.com
 masstter38.org
 mastahweb.com
 mastaiwan.com
@@ -9217,6 +9221,7 @@ mejahokipanduanzona.shop
 mejahokirtpgacor.lat
 mejawd.it.com
 mekahpools.com
+mekongpools.net
 meksikoprize.com
 melastikbintang.com
 melbourne-livetoday.com
@@ -9697,6 +9702,7 @@ mw68hindia.xyz
 mw68menyala.xyz
 mw68pure.site
 mx2.homefabricsindia.com
+my-gun-f658d.web.app
 my.evertechit.com
 my1resourcecu.com
 my24mamak.com
@@ -16898,6 +16904,7 @@ zeus800a.xyz
 zeus8m.id
 zeusbo.la # cloaking
 zeusbolaresmi.net
+zeusbolawheel.site
 zeusgg.pro
 zeusto.to
 zeuswin88rtp3.xyz
@@ -16946,6 +16953,7 @@ zoom555put.yachts
 zoom555ratu.com
 zoomwithscott.co
 zrozumpsiakaikociaka.pl
+ztotoramai.store
 ztripae.com
 zukkiworks.com
 zurich-pools.com
