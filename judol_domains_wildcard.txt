@@ -128,6 +128,7 @@
 *blitar4d*
 *blu89*
 *bmx4d*
+*boba[0-9]*
 *bobo[0-9]*
 *bogemenyatu*
 *bola[0-9]*
@@ -726,8 +727,7 @@
 *rongtoto*
 *ronin86*
 *roratoto*
-*royal1000*
-*royal22*
+*royal[0-9]*
 *royalslot*
 *rp888*
 *rtp*

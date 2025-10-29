@@ -21,8 +21,8 @@ radarsulawesi.github.io
 rodanews.github.io 
 samudra-news.github.io 
 seputarterkini.github.io 
-siscaaw24.github.ionews 
-sonpramui.github.ionews 
+siscaaw24.github.io 
+sonpramui.github.io 
 sumeknews.github.io 
 theotrisna83.github.io 
 wgberitajaya.github.io 
@@ -124,6 +124,9 @@ nikmati-perlahan.b-cdn.net
 api-fortune.seamlesss-hptech.com
 api-giga.seamlesss-hptech.com
 api-royal.seamlesss-hptech.com
+p-info-bang.b-cdn.net
+royal188-hoki-poll.b-cdn.net
+ugstg.seamless-hptech.com
 
 # from judol_domains.txt
 aloha4d.lucky-panel.xyz
@@ -406,6 +409,10 @@ panda99-1f7.pages.dev
 ptsp-papacitan-777.pages.dev
 rtpzb.pages.dev
 weboteric.pages.dev
+perprima.pages.dev
+pub-888fdgjsdgujhoihdsff26ee4.pages.dev
+saya-kembali-pucuk4d.pages.dev
+talon-kikir.pages.dev
 
 # from cdn : *.r2.dev
 pub-01daae9cfed641489a104989d6c91115.r2.dev
@@ -495,4 +502,5 @@ pub-8d55a7dd0428441ea6689ed05bdc3b62.r2.dev
 pub-cf81064dc4c543db9b9a86041b22e528.r2.dev
 pub-8ead12854d79423e94901ec103ffa2dd.r2.dev
 pub-06f6a1761e7e47edaa63a07446d5dda9.r2.dev
+pub-c1c425d7a7474e7c880b6bd44b2aa4d0.r2.dev
 

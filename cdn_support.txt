@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 823
+# Number of entries: 832
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -105,6 +105,7 @@ app-a.ply-ldr-rfo6v4aqd6cqw84z.com
 app-imgstore.cc
 appsetup.yidaiyiluclub.com
 appsgeyser.com
+aquaflorya.com # hacked web : https://aquaflorya.com/Media/
 arcastudio.co.id # malicious backlink
 ardeobardeo.com # seo backlink
 areahoki.com
@@ -141,6 +142,7 @@ bacan7.wordpress.com
 baccdn.com
 backend.gameswhitelabel.com
 baduitoto.sgp1.cdn.digitaloceanspaces.com
+bajwapharma.com # hacked web : https://bajwapharma.com/antiepileptics/
 bakso-kojek-5k.sfo3.cdn.digitaloceanspaces.com
 bandar-jaya.com
 bangaset.s3.ap-southeast-1.amazonaws.com
@@ -335,9 +337,11 @@ fileku.cc
 filemu.cc
 findaspring.org # hacked web
 findingford.com # hacked web
+firebase-settings.crashlytics.com
 florensia-gacor.lon1.cdn.digitaloceanspaces.com
 fonts.cdnfonts.com
 foodforestcafe.com # hacked web
+forbidden-pet.vercel.app
 form.6mbr.com
 form.jotform.com # may create false positive
 forms.zohopublic.com
@@ -374,6 +378,7 @@ global-config-ug-default-rtdb.firebaseio.com
 global-configs-2-default-rtdb.asia-southeast1.firebasedatabase.app
 global-configs-default-rtdb.asia-southeast1.firebasedatabase.app
 global-server.net
+gobel.ink
 gomanagedit.com # hacked web
 greenbikefood.com # hacked web : https://greenbikefood.com/platters
 gso.kommo.com
@@ -392,6 +397,7 @@ hotelvillaveneta.com
 hslmantap.sgp1.cdn.digitaloceanspaces.com
 i.ibb.co
 i.ibb.co.com
+i.magecdn.com
 iaibali.org # suspicious
 idl-cdn.rika.online
 idl-socket.rika.online
@@ -459,6 +465,7 @@ istana2000.nsp2d.com
 jalurtelkom.net # scam
 jamepix.com
 jandamuda.cfd
+japaneseup.com # hacked web : https://japaneseup.com/learn-japanese-time/
 jaringbet-official.blogspot.com
 jasj.us
 jelajahyuk.id # scam
@@ -489,6 +496,7 @@ kick.com
 kokobread.com
 kumpulanfile.sgp1.digitaloceanspaces.com
 kumpulangambars.com
+kwellnessnyc.com # hacked web : https://kwellnessnyc.com/faq/
 l0bs-tterr.k0llpst3r.net
 l43fnw-1198-ppp.oss-accelerate.aliyuncs.com
 l78img.sgp1.cdn.digitaloceanspaces.com
@@ -606,6 +614,7 @@ papitogel.sgp1.cdn.digitaloceanspaces.com
 pastisuksesterus.xyz
 patch.sdfbvsdfb44trbsts65y67xs6.xyz 
 pdv.co.id # malicious backlink 
+peruinformation.org # hacked web : https://www.peruinformation.org/geography https://amp.peruinformation.org/kaostogel.html
 pg888pp.com
 photoin.io
 photoku.io
