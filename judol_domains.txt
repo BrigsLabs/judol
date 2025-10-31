@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 17013
+# Number of entries: 17037
 #
 #
 # medium.com # whitelist
@@ -1516,6 +1516,8 @@ bacaandoa.id
 bacain.com
 bacan4dcuan.quest
 bacan4devent.cyou
+bacan4dgampangcuan.xyz
+bacan4dhoki.click
 bacan4djuara.buzz
 bacan4dkeren.space
 bacan4dkota.space
@@ -1526,6 +1528,7 @@ bacan4dnusantara.homes
 bacan4dpgwin.online
 bacan4dpro.help
 bacan4dpurple.best
+bacan4dslot.com
 bacan4dspesial.homes
 bacan4dspesial.shop
 bacan4dsukses.pro
@@ -2524,6 +2527,7 @@ buktijptogel88.com
 buktijptomorobet.com
 buktijptribuntogel.com
 buktijpusahatoto.lol
+buktijvpkpk.com
 buktiliatogel.xyz
 buktims-jp.online
 buktinyata-tototogel.com
@@ -3337,6 +3341,7 @@ daftar.nagahoki88gacor.info
 daftaragen228.com
 daftarakang69.com
 daftarakun.co # suspicious
+daftarautojp.com
 daftarayam.online
 daftarbandar55.site
 daftarcnn.top
@@ -4227,6 +4232,7 @@ errorslot.xyz
 ertepekopi.store
 erthzayed.com
 ertpjitu.shop
+es.aogfoods.com
 es.solarbotics.net
 esacollections.com
 esaontherise.com
@@ -5048,9 +5054,11 @@ ggjudimaxwin.top
 ggjudimaxwinslot777.top
 ggjudiplay.top
 ggk.q8p.pro
+gglink.site # cloaking
 ggmtop.fun
 ggnews.id
 ggslot777maxwin.icu
+ggurl.ink # cloaking
 ghellerdermatology.com
 ghk1.top
 ghk5.top
@@ -6401,6 +6409,7 @@ jadipawang.com
 jadwalbola.pro
 jadwalbolaevo168.xyz
 jadwalmastogel.info
+jadwalpasarankap.com
 jadwalpasaranoje.com
 jafraitglobal.com
 jaga.com.sg
@@ -7530,8 +7539,10 @@ kpkbantal.com
 kpkbrau.com
 kpkcar.com
 kpkdan.com
+kpkfly.com # subdom : aviator.kpkfly.com
 kpkfox.com
 kpkgib.com
+kpktotoprediksigw.com
 kpktotoyura.com
 kppnmedan.id
 kpppratamamagelang.com
@@ -8112,6 +8123,8 @@ linkcuanterus77.mom
 linkcuanwin77.co
 linkdaftar.online
 linkdana33.com
+linkdentoto.org
+linkdentoto.vip
 linkdewacasino.online
 linkdpx.vip # cloaking
 linkfast.asia
@@ -8319,7 +8332,6 @@ login-ronin86.co
 login.bwnn7.com
 login.cenprotnacional.org.br
 login.cloudlocalisationblueprint.com
-login.maicho1b4kthi408.info # cloaking
 logincuan1.com
 logincuan2.com
 loginext.co
@@ -8744,7 +8756,7 @@ mahoni88.id
 mahoni88.net
 mahonirtp1.store
 mahoutsuk.ai
-maicho1b4kthi408.info # cloaking
+maicho1b4kthi408.info # subdom : login.maicho1b4kthi408.info # cloaking
 mail.amazingpics.net
 mail.arno.app
 mail.carproducts.biz
@@ -10052,6 +10064,7 @@ nitroplay.vip
 njikoka.an.gov.ng
 nkle.design
 nkqw22ro.rtpjpmania-slot.com
+nl.achelia.com
 nlcbplaywhelotto.com
 nlpai2024.org
 nncg.org
@@ -10139,6 +10152,7 @@ nsp2d.com
 nswebdizajn.com
 ntb-pools.com
 ntblottery.com
+ntp.gg # cloaking
 ntt-pools.com
 nttlottery.com
 nucim.org
@@ -11030,6 +11044,7 @@ pejuangskater.online
 pejuangsubur88.vip
 pejuangusd.click
 pekaranganbiru.com
+pekcamke-bokut.com # landing
 pelabuhantoto.online
 pelajarankelas.id
 pelangiqq.com
@@ -11658,6 +11673,7 @@ prediksiilmutoto.xyz
 prediksiindotogel.shop
 prediksijagocola.lol
 prediksijagotogel.com
+prediksikageka.com
 prediksikaostogel005.com
 prediksikelabuterang.com
 prediksikokitoto.org
@@ -11673,6 +11689,7 @@ prediksimugen.com
 prediksimwtt16.com
 prediksinetralbet.space
 prediksinolimitjitu.pro
+prediksinomortogel.net
 prediksinumberwak.com
 prediksiojolali.com
 prediksiolahanjitu.com
@@ -11785,6 +11802,7 @@ promominilaptop.com
 promoolb228.com
 promoolb228.sale
 promopagehon.com
+promopagek.com
 promopageojk.com
 promopohon4d.com
 promoredirect.me
@@ -11839,6 +11857,7 @@ pttogeltokyo.net
 pub.finance
 public.pg-demo.com
 public.victorrodrigues.com
+publichtml.it.com # hidden page
 pucuk138-alt.com # cloaking
 pucuk138.com
 pucuk138.it.com
@@ -12183,10 +12202,13 @@ rasa4d28.xyz
 rasa4d32.xyz
 rasa4d53.xyz
 rasa4d56.xyz
+rasa4d66.xyz
+rasa4dprediksi.com
 rasa4drtp25.xyz
 rasa4drtp33.xyz
 rasa4drtp38.xyz
 rasa4drtp40.xyz
+rasa4drtp42.xyz
 rasastar.site
 rasaujayasatu-desa.id
 rashakai.com
@@ -13157,6 +13179,7 @@ rtppm77.shop
 rtppos88.store
 rtppragmatic.xyz
 rtppragmatic2.xyz
+rtpprecisekpk.com
 rtppro8eta.site
 rtppusatkoin.cfd
 rtppusatkoin.quest
@@ -13936,6 +13959,7 @@ shrimpfestfl.com
 shrtnr.site
 shrtx.cc
 shrtx.cc # cloaking
+shrtxb4d.live # cloaking
 shrtxt4d.pro
 shruffo.fun
 shtaikun.com
@@ -16145,7 +16169,7 @@ vipsikat88.com
 vipsitegg66.lat
 viptokyo88.shop
 vipvalentina.inetglobal.com
-viralgratis.cc
+viral.rtpbcn.xyzviralgratis.cc
 vird.co
 virdsam.com
 virdsam.org

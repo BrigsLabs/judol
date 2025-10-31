@@ -28,8 +28,6 @@ theotrisna83.github.io
 wgberitajaya.github.io 
 
 # from cdn_support list, b-cdn.net seamless-hptech.com seamlesss-hptech.com
-api-lgoplay1b.seamlesss-hptech.com
-api-3mplay2-ns2.seamless-hptech.com
 1000-karma-baik.b-cdn.net
 active.b-cdn.net
 adakah-seratus-kawan.b-cdn.net
@@ -40,8 +38,11 @@ amdone.b-cdn.net
 api-3m2b.seamlesss-hptech.com
 api-3m4.seamlesss-hptech.com
 api-3mplay2-ns2-v2.seamless-hptech.com
+api-3mplay2-ns2.seamless-hptech.com
 api-99gaming.seamlesss-hptech.com
 api-eclipse-ns2.seamless-hptech.com
+api-fortune.seamlesss-hptech.com
+api-giga.seamlesss-hptech.com
 api-giga1b-ns2.seamless-hptech.com
 api-giga2-ns3.seamless-hptech.com
 api-giga2b-ns2.seamless-hptech.com
@@ -49,12 +50,14 @@ api-giga4-ns2.seamless-hptech.com
 api-giga4-ns3.seamless-hptech.com
 api-giga7-ns2.seamless-hptech.com
 api-kixplay-ns2.seamless-hptech.com
+api-lgoplay1b.seamlesss-hptech.com
 api-metawings-ns2.seamless-hptech.com
 api-onix4b.seamlesss-hptech.com
 api-onix5b.seamlesss-hptech.com
 api-onix6.seamlesss-hptech.com
 api-onix7.seamlesss-hptech.com
 api-royal-ns2.seamless-hptech.com
+api-royal.seamlesss-hptech.com
 api-skygaming2.seamlesss-hptech.com
 api3m.seamlesss-hptech.com
 apiace-v2.seamlesss-hptech.com
@@ -74,6 +77,7 @@ fastads.b-cdn.net
 fotogroup.b-cdn.net
 fresh-grad.b-cdn.net
 garuda-force.b-cdn.net
+hasonangan.b-cdn.net
 hmmm-hmmm.b-cdn.net
 idb77.b-cdn.net
 imagebank.b-cdn.net
@@ -82,7 +86,9 @@ imgkit.b-cdn.net
 iya-dech.b-cdn.net
 kaliiniuntukmusim.b-cdn.net
 kangen-lagi.b-cdn.net
+kaos-bangkit-lagi.b-cdn.net
 kaos-lai-liaw.b-cdn.net
+kaos-terbang.b-cdn.net
 kaya-dek-biar-ga-ditinggal-nikah.b-cdn.net
 kepanasan-yah-bang.b-cdn.net
 kgames.b-cdn.net
@@ -94,8 +100,10 @@ lotsoco.b-cdn.net
 lp-togel138.b-cdn.net
 mang-eak.b-cdn.net
 masbulo.b-cdn.net
+nikmati-perlahan.b-cdn.net
 official-link.b-cdn.net
 omt-gambar.b-cdn.net
+p-info-bang.b-cdn.net
 pak-de.b-cdn.net
 panjatrank1.b-cdn.net
 pasti-khi-liau-nih.b-cdn.net
@@ -107,6 +115,7 @@ prsd.b-cdn.net
 pushalert-main.b-cdn.net
 report-ddos-mati-mamakmu.b-cdn.net
 richard77.b-cdn.netrootaccess.b-cdn.net
+royal188-hoki-poll.b-cdn.net
 rtpcici4d12.b-cdn.net
 sab-oke.b-cdn.net
 sayangkurtpnyani.b-cdn.net
@@ -116,17 +125,11 @@ situs-nama-baik-slot-gacor.b-cdn.net
 terbang-dulu-lahhh.b-cdn.net
 this-what-time.b-cdn.net
 ticdigital.b-cdn.net
+ugstg.seamless-hptech.com
 vejatimon.b-cdn.net
 vorcen-reborn.b-cdn.net
 web-template77.b-cdn.net
 wew-biawakpoipetnih.b-cdn.net
-nikmati-perlahan.b-cdn.net
-api-fortune.seamlesss-hptech.com
-api-giga.seamlesss-hptech.com
-api-royal.seamlesss-hptech.com
-p-info-bang.b-cdn.net
-royal188-hoki-poll.b-cdn.net
-ugstg.seamless-hptech.com
 
 # from judol_domains.txt
 aloha4d.lucky-panel.xyz

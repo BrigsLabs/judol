@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 832
+# Number of entries: 834
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -137,6 +137,7 @@ ayodaftar.co
 b-cdn.net # mostly used in web # kill them all
 b-cdu.net # hacked web
 b1speed.info
+bacan4dblog.wordpress.com
 bacan4dofficial.wordpress.com
 bacan7.wordpress.com
 baccdn.com
@@ -643,6 +644,7 @@ protecer.org # hacked web
 public.pgsoft-games.com
 pulquemaniaeu.com # hacked web
 pwcplay.com # subdom : cdn.pwcplay.net assets.pwcplay.com
+qaoncloud.com # suspicious
 qdalplaylive.com
 qoopic.co
 qrishoki.com
