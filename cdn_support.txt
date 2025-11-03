@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 834
+# Number of entries: 838
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -184,6 +184,7 @@ cdn.bosluna.com
 cdn.bunkerkiamat.com
 cdn.databerjalan.com
 cdn.embed.ly
+cdn.gambaraku.io
 cdn.gambarsejarah.com
 cdn.globalcontentcloud.com
 cdn.hub88.io
@@ -469,6 +470,7 @@ jandamuda.cfd
 japaneseup.com # hacked web : https://japaneseup.com/learn-japanese-time/
 jaringbet-official.blogspot.com
 jasj.us
+jejakkeren.com # suspicious
 jelajahyuk.id # scam
 jlfafafa3.com
 jmm-net.com # hacked web : https://jmm-net.com/cocol88/
@@ -501,6 +503,7 @@ kwellnessnyc.com # hacked web : https://kwellnessnyc.com/faq/
 l0bs-tterr.k0llpst3r.net
 l43fnw-1198-ppp.oss-accelerate.aliyuncs.com
 l78img.sgp1.cdn.digitaloceanspaces.com
+lacasatequila.com # hacked web : https://lacasatequila.com/our-menu/
 lakewoodparkumc.org # hacked web
 lartisan-restaurant.com # hacked web : https://lartisan-restaurant.com/lunch-menu/
 laurelofleaves.com # hacked web
@@ -661,6 +664,7 @@ regalez-vous.farm
 renaimall.com
 res-odx.op-mobile.opera.com
 res.qqkwbase.net # apk
+ress.sgp1.cdn.digitaloceanspaces.com
 riskct.geetest.com
 robotaset.com
 rog-toto.tor1.cdn.digitaloceanspaces.com

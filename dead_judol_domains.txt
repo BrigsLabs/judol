@@ -130,6 +130,7 @@ vejatimon.b-cdn.net
 vorcen-reborn.b-cdn.net
 web-template77.b-cdn.net
 wew-biawakpoipetnih.b-cdn.net
+api-giga9-ns2.seamless-hptech.com
 
 # from judol_domains.txt
 aloha4d.lucky-panel.xyz
@@ -416,6 +417,7 @@ perprima.pages.dev
 pub-888fdgjsdgujhoihdsff26ee4.pages.dev
 saya-kembali-pucuk4d.pages.dev
 talon-kikir.pages.dev
+warung-depan-shreeassociates.pages.dev
 
 # from cdn : *.r2.dev
 pub-01daae9cfed641489a104989d6c91115.r2.dev

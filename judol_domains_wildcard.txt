@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1413
+# Number of entries: 1414
 # 
 # 
 # 
@@ -652,6 +652,7 @@
 *pilarplay[0-9]*
 *pin69*
 *pisangbet*
+*pisangtoto*
 *pisces[0-9]*
 *planet[0-9]*
 *platinumslot*
