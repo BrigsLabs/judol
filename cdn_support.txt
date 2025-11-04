@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 838
+# Number of entries: 846
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -40,6 +40,7 @@ a1211.dscr.akamai.net
 a1570.dscb.akamai.net
 a5cdn.com
 ab.da31889.com
+abcfiresafety.net # hacked web : https://abcfiresafety.net/blog/ https://abcfiresafety.net/testimonials/
 accallyhigingola.com
 aceh4dblog.wordpress.com
 acehmediacom.wordpress.com # suspicious
@@ -184,6 +185,7 @@ cdn.bosluna.com
 cdn.bunkerkiamat.com
 cdn.databerjalan.com
 cdn.embed.ly
+cdn.gambar.wiki
 cdn.gambaraku.io
 cdn.gambarsejarah.com
 cdn.globalcontentcloud.com
@@ -227,6 +229,7 @@ coastalmarket.org # scam
 coderedtacos.com # hacked web
 computerhope.com
 cool-assets.sgp1.cdn.digitaloceanspaces.com
+corporationfoodhall.com # hacked web : https://corporationfoodhall.com/about-us
 creeksidenursing.com # hacked web : https://creeksidenursing.com/san-antonio-north-nursing-and-care/ 
 crisp.chat
 d145yfon394ak6.cloudfront.net
@@ -358,6 +361,7 @@ galeri.cloud
 galerybanner.site
 gama69.sgp1.cdn.digitaloceanspaces.com
 gambar.store
+gambar.website
 gambar1.sgp1.cdn.digitaloceanspaces.com
 gambarcuy.online
 gambarin.site
@@ -374,6 +378,7 @@ ghoulfire.pro
 gifyu.com
 giga-live-1-default-rtdb.asia-southeast1.firebasedatabase.app
 giga-live-2-default-rtdb.asia-southeast1.firebasedatabase.app
+giga4-ns3-default-rtdb.asia-southeast1.firebasedatabase.app
 girizevermahal.com # hacked web : https://girizevermahal.com/about.html
 global-config-3m-1-default-rtdb.firebaseio.com
 global-config-ug-default-rtdb.firebaseio.com
@@ -385,6 +390,7 @@ gomanagedit.com # hacked web
 greenbikefood.com # hacked web : https://greenbikefood.com/platters
 gso.kommo.com
 h85cndf2moxnwjz.com
+harvelkitchen.sdcurtains.com # scam
 hbostatic.xyz
 helenafrithpowell.com
 hemmingways-bistro.com # hacked web : https://hemmingways-bistro.com/menu/
@@ -556,6 +562,7 @@ meyerweb.com
 mgapi2.lansn-model.com
 mgt.zhiwushui.com
 midme.xyz
+mikatoto.sgp1.digitaloceanspaces.com
 militia-watchdog.org
 mjitincorp.club
 mm3wrcjtz2ctcker.sgp1.cdn.digitaloceanspaces.com
@@ -620,6 +627,7 @@ patch.sdfbvsdfb44trbsts65y67xs6.xyz
 pdv.co.id # malicious backlink 
 peruinformation.org # hacked web : https://www.peruinformation.org/geography https://amp.peruinformation.org/kaostogel.html
 pg888pp.com
+pglchat.com # might false positive
 photoin.io
 photoku.io
 photosaya.io

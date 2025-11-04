@@ -131,6 +131,11 @@ vorcen-reborn.b-cdn.net
 web-template77.b-cdn.net
 wew-biawakpoipetnih.b-cdn.net
 api-giga9-ns2.seamless-hptech.com
+api-giga4-ns3.seamless-hptech.com
+slots777.b-cdn.net
+sto-rage.b-cdn.net
+cellceutix.b-cdn.net
+gemini-master.b-cdn.net
 
 # from judol_domains.txt
 aloha4d.lucky-panel.xyz
@@ -418,6 +423,10 @@ pub-888fdgjsdgujhoihdsff26ee4.pages.dev
 saya-kembali-pucuk4d.pages.dev
 talon-kikir.pages.dev
 warung-depan-shreeassociates.pages.dev
+asuusg-safety.pages.dev
+badai-pun-kita-terjang-v2.pages.dev
+heran-gw-liat-google.pages.dev
+mcr-goes-to-indo.pages.dev
 
 # from cdn : *.r2.dev
 pub-01daae9cfed641489a104989d6c91115.r2.dev
@@ -509,3 +518,12 @@ pub-8ead12854d79423e94901ec103ffa2dd.r2.dev
 pub-06f6a1761e7e47edaa63a07446d5dda9.r2.dev
 pub-c1c425d7a7474e7c880b6bd44b2aa4d0.r2.dev
 
+# from *.short.gy
+luckywish.short.gy 
+sniperkill.short.gy 
+lancarjaya.short.gy 
+akunresmi.short.gy 
+dc5f.short.gy 
+drch.short.gy 
+fu5z.short.gy
+dx4j.short.gy
