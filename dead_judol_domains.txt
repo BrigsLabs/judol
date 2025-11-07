@@ -427,6 +427,7 @@ asuusg-safety.pages.dev
 badai-pun-kita-terjang-v2.pages.dev
 heran-gw-liat-google.pages.dev
 mcr-goes-to-indo.pages.dev
+zoom-d89.pages.dev
 
 # from cdn : *.r2.dev
 pub-01daae9cfed641489a104989d6c91115.r2.dev
@@ -527,3 +528,4 @@ dc5f.short.gy
 drch.short.gy 
 fu5z.short.gy
 dx4j.short.gy
+4cqx.short.gy

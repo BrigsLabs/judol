@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 846
+# Number of entries: 847
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -847,6 +847,7 @@ yuk-wd.com
 zdataconnect.us
 zdataservices.us
 zfrmz.com
+zmobileservices.com
 zmobileservices.us
 มีความสุข.today
 # azurewebsite.net
