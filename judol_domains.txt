@@ -4,10 +4,11 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 17257
+# Number of entries: 17336
 #
 #
 # medium.com # whitelist
+
 01.datacuan.info
 01.panduanakong.info
 01.prediksiakong.info
@@ -39,13 +40,16 @@
 104beton138.com
 104salesgroup.info
 105beton138.com
+10789bet.org
 10e20.net # suspicious
+10ensemble.ca
 10kmagic.xyz
 10tokyo99.shop
 10xcareerlaunch.com
 11.promokvtotowin.pro
 111mars.com
 11335846wddwd.blog
+1171447.xyz
 11bolaong.info
 11wbet1d.top
 11wbet1q.top
@@ -58,8 +62,10 @@
 11wbetslot.net
 12.velocityengine.co
 120743.com
+123-hd.me
 123durgapuja.com
 123gosemar.info
+123hd.vip
 12shiototo.net
 12tokototo.shop
 13.prediksikvtotowin.pro
@@ -159,6 +165,7 @@
 3345.top
 35rtpslotsakura.xyz
 360junkies.com
+365freekredit.com
 365raja.poker
 365raja33.asia
 365slotrtp.info
@@ -179,6 +186,7 @@
 3dhokilinkout.xyz # cloaking
 3dolar508.com
 3dpdfconsortium.org
+3dtotalgames.com
 3hawai99.shop
 3istana.xyz
 3kauto.guru
@@ -266,9 +274,11 @@
 775-559q.xyz
 777gatesofolympus.org
 777ole.com
+77jili.website
 77rabbit1q.cc
 77rabbitq.vip
 77sor.site
+789335.com
 79uxqd0t8dq981edotm3.loginparis.com
 7cmobile.site
 7evenlucknew.life
@@ -517,6 +527,7 @@ africametro.com
 africanperspectives.wayamo.com
 afriscoop.net
 afriverse.xyz
+afsiam.info
 ag-r4.rtpag9.org
 ag-r5.rtpag9.org
 ag1-s4.spinterus.vip
@@ -678,6 +689,7 @@ akurat77b.org
 akurat77f.com
 akuratgacor.ink
 akusayangsamakamu.pro
+al-shia.com
 al-wlid.com
 al2.altoplay.xyz
 aladin138spin.click
@@ -1149,6 +1161,7 @@ apps.freshapp.top
 appslots888.com
 appszues.id
 aprendiendo.pecosa.pe
+apricathailand.com
 apricot.co.im
 aprilweng.com
 apsara.tv
@@ -1503,6 +1516,7 @@ b.totomalika.com
 b200mcuan.top
 b6d.menantugoogle.vip
 b77victorioussecret.com
+baan-series.org
 bababola.com
 bababolat.online
 babanew.online
@@ -1958,6 +1972,7 @@ bethoki303jos.pics
 betis.info
 betis777.com
 betis888.com
+betluckmak88.win
 betogel.icu
 betogel.life
 betogel.pw
@@ -2105,6 +2120,7 @@ bitkoin88.org
 bitofivoryphotography.com
 bitverifi.com
 bizkaiatalent.eus
+bj88th2.comid
 bkis.center
 bktoto.com
 blaccvanilla.com
@@ -2130,6 +2146,7 @@ blitar4dpusat.pro
 blitz168app.site
 blitzlabs.io
 blla52.com
+blm808.net
 blnrdr.store
 bloc145.com
 blockchaintalent.id
@@ -3557,6 +3574,7 @@ delcolockcodes.com
 deleonmetalwork.com
 delhiero.com
 delhiheights.net
+deliccorp.com
 delikun.com
 delimed-dz.com
 delitoto-amp.xyz
@@ -4660,6 +4678,7 @@ freebom.com
 freebooksplanet.com
 freeclinicofbraddock.org
 freekerangwin.us
+freekredit.my
 freelivescore.online
 freerotators.com # cloaking
 freespinbandungtoto.com
@@ -5063,6 +5082,7 @@ genialaujapon.com
 genoapools4d.com
 genome.cs.nthu.edu.tw
 gentedemar.co
+geocartography.com
 geofisicabrasil.com
 georgetownlottery.com
 geoturfusa.com
@@ -5336,6 +5356,7 @@ grupsenang.com
 gruptiger.com
 gs88royal.shop
 gsalonatl.com
+gsc88.fun
 gskgg88.xyz
 gso-oman.org
 gsr4d.com
@@ -5812,6 +5833,7 @@ huahinlottery.com
 huahinprize.com
 huainanpools.com
 huaweicore168.com
+huayhit88d.com
 hub.juste-debout.com
 hub.rtp-slott.info
 hubmkt.app.br
@@ -5871,6 +5893,9 @@ iancheibub.com
 iapbd.org
 iasoneestetica.es
 iatbr.org
+ibayar.co
+ibayar.live
+ibayar.net
 ibet899a.com
 ibet899ku.lat
 ibet899loe.lat
@@ -5916,6 +5941,8 @@ iconlabsofficial.com
 icpe2019.org
 icses2023.com
 icsme.org
+icuci88.xyz
+icuci88c.com
 id-dunia77.cyou
 id.bocorankatsu5.online
 id.lskatsu5.site
@@ -5950,6 +5977,9 @@ idrejeki808.site
 idrslot22.com
 idthunter.com
 idtmenang.shop
+iduit88.live
+iduit88b.com
+iduit88d.com
 idw88.fun
 idwin88.us
 ieltsspeakingtest.app
@@ -5961,6 +5991,8 @@ ig247slots.top
 ig247win.biz
 igamble247arenazona.fitness
 igamble24tujh.top
+igang88.com
+igang88.net
 igbobicollegeyaba.com
 igenbiolabgroup.com
 igm247boss.net
@@ -5971,6 +6003,9 @@ ihccs-inc.com
 iiai.bid
 iioonntogell.net
 iioonntogell.org
+ijaya88a.com
+ijaya88a.pro
+ijaya88b.com
 ijlass.org
 ijp88.biz
 ijp88.blog
@@ -5985,6 +6020,8 @@ ikanbakarasap.online
 ikanmars78.com
 ikatanperhotelan.id
 ikhee.xyz
+ikiss88.net
+ikiss88c.com
 ikut4df.pro
 ikut4dx.live
 ilidelhi.org
@@ -6019,6 +6056,9 @@ images.friendsquotes.com
 images.tokyo99.ink
 imagesks.com
 imajinasilangit.vip
+imaju88a.app
+imaju88a.com
+imaju88d.net
 imakifarm.com
 imaxintegral.com
 imbagcr-eropa.com
@@ -6026,6 +6066,12 @@ imbaslot.papakucintakupalingbesar.live
 imcceme.com
 imcpokeraman.com
 imcpokeraman.democrat
+imenang.co
+imenang.fun # hidden
+imenang.online
+imenang.site
+imenang.vip
+imenang88.online
 img.favoritelinks.tech
 img.gacors.vip
 imgakang.art
@@ -6333,10 +6379,19 @@ irantoto.id
 irc.iom.edu.np
 irgiberkahabadi.info
 iridiumdesigns.com
+iringgit99.live
+iringgit99.vip
+iringgit99.xyz
+iringgit99b.com
 irish-association.org
 irit4dhebat10.buzz
+iroyal88.com
+iroyal88a.com
 isabelwangpontoppidan.site
 isalbi.com
+isama88.net
+isama88a.com
+isama88c.com
 isar2024.com
 isaude.net
 isc-buktijp.com
@@ -6354,6 +6409,8 @@ iso777wd.net
 isolucky.xyz
 isotechltd.com
 isotexpty.com
+isport.fun
+isport3.net
 israelinnovationexpo.com
 israelsucks.org
 iss99.com
@@ -6444,6 +6501,9 @@ ivermectinitab.com
 ivorycoastpools.com
 iw.saputerbang.cc
 iw.viralgratis.cc
+iwallet9.app
+iwallet99d.com
+iwallet9a.com
 iwansukses.pro
 iwantogel5d.com
 iwantogel7.com
@@ -7454,6 +7514,7 @@ kingbogetoto.com
 kingceme.com
 kingdom-guarantee.com
 kingdom4dabang.com
+kingdom66n.com
 kingdomacung.com
 kingdompaito.info
 kinggacorweb.skin
@@ -7861,6 +7922,9 @@ lakutoto.co.uk
 lakutoto.com.au
 lakutoto.id
 lalaga88.xyz
+lalikabet168f.com
+lalikabet66g.com
+lalikabet88f.com
 lalocandadinonnaflo.com # cloaking
 lamaquinadeltiempo.com
 lamarcelina.com
@@ -8421,6 +8485,7 @@ lobbyroom88.com
 localcleric.co
 localpulse.net
 localsportsphotos.com
+lockdown168p.com
 lodicellardoor.com
 lodyn.net
 log.putarroda.store
@@ -9298,6 +9363,7 @@ mcplaster.com.au
 mcpstarboy.xyz
 mcpwq.org
 mctrollers.org
+mcuexchange.com
 mcw-malang.org
 md.kbbpartners.com
 mdg188.info
@@ -10562,9 +10628,11 @@ oobbrraa.com
 openenglish.net
 openpressltd.com
 openventio.org
+opera-usb.com
 operabola-rtp4.autos
 operarestoran.com
 operationbigblue.org
+opheliasplace.org
 oppkitchen.com
 opressrc.org
 opsa-help.saas.hp.com
@@ -10619,6 +10687,7 @@ oslopoolstoday.com
 osototo.dev
 osototopod.sbs
 osototoup.sbs
+ossass-stories.com
 osservatoriosuldoposisma.com
 osteocom.it
 ostervisi.com
@@ -10905,6 +10974,7 @@ pamanutama.com
 pamhowardhomes.com
 pampermefabulous.com
 panama4d.com
+panama8888c.com
 panamalottery.co
 panamalottery.net
 panamalotto.com
@@ -11382,6 +11452,7 @@ pictassetsb.xyz
 piecesstudio.us
 pierodicosimo.org
 pierre-markuse.net
+pigpgslots.org
 piklizint.com
 piktogel.pro
 pilar1001top.site
@@ -12176,6 +12247,7 @@ rabta.shop
 rabu.rtplive163.com
 racebridges.net
 racey.net
+rachelehphotography.com
 racik-198good.lol
 racik198-menyala.site
 racikan-198.store
@@ -14049,6 +14121,7 @@ sevillaforex.com
 sevillafutbolclubpr.com
 sewamaxcarehospital.com
 sewmesunshine.shop
+sexygame1688k.com
 sfur.st
 sfviewlounge.com
 sg45toto.com
@@ -14230,6 +14303,7 @@ simtiokthia.co
 sinarjepe102.cyou
 sinarjprtpmainlebihasik.ngahooterstour.com
 sinarlampung.co
+sinbet.co.com
 sineafoods.com
 sinergiaanimalindonesia.org
 sinetronvictory4dp.net
@@ -14563,6 +14637,7 @@ sob77web.sbs
 sobathakim.com
 sobatplayking88.net
 socalhandi.org
+soccerweblink.com # cloaking
 sochambery.com
 sochi-pools.com
 socialmediamarketing.eu.com
@@ -15530,6 +15605,7 @@ tibeterdogru.com
 tibetlottery.com
 tibyouth2019.com
 tiffanytaglephotography.com
+tifofootball.com
 tigapw.net
 tigatogel3.com
 tigatogel5.com
@@ -15885,6 +15961,7 @@ tribunpen.autos
 tribuntogel3d.com
 tribuntogeljitu.com
 trickslot.online
+tridentgroup.sa.com
 trijssenaar.nl
 trikagenolx.info # subdom : web22.trikagenolx.info web20.trikagenolx.info web12.trikagenolx.info
 trikjepepajak88.store
@@ -16048,6 +16125,7 @@ ueadubaipools.com
 ufabetrend.finance
 ufacity.info
 ufamadam.cn.com
+ufazeed17.com
 ufowatchtower.com
 ug111.my
 ug11play.com
@@ -16716,6 +16794,7 @@ web10.tipsagenolx.info
 web100.kylir.com
 web2.solarbotics.net
 webasialive88zona.directory
+webcrawlerjournals.org
 webdisk.abzoluteplumbing.com.au
 webdisk.firsttree.org
 webdisk.idelivr.in
@@ -17127,7 +17206,7 @@ youwet.com
 ypmdsangatta.id
 ypvets.net
 ypwcministries.org
-ysleggings.com
+ys-greenh.shopysleggings.com
 yt.9koipola.me
 ytl.pussy888.com
 ytwugynn9mzd94ck37yx.n69big.one

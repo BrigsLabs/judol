@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1416
+# Number of entries: 1429
 # 
 # 
 # 
@@ -318,17 +318,25 @@
 *hp-777*
 *hubtoto*
 *hws77*
+*ibayar*
 *iboslot*
 *ibox4d*
 *ibu4d*
+*icuci*
 *idmax*
 *idnsport*
 *idr[0-9]*
 *ids[0-9]*
+*iduit*
+*igang*
 *igm247*
 *iii4d*
+*ijaya*
+*ikiss*
 *ilmutoto*
 *ilucky*
+*imaju*
+*imenang*
 *indo[0-9]*
 *indobet*
 *indobit-[0-9]*
@@ -346,7 +354,11 @@
 *ip79*
 *ipar4d*
 *irantoto*
+*iringgit*
 *irit4d*
+*iroyal*
+*isama*
+*isport*
 *istana-gaming*
 *istana9[0-9]*
 *istanacasino*
@@ -355,6 +367,7 @@
 *istanascore*
 *iustoto*
 *iustott*
+*iwallet*
 *jackpot[0-9]*
 *jagat[0-9]*
 *jago[0-9]*
