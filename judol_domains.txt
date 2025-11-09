@@ -4,11 +4,10 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 17336
+# Number of entries: 17335
 #
 #
 # medium.com # whitelist
-
 01.datacuan.info
 01.panduanakong.info
 01.prediksiakong.info
@@ -2120,7 +2119,7 @@ bitkoin88.org
 bitofivoryphotography.com
 bitverifi.com
 bizkaiatalent.eus
-bj88th2.comid
+bj88th2.com
 bkis.center
 bktoto.com
 blaccvanilla.com
