@@ -136,6 +136,7 @@ slots777.b-cdn.net
 sto-rage.b-cdn.net
 cellceutix.b-cdn.net
 gemini-master.b-cdn.net
+olx-adl.b-cdn.net
 
 # from judol_domains.txt
 aloha4d.lucky-panel.xyz
