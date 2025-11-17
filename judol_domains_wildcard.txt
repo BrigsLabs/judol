@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1430
+# Number of entries: 1455
 # 
 # 
 # 
@@ -304,6 +304,7 @@
 *harum4d*
 *harumslot*
 *hebat[0-9]*
+*hero[0-9]*
 *herototo*
 *hijautoto*
 *hinototo*
@@ -401,6 +402,7 @@
 *juaraspin*
 *judi*
 *judol*
+*jun88*
 *jupiter1[0-9]*
 *jur[0-9]*
 *juragan[0-9]*
@@ -604,6 +606,7 @@
 *niastoto*
 *ninja96*
 *nobitabet*
+*nohu[0-9]*
 *nona88*
 *nono4d*
 *nova[0-9]*
@@ -733,6 +736,7 @@
 *rezekispin*
 *rgaqq[0-9]*
 *ria4d*
+*rikvip*
 *rimbatoto*
 *rjs138*
 *rogtoto*
@@ -902,6 +906,7 @@
 *unovegas*
 *up2000*
 *usahatoto*
+*usbet*
 *usstoto*
 *usstto*
 *ustotoo*
@@ -916,6 +921,7 @@
 *vgslot[0-9]*
 *victory[0-9]*
 *vikingtoto*
+*vin[0-9]*
 *violet4d*
 *violetslot*
 *vip4d*
@@ -925,6 +931,7 @@
 *vitamin88*
 *vivaslot[0-9]*
 *vivo4did*
+*vua99*
 *wahanaslot*
 *wahanatoto*
 *wak89*
@@ -975,27 +982,45 @@ cuanmewah.*
 dunialot*
 evo[0-9]*
 gamespool*
+go[0-9]*
 hadiahcuan.*
+hm88*
 ijp88*
 ixp88*
+j88*
 k86*
 kendi*
 koi*.com
 kpk*.com
 kumbang*
+lc88*
+mb88*
+mm88*
 mw68*
 nitroplay*
+ok365*
+okfun*
 on-[0-9]*
 on[0-9]*
 pafi*.org
 paki*.org
+pu88*
+rr88*
 ss88* 
 sungai*.com
 sungai*.in
+sv3[0-9]*
+tv88*
 twslive*
+u888*
 ug[0-9]*
 up[0-9]*
+uu88*
 vsa88bos.*
+ww88*
+xn88*
+xx88*
+zx88*
 # [a-z0-9\-_]*.example.com # block all sub *.example.com but pass top domain example.com
 [a-z0-9\-_]*.dodir.hr # 
 [a-z0-9\-_]*.gandum.co.id # at88.gandum.co.id c138.gandum.co.id cindototo.gandum.co.id j805.gandum.co.id m88.gandum.co.id prodak.gandum.co.id web.gandum.co.id
