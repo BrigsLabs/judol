@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 847
+# Number of entries: 848
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -370,6 +370,7 @@ gambarterkeren.xyz
 gamch.goel.edu.in # hacked web
 game-apk.s3.ap-northeast-1.amazonaws.com
 game.sfo2.digitaloceanspaces.com
+games.evolution.com
 gameslotimage.sgp1.cdn.digitaloceanspaces.com
 gate.continue.group
 gate.networkappcomm.com
