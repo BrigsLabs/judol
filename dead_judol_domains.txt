@@ -49,6 +49,7 @@ api-giga2b-ns2.seamless-hptech.com
 api-giga4-ns2.seamless-hptech.com
 api-giga4-ns3.seamless-hptech.com
 api-giga7-ns2.seamless-hptech.com
+api-giga9-ns2.seamless-hptech.com
 api-kixplay-ns2.seamless-hptech.com
 api-lgoplay1b.seamlesss-hptech.com
 api-metawings-ns2.seamless-hptech.com
@@ -67,6 +68,7 @@ bulan.b-cdn.net
 cabewin.b-cdn.net
 cabewin77.b-cdn.net
 cdndir.b-cdn.net
+cellceutix.b-cdn.net
 cindo.b-cdn.net
 dagelan4d-publisher.b-cdn.net
 dan-jika.b-cdn.net
@@ -77,6 +79,7 @@ fastads.b-cdn.net
 fotogroup.b-cdn.net
 fresh-grad.b-cdn.net
 garuda-force.b-cdn.net
+gemini-master.b-cdn.net
 hasonangan.b-cdn.net
 hmmm-hmmm.b-cdn.net
 idb77.b-cdn.net
@@ -102,6 +105,7 @@ mang-eak.b-cdn.net
 masbulo.b-cdn.net
 nikmati-perlahan.b-cdn.net
 official-link.b-cdn.net
+olx-adl.b-cdn.net
 omt-gambar.b-cdn.net
 p-info-bang.b-cdn.net
 pak-de.b-cdn.net
@@ -122,6 +126,8 @@ sayangkurtpnyani.b-cdn.net
 seo-ltl.b-cdn.net
 sg1wg.b-cdn.net
 situs-nama-baik-slot-gacor.b-cdn.net
+slots777.b-cdn.net
+sto-rage.b-cdn.net
 terbang-dulu-lahhh.b-cdn.net
 this-what-time.b-cdn.net
 ticdigital.b-cdn.net
@@ -130,13 +136,6 @@ vejatimon.b-cdn.net
 vorcen-reborn.b-cdn.net
 web-template77.b-cdn.net
 wew-biawakpoipetnih.b-cdn.net
-api-giga9-ns2.seamless-hptech.com
-api-giga4-ns3.seamless-hptech.com
-slots777.b-cdn.net
-sto-rage.b-cdn.net
-cellceutix.b-cdn.net
-gemini-master.b-cdn.net
-olx-adl.b-cdn.net
 
 # from judol_domains.txt
 aloha4d.lucky-panel.xyz
@@ -187,7 +186,9 @@ anoboytoto-gacor.pages.dev
 anoboytoto.pages.dev
 arcanism.pages.dev
 arya88slot.pages.dev
+asuusg-safety.pages.dev
 azkabet1234rtp-baru.pages.dev
+badai-pun-kita-terjang-v2.pages.dev
 baikal-research.pages.dev
 balicenter-1000.pages.dev
 bandar388-rtp.pages.dev
@@ -211,6 +212,7 @@ bulario.pages.dev
 buset-rtpninja002.pages.dev
 cal-pass.pages.dev
 calculator-parlay.pages.dev
+cambridgehub.pages.dev
 caradepositqris.pages.dev
 cekrtpbokaptoto.pages.dev
 cerofilas.pages.dev
@@ -247,6 +249,7 @@ grd-super.pages.dev
 gudang138ofc.pages.dev
 haikai.pages.dev
 harta-simpati.pages.dev
+heran-gw-liat-google.pages.dev
 himspeshawar.pages.dev
 ibu4d-rtp.pages.dev
 icccibfim.pages.dev
@@ -268,6 +271,7 @@ jornadaseconomicas-uccuyosl-edu-ar.pages.dev
 kalkulatort4d.pages.dev
 kapten808com.pages.dev
 kita-cobalagi-za.pages.dev
+kukiracupurupanyasuhu.pages.dev
 kungfu4d-rtp.pages.dev
 kungfu4d2-rtp.pages.dev
 landak-idm.pages.dev
@@ -292,6 +296,7 @@ mastronetlpo88.pages.dev
 mata-najwa-sihab.pages.dev
 maycokhi.pages.dev
 mclarenvale.pages.dev
+mcr-goes-to-indo.pages.dev
 meme4d-rtpslotgacor.pages.dev
 menubumi-bumicafe-go-international.pages.dev
 meriah4d-login.pages.dev
@@ -306,12 +311,16 @@ naiklamek.pages.dev
 new77-slotgacor-rtp.pages.dev
 ngecas-terus.pages.dev
 ngkfbads.pages.dev
+nny-m-100dollarartshow.pages.dev
+nny-m-esdoc2.pages.dev
+nny-web01-danicholls.pages.dev
 numbersneverdie.pages.dev
 offside-deff.pages.dev
 olitoplay.pages.dev
 omo77-2qn.pages.dev
 orashellorajoss.pages.dev
 p4n9k4t88.pages.dev
+panda99-1f7.pages.dev
 panenmainrtpslot.pages.dev
 pangerantoto-rtp.pages.dev
 pangerantoto2-rtp.pages.dev
@@ -320,6 +329,7 @@ pangerantoto4-rtp.pages.dev
 pasticuanbosku.pages.dev
 pedangtogel-cq0.pages.dev
 perbanyakcuan.pages.dev
+perprima.pages.dev
 polagacor-png.pages.dev
 polakumbang.pages.dev
 posgradoupea-edu-bo.pages.dev
@@ -327,6 +337,8 @@ privatepageone.pages.dev
 project-lembagatoto-mobile.pages.dev
 promomantraslot.pages.dev
 promosi-fiftoto.pages.dev
+ptsp-papacitan-777.pages.dev
+pub-888fdgjsdgujhoihdsff26ee4.pages.dev
 pusatbahasa.pages.dev
 qrismob.pages.dev
 qristanto.pages.dev
@@ -369,12 +381,16 @@ rtpslotnew-rtibuntogel.pages.dev
 rtpslottanggawin.pages.dev
 rtpsoju88-1.pages.dev
 rtpwaktogelplay.pages.dev
+rtpzb.pages.dev
 sakti-kalselprov.pages.dev
 sakurawin.linkofgod.pages.dev
+saya-kembali-pucuk4d.pages.dev
 sdnbre.pages.dev
 semzoom1.pages.dev
 sendaljepit.pages.dev
 seo-baru-1-minggu.pages.dev
+seobaruuu.pages.dev
+seojojoo.pages.dev
 serenitycorner-amp.pages.dev
 shadowmafiaoperationsnetwork.pages.dev
 shortlink-hotjitu-login.pages.dev
@@ -390,6 +406,7 @@ softsfiles.pages.dev
 solusi-terbaik-untuk-menang.pages.dev
 southkitchenrestaurant.pages.dev
 svobodnoe-propovedi.pages.dev
+talon-kikir.pages.dev
 target4d-seo.pages.dev
 target4duhuy.pages.dev
 teeviso.pages.dev
@@ -403,7 +420,9 @@ upcristo.pages.dev
 violet-top-one.pages.dev
 violetslot-go.pages.dev
 visabet88rtp.pages.dev
+warung-depan-shreeassociates.pages.dev
 webbiotech.pages.dev
+weboteric.pages.dev
 whatsappofficial.pages.dev
 wika.pages.dev
 winjitu-rtp-slot-gacor.pages.dev
@@ -412,22 +431,6 @@ xdewa-rtp.pages.dev
 xseounhide.pages.dev
 yatanokagami.pages.dev
 yesmovies-4uj.pages.dev
-nny-m-100dollarartshow.pages.dev
-nny-m-esdoc2.pages.dev
-nny-web01-danicholls.pages.dev
-panda99-1f7.pages.dev
-ptsp-papacitan-777.pages.dev
-rtpzb.pages.dev
-weboteric.pages.dev
-perprima.pages.dev
-pub-888fdgjsdgujhoihdsff26ee4.pages.dev
-saya-kembali-pucuk4d.pages.dev
-talon-kikir.pages.dev
-warung-depan-shreeassociates.pages.dev
-asuusg-safety.pages.dev
-badai-pun-kita-terjang-v2.pages.dev
-heran-gw-liat-google.pages.dev
-mcr-goes-to-indo.pages.dev
 zoom-d89.pages.dev
 
 # from cdn : *.r2.dev
@@ -521,12 +524,12 @@ pub-06f6a1761e7e47edaa63a07446d5dda9.r2.dev
 pub-c1c425d7a7474e7c880b6bd44b2aa4d0.r2.dev
 
 # from *.short.gy
-luckywish.short.gy 
-sniperkill.short.gy 
-lancarjaya.short.gy 
+4cqx.short.gy
 akunresmi.short.gy 
 dc5f.short.gy 
 drch.short.gy 
-fu5z.short.gy
 dx4j.short.gy
-4cqx.short.gy
+fu5z.short.gy
+lancarjaya.short.gy 
+luckywish.short.gy 
+sniperkill.short.gy 

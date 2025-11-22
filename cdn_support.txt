@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 848
+# Number of entries: 850
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -310,6 +310,7 @@ domain7264.wordpress.com
 downloads.blissroms.org # malicious
 dpw3m2v9dxyrl.cloudfront.net
 dr71dvn7kc6me.cloudfront.net
+drivehud.com
 dsbmedia.s3.ap-southeast-1.amazonaws.com
 dsuown9evwz4y.cloudfront.net
 dvbs75l69qv8d.cloudfront.net
@@ -323,6 +324,7 @@ e39296.dscb.akamaiedge.net # may create false positive
 e39296.f.akamaiedge.net
 edcdesign.sgp1.digitaloceanspaces.com
 edge.api.flagsmith.com
+egt-digital.com
 elejabaa.com # seo backlink
 enak.la
 entecomputer.com
