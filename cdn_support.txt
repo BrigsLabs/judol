@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 850
+# Number of entries: 852
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -322,6 +322,7 @@ dztwieyphe62d.cloudfront.net
 e39296.b.akamaiedge.net
 e39296.dscb.akamaiedge.net # may create false positive
 e39296.f.akamaiedge.net
+ecogra.org
 edcdesign.sgp1.digitaloceanspaces.com
 edge.api.flagsmith.com
 egt-digital.com
@@ -797,6 +798,7 @@ tokolontong.com
 toto188official.taplink.ws
 toxiclibs.org # landing
 tr8ngames.com
+traff-poland.net
 tranfertous.com
 trinetraeyecare.com # hacked web
 trustx.id/ # qris payment 
