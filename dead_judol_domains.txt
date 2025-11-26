@@ -75,6 +75,7 @@ dan-jika.b-cdn.net
 dikembalikan-sendiri-oleh-google.b-cdn.net
 doa-selalu-menyertai.b-cdn.net
 dont-play-play-with-sese.b-cdn.net
+dmca-images.b-cdn.net
 fastads.b-cdn.net
 fotogroup.b-cdn.net
 fresh-grad.b-cdn.net
@@ -136,6 +137,8 @@ vejatimon.b-cdn.net
 vorcen-reborn.b-cdn.net
 web-template77.b-cdn.net
 wew-biawakpoipetnih.b-cdn.net
+wiltoto-amp-v2.b-cdn.net
+wiltoto-vip-login.b-cdn.net
 
 # from judol_domains.txt
 aloha4d.lucky-panel.xyz
