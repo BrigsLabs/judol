@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 852
+# Number of entries: 855
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -678,7 +678,9 @@ res-odx.op-mobile.opera.com
 res.qqkwbase.net # apk
 ress.sgp1.cdn.digitaloceanspaces.com
 riskct.geetest.com
+robootassets.com
 robotaset.com
+robotcheap.com
 rog-toto.tor1.cdn.digitaloceanspaces.com
 roket1.sgp1.cdn.digitaloceanspaces.com
 roomangkakembar.blogspot.com
@@ -815,6 +817,7 @@ upload.wikimedia.org
 user-upload.aws-s3-r1r2str0bjx.sg-sin1.upcloudobjects.com
 usglobalasset.com
 verifyfrydextracts.com # hacked web
+vipgroup69.com # C2
 vm.homeleasyn.com
 voss-helmet.info
 vpn-app.s3.ap-southeast-3.amazonaws.com

@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1461
+# Number of entries: 1464
 # 
 # 
 # 
@@ -145,6 +145,7 @@
 *bosbet*
 *boshoki*
 *bosstoto*
+*botak[0-9]*
 *boxing[0-9]*
 *boytoto*
 *brandlokal*
@@ -401,6 +402,7 @@
 *jpbos4d*
 *jpmania*
 *jpyuk[0-9]*
+*jrgn69*
 *juaraspin*
 *judi*
 *judol*
@@ -780,6 +782,7 @@
 *sendok[0-9]*
 *senior4d*
 *senju33a*
+*sensa[0-9]*
 *sepuh*
 *seru[0-9]*
 *shibatoto*
