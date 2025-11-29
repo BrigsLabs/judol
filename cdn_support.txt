@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 855
+# Number of entries: 864
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -57,6 +57,7 @@ akundewaa.site
 alb-ipppw0c8ujq4ywp6eq.ap-southeast-1.alb.aliyuncs.com
 alcopay.com
 all-carousel.xyz # apk
+allstarschildrensdentist.com # hacked web : https://www.allstarschildrensdentist.com/teeth-grinding-children https://www.allstarschildrensdentist.com/contact
 alphabod.org
 amatic.com
 ambengine.com
@@ -392,17 +393,20 @@ global-server.net
 gobel.ink
 gomanagedit.com # hacked web
 greenbikefood.com # hacked web : https://greenbikefood.com/platters
+grup168.sgp1.digitaloceanspaces.com
 gso.kommo.com
 h85cndf2moxnwjz.com
 harvelkitchen.sdcurtains.com # scam
 hbostatic.xyz
 helenafrithpowell.com
 hemmingways-bistro.com # hacked web : https://hemmingways-bistro.com/menu/
+here-we-go.top
 hfaker.com
 hkbchat.com
 ho-bxry-com.k0llpst3r.org
 hokibagus.club
 hokijp168.mediamsg2.com
+hokiku.io # suspicious
 hostassets.online
 hosting-ampgsjp.site
 hotelvillaveneta.com
@@ -453,6 +457,7 @@ imgbox.com
 imgdate.com
 imgfire.art
 imghn.com
+imghwgroup.com
 imgku.io
 imgnxa.com
 imgnxb.com
@@ -689,6 +694,7 @@ rtp.sgp1.cdn.digitaloceanspaces.com
 rtpgacor419.pn.tc
 rtpkita.sgp1.cdn.digitaloceanspaces.com
 rtpmantap.sgp1.cdn.digitaloceanspaces.com
+rtpseru.s3.ap-southeast-2.amazonaws.com
 ruangkomunikasilc.com
 rujak.cc
 s1.kwai.net
@@ -713,6 +719,7 @@ selalusiap.site
 senyumterus.xyz
 seo268.vip
 seobangjago.sgp1.cdn.digitaloceanspaces.com
+serubet.s3.ap-southeast-2.amazonaws.com
 serunyaberbag.com
 serverkaos.com
 sga-cdn-hxg6b2d7ctb2c0eu.z02.azurefd.net
@@ -748,6 +755,8 @@ spaces-mtg.sgp1.cdn.digitaloceanspaces.com
 spaces-ptg.sgp1.cdn.digitaloceanspaces.com
 spaces-ptg.sgp1.digitaloceanspaces.com
 spaces-slg.sgp1.cdn.digitaloceanspaces.com
+spribe.co
+spribe.com
 srv1648-files.hstgr.io
 staging-9a793.firebaseapp.com
 starlink4d.sgp1.cdn.digitaloceanspaces.com

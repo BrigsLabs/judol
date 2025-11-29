@@ -139,6 +139,7 @@ web-template77.b-cdn.net
 wew-biawakpoipetnih.b-cdn.net
 wiltoto-amp-v2.b-cdn.net
 wiltoto-vip-login.b-cdn.net
+hp-slot-1.b-cdn.net
 
 # from judol_domains.txt
 aloha4d.lucky-panel.xyz
@@ -438,6 +439,7 @@ xseounhide.pages.dev
 yatanokagami.pages.dev
 yesmovies-4uj.pages.dev
 zoom-d89.pages.dev
+lapakapeljituhoki.pages.dev
 
 # from cdn : *.r2.dev
 pub-01daae9cfed641489a104989d6c91115.r2.dev
@@ -528,6 +530,7 @@ pub-cf81064dc4c543db9b9a86041b22e528.r2.dev
 pub-8ead12854d79423e94901ec103ffa2dd.r2.dev
 pub-06f6a1761e7e47edaa63a07446d5dda9.r2.dev
 pub-c1c425d7a7474e7c880b6bd44b2aa4d0.r2.dev
+pub-856f2293af19484a8368cf1ed1f80402.r2.dev
 
 # from *.short.gy
 4cqx.short.gy
