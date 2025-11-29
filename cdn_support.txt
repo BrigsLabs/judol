@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 864
+# Number of entries: 865
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -685,6 +685,7 @@ ress.sgp1.cdn.digitaloceanspaces.com
 riskct.geetest.com
 robootassets.com
 robotaset.com
+robotassets.com
 robotcheap.com
 rog-toto.tor1.cdn.digitaloceanspaces.com
 roket1.sgp1.cdn.digitaloceanspaces.com
