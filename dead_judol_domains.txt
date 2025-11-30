@@ -34,6 +34,8 @@ adakah-seratus-kawan.b-cdn.net
 afktotoamp.b-cdn.net
 agenolx06.b-cdn.net
 akun-terbaiq.b-cdn.net
+alt-img.b-cdn.net
+alximg.b-cdn.net
 amdone.b-cdn.net
 api-3m2b.seamlesss-hptech.com
 api-3m4.seamlesss-hptech.com
@@ -73,16 +75,18 @@ cindo.b-cdn.net
 dagelan4d-publisher.b-cdn.net
 dan-jika.b-cdn.net
 dikembalikan-sendiri-oleh-google.b-cdn.net
+dmca-images.b-cdn.net
 doa-selalu-menyertai.b-cdn.net
 dont-play-play-with-sese.b-cdn.net
-dmca-images.b-cdn.net
 fastads.b-cdn.net
 fotogroup.b-cdn.net
 fresh-grad.b-cdn.net
+gambar-lp.b-cdn.net
 garuda-force.b-cdn.net
 gemini-master.b-cdn.net
 hasonangan.b-cdn.net
 hmmm-hmmm.b-cdn.net
+hp-slot-1.b-cdn.net
 idb77.b-cdn.net
 imagebank.b-cdn.net
 img-source.b-cdn.net
@@ -139,7 +143,6 @@ web-template77.b-cdn.net
 wew-biawakpoipetnih.b-cdn.net
 wiltoto-amp-v2.b-cdn.net
 wiltoto-vip-login.b-cdn.net
-hp-slot-1.b-cdn.net
 
 # from judol_domains.txt
 aloha4d.lucky-panel.xyz
@@ -192,6 +195,7 @@ arcanism.pages.dev
 arya88slot.pages.dev
 asuusg-safety.pages.dev
 azkabet1234rtp-baru.pages.dev
+back-to-macau.pages.dev
 badai-pun-kita-terjang-v2.pages.dev
 baikal-research.pages.dev
 balicenter-1000.pages.dev
@@ -255,6 +259,7 @@ haikai.pages.dev
 harta-simpati.pages.dev
 heran-gw-liat-google.pages.dev
 himspeshawar.pages.dev
+hredeemerparish-kurohige.pages.dev
 ibu4d-rtp.pages.dev
 icccibfim.pages.dev
 idw168rtpgame.pages.dev
@@ -280,6 +285,7 @@ kukiracupurupanyasuhu.pages.dev
 kungfu4d-rtp.pages.dev
 kungfu4d2-rtp.pages.dev
 landak-idm.pages.dev
+lapakapeljituhoki.pages.dev
 ler-leicesterstudent.pages.dev
 linkgresiktotoaman.pages.dev
 linkinfortpcsowin.pages.dev
@@ -291,6 +297,7 @@ login-kuningtoto.pages.dev
 login-togel900.pages.dev
 logingacoremperor33.pages.dev
 lovya.pages.dev
+lupa-nama-ingat-alexistogel.pages.dev
 m-angelicsignature-com.pages.dev
 m-eltoncrego-com.pages.dev
 m-hoianahotels-com.pages.dev
@@ -439,7 +446,6 @@ xseounhide.pages.dev
 yatanokagami.pages.dev
 yesmovies-4uj.pages.dev
 zoom-d89.pages.dev
-lapakapeljituhoki.pages.dev
 
 # from cdn : *.r2.dev
 pub-01daae9cfed641489a104989d6c91115.r2.dev
@@ -531,6 +537,7 @@ pub-8ead12854d79423e94901ec103ffa2dd.r2.dev
 pub-06f6a1761e7e47edaa63a07446d5dda9.r2.dev
 pub-c1c425d7a7474e7c880b6bd44b2aa4d0.r2.dev
 pub-856f2293af19484a8368cf1ed1f80402.r2.dev
+pub-5cc63bd2696f43b9884a881addfd153a.r2.dev
 
 # from *.short.gy
 4cqx.short.gy

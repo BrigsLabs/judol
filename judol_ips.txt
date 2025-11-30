@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_ips.md5
 # Syntax: Active IP server with uncommon http port
-# Number of entries: 128
+# Number of entries: 129
 # 
 # 
 #
@@ -75,6 +75,7 @@
 162.0.227.145 # malicious hijack subdomain 
 162.240.208.239
 162.243.27.30
+167.172.67.223
 167.71.213.3
 167.71.31.212
 170.187.196.86 # admin web

@@ -4,16 +4,16 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 865
+# Number of entries: 870
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
 # static.vecteezy.com # whitelist
 # cdn.digitaloceanspaces.com # whitelist
-# sgp1.digitaloceanspaces.com # whitelist
 # images.ctfassets.net # whitelist
 # i.scdn.co # whitelist
 # cdn.datatables.net # whitelist
+# sgp1.digitaloceanspaces.com # whitelist
 1.bp.blogspot.com
 10fr4ame-b3stweeb.xyz
 18ea70d2d9a945cfb97d818ba71817dc.pacloudflare.com
@@ -102,6 +102,7 @@ apk-host.com
 apk-login-84719-default-rtdb.firebaseio.com
 apk.e-droid.net
 apk.hi11office.com # apk
+app-a.cdnlogic.net
 app-a.gm-ldr-82r2tndnuha5.com
 app-a.ply-ldr-rfo6v4aqd6cqw84z.com
 app-imgstore.cc
@@ -123,6 +124,7 @@ asset01.source-static.us
 assetcsn.site # suspicious
 assetrtp.assetftpcanvas.com
 assets-global.website-files.com
+assets-international.sgp1.cdn.digitaloceanspaces.com
 assets-vip.sfo2.cdn.digitaloceanspaces.com
 assetsbanner.sgp1.cdn.digitaloceanspaces.com
 aswransi.com
@@ -236,6 +238,7 @@ crisp.chat
 d145yfon394ak6.cloudfront.net
 d1ayxb9ooonjts.cloudfront.net
 d1bnhxh1olb98c.cloudfront.net
+d1mxxk684qj8r3.cloudfront.net
 d1r7v8bs1sf4js.cloudfront.net
 d1zjar5ju5ryim.cloudfront.net
 d24m60q82dzu8y.cloudfront.net
@@ -338,6 +341,7 @@ estate77media.com
 exito.my.id
 exp.boobsbymassage.com
 fargolandscape.com # hacked web
+fastqrisbb.com
 felixhospitals.com
 feritogel.sgp1.cdn.digitaloceanspaces.com
 fffiiillleee.com
@@ -642,6 +646,7 @@ photoku.io
 photosaya.io
 pict1.sgp1.cdn.digitaloceanspaces.com
 pictday.org
+pictstage.digital
 platforms3-yzw03img-0ejj3sb721.s3.ap-northeast-1.amazonaws.com
 playstarevent.com
 pmk.ac.id # scam
