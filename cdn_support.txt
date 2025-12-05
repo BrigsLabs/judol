@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 872
+# Number of entries: 876
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -448,7 +448,6 @@ img-cdngames.s3.amazonaws.com
 img.atomgaming88images.com
 img.cupr.us
 img.hotimg.com
-img.ligasumut.com
 img.lovepik.com
 img.nextgen.sg-sin1.upcloudobjects.com
 img.outsidefound.org
@@ -485,6 +484,7 @@ ip36.sgp1.cdn.digitaloceanspaces.com
 is3.cloudhost.id
 isak.co.uk # hacked web
 istana2000.nsp2d.com
+j8t62rp7.com
 jalurtelkom.net # scam
 jamepix.com
 jandamuda.cfd
@@ -498,6 +498,7 @@ jmm-net.com # hacked web : https://jmm-net.com/cocol88/
 joyopetir.blogspot.com
 jp-api.namesvr.dev
 jp-api.nexuswlb.com
+jp-api.wlcas999.com
 jp-api.zoomwlb.com
 jp-api2.namesvr.dev
 jp-api2.namesvr.devl43fnw-1198-ppp.oss-accelerate.aliyuncs.com
@@ -535,6 +536,7 @@ lfiles.s3.eu-west-2.amazonaws.com
 lh3-dz.googleusercontent.com
 license.gonative.io
 lido-white-label.firebaseio.com
+ligasumut.com # subdom : img.ligasumut.com source.ligasumut.com
 lilamericapdx.com # hacked web
 lineicons.com
 linkapk.org
@@ -757,7 +759,6 @@ smbstatic.sgp1.digitaloceanspaces.com
 snapy.photo
 sobajimakmur.com
 sohogroupblog.wordpress.com
-source.ligasumut.com
 spacerbucket.com
 spaces-mtg.sgp1.cdn.digitaloceanspaces.com
 spaces-ptg.sgp1.cdn.digitaloceanspaces.com
@@ -769,6 +770,7 @@ srv1648-files.hstgr.io
 staging-9a793.firebaseapp.com
 starlink4d.sgp1.cdn.digitaloceanspaces.com
 static-content.pro
+static.aptaptkaisjds.com
 static.augipt.com
 static.geevisit.com
 static.gwvkyk.com
@@ -801,6 +803,7 @@ tasya51.wordpress.com
 tawk.to # may create false positive
 tbgroup.vip # subdom : cdn.tbgroup.vip tool.tbgroup.vip
 teamglobalasset.com
+teenchallengeuc.org # hacked web : https://teenchallengeuc.org/contact/
 tenissauconymexico.com.mx # hacked web
 terhubung.xyz # subdom : pot.terhubung.xyz big.terhubung.xyz
 terla.lu
@@ -813,6 +816,7 @@ tiktakimage.shop
 tiktakspace.cc
 tinypic.host
 tmc-group.photos
+tmgaming.asia
 tokolontong.com
 toto188official.taplink.ws
 toxiclibs.org # landing

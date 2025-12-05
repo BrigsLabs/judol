@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1480
+# Number of entries: 1485
 # 
 # 
 # 
@@ -36,6 +36,7 @@
 *adam77*
 *afktoto*
 *agen[0-9]*
+*agenjitu*
 *agenolx*
 *agent[0-9]*
 *agentoto*
@@ -166,6 +167,7 @@
 *cahaya[0-9]*
 *candu[0-9]*
 *cantik[0-9]*
+*cari4d*
 *cashnet[0-9]*
 *cb88*
 *cemara[0-9]*
@@ -179,6 +181,7 @@
 *clickbet*
 *cobaivg*
 *cocaslot*
+*comototo*
 *cpo333*
 *cuan[0-9]*
 *cuanwin[0-9]*
@@ -258,6 +261,7 @@
 *gambling*
 *gamesgg*
 *ganas69*
+*ganesa[0-9]*
 *gap8*
 *garibet*
 *garuda[0-9]*
@@ -694,7 +698,6 @@
 *playking[0-9]*
 *playsgg*
 *poa[0-9]*
-*pocari4d*
 *pohon[0-9]*
 *poka[0-9]*
 *pokaslot*
@@ -779,8 +782,9 @@
 *sabi4d*
 *sableng[0-9]*
 *sabun[0-9]*
-*sabung50*
+*sabung[0-9]*
 *sabungayam*
+*sabungtoto*
 *sakautoto*
 *sakti[0-9]*
 *sakuratoto*
@@ -876,6 +880,7 @@
 *teslatoto*
 *texas88*
 *tiara-4d*
+*tiger[0-9]*
 *tiktok[0-9]*
 *timuna*
 *tkp[0-9]*

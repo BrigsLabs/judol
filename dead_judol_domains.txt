@@ -143,6 +143,8 @@ web-template77.b-cdn.net
 wew-biawakpoipetnih.b-cdn.net
 wiltoto-amp-v2.b-cdn.net
 wiltoto-vip-login.b-cdn.net
+mumon.b-cdn.net
+skyx.b-cdn.net
 
 # from judol_domains.txt
 aloha4d.lucky-panel.xyz
@@ -448,6 +450,9 @@ yesmovies-4uj.pages.dev
 zoom-d89.pages.dev
 projekdadakan.pages.dev
 8fb4a7e9.rtpkingslot96.pages.dev
+welcome-fightfight.pages.dev
+teenchallengeuc-kodack.pages.dev
+yangpastipasti.pages.dev
 
 # from cdn : *.r2.dev
 pub-01daae9cfed641489a104989d6c91115.r2.dev
