@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 876
+# Number of entries: 879
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -430,6 +430,7 @@ ifr.absolutepay.app
 ifr.ascentpay.net
 iframe.archopay.com
 iframe.oasisid.com
+iframe.oasisidn.com
 iili.io
 ilovenypizzadawsonville.com # hacked web : https://www.ilovenypizzadawsonville.com/menus/
 image-cdn.link
@@ -777,6 +778,7 @@ static.gwvkyk.com
 static.marsul.xyz
 static.nukeasset.com
 static.sameorigin.net
+static.vecteezy.com
 static.zdassets.com
 static1.squarespace.com
 statis-images.s3.ap-southeast-1.amazonaws.com
@@ -866,6 +868,7 @@ wtgplay.xyz # subdom : apk.wtgplay.xyz media.wtgplay.xyz
 x.it-cg.group
 xasia.me
 xemtinhay.com
+xenopay.id
 xjkknx.sgp1.cdn.digitaloceanspaces.com
 xn--u9jvhkcug1b2130h86sa.com
 xx1toto4.wordpress.com

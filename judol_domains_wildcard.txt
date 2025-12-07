@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1485
+# Number of entries: 1486
 # 
 # 
 # 
@@ -26,7 +26,6 @@
 *[0-9]raja*
 *[0-9]slot*
 *[0-9]sport*
-*[0-9]tokototo*
 *[0-9]toto*
 *[0-9]xsport*
 *aaa4d*
@@ -271,6 +270,7 @@
 *gaspol[0-9]*
 *gatotkaca[0-9]*
 *gatotwin*
+*gaul*
 *gawangtoto*
 *gbo[0-9]*
 *gc57*
@@ -541,6 +541,7 @@
 *mainslot*
 *malang4d*
 *maluku4d*
+*mamabet*
 *mamakslot*
 *mambawin*
 *mancing[0-9]*

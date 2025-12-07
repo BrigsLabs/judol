@@ -108,6 +108,8 @@ lotsoco.b-cdn.net
 lp-togel138.b-cdn.net
 mang-eak.b-cdn.net
 masbulo.b-cdn.net
+medytox-coretox.b-cdn.net
+mumon.b-cdn.net
 nikmati-perlahan.b-cdn.net
 official-link.b-cdn.net
 olx-adl.b-cdn.net
@@ -131,6 +133,7 @@ sayangkurtpnyani.b-cdn.net
 seo-ltl.b-cdn.net
 sg1wg.b-cdn.net
 situs-nama-baik-slot-gacor.b-cdn.net
+skyx.b-cdn.net
 slots777.b-cdn.net
 sto-rage.b-cdn.net
 terbang-dulu-lahhh.b-cdn.net
@@ -143,8 +146,6 @@ web-template77.b-cdn.net
 wew-biawakpoipetnih.b-cdn.net
 wiltoto-amp-v2.b-cdn.net
 wiltoto-vip-login.b-cdn.net
-mumon.b-cdn.net
-skyx.b-cdn.net
 
 # from judol_domains.txt
 aloha4d.lucky-panel.xyz
@@ -157,6 +158,7 @@ panel.lucky-dhx.live
 # from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
 3dhoki-boyercellars.pages.dev
 3dhoki-sahara.pages.dev
+8fb4a7e9.rtpkingslot96.pages.dev
 abutogel-newrtpslot.pages.dev
 acuitykit.pages.dev
 agent-bola-terpercaya.pages.dev
@@ -259,6 +261,7 @@ grd-super.pages.dev
 gudang138ofc.pages.dev
 haikai.pages.dev
 harta-simpati.pages.dev
+healthcareaccreditationresources.pages.dev
 heran-gw-liat-google.pages.dev
 himspeshawar.pages.dev
 hredeemerparish-kurohige.pages.dev
@@ -349,6 +352,7 @@ polakumbang.pages.dev
 posgradoupea-edu-bo.pages.dev
 privatepageone.pages.dev
 project-lembagatoto-mobile.pages.dev
+projekdadakan.pages.dev
 promomantraslot.pages.dev
 promosi-fiftoto.pages.dev
 ptsp-papacitan-777.pages.dev
@@ -425,6 +429,7 @@ svobodnoe-propovedi.pages.dev
 talon-kikir.pages.dev
 target4d-seo.pages.dev
 target4duhuy.pages.dev
+teenchallengeuc-kodack.pages.dev
 teeviso.pages.dev
 tertuliafest.pages.dev
 thestarsomerset.pages.dev
@@ -439,20 +444,17 @@ visabet88rtp.pages.dev
 warung-depan-shreeassociates.pages.dev
 webbiotech.pages.dev
 weboteric.pages.dev
+welcome-fightfight.pages.dev
 whatsappofficial.pages.dev
 wika.pages.dev
 winjitu-rtp-slot-gacor.pages.dev
 writingiscakepapua.pages.dev
 xdewa-rtp.pages.dev
 xseounhide.pages.dev
+yangpastipasti.pages.dev
 yatanokagami.pages.dev
 yesmovies-4uj.pages.dev
 zoom-d89.pages.dev
-projekdadakan.pages.dev
-8fb4a7e9.rtpkingslot96.pages.dev
-welcome-fightfight.pages.dev
-teenchallengeuc-kodack.pages.dev
-yangpastipasti.pages.dev
 
 # from cdn : *.r2.dev
 pub-01daae9cfed641489a104989d6c91115.r2.dev
