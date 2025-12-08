@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1486
+# Number of entries: 1488
 # 
 # 
 # 
@@ -48,6 +48,7 @@
 *akong*
 *akurat[0-9]*
 *alamjp*
+*alba[0-9]*
 *albaslot*
 *alexis*
 *alfabet[0-9]*
@@ -714,6 +715,7 @@
 *pososlot*
 *posototo*
 *prada55*
+*pragmatic*
 *prediksi*
 *preman*
 *primerplay*

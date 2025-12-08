@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 879
+# Number of entries: 880
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -290,7 +290,6 @@ desaterbaik.com
 designku.io
 detikslot.clouderbase.com
 devsuperteam.com
-dewab2b.s3.amazonaws.com
 dfdo5rwtdmzk0.cloudfront.net
 dfiz23mj879i2.cloudfront.net
 dh4oiqg45nvw7.cloudfront.net
@@ -445,7 +444,6 @@ images4.imagebam.com
 imageshare.click
 imagestaticcontent.com
 imagme.com
-img-cdngames.s3.amazonaws.com
 img.atomgaming88images.com
 img.cupr.us
 img.hotimg.com
@@ -474,6 +472,7 @@ imgsaya3.io
 imgsaya4.io
 imgstack.net
 imgstore.io
+imgstore.org
 imgtop.io
 imgumk.online
 imgzm.com
@@ -716,6 +715,8 @@ s21-def.ks-la.net
 s3-ap-southeast-1.amazonaws.com
 s3-r-w.ap-northeast-1.amazonaws.com
 s3-r-w.ap-southeast-1.amazonaws.com
+s3.amazonaws.com # subdom : img-cdngames.s3.amazonaws.com dewab2b.s3.amazonaws.com
+s3.us-east-1.amazonaws.com
 samuelkigelman.com # hacked web
 savegambar.com
 sayursawi.xyz
