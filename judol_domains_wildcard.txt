@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1488
+# Number of entries: 1493
 # 
 # 
 # 
@@ -324,6 +324,8 @@
 *hokijp[0-9]*
 *hokirtp[0-9]*
 *hokislot[0-9]*
+*hong[0-9]*
+*hongbet*
 *horas88*
 *horus[0-9]*
 *hotelbet*
@@ -550,7 +552,9 @@
 *manobet*
 *mansionsku[0-9]*
 *mantap[0-9]*
+*mantra[0-9]*
 *mantraslot*
+*mantratoto*
 *manut[0-9]*
 *marontoto*
 *mars[0-9]*
@@ -687,6 +691,7 @@
 *permen4d*
 *peso138*
 *pesona[0-9]*
+*petanitoto*
 *petir[0-9]*
 *pewe[0-9]*
 *pilarplay[0-9]*

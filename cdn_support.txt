@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 880
+# Number of entries: 886
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -230,6 +230,7 @@ cloudcdnetw.com
 cloudinary.com
 coastalmarket.org # scam
 coderedtacos.com # hacked web
+common-static.ppgames.net
 computerhope.com
 cool-assets.sgp1.cdn.digitaloceanspaces.com
 corporationfoodhall.com # hacked web : https://corporationfoodhall.com/about-us
@@ -262,6 +263,7 @@ d32jers.com
 d33egg70nrp50s.cloudfront.net
 d346e5v8wxznq7.cloudfront.net
 d35uxhjf90umnp.cloudfront.net
+d36deirv5kp4uh.cloudfront.net
 d36i6r7ov1g766.cloudfront.net
 d37kf7rs4g1hyv.cloudfront.net
 d39ezjiev2gct0.cloudfront.net
@@ -433,6 +435,7 @@ iframe.oasisidn.com
 iili.io
 ilovenypizzadawsonville.com # hacked web : https://www.ilovenypizzadawsonville.com/menus/
 image-cdn.link
+image.apkstaticcontent.com
 image777.sgp1.cdn.digitaloceanspaces.com
 imagedel.com
 imagekoi.io
@@ -563,6 +566,7 @@ lumpiagoreng.xyz
 m-g.io
 m.ozzogame.com
 m1cdn.com
+mantratt.sgp1.cdn.digitaloceanspaces.com
 maraset.site # CDN
 marinecorp.xyz
 market-online.wiki
@@ -637,6 +641,7 @@ padangtoto1.wordpress.com
 padangtotoofficial.wordpress.com
 pafirogtoto.org
 pages.dev # mostly abused for dev web
+paneltki.info
 papacitan.site # scam # suspicious
 papitogel.sgp1.cdn.digitaloceanspaces.com
 pastisuksesterus.xyz
@@ -826,6 +831,7 @@ toxiclibs.org # landing
 tr8ngames.com
 traff-poland.net
 tranfertous.com
+transcend-cdn.com
 trinetraeyecare.com # hacked web
 trustx.id/ # qris payment 
 tulumlatingastropubmke.com # hacked web : https://www.tulumlatingastropubmke.com/menus
