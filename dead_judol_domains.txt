@@ -29,6 +29,7 @@ wgberitajaya.github.io
 
 # from cdn_support list, b-cdn.net seamless-hptech.com seamlesss-hptech.com
 1000-karma-baik.b-cdn.net
+3cb846e8b88f43a75848.b-cdn.net
 active.b-cdn.net
 adakah-seratus-kawan.b-cdn.net
 afktotoamp.b-cdn.net
@@ -371,6 +372,7 @@ resultsgp.pages.dev
 rikhania.pages.dev
 rizkynadiateknik.pages.dev
 room-amp-62g.pages.dev
+rotunaje.pages.dev
 royalslot-resmi.pages.dev
 rto-new77-terbaru.pages.dev
 rtp-bayam89-v3.pages.dev
@@ -408,6 +410,7 @@ saya-kembali-pucuk4d.pages.dev
 sdnbre.pages.dev
 semzoom1.pages.dev
 sendaljepit.pages.dev
+sensa88.pages.dev
 seo-baru-1-minggu.pages.dev
 seobaruuu.pages.dev
 seojojoo.pages.dev

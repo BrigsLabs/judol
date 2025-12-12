@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 886
+# Number of entries: 912
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -21,6 +21,7 @@
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 2fr4me-my4web.site
 3.bp.blogspot.com
+3400efa8-fd32-44eb-b743-12ffd5b0fb26.seals.dlagglobal.com
 4.bp.blogspot.com
 4n76bph80j.gbgfstie.biz
 66555.xyz
@@ -90,12 +91,14 @@ api-royal-ns2-1-default-rtdb.firebaseio.com
 api-seo-1354997367.ap-southeast-1.elb.amazonaws.com
 api.cloud.mime.services
 api.freshapp.top
+api.noproky.net
 api.scorebat.com
 apionix-7-default-rtdb.firebaseio.com
 apionix3-3-default-rtdb.asia-southeast1.firebasedatabase.app
 apionix4-3-default-rtdb.firebaseio.com
 apionix5-1-default-rtdb.firebaseio.com
 apisky-2-1-default-rtdb.firebaseio.com
+apivx.asgard-bifrost.com
 apk-bank.s3.ap-southeast-1.amazonaws.com
 apk-depot.s3.ap-northeast-1.amazonaws.com
 apk-host.com
@@ -198,6 +201,7 @@ cdn.it-cg.group
 cdn.jp-punya.top
 cdn.linkgasih.com
 cdn.mixlink.top
+cdn.passwordless.dev
 cdn.pn.tc
 cdn.projectapp.dev
 cdn.rawgit.com
@@ -207,6 +211,7 @@ cdn.robotsatelit.net
 cdn.store-assets.com
 cdn.susu-na-khap.com
 cdn.wgsources.com
+cdn.zabbet.com
 cdn1.epicgames.com
 cdn568.net
 cdncode.org
@@ -243,6 +248,7 @@ d1mxxk684qj8r3.cloudfront.net
 d1r7v8bs1sf4js.cloudfront.net
 d1zjar5ju5ryim.cloudfront.net
 d24m60q82dzu8y.cloudfront.net
+d2543yds26m4tl.cloudfront.net
 d28h3jm4r3crf8.cloudfront.net
 d290ny10omyv12.cloudfront.net
 d2f3dnusg0rbp7.cloudfront.net
@@ -310,9 +316,11 @@ dl.leigong.net
 dl.whfdckfzzdl.com
 dl.zhenwudadi.net
 dlmxz0etq5yy6.cloudfront.net
+dlportal.good-game-service.com
 dmwl0ca1bvnm.cloudfront.net
 dog-lilicos.com # hacked web
 domain7264.wordpress.com
+download.gg-global-cdn.com # apk
 downloads.blissroms.org # malicious
 dpw3m2v9dxyrl.cloudfront.net
 dr71dvn7kc6me.cloudfront.net
@@ -320,6 +328,7 @@ drivehud.com
 dsbmedia.s3.ap-southeast-1.amazonaws.com
 dsuown9evwz4y.cloudfront.net
 dvbs75l69qv8d.cloudfront.net
+dw.gp2play.com
 dwlink.skystarbiru.com
 dwnldapk.sgp1.cdn.digitaloceanspaces.com
 dxqm4i1swgb5o.cloudfront.net
@@ -331,9 +340,11 @@ e39296.f.akamaiedge.net
 ecogra.org
 edcdesign.sgp1.digitaloceanspaces.com
 edge.api.flagsmith.com
+eghsuc4vt3.execute-api.us-east-1.amazonaws.com
 egt-digital.com
 elejabaa.com # seo backlink
 enak.la
+enderocean.com
 entecomputer.com
 entry.gyeitee.com
 entry.nuanmokeji.com
@@ -379,7 +390,9 @@ gambarku.art
 gambarterkeren.xyz
 gamch.goel.edu.in # hacked web
 game-apk.s3.ap-northeast-1.amazonaws.com
+game.gp2play.com
 game.sfo2.digitaloceanspaces.com
+gameplayint.com
 games.evolution.com
 gameslotimage.sgp1.cdn.digitaloceanspaces.com
 gate.continue.group
@@ -408,6 +421,7 @@ helenafrithpowell.com
 hemmingways-bistro.com # hacked web : https://hemmingways-bistro.com/menu/
 here-we-go.top
 hfaker.com
+hk.aishengji.com
 hkbchat.com
 ho-bxry-com.k0llpst3r.org
 hokibagus.club
@@ -480,6 +494,8 @@ imgtop.io
 imgumk.online
 imgzm.com
 immortalseo.1b2u.asia
+incap-dw.ipcapsula.com
+infinityteam.sgp1.cdn.digitaloceanspaces.com
 ios88app.com
 ip104.sgp1.cdn.digitaloceanspaces.com
 ip188baru.sgp1.cdn.digitaloceanspaces.com
@@ -660,6 +676,7 @@ platforms3-yzw03img-0ejj3sb721.s3.ap-northeast-1.amazonaws.com
 playstarevent.com
 pmk.ac.id # scam
 png999.com
+pnimg.asgard-bifrost.com
 pokerace-bb5be.firebaseio.com
 pol-ka.com # hacked web : https://pol-ka.com/bosswin/
 pomf2.lain.la
@@ -678,6 +695,7 @@ protecer.org # hacked web
 public.pgsoft-games.com
 pulquemaniaeu.com # hacked web
 pwcplay.com # subdom : cdn.pwcplay.net assets.pwcplay.com
+pxuoou8.x.incapdns.net
 qaoncloud.com # suspicious
 qdalplaylive.com
 qoopic.co
@@ -697,6 +715,7 @@ res-odx.op-mobile.opera.com
 res.qqkwbase.net # apk
 ress.sgp1.cdn.digitaloceanspaces.com
 riskct.geetest.com
+rj7na3gx.cndns.digicentre.com
 robootassets.com
 robotaset.com
 robotassets.com
@@ -704,6 +723,7 @@ robotcheap.com
 rog-toto.tor1.cdn.digitaloceanspaces.com
 roket1.sgp1.cdn.digitaloceanspaces.com
 roomangkakembar.blogspot.com
+royaleapi.sealintg.net
 rp888aabb.com
 rtp.sgp1.cdn.digitaloceanspaces.com
 rtpgacor419.pn.tc
@@ -774,9 +794,12 @@ spaces-slg.sgp1.cdn.digitaloceanspaces.com
 spribe.co
 spribe.com
 srv1648-files.hstgr.io
+ssl.gg-global-cdn.com
 staging-9a793.firebaseapp.com
 starlink4d.sgp1.cdn.digitaloceanspaces.com
 static-content.pro
+static-global.asgard-bifrost.com
+static-id.asgard-bifrost.com
 static.aptaptkaisjds.com
 static.augipt.com
 static.geevisit.com
@@ -839,6 +862,7 @@ turbokolor.com # hacked web
 uaim.edu.mx # hacked web
 ucarecdn.com
 ug-meoh-pub.cloudassets.online
+umeng.com
 untidy-robin-production.up.railway.app
 uoaeiz3recbrojp76imxpthfemovjaxecjudzg8wytc.bithe.net
 updatechecker3-14ecc.firebaseio.com
@@ -883,6 +907,8 @@ y2cdn.com
 yellowbirdcoffeehouse.com # hacked web
 yogaretreatguatemala.com # hacked web
 yuk-wd.com
+zakw1rog.drhk.loveota.com
+zakw1rog.dshk.loveota.com
 zdataconnect.us
 zdataservices.us
 zfrmz.com
