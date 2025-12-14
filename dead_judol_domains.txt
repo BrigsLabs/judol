@@ -147,6 +147,7 @@ web-template77.b-cdn.net
 wew-biawakpoipetnih.b-cdn.net
 wiltoto-amp-v2.b-cdn.net
 wiltoto-vip-login.b-cdn.net
+amp-oct.b-cdn.net
 
 # from judol_domains.txt
 aloha4d.lucky-panel.xyz

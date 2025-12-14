@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 912
+# Number of entries: 921
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -109,6 +109,7 @@ app-a.cdnlogic.net
 app-a.gm-ldr-82r2tndnuha5.com
 app-a.ply-ldr-rfo6v4aqd6cqw84z.com
 app-imgstore.cc
+app.galaxyworld999.com
 appsetup.yidaiyiluclub.com
 appsgeyser.com
 aquaflorya.com # hacked web : https://aquaflorya.com/Media/
@@ -119,6 +120,7 @@ aryagames.com # subdom : internal.aryagames.com member.aryagames.com
 ascendercorp.com
 asdfcasa.com
 asetkadek.s3.ap-southeast-2.amazonaws.com
+asia99.jawirr.workers.dev
 asiasigma-assets.sgp1.cdn.digitaloceanspaces.com
 asiasigma.sgp1.cdn.digitaloceanspaces.com
 asset-arw.xyz
@@ -244,6 +246,7 @@ crisp.chat
 d145yfon394ak6.cloudfront.net
 d1ayxb9ooonjts.cloudfront.net
 d1bnhxh1olb98c.cloudfront.net
+d1j3dnvd81uy9o.cloudfront.net
 d1mxxk684qj8r3.cloudfront.net
 d1r7v8bs1sf4js.cloudfront.net
 d1zjar5ju5ryim.cloudfront.net
@@ -268,6 +271,7 @@ d30xzloyu3qfm5.cloudfront.net
 d32jers.com
 d33egg70nrp50s.cloudfront.net
 d346e5v8wxznq7.cloudfront.net
+d34r1ocksf8dx3.cloudfront.net
 d35uxhjf90umnp.cloudfront.net
 d36deirv5kp4uh.cloudfront.net
 d36i6r7ov1g766.cloudfront.net
@@ -429,6 +433,7 @@ hokijp168.mediamsg2.com
 hokiku.io # suspicious
 hostassets.online
 hosting-ampgsjp.site
+hotelinternationalrhodes.amanbos.workers.dev
 hotelvillaveneta.com
 hslmantap.sgp1.cdn.digitaloceanspaces.com
 i.ibb.co
@@ -533,6 +538,7 @@ kari-nih-ges.sgp1.digitaloceanspaces.com
 kaucengkia.atl1.cdn.digitaloceanspaces.com
 kaya787.dataklmsad902.site
 kaya787.dataklmsad903.site
+kejurtps.master-138group.workers.dev
 kerenbanget7.wordpress.com
 kesembilan.online
 khusus.nyc3.cdn.digitaloceanspaces.com
@@ -708,6 +714,7 @@ r2.dev # all subdom link move to deadlist
 rabanimage.io
 radartulungagung.co.id # malicious backlink
 rajabandot.sgp1.cdn.digitaloceanspaces.com
+rashakai.sijago88.workers.dev
 recamweek.com
 regalez-vous.farm
 renaimall.com
@@ -802,11 +809,13 @@ static-global.asgard-bifrost.com
 static-id.asgard-bifrost.com
 static.aptaptkaisjds.com
 static.augipt.com
+static.cuanterus.net
 static.geevisit.com
 static.gwvkyk.com
 static.marsul.xyz
 static.nukeasset.com
 static.sameorigin.net
+static.stylecontent.xyz
 static.vecteezy.com
 static.zdassets.com
 static1.squarespace.com

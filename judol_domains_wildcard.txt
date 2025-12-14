@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1495
+# Number of entries: 1498
 # 
 # 
 # 
@@ -13,7 +13,6 @@
 *3rp[0-9]*
 *4d.com
 *788*
-*7win*
 *888rp*
 *9koi*
 *[0-9]bet*
@@ -58,6 +57,7 @@
 *amanbos*
 *amavi[0-9]*
 *amdbet*
+*amerikatoto*
 *angkanet4d*
 *angkasa[0-9]*
 *angkot88*
@@ -185,7 +185,6 @@
 *comototo*
 *cpo333*
 *cuan[0-9]*
-*cuanwin[0-9]*
 *dado88*
 *daduku*
 *daduukuu*
@@ -318,6 +317,7 @@
 *harumslot*
 *hebat[0-9]*
 *hero[0-9]*
+*heroslot*
 *herototo*
 *hijautoto*
 *hinototo*
@@ -360,7 +360,6 @@
 *indoslot*
 *indosup*
 *indovegas*
-*indowin[0-9]*
 *informasibaru*
 *ing303*
 *ingatcuan*
@@ -419,6 +418,7 @@
 *juaraspin*
 *judi*
 *judol*
+*juli4d*
 *jun88*
 *jupiter1[0-9]*
 *jur[0-9]*
@@ -541,7 +541,6 @@
 *maco4d*
 *mahjong*
 *mahoni[0-9]*
-*mainpastiwin[0-9]*
 *mainslot*
 *malang4d*
 *maluku4d*
@@ -564,6 +563,7 @@
 *master[0-9]*
 *matauang*
 *matrixslot*
+*mauslot*
 *mawar[0-9]*
 *max88*
 *maxi188*
@@ -750,6 +750,7 @@
 *rajabet[0-9]*
 *rajabotak*
 *rajacolok*
+*rajacovid*
 *rajacuan*
 *rajaguntur*
 *rajajago*
@@ -890,6 +891,7 @@
 *teslatoto*
 *texas88*
 *tiara-4d*
+*tifmau[0-9]*
 *tiger[0-9]*
 *tiktok[0-9]*
 *timuna*
@@ -1008,6 +1010,7 @@
 *zoom[0-9]*
 4dsuper.*
 [0-9]-win*
+[0-9]win*
 aa[0-9]*
 alexavegas*
 amp*
