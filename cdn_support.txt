@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 921
+# Number of entries: 925
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -234,6 +234,7 @@ clickdrive.tech
 clk.sgp1.cdn.digitaloceanspaces.com
 cloud-assets.sgp1.cdn.digitaloceanspaces.com
 cloudcdnetw.com
+cloudhostapk.com # apk
 cloudinary.com
 coastalmarket.org # scam
 coderedtacos.com # hacked web
@@ -247,6 +248,7 @@ d145yfon394ak6.cloudfront.net
 d1ayxb9ooonjts.cloudfront.net
 d1bnhxh1olb98c.cloudfront.net
 d1j3dnvd81uy9o.cloudfront.net
+d1lrs95zs5ox0o.cloudfront.net
 d1mxxk684qj8r3.cloudfront.net
 d1r7v8bs1sf4js.cloudfront.net
 d1zjar5ju5ryim.cloudfront.net
@@ -385,6 +387,7 @@ gadingmedia.com
 galeri.cloud
 galerybanner.site
 gama69.sgp1.cdn.digitaloceanspaces.com
+gambar-1.sgp1.cdn.digitaloceanspaces.com
 gambar.store
 gambar.website
 gambar1.sgp1.cdn.digitaloceanspaces.com
@@ -509,6 +512,7 @@ is3.cloudhost.id
 isak.co.uk # hacked web
 istana2000.nsp2d.com
 j8t62rp7.com
+jagoangadget.com # scam # seo # landing
 jalurtelkom.net # scam
 jamepix.com
 jandamuda.cfd
