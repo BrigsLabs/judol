@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 925
+# Number of entries: 926
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -657,6 +657,7 @@ object-d001-cloud.cloudstoragesharingservice.com
 objek-d001-cloud-akucloud-valid.sukagambarku.com
 olx.recamweek.com
 olxjaya168.com
+omutgl.sgp1.digitaloceanspaces.com
 onelive.dataklmsad902.site
 onix-live-2-default-rtdb.firebaseio.com
 onix-live-5-default-rtdb.firebaseio.com
