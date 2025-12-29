@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 926
+# Number of entries: 929
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -22,6 +22,7 @@
 2fr4me-my4web.site
 3.bp.blogspot.com
 3400efa8-fd32-44eb-b743-12ffd5b0fb26.seals.dlagglobal.com
+3j3ap99cfwu6.7281581.com.eo.dnse3.com
 4.bp.blogspot.com
 4n76bph80j.gbgfstie.biz
 66555.xyz
@@ -461,6 +462,7 @@ image.apkstaticcontent.com
 image777.sgp1.cdn.digitaloceanspaces.com
 imagedel.com
 imagekoi.io
+images.7281581.com
 images.linkcdn.cloud
 images.mixlink.top
 images.squarespace-cdn.com
@@ -884,6 +886,7 @@ upload.ee
 upload.wikimedia.org
 user-upload.aws-s3-r1r2str0bjx.sg-sin1.upcloudobjects.com
 usglobalasset.com
+veldrive.com # may create false positive
 verifyfrydextracts.com # hacked web
 vipgroup69.com # C2
 vm.homeleasyn.com

@@ -148,6 +148,7 @@ web-template77.b-cdn.net
 wew-biawakpoipetnih.b-cdn.net
 wiltoto-amp-v2.b-cdn.net
 wiltoto-vip-login.b-cdn.net
+xidbsxnexus.b-cdn.net
 
 # from judol_domains.txt
 aloha4d.lucky-panel.xyz
@@ -462,6 +463,7 @@ zoom-d89.pages.dev
 rajangamen.pages.dev
 keras-lawan-nya.pages.dev
 databaseimg.pages.dev
+rtptempo-bonanza.pages.dev
 
 # from cdn : *.r2.dev
 pub-01daae9cfed641489a104989d6c91115.r2.dev
