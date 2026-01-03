@@ -141,6 +141,7 @@ sto-rage.b-cdn.net
 terbang-dulu-lahhh.b-cdn.net
 this-what-time.b-cdn.net
 ticdigital.b-cdn.net
+tuveras.b-cdn.net
 ugstg.seamless-hptech.com
 vejatimon.b-cdn.net
 vorcen-reborn.b-cdn.net
@@ -149,14 +150,6 @@ wew-biawakpoipetnih.b-cdn.net
 wiltoto-amp-v2.b-cdn.net
 wiltoto-vip-login.b-cdn.net
 xidbsxnexus.b-cdn.net
-
-# from judol_domains.txt
-aloha4d.lucky-panel.xyz
-januaritoto.lucky-panel.xyz
-panel-alba.lucky-dhx.live
-panel-bmx.lucky-dhx.live
-panel-kiyo.lucky-dhx.live
-panel.lucky-dhx.live
 
 # from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
 3dhoki-boyercellars.pages.dev
@@ -235,6 +228,7 @@ cobacobajeeee.pages.dev
 coolidealbike.pages.dev
 daft-idb88.pages.dev
 daftar-cabewin77.pages.dev
+databaseimg.pages.dev
 demohabanero.pages.dev
 dengerin.pages.dev
 devampksr88.pages.dev
@@ -288,12 +282,14 @@ jiitubagibagiduit.pages.dev
 jornadaseconomicas-uccuyosl-edu-ar.pages.dev
 kalkulatort4d.pages.dev
 kapten808com.pages.dev
+keras-lawan-nya.pages.dev
 kita-cobalagi-za.pages.dev
 kukiracupurupanyasuhu.pages.dev
 kungfu4d-rtp.pages.dev
 kungfu4d2-rtp.pages.dev
 landak-idm.pages.dev
 lapakapeljituhoki.pages.dev
+lead-wichert-juara.pages.dev
 ler-leicesterstudent.pages.dev
 linkgresiktotoaman.pages.dev
 linkinfortpcsowin.pages.dev
@@ -352,6 +348,7 @@ perbanyakcuan.pages.dev
 perprima.pages.dev
 polagacor-png.pages.dev
 polakumbang.pages.dev
+pondasi-awal.pages.dev
 posgradoupea-edu-bo.pages.dev
 privatepageone.pages.dev
 project-lembagatoto-mobile.pages.dev
@@ -364,6 +361,7 @@ pusatbahasa.pages.dev
 qrismob.pages.dev
 qristanto.pages.dev
 rajabom-c5s.pages.dev
+rajangamen.pages.dev
 rakyatacehloveanoboy.pages.dev
 rawontotortp.pages.dev
 raximhai.pages.dev
@@ -404,6 +402,7 @@ rtpms8.pages.dev
 rtpslotnew-rtibuntogel.pages.dev
 rtpslottanggawin.pages.dev
 rtpsoju88-1.pages.dev
+rtptempo-bonanza.pages.dev
 rtpwaktogelplay.pages.dev
 rtpzb.pages.dev
 sakti-kalselprov.pages.dev
@@ -460,10 +459,6 @@ yangpastipasti.pages.dev
 yatanokagami.pages.dev
 yesmovies-4uj.pages.dev
 zoom-d89.pages.dev
-rajangamen.pages.dev
-keras-lawan-nya.pages.dev
-databaseimg.pages.dev
-rtptempo-bonanza.pages.dev
 
 # from cdn : *.r2.dev
 pub-01daae9cfed641489a104989d6c91115.r2.dev

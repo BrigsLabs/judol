@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1504
+# Number of entries: 1513
 # 
 # 
 # 
@@ -168,6 +168,7 @@
 *cahaya[0-9]*
 *candu[0-9]*
 *cantik[0-9]*
+*canyon[0-9]*
 *cari4d*
 *cashnet[0-9]*
 *cb88*
@@ -184,6 +185,7 @@
 *cocaslot*
 *comototo*
 *cpo333*
+*crs[0-9]*
 *cuan[0-9]*
 *dado88*
 *daduku*
@@ -191,6 +193,7 @@
 *daftarclickbet*
 *dagelan4d*
 *dailydrop*
+*dalang[0-9]*
 *dana[0-9]*
 *datajepe*
 *demoslotbaru*
@@ -206,6 +209,7 @@
 *dewascore*
 *dewasultan*
 *dewata[0-9]*
+*dewi[0-9]*
 *dewihoki*
 *dewiku[0-9]*
 *dewislot*
@@ -418,6 +422,7 @@
 *jpmania*
 *jpyuk[0-9]*
 *jrgn69*
+*juara[0-9]*
 *juaraspin*
 *judi*
 *judol*
@@ -448,6 +453,7 @@
 *kari4d*
 *kaskustoto*
 *katana4d*
+*katsu[0-9]*
 *kawahtoto*
 *kdg789*
 *kekar4d*
@@ -532,6 +538,7 @@
 *lpo88*
 *luck[0-9]*
 *lucky88*
+*luckycup[0-9]*
 *luckykudus*
 *luckyspin*
 *luckywheel*
@@ -594,6 +601,7 @@
 *miko[0-9]*
 *miliarbet*
 *miliarslot*
+*miniso[0-9]*
 *minobet*
 *mitosbet*
 *mjpku[0-9]*
@@ -609,6 +617,7 @@
 *mutasit0t[0-9]*
 *mutasitoto*
 *mvia88*
+*n1gang*
 *naga[0-9]*
 *nagabet*
 *nagabola*
@@ -780,6 +789,7 @@
 *roket[0-9]*
 *rokokbet*
 *rokokslot*
+*rolex[0-9]*
 *romawibet*
 *rongtoto*
 *ronin86*
@@ -1343,7 +1353,6 @@ zx88*
 *.vin
 *.vip
 *.vision
-*.vlaanderen
 *.vote
 *.voto
 *.wang

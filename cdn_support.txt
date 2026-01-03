@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 929
+# Number of entries: 932
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -14,6 +14,7 @@
 # i.scdn.co # whitelist
 # cdn.datatables.net # whitelist
 # sgp1.digitaloceanspaces.com # whitelist
+# s3.us-east-1.amazonaws.com # whitelist
 1.bp.blogspot.com
 10fr4ame-b3stweeb.xyz
 18ea70d2d9a945cfb97d818ba71817dc.pacloudflare.com
@@ -144,7 +145,7 @@ autolookservice.com # hacked site
 autoredirectjack.me
 awan.pw
 ayodaftar.co
-b-cdn.net # mostly used in web # kill them all
+b-cdn.net # all subdom list in dead_judol_domains.txt
 b-cdu.net # hacked web
 b1speed.info
 bacan4dblog.wordpress.com
@@ -176,6 +177,7 @@ blazzpay-b7pktst.gamma.site
 blazzpay.com
 bloonk.com
 bo.gacha.business
+buktiabangempire.blogspot.com
 buktiedctoto.sgp1.digitaloceanspaces.com
 c23f1bb1b6d0420a94d3aeebea36c4c1.pacloudflare.com
 cafe-69-moneysite-default-rtdb.firebaseio.com
@@ -286,6 +288,7 @@ d3ci3nnu1jeurw.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
 d3ejb2l5e3bvmc.cloudfront.net
 d3h1yom8coubmj.cloudfront.net
+d3ljt8kkw6mx40.cloudfront.net
 d3mqo97n0n0k7d.cloudfront.net
 d3nglpcg1mlj3k.cloudfront.net
 d3pjq3rrv5sdh6.cloudfront.net
@@ -305,6 +308,7 @@ desaterbaik.com
 designku.io
 detikslot.clouderbase.com
 devsuperteam.com
+dewab2b.s3.amazonaws.com
 dfdo5rwtdmzk0.cloudfront.net
 dfiz23mj879i2.cloudfront.net
 dh4oiqg45nvw7.cloudfront.net
@@ -471,6 +475,7 @@ images4.imagebam.com
 imageshare.click
 imagestaticcontent.com
 imagme.com
+img-cdngames.s3.amazonaws.com 
 img.atomgaming88images.com
 img.cupr.us
 img.hotimg.com
@@ -669,7 +674,7 @@ p670ty4f35.gcdikeagzb.net
 padangtoto1.wordpress.com
 padangtotoofficial.wordpress.com
 pafirogtoto.org
-pages.dev # mostly abused for dev web
+pages.dev # all subdom list in dead_judol_domains.txt
 paneltki.info
 papacitan.site # scam # suspicious
 papitogel.sgp1.cdn.digitaloceanspaces.com
@@ -687,6 +692,7 @@ pictday.org
 pictstage.digital
 platforms3-yzw03img-0ejj3sb721.s3.ap-northeast-1.amazonaws.com
 playstarevent.com
+plcl.me
 pmk.ac.id # scam
 png999.com
 pnimg.asgard-bifrost.com
@@ -717,7 +723,7 @@ qrismvp.com
 qrispapitogel.sgp1.cdn.digitaloceanspaces.com
 r1zendigistr.com
 r1zengrp.link
-r2.dev # all subdom link move to deadlist
+r2.dev # all subdom list in dead_judol_domains.txt
 rabanimage.io
 radartulungagung.co.id # malicious backlink
 rajabandot.sgp1.cdn.digitaloceanspaces.com
@@ -754,8 +760,6 @@ s21-def.ks-la.net
 s3-ap-southeast-1.amazonaws.com
 s3-r-w.ap-northeast-1.amazonaws.com
 s3-r-w.ap-southeast-1.amazonaws.com
-s3.amazonaws.com # subdom : img-cdngames.s3.amazonaws.com dewab2b.s3.amazonaws.com
-s3.us-east-1.amazonaws.com
 samuelkigelman.com # hacked web
 savegambar.com
 sayursawi.xyz
@@ -764,8 +768,8 @@ scriptbambu.team
 scriptlexi.cloud
 scutimedia.online
 sdl.jsoftdn.net
-seamless-hptech.com # apk cdn
-seamlesss-hptech.com # apk cdn
+seamless-hptech.com # all subdom list in dead_judol_domains.txt # apk cdn
+seamlesss-hptech.com # all subdom list in dead_judol_domains.txt apk cdn
 selalusiap.site
 senyumterus.xyz
 seo268.vip
@@ -780,7 +784,7 @@ sgw.stape.au
 shareservice.net
 shishkarestaurant.com # hacked web
 shj918.com
-short.gy # cloaking with many subdom luckywish.short.gy sniperkill.short.gy lancarjaya.short.gy akunresmi.short.gy dc5f.short.gy drch.short.gy fu5z.short.gy
+short.gy # all subdom list in dead_judol_domains.txt
 sicolab.me
 sidesupports.com
 simpangambar.fun
