@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 932
+# Number of entries: 937
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -85,6 +85,7 @@ api-giga9-ns2-1-default-rtdb.firebaseio.com
 api-kixplay-ns2-default-rtdb.firebaseio.com
 api-lgoplay-live2-default-rtdb.firebaseio.com
 api-metawings-ns2-default-rtdb.firebaseio.com
+api-neo-live-2-default-rtdb.firebaseio.com
 api-onix-ns2-live1-default-rtdb.firebaseio.com
 api-onix6-2-default-rtdb.firebaseio.com
 api-onix7-2-default-rtdb.firebaseio.com
@@ -299,7 +300,7 @@ d84ify71m0ivu.cloudfront.net
 dataconnect.sbs
 dataklmsad902.site
 dataklmsad903.site
-datasvc.xyz
+datasvc.xyz # all subdom list in dead_judol_domains.txt
 db351sg6odjv.cloudfront.net
 dbxmjjzl5pc1g.cloudfront.net
 dd8p0622bwh41.cloudfront.net
@@ -329,8 +330,10 @@ dl.zhenwudadi.net
 dlmxz0etq5yy6.cloudfront.net
 dlportal.good-game-service.com
 dmwl0ca1bvnm.cloudfront.net
+dnserv.net
 dog-lilicos.com # hacked web
 domain7264.wordpress.com
+dominateapp.com
 download.gg-global-cdn.com # apk
 downloads.blissroms.org # malicious
 dpw3m2v9dxyrl.cloudfront.net
@@ -423,6 +426,7 @@ global-configs-default-rtdb.asia-southeast1.firebasedatabase.app
 global-server.net
 gobel.ink
 gomanagedit.com # hacked web
+gpa2glsjhw.xyz
 greenbikefood.com # hacked web : https://greenbikefood.com/platters
 grup168.sgp1.digitaloceanspaces.com
 gso.kommo.com
@@ -669,6 +673,7 @@ onelive.dataklmsad902.site
 onix-live-2-default-rtdb.firebaseio.com
 onix-live-5-default-rtdb.firebaseio.com
 oxplay.api-oplbo.com
+ozzogame.com
 p3i.unimen.ac.id # hacked
 p670ty4f35.gcdikeagzb.net
 padangtoto1.wordpress.com

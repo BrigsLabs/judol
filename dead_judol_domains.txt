@@ -563,3 +563,6 @@ fu5z.short.gy
 lancarjaya.short.gy 
 luckywish.short.gy 
 sniperkill.short.gy 
+
+# from *.datasvc.xyz
+apkapi-zed.datasvc.xyz
