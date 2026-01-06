@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 937
+# Number of entries: 942
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -178,6 +178,7 @@ blazzpay-b7pktst.gamma.site
 blazzpay.com
 bloonk.com
 bo.gacha.business
+bototomacau.weebly.com
 buktiabangempire.blogspot.com
 buktiedctoto.sgp1.digitaloceanspaces.com
 c23f1bb1b6d0420a94d3aeebea36c4c1.pacloudflare.com
@@ -230,6 +231,7 @@ ceritabahagia.lol
 chaport.com
 chat-socket.onechat.dev
 chat.onechat.dev
+chiolink.xyz
 cialisrtl.com # seo backlink
 cici4d.s3.wasabisys.com
 cikatech.sgp1.digitaloceanspaces.com
@@ -428,6 +430,7 @@ gobel.ink
 gomanagedit.com # hacked web
 gpa2glsjhw.xyz
 greenbikefood.com # hacked web : https://greenbikefood.com/platters
+group-amp.ink
 grup168.sgp1.digitaloceanspaces.com
 gso.kommo.com
 h85cndf2moxnwjz.com
@@ -653,6 +656,7 @@ nationalsportsboard.com # hacked web
 naturalbalanceosteopathy.com # hacked web
 neftdocs.com
 neftsoft.co
+neoxida.com # scam # hidden page login 
 nexiangaming.com
 nextgen.sg-sin1.upcloudobjects.com
 nghia-architect.com # scam fake
@@ -867,6 +871,7 @@ test-drive-10-s6uit34pua-uc.a.run.app
 test-drive-20-1053047382554.us-central1.run.app
 test-drive-3-s6uit34pua-wl.a.run.app
 testdriver.site
+thelocalcatch.com # hacked web : thelocalcatch.com/john-dory
 tianlonghi.com
 tiktakimage.shop
 tiktakspace.cc

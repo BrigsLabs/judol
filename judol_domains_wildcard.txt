@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1515
+# Number of entries: 1522
 # 
 # 
 # 
@@ -491,6 +491,9 @@
 *kubatoto*
 *kungfu4d*
 *kuningtoto*
+*kupanghoki*
+*kupangtoto*
+*kupangwin*
 *kurnia8[0-9]*
 *kuy[0-9]*
 *kvtoto*
@@ -536,6 +539,7 @@
 *lotto*
 *lotus[0-9]*
 *loyal303*
+*loyal4d*
 *lpo88*
 *luck[0-9]*
 *lucky88*
@@ -610,6 +614,7 @@
 *monaco[0-9]*
 *monas[0-9]*
 *money[0-9]*
+*monpera*
 *monyethoki*
 *mostbet*
 *mpo[0-9]*
@@ -748,6 +753,7 @@
 *pttgroup*
 *publiktoto*
 *pucuk[0-9]*
+*pulsa[0-9]*
 *pusaka[0-9]*
 *pusat-koin*
 *pusat4d*
@@ -1019,6 +1025,7 @@
 *xyz-klub*
 *xyzklub*
 *yaktoto*
+*yoda4d*
 *yukdwt*
 *yuktg[0-9]*
 *zapslot*
