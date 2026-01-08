@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 942
+# Number of entries: 959
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -27,9 +27,11 @@
 4.bp.blogspot.com
 4n76bph80j.gbgfstie.biz
 66555.xyz
+67864891qp14api.238968.com
 777tech.cloud
 7c7b02d4bc3d48dd81a7c7738d4de1ab.pacloudflare.com
 818webhost.com
+824c2um0kf1l9kxb.aliyunddos0015.com
 8327771864.kggamingapi.com
 87h0gp2tfu.ipkdwipf.net
 888rpaa.com
@@ -47,6 +49,7 @@ abcfiresafety.net # hacked web : https://abcfiresafety.net/blog/ https://abcfire
 accallyhigingola.com
 aceh4dblog.wordpress.com
 acehmediacom.wordpress.com # suspicious
+acsbsurakarta.com # hacked web : acsbsurakarta.com/shop
 adomselfrecigency.com
 adsdewigg.com
 afkpicture.vip
@@ -96,6 +99,7 @@ api.cloud.mime.services
 api.freshapp.top
 api.noproky.net
 api.scorebat.com
+api.signalbit.io
 apionix-7-default-rtdb.firebaseio.com
 apionix3-3-default-rtdb.asia-southeast1.firebasedatabase.app
 apionix4-3-default-rtdb.firebaseio.com
@@ -177,6 +181,7 @@ bkid.sgp1.cdn.digitaloceanspaces.com
 blazzpay-b7pktst.gamma.site
 blazzpay.com
 bloonk.com
+bluecreekdenver.com # hacked web : bluecreekdenver.com/contact
 bo.gacha.business
 bototomacau.weebly.com
 buktiabangempire.blogspot.com
@@ -291,6 +296,7 @@ d3ci3nnu1jeurw.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
 d3ejb2l5e3bvmc.cloudfront.net
 d3h1yom8coubmj.cloudfront.net
+d3h2cjocy0dp0y.cloudfront.net
 d3ljt8kkw6mx40.cloudfront.net
 d3mqo97n0n0k7d.cloudfront.net
 d3nglpcg1mlj3k.cloudfront.net
@@ -388,6 +394,7 @@ form.6mbr.com
 form.jotform.com # may create false positive
 forms.zohopublic.com
 fpnpmcdn.net
+fragrant-base-9dda.idebet88.workers.dev
 freeimage.host
 freespamfilter.org # seo # malicious backlink
 frescabowl.com # hacked web : https://www.frescabowl.com/egift-cards/
@@ -455,6 +462,7 @@ i.ibb.co
 i.ibb.co.com
 i.magecdn.com
 iaibali.org # suspicious
+idb.imghostfree.com
 idl-cdn.rika.online
 idl-socket.rika.online
 idn.sgp1.cdn.digitaloceanspaces.com
@@ -525,6 +533,7 @@ ip36.sgp1.cdn.digitaloceanspaces.com
 is3.cloudhost.id
 isak.co.uk # hacked web
 istana2000.nsp2d.com
+it.com # all subdom *.it.com move to dead_judol_domains.txt
 j8t62rp7.com
 jagoangadget.com # scam # seo # landing
 jalurtelkom.net # scam
@@ -545,10 +554,12 @@ jp-api.zoomwlb.com
 jp-api2.namesvr.dev
 jp-api2.namesvr.devl43fnw-1198-ppp.oss-accelerate.aliyuncs.com
 jpgsatset.com
+js.signalbit.io
 jstakecloud.link
 jurnal.univpgri-palembang.ac.id # hacked web
 kageru.site
 kaira-club.com # hacked web
+kalide.rest
 kamuchat.com
 kaos1.sgp1.cdn.digitaloceanspaces.com
 karep.pro
@@ -682,6 +693,8 @@ p3i.unimen.ac.id # hacked
 p670ty4f35.gcdikeagzb.net
 padangtoto1.wordpress.com
 padangtotoofficial.wordpress.com
+pafikabbintan.co.id # backlink # scam
+pafipalu.co.id # backlink # scam
 pafirogtoto.org
 pages.dev # all subdom list in dead_judol_domains.txt
 paneltki.info
@@ -745,7 +758,7 @@ res.qqkwbase.net # apk
 ress.sgp1.cdn.digitaloceanspaces.com
 riskct.geetest.com
 rj7na3gx.cndns.digicentre.com
-robootassets.com
+robootassets.com # subdom : cdn.robootassets.com
 robotaset.com
 robotassets.com
 robotcheap.com
@@ -810,6 +823,7 @@ sk88-mime-a3b28.firebaseio.com
 slotdanagacorterpercaya.blogspot.com # seo
 slotonlinegacor22.blogspot.com
 smbstatic.sgp1.digitaloceanspaces.com
+smksdb1jambi.sch.id # scam
 snapy.photo
 sobajimakmur.com
 sohogroupblog.wordpress.com
@@ -872,10 +886,12 @@ test-drive-20-1053047382554.us-central1.run.app
 test-drive-3-s6uit34pua-wl.a.run.app
 testdriver.site
 thelocalcatch.com # hacked web : thelocalcatch.com/john-dory
+themerchantkitchen.com # hacked web : themerchantkitchen.com/menu
 tianlonghi.com
 tiktakimage.shop
 tiktakspace.cc
 tinypic.host
+tko77game.pro # scam
 tmc-group.photos
 tmgaming.asia
 tokolontong.com
@@ -926,6 +942,7 @@ winwin25.wordpress.com
 wlinetpos.com
 wllink.skystarbiru.com
 woainistef.sgp1.digitaloceanspaces.comwoainistef.sgp1.digitaloceanspaces.com
+wss.823868.com
 wtgplay.xyz # subdom : apk.wtgplay.xyz media.wtgplay.xyz
 x.it-cg.group
 xasia.me

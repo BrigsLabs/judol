@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1522
+# Number of entries: 1528
 # 
 # 
 # 
@@ -338,6 +338,7 @@
 *hotelbet*
 *hotjitu*
 *hp-777*
+*hss303*
 *hubtoto*
 *hws77*
 *ibayar*
@@ -554,7 +555,9 @@
 *lvonline*
 *m69ku*
 *mabar[0-9]*
+*macau[0-9]*
 *maco4d*
+*mahajitu*
 *mahjong*
 *mahoni[0-9]*
 *mainslot*
@@ -1077,6 +1080,7 @@ ss88*
 sungai*.com
 sungai*.in
 sv3[0-9]*
+tko[0-9]*
 tv88*
 twslive*
 u888*
@@ -1085,8 +1089,10 @@ up[0-9]*
 uu88*
 vsa88bos.*
 w88*
+wis[0-9]*
 xn88*
 xx88*
+zona[0-9].guru
 zx88*
 # [a-z0-9\-_]*.example.com # block all sub *.example.com but pass top domain example.com
 [a-z0-9\-_]*.dodir.hr # 

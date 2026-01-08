@@ -29,6 +29,7 @@ wgberitajaya.github.io
 
 # from cdn_support list, b-cdn.net seamless-hptech.com seamlesss-hptech.com
 1000-karma-baik.b-cdn.net
+1site.b-cdn.net
 3cb846e8b88f43a75848.b-cdn.net
 active.b-cdn.net
 adakah-seratus-kawan.b-cdn.net
@@ -80,15 +81,18 @@ dikembalikan-sendiri-oleh-google.b-cdn.net
 dmca-images.b-cdn.net
 doa-selalu-menyertai.b-cdn.net
 dont-play-play-with-sese.b-cdn.net
+duha.b-cdn.net
 fastads.b-cdn.net
 fotogroup.b-cdn.net
 fresh-grad.b-cdn.net
 gambar-lp.b-cdn.net
 garuda-force.b-cdn.net
 gemini-master.b-cdn.net
+godhatesfigs.b-cdn.net
 hasonangan.b-cdn.net
 hmmm-hmmm.b-cdn.net
 hp-slot-1.b-cdn.net
+hss303.b-cdn.net
 idb77.b-cdn.net
 imagebank.b-cdn.net
 img-source.b-cdn.net
@@ -108,6 +112,8 @@ ks20.b-cdn.net
 lai-le.b-cdn.net
 lotsoco.b-cdn.net
 lp-togel138.b-cdn.net
+lumine-shine.b-cdn.net
+macau303.it.com
 mang-eak.b-cdn.net
 masbulo.b-cdn.net
 medytox-coretox.b-cdn.net
@@ -123,12 +129,14 @@ pasti-khi-liau-nih.b-cdn.net
 percayalah.b-cdn.net
 ply288.b-cdn.net
 poso.b-cdn.net
+prime-2000-dubai-clean.b-cdn.net
 priv-img.b-cdn.net
 prsd.b-cdn.net
 pushalert-main.b-cdn.net
 report-ddos-mati-mamakmu.b-cdn.net
 richard77.b-cdn.netrootaccess.b-cdn.net
 royal188-hoki-poll.b-cdn.net
+rtpakuratmacau303.b-cdn.net
 rtpcici4d12.b-cdn.net
 sab-oke.b-cdn.net
 sayangkurtpnyani.b-cdn.net
@@ -141,6 +149,7 @@ sto-rage.b-cdn.net
 terbang-dulu-lahhh.b-cdn.net
 this-what-time.b-cdn.net
 ticdigital.b-cdn.net
+tko77game.b-cdn.net
 tuveras.b-cdn.net
 ugstg.seamless-hptech.com
 vejatimon.b-cdn.net
@@ -149,10 +158,10 @@ web-template77.b-cdn.net
 wew-biawakpoipetnih.b-cdn.net
 wiltoto-amp-v2.b-cdn.net
 wiltoto-vip-login.b-cdn.net
+wis77orid.b-cdn.net
+wis77usorg.b-cdn.net
+wong87-css.b-cdn.net
 xidbsxnexus.b-cdn.net
-1site.b-cdn.net
-skyx.b-cdn.net
-prime-2000-dubai-clean.b-cdn.net
 
 # from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
 3dhoki-boyercellars.pages.dev
@@ -194,8 +203,10 @@ ampstar.pages.dev
 anoboygroup.pages.dev
 anoboytoto-gacor.pages.dev
 anoboytoto.pages.dev
+api66-jackpot.pages.dev
 arcanism.pages.dev
 arya88slot.pages.dev
+assetsnatal.pages.dev
 asuusg-safety.pages.dev
 azkabet1234rtp-baru.pages.dev
 back-to-macau.pages.dev
@@ -229,6 +240,7 @@ cekrtpbokaptoto.pages.dev
 cerofilas.pages.dev
 cobacobajeeee.pages.dev
 coolidealbike.pages.dev
+cosmebox-about.pages.dev
 daft-idb88.pages.dev
 daftar-cabewin77.pages.dev
 databaseimg.pages.dev
@@ -308,6 +320,7 @@ lupa-nama-ingat-alexistogel.pages.dev
 m-angelicsignature-com.pages.dev
 m-eltoncrego-com.pages.dev
 m-hoianahotels-com.pages.dev
+mahajituitcom.pages.dev
 mailthehorsee.pages.dev
 malangtogel.pages.dev
 marok-amp.pages.dev
@@ -316,6 +329,7 @@ mata-najwa-sihab.pages.dev
 maycokhi.pages.dev
 mclarenvale.pages.dev
 mcr-goes-to-indo.pages.dev
+mdgolden.pages.dev
 meme4d-rtpslotgacor.pages.dev
 menubumi-bumicafe-go-international.pages.dev
 meriah4d-login.pages.dev
@@ -439,6 +453,7 @@ target4duhuy.pages.dev
 teenchallengeuc-kodack.pages.dev
 teeviso.pages.dev
 tertuliafest.pages.dev
+thelocalcatch-onepeople.pages.dev
 thestarsomerset.pages.dev
 theyashotel.pages.dev
 udah-lama-gakjumpa.pages.dev
@@ -462,7 +477,6 @@ yangpastipasti.pages.dev
 yatanokagami.pages.dev
 yesmovies-4uj.pages.dev
 zoom-d89.pages.dev
-thelocalcatch-onepeople.pages.dev
 
 # from cdn : *.r2.dev
 pub-01daae9cfed641489a104989d6c91115.r2.dev
@@ -567,6 +581,100 @@ fu5z.short.gy
 lancarjaya.short.gy 
 luckywish.short.gy 
 sniperkill.short.gy 
+weblinked.short.gy
 
 # from *.datasvc.xyz
 apkapi-zed.datasvc.xyz
+apkapi-b77.datasvc.xyz
+apkapi-ov2.datasvc.xyz
+
+# from *.it.com
+11uu.it.com
+188v.it.com
+acgwin.it.com
+albaslot.it.com
+altogel.it.com
+amerikatoto.it.com
+anoboy.it.com
+asiabet.it.com
+asianslot88-livescore.it.com
+bagong4d.it.com
+bandartogelonline.it.com
+bangka11.spinwheel11.it.com
+belijitu.it.com
+bettogel.it.com
+bmx4d.it.com
+bola16.it.com
+bongx9.it.com
+bt85274574.it.com
+bxing423.hss324.it.com
+daga.it.com
+deevalemon.it.com
+dewa.it.com
+dewe-toto.it.com
+dhx-4d.it.com
+diskominfo.it.com
+dragslotsign.it.com
+enakkali.it.com
+event.dewahoki88.it.com
+gajah138.it.com
+gresiktoto.it.com
+hokiroom.totovip.it.com
+hongkongpools.it.com
+hss.spinwheel55.it.com
+inewsfit.com
+japanslot88.it.com
+jimat69.it.com
+jogjatoto.it.com
+jogjatotoalternatif.it.com
+jogjatotoheylink.it.com
+jogjatototogel.it.com
+kakaktogel.it.com cloaking
+kastoto.it.com
+kembarjitu.it.com
+kentangbet.it.com
+kjcpro.it.com
+koenokatachi.it.com hidden page
+koi388.it.com
+kudajitu.it.com
+kyoto98jitu.it.com
+kyoto98max.it.com
+mahajitu.it.com
+mahong4d.it.com
+makan.bebeksinjay.it.com
+mejawd.it.com
+mm88.it.com
+n888.it.com
+ngamentogel.it.com
+obraltoto.it.com
+oddigotastas.it.com
+pangkalanbangka.it.com
+pohon169.it.com
+prabujitu.it.com
+prdks.hss2132.it.com
+prediksiciputratoto.it.com
+publichtml.it.com hidden page
+pucuk138.it.com
+rajacovid.it.com cloaking
+rajangamen.it.com
+rajangamensuper.it.com
+rtp.arenadagelan4d.it.com
+rtp546.bgkt458.it.com
+rtpislot99.it.com
+rtpmahongbet2.it.com
+rtpslothariini.it.com
+rtpwaktogel.it.com
+sabungtoto.it.com
+santoryu.it.com landingpage
+sensa88.it.com
+siaptarung.it.com
+spartan.it.com
+sriwijaya33.spinwheel33.it.com
+st.1.spbu.it.com
+suleid.it.com
+sulemio.it.com
+tokeslot88.it.com
+vnloto1.it.com
+vua99.it.com
+wakbayartuntas.it.com
+yeu88.it.com
