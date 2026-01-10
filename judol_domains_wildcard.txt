@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1528
+# Number of entries: 1534
 # 
 # 
 # 
@@ -107,6 +107,7 @@
 *barito[0-9]*
 *baron[0-9]*
 *barudak*
+*batman[0-9]*
 *batmantoto*
 *bayam[0-9]*
 *bb855*
@@ -127,7 +128,7 @@
 *bigklik[0-9]*
 *bigo234*
 *binjaitoto*
-*bintang4d*
+*bintang[0-9]*
 *biru138*
 *bisabos[0-9]*
 *bitkoin*
@@ -635,6 +636,7 @@
 *nagavip*
 *nana4d*
 *nanagroup*
+*napi[0-9]*
 *nara4d*
 *narkobet*
 *nasa4d*
@@ -955,6 +957,7 @@
 *totovip*
 *tradesia*
 *tradisibet*
+*trikcuan*
 *ttt4d*
 *tujuhribu[0-9]*
 *turbo1[0-9]*
@@ -1201,6 +1204,7 @@ zx88*
 *.fitness
 *.florist
 *.foo
+*.food
 *.forex
 *.forsale
 *.foundation
@@ -1233,9 +1237,11 @@ zx88*
 *.house
 *.how
 *.icu
+*.immo
 *.ink
 *.international
 *.irish
+*.jetzt
 *.jewelry
 *.joburg
 *.kim
