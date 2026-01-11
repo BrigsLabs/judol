@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 959
+# Number of entries: 968
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -16,6 +16,7 @@
 # sgp1.digitaloceanspaces.com # whitelist
 # s3.us-east-1.amazonaws.com # whitelist
 1.bp.blogspot.com
+10322apk.deliber.net
 10fr4ame-b3stweeb.xyz
 18ea70d2d9a945cfb97d818ba71817dc.pacloudflare.com
 21assetmanagement.com
@@ -76,6 +77,7 @@ ap-south-1.linodeobjects.com.akadns.net
 apgapartments.com # hacked web
 api-3m2-ns2-2-default-rtdb.firebaseio.com
 api-3m2-ns2-4-default-rtdb.asia-southeast1.firebasedatabase.app 
+api-3m3-ns2-2-default-rtdb.asia-southeast1.firebasedatabase.app
 api-3m4-2-80a0f-default-rtdb.firebaseio.com
 api-99gaming-live-1-default-rtdb.asia-southeast1.firebasedatabase.app
 api-99gaming-live-2-default-rtdb.firebaseio.com
@@ -95,6 +97,7 @@ api-onix7-2-default-rtdb.firebaseio.com
 api-royal-live-1-default-rtdb.firebaseio.com
 api-royal-ns2-1-default-rtdb.firebaseio.com
 api-seo-1354997367.ap-southeast-1.elb.amazonaws.com
+api.aqzbouatv2.com
 api.cloud.mime.services
 api.freshapp.top
 api.noproky.net
@@ -117,6 +120,7 @@ app-a.gm-ldr-82r2tndnuha5.com
 app-a.ply-ldr-rfo6v4aqd6cqw84z.com
 app-imgstore.cc
 app.galaxyworld999.com
+appid-dana.com
 appsetup.yidaiyiluclub.com
 appsgeyser.com
 aquaflorya.com # hacked web : https://aquaflorya.com/Media/
@@ -186,6 +190,7 @@ bo.gacha.business
 bototomacau.weebly.com
 buktiabangempire.blogspot.com
 buktiedctoto.sgp1.digitaloceanspaces.com
+buktijpestoto00.blogspot.com
 c23f1bb1b6d0420a94d3aeebea36c4c1.pacloudflare.com
 cafe-69-moneysite-default-rtdb.firebaseio.com
 cashier.onetoauto.com
@@ -342,6 +347,7 @@ dnserv.net
 dog-lilicos.com # hacked web
 domain7264.wordpress.com
 dominateapp.com
+downinfo.com
 download.gg-global-cdn.com # apk
 downloads.blissroms.org # malicious
 dpw3m2v9dxyrl.cloudfront.net
@@ -525,6 +531,7 @@ imgumk.online
 imgzm.com
 immortalseo.1b2u.asia
 incap-dw.ipcapsula.com
+incapdns.net # subdom : lbwet4w.x.incapdns.net
 infinityteam.sgp1.cdn.digitaloceanspaces.com
 ios88app.com
 ip104.sgp1.cdn.digitaloceanspaces.com
@@ -661,6 +668,7 @@ myimg.site
 nagavip88resmi.notion.site
 nakamauploader.com # file cdn
 namakami.com
+nami.co.id # hacked web : nami.co.id/News/mengenal-vna-forklift.html
 naocontemglutendoc.com
 nationalhemorrhoiddirectory.org
 nationalsportsboard.com # hacked web
@@ -740,6 +748,7 @@ pxuoou8.x.incapdns.net
 qaoncloud.com # suspicious
 qdalplaylive.com
 qoopic.co
+qqkwbase.net # subdom : config.qqkwbase.net setprod.qqkwbase.net
 qrishoki.com
 qrismvp.com
 qrispapitogel.sgp1.cdn.digitaloceanspaces.com

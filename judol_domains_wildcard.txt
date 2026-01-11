@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1534
+# Number of entries: 1545
 # 
 # 
 # 
@@ -94,6 +94,7 @@
 *badak[0-9]*
 *badakslot*
 *badakslt*
+*badut[0-9]*
 *bagatoto*
 *baginda-[0-9]*
 *baginda[0-9]*
@@ -125,6 +126,7 @@
 *betwin*
 *bgn168*
 *big365*
+*big77*
 *bigklik[0-9]*
 *bigo234*
 *binjaitoto*
@@ -172,6 +174,7 @@
 *canyon[0-9]*
 *cari4d*
 *cashnet[0-9]*
+*casino*
 *cb88*
 *cemara[0-9]*
 *cerutuviral*
@@ -298,6 +301,9 @@
 *gol[0-9]*
 *goldenlele*
 *goyangtoto*
+*gp2club*
+*gp2fun*
+*gp2play*
 *grab[0-9]*
 *granat[0-9]*
 *grda999*
@@ -623,6 +629,7 @@
 *mostbet*
 *mpo[0-9]*
 *mpoxl*
+*mudah[0-9]*
 *mulia[0-9]*
 *mutasit0t[0-9]*
 *mutasitoto*
@@ -660,6 +667,7 @@
 *nona88*
 *nono4d*
 *nova[0-9]*
+*nusa[0-9]*
 *nyala4d*
 *obatbet*
 *obatshio[0-9]*
@@ -829,6 +837,7 @@
 *sakutoto*
 *salam[0-9]*
 *samslot[0-9]*
+*samurai[0-9]*
 *saritoto*
 *sastoto*
 *sawer[0-9]*
@@ -842,6 +851,7 @@
 *sepuh*
 *seru[0-9]*
 *serubet*
+*setan[0-9]*
 *shibatoto*
 *shio[0-9]*
 *siapbet*
@@ -865,6 +875,7 @@
 *slotbet*
 *slotbiru*
 *slotbom*
+*slotjp*
 *slots[0-9]*
 *slotsgg*
 *slotter[0-9]*
