@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 968
+# Number of entries: 977
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -30,6 +30,7 @@
 66555.xyz
 67864891qp14api.238968.com
 777tech.cloud
+77group.sgp1.cdn.digitaloceanspaces.com
 7c7b02d4bc3d48dd81a7c7738d4de1ab.pacloudflare.com
 818webhost.com
 824c2um0kf1l9kxb.aliyunddos0015.com
@@ -51,6 +52,7 @@ accallyhigingola.com
 aceh4dblog.wordpress.com
 acehmediacom.wordpress.com # suspicious
 acsbsurakarta.com # hacked web : acsbsurakarta.com/shop
+admin-enggine.ropuntada.com
 adomselfrecigency.com
 adsdewigg.com
 afkpicture.vip
@@ -334,6 +336,7 @@ digitalwaypro.com # hacked web
 dilip.at
 dinohost.vip
 diqv0ct81hsy8.cloudfront.net
+djbf5ang3nrpv.cloudfront.net
 djctha7hqvwmk.cloudfront.net
 dkexc23x457ak.cloudfront.net
 dl.erlangyao.com
@@ -381,11 +384,13 @@ erp.sphoki88.com
 estate77media.com
 exito.my.id
 exp.boobsbymassage.com
+f88518a.gogoslam.com
 fargolandscape.com # hacked web
 fastqrisbb.com
 felixhospitals.com
 feritogel.sgp1.cdn.digitaloceanspaces.com
 fffiiillleee.com
+fg-host-img.com
 file001.nxtengine.net
 fileku.cc
 filemu.cc
@@ -532,6 +537,7 @@ imgzm.com
 immortalseo.1b2u.asia
 incap-dw.ipcapsula.com
 incapdns.net # subdom : lbwet4w.x.incapdns.net
+infini88.network # subdom : setan69.infini88.network
 infinityteam.sgp1.cdn.digitaloceanspaces.com
 ios88app.com
 ip104.sgp1.cdn.digitaloceanspaces.com
@@ -589,6 +595,7 @@ l78img.sgp1.cdn.digitaloceanspaces.com
 lacasatequila.com # hacked web : https://lacasatequila.com/our-menu/
 lakewoodparkumc.org # hacked web
 lartisan-restaurant.com # hacked web : https://lartisan-restaurant.com/lunch-menu/
+laskarinfo.com # hacked web : laskarinfo.com/redaksi
 laurelofleaves.com # hacked web
 layarnonton.com # malicious
 layarwibu.com
@@ -763,6 +770,7 @@ recamweek.com
 regalez-vous.farm
 renaimall.com
 res-odx.op-mobile.opera.com
+res-odx.op-mobile.opera.com.cdn.cloudflare.net
 res.qqkwbase.net # apk
 ress.sgp1.cdn.digitaloceanspaces.com
 riskct.geetest.com
@@ -875,6 +883,7 @@ sukakopi.xyz
 suksesidrbo1.com
 sultanbnajamudin.com # hacked web : https://sultanbnajamudin.com/profile/
 superqris.com
+supremewellness.co # hacked web : supremewellness.co/locations
 sydneylotto-livedraw.tumblr.com
 sydneylotto.tumblr.com
 t3cdn.com

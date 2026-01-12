@@ -168,6 +168,7 @@ wong87-css.b-cdn.net
 xidbsxnexus.b-cdn.net
 
 # from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
+23win-nohu.pages.dev
 3dhoki-boyercellars.pages.dev
 3dhoki-sahara.pages.dev
 8fb4a7e9.rtpkingslot96.pages.dev
@@ -311,6 +312,7 @@ kungfu4d-rtp.pages.dev
 kungfu4d2-rtp.pages.dev
 landak-idm.pages.dev
 lapakapeljituhoki.pages.dev
+laskarinfo.pages.dev
 lead-wichert-juara.pages.dev
 ler-leicesterstudent.pages.dev
 linkgresiktotoaman.pages.dev
@@ -407,6 +409,7 @@ rtp-istanagaming.pages.dev
 rtp-pohon169-populer.pages.dev
 rtp-raj4bom.pages.dev
 rtp-resmi-sinaga4d-cwa.pages.dev
+rtp-superjagoku.pages.dev
 rtp1337kemenangan.pages.dev
 rtp389slots.pages.dev
 rtp3libra168.pages.dev
@@ -465,6 +468,7 @@ softsfiles.pages.dev
 solusi-terbaik-untuk-menang.pages.dev
 souperbreww.pages.dev
 southkitchenrestaurant.pages.dev
+sumselcantik.pages.dev
 svobodnoe-propovedi.pages.dev
 talon-kikir.pages.dev
 target4d-seo.pages.dev
@@ -688,6 +692,8 @@ nrvip.it.com
 nyaimacau.it.com
 nyaitogel.it.com
 obraltoto.it.com
+oddigokil.it.com
+oddigoqq.it.com
 oddigotastas.it.com
 pangkalanbangka.it.com
 pasukantogel.it.com
@@ -722,6 +728,7 @@ stl22.spinwheel22.it.com
 stl2548778.it.com
 suleid.it.com
 sulemio.it.com
+sultanplaygokil.it.com
 t0t0g4lsriwijaya.it.com
 tanggamonas.it.com
 tanggaqq.it.com
