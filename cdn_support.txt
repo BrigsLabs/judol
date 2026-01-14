@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 977
+# Number of entries: 986
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -88,6 +88,7 @@ api-giga-ns2-1-default-rtdb.firebaseio.com
 api-giga2-ns3-1-default-rtdb.firebaseio.com
 api-giga4-ns2-default-rtdb.firebaseio.com
 api-giga7-ns2-default-rtdb.firebaseio.com
+api-giga8-ns2-1-default-rtdb.firebaseio.com
 api-giga9-ns2-1-default-rtdb.firebaseio.com
 api-kixplay-ns2-default-rtdb.firebaseio.com
 api-lgoplay-live2-default-rtdb.firebaseio.com
@@ -104,6 +105,7 @@ api.cloud.mime.services
 api.freshapp.top
 api.noproky.net
 api.scorebat.com
+api.shorebird.dev
 api.signalbit.io
 apionix-7-default-rtdb.firebaseio.com
 apionix3-3-default-rtdb.asia-southeast1.firebasedatabase.app
@@ -112,6 +114,7 @@ apionix5-1-default-rtdb.firebaseio.com
 apisky-2-1-default-rtdb.firebaseio.com
 apivx.asgard-bifrost.com
 apk-bank.s3.ap-southeast-1.amazonaws.com
+apk-block.s3.ap-northeast-1.amazonaws.com
 apk-depot.s3.ap-northeast-1.amazonaws.com
 apk-host.com
 apk-login-84719-default-rtdb.firebaseio.com
@@ -227,6 +230,7 @@ cdn.rawgit.com
 cdn.rbtasset.com
 cdn.rek8k8.cloud
 cdn.robotsatelit.net
+cdn.shorebird.cloud
 cdn.store-assets.com
 cdn.susu-na-khap.com
 cdn.wgsources.com
@@ -500,6 +504,7 @@ images.wlsf.link
 images4.imagebam.com
 imageshare.click
 imagestaticcontent.com
+imagestechnics.com
 imagme.com
 img-cdngames.s3.amazonaws.com 
 img.atomgaming88images.com
@@ -837,6 +842,7 @@ situswin.nyc3.digitaloceanspaces.com
 siuntung.vip
 sivanlevy.com
 sk88-mime-a3b28.firebaseio.com
+sky77.sgp1.cdn.digitaloceanspaces.com
 slotdanagacorterpercaya.blogspot.com # seo
 slotonlinegacor22.blogspot.com
 smbstatic.sgp1.digitaloceanspaces.com
@@ -936,6 +942,8 @@ user-upload.aws-s3-r1r2str0bjx.sg-sin1.upcloudobjects.com
 usglobalasset.com
 veldrive.com # may create false positive
 verifyfrydextracts.com # hacked web
+vind.id
+vind.sgp1.cdn.digitaloceanspaces.com
 vipgroup69.com # C2
 vm.homeleasyn.com
 voss-helmet.info
@@ -950,6 +958,7 @@ wdnotif.sgp1.digitaloceanspaces.com
 web-istana2000.linkapp99.com
 web-vegas123.linkapp77.com
 website-monitor-c8444-default-rtdb.asia-southeast1.firebasedatabase.app
+weddingpuzzleshop.com # hacked web : weddingpuzzleshop.com/wholesale/
 wesleyggeorge.com # hacked web
 wgaming-assets.ap-south-1.linodeobjects.com
 wgfasttest.skystarbiru.com
