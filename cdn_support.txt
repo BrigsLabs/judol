@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 986
+# Number of entries: 988
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -202,7 +202,6 @@ cashier.onetoauto.com
 cd537.wordpress.com
 cdn-content.ampproject.org
 cdn-host.proxy188.com
-cdn-master.it-cg.group
 cdn-proxy.globalcontentcloud.com
 cdn-seamless.m40c7v9i.com
 cdn-services.dev
@@ -219,7 +218,6 @@ cdn.gambarsejarah.com
 cdn.globalcontentcloud.com
 cdn.hub88.io
 cdn.imgpile.com
-cdn.it-cg.group
 cdn.jp-punya.top
 cdn.linkgasih.com
 cdn.mixlink.top
@@ -456,6 +454,7 @@ group-amp.ink
 grup168.sgp1.digitaloceanspaces.com
 gso.kommo.com
 h85cndf2moxnwjz.com
+harimauterbang.sgp1.cdn.digitaloceanspaces.com
 harvelkitchen.sdcurtains.com # scam
 hbostatic.xyz
 helenafrithpowell.com
@@ -551,6 +550,7 @@ ip36.sgp1.cdn.digitaloceanspaces.com
 is3.cloudhost.id
 isak.co.uk # hacked web
 istana2000.nsp2d.com
+it-cg.group # subdom : cdn-master.it-cg.group cdn.it-cg.group x.it-cg.group
 it.com # all subdom *.it.com move to dead_judol_domains.txt
 j8t62rp7.com
 jagoangadget.com # scam # seo # landing
@@ -641,6 +641,7 @@ maraset.site # CDN
 marinecorp.xyz
 market-online.wiki
 mawartt.sgp1.cdn.digitaloceanspaces.com
+me-qr.com # may create false positive
 media.api-sports.io
 media.giphy.com
 media.mediatelekomunikasisejahtera.com
@@ -694,6 +695,7 @@ nghia-architect.com # scam fake
 nobhilltower.com # hacked web : https://www.nobhilltower.com/slot-gacor-rajapanen/
 northdeodar.com # hacked web : https://northdeodar.com/tours-treks-and-adventure-activities-in-and-around-kullu-valley
 notif.trycodes.cloud
+ns-server-ge.com
 nx-cdn.nx1wl.com
 nx-cdn.nx2wl.com
 nx-cdn.trgwl.com
@@ -850,6 +852,7 @@ smksdb1jambi.sch.id # scam
 snapy.photo
 sobajimakmur.com
 sohogroupblog.wordpress.com
+spacedigital-online.sgp1.cdn.digitaloceanspaces.com
 spacerbucket.com
 spaces-mtg.sgp1.cdn.digitaloceanspaces.com
 spaces-ptg.sgp1.cdn.digitaloceanspaces.com
@@ -971,7 +974,6 @@ wllink.skystarbiru.com
 woainistef.sgp1.digitaloceanspaces.comwoainistef.sgp1.digitaloceanspaces.com
 wss.823868.com
 wtgplay.xyz # subdom : apk.wtgplay.xyz media.wtgplay.xyz
-x.it-cg.group
 xasia.me
 xemtinhay.com
 xenopay.id

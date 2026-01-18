@@ -724,6 +724,7 @@
 *pelitatoto*
 *pencariangka*
 *penidabet*
+*penulis[0-9]*
 *permata[0-9]*
 *permen4d*
 *peso138*
@@ -1343,7 +1344,6 @@ zx88*
 *.sa.com
 *.sale
 *.sbs
-*.schule
 *.science
 *.sew
 *.sexy
