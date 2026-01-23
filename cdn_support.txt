@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 988
+# Number of entries: 997
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -73,6 +73,7 @@ ambengine.com
 amp-escobar.sgp1.cdn.digitaloceanspaces.com
 ampabadi.com # suspicious
 anehoo.com
+angkasaputra.id # backlink
 anhuidingyue.com
 antoboomerblog.wordpress.com
 ap-south-1.linodeobjects.com.akadns.net
@@ -192,6 +193,7 @@ blazzpay.com
 bloonk.com
 bluecreekdenver.com # hacked web : bluecreekdenver.com/contact
 bo.gacha.business
+boccone.no # hacked web : boccone.no/fyp/bocoran-rahasia-developer-mahjong-ways-2-yang-baru-terbongkar.html
 bototomacau.weebly.com
 buktiabangempire.blogspot.com
 buktiedctoto.sgp1.digitaloceanspaces.com
@@ -202,12 +204,14 @@ cashier.onetoauto.com
 cd537.wordpress.com
 cdn-content.ampproject.org
 cdn-host.proxy188.com
+cdn-pelangi.onrender.com
 cdn-proxy.globalcontentcloud.com
 cdn-seamless.m40c7v9i.com
 cdn-services.dev
 cdn.ampproject.org
 cdn.antipeluru.best
 cdn.areabermain.club
+cdn.asstlnk.com
 cdn.bosluna.com
 cdn.bunkerkiamat.com
 cdn.databerjalan.com
@@ -235,6 +239,7 @@ cdn.wgsources.com
 cdn.zabbet.com
 cdn1.epicgames.com
 cdn568.net
+cdnclass.com
 cdncode.org
 cdndeliver.xyz
 cdnmonster.net
@@ -553,6 +558,7 @@ istana2000.nsp2d.com
 it-cg.group # subdom : cdn-master.it-cg.group cdn.it-cg.group x.it-cg.group
 it.com # all subdom *.it.com move to dead_judol_domains.txt
 j8t62rp7.com
+j9hdbjg.com # many subdom
 jagoangadget.com # scam # seo # landing
 jalurtelkom.net # scam
 jamepix.com
@@ -636,6 +642,7 @@ lumpiagoreng.xyz
 m-g.io
 m.ozzogame.com
 m1cdn.com
+manadobisnis.com # backlink
 mantratt.sgp1.cdn.digitaloceanspaces.com
 maraset.site # CDN
 marinecorp.xyz
@@ -736,6 +743,7 @@ pictday.org
 pictstage.digital
 platforms3-yzw03img-0ejj3sb721.s3.ap-northeast-1.amazonaws.com
 playstarevent.com
+playtech-event.cross-ss.com 
 plcl.me
 pmk.ac.id # scam
 png999.com
@@ -779,6 +787,7 @@ renaimall.com
 res-odx.op-mobile.opera.com
 res-odx.op-mobile.opera.com.cdn.cloudflare.net
 res.qqkwbase.net # apk
+resistancemanual.org # backlink
 ress.sgp1.cdn.digitaloceanspaces.com
 riskct.geetest.com
 rj7na3gx.cndns.digicentre.com

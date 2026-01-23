@@ -244,6 +244,8 @@ cal-pass.pages.dev
 calculator-parlay.pages.dev
 cambridgehub.pages.dev
 caradepositqris.pages.dev
+cdn-pelangi.pages.dev
+cdn-robot-assets.pages.dev
 cekrtpbokaptoto.pages.dev
 cerofilas.pages.dev
 cobacobajeeee.pages.dev
@@ -363,6 +365,7 @@ numbersneverdie.pages.dev
 offside-deff.pages.dev
 olitoplay.pages.dev
 omo77-2qn.pages.dev
+onepelangi.pages.dev
 orashellorajoss.pages.dev
 p4n9k4t88.pages.dev
 panda99-1f7.pages.dev
@@ -399,6 +402,7 @@ rdjb.pages.dev
 republiktoto-rtp.pages.dev
 resavskipostonosa.pages.dev
 resultsgp.pages.dev
+rice838.pages.dev
 rikhania.pages.dev
 rizkynadiateknik.pages.dev
 room-amp-62g.pages.dev
@@ -484,6 +488,7 @@ thestarsomerset.pages.dev
 theyashotel.pages.dev
 udah-lama-gakjumpa.pages.dev
 univ-ikopin.pages.dev
+unlocksamsungonline.pages.dev
 unsur138.pages.dev
 upcristo.pages.dev
 violet-top-one.pages.dev
@@ -529,6 +534,7 @@ pub-434259f7298942e39387d59f922d4cb6.r2.dev
 pub-467e2bfe3f1348dbadcbda78bc834b20.r2.dev
 pub-4d167d231b1e441db42fc94681994c45.r2.dev
 pub-4dab336953a44439993e62117ab2003c.r2.dev
+pub-54c35cbb1f8a429096797defb3a61ef3.r2.dev
 pub-56c7ffeacc6c46128f4c3806c3d91605.r2.dev
 pub-56dc6e91c6b14ae39d02ca37deae98ec.r2.dev
 pub-56fddca6d9364d3daea6dda86f9cb226.r2.dev
@@ -614,6 +620,7 @@ linklist.short.gy
 luckywish.short.gy 
 sniperkill.short.gy 
 weblinked.short.gy
+pelangi-link.short.gy
 
 # from *.datasvc.xyz
 apkapi-zed.datasvc.xyz
@@ -728,7 +735,7 @@ sensa88.it.com
 siaptarung.it.com
 sicepatjaya.it.com
 slotgacorhariini.it.com
-spartan.it.com
+smscity8.it.comspartan.it.com
 sriwijaya33.spinwheel33.it.com
 st.1.spbu.it.com
 stl22.spinwheel22.it.com
