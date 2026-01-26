@@ -167,8 +167,10 @@ wis77orid.b-cdn.net
 wis77usorg.b-cdn.net
 wong87-css.b-cdn.net
 xidbsxnexus.b-cdn.net
+humboldt101.b-cdn.net
 
 # from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
+deploy-a-your-site.pages.dev
 23win-nohu.pages.dev
 3dhoki-boyercellars.pages.dev
 3dhoki-sahara.pages.dev
@@ -621,6 +623,7 @@ luckywish.short.gy
 sniperkill.short.gy 
 weblinked.short.gy
 pelangi-link.short.gy
+epd5.short.gy
 
 # from *.datasvc.xyz
 apkapi-zed.datasvc.xyz
