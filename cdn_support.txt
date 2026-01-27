@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1000
+# Number of entries: 1003
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -375,6 +375,7 @@ dztwieyphe62d.cloudfront.net
 e39296.b.akamaiedge.net
 e39296.dscb.akamaiedge.net # may create false positive
 e39296.f.akamaiedge.net
+ec2-13-250-131-148.ap-southeast-1.compute.amazonaws.com
 ecogra.org
 edcdesign.sgp1.digitaloceanspaces.com
 edge.api.flagsmith.com
@@ -527,6 +528,7 @@ imgbob.online
 imgbox.com
 imgdate.com
 imgfire.art
+imghippo.com # may create false positive
 imghn.com
 imghwgroup.com
 imgku.io
@@ -676,6 +678,7 @@ mobileservices.sbs
 modelkit1.com
 moho.sgp1.cdn.digitaloceanspaces.com
 mpc-prod-1-1053047382554.us-central1.run.app
+mpc-prod-17-s6uit34pua-wl.a.run.app
 mpc-prod-4-1053047382554.us-central1.run.app
 mplay-live-2-default-rtdb.firebaseio.com
 mplay-live-4-default-rtdb.firebaseio.com

@@ -95,6 +95,7 @@ hasonangan.b-cdn.net
 hmmm-hmmm.b-cdn.net
 hp-slot-1.b-cdn.net
 hss303.b-cdn.net
+humboldt101.b-cdn.net
 idb77.b-cdn.net
 imagebank.b-cdn.net
 img-source.b-cdn.net
@@ -167,10 +168,8 @@ wis77orid.b-cdn.net
 wis77usorg.b-cdn.net
 wong87-css.b-cdn.net
 xidbsxnexus.b-cdn.net
-humboldt101.b-cdn.net
 
 # from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
-deploy-a-your-site.pages.dev
 23win-nohu.pages.dev
 3dhoki-boyercellars.pages.dev
 3dhoki-sahara.pages.dev
@@ -258,6 +257,7 @@ daftar-cabewin77.pages.dev
 databaseimg.pages.dev
 demohabanero.pages.dev
 dengerin.pages.dev
+deploy-a-your-site.pages.dev
 devampksr88.pages.dev
 dewadora-rtp.pages.dev
 digitalinnovationhub.pages.dev
@@ -477,6 +477,7 @@ softsfiles.pages.dev
 solusi-terbaik-untuk-menang.pages.dev
 souperbreww.pages.dev
 southkitchenrestaurant.pages.dev
+stadiumjakarta.pages.dev
 sumselcantik.pages.dev
 svobodnoe-propovedi.pages.dev
 talon-kikir.pages.dev
