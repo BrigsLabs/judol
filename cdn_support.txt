@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1003
+# Number of entries: 1005
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -317,6 +317,7 @@ d3nglpcg1mlj3k.cloudfront.net
 d3pjq3rrv5sdh6.cloudfront.net
 d3pr994l7txgml.cloudfront.net
 d3pvfi6m7bxu71.cloudfront.net
+d5jmkjjpb7yfg.cloudfront.net
 d6ve0grjeaee7.cloudfront.net
 d84ify71m0ivu.cloudfront.net
 dataconnect.sbs
@@ -666,6 +667,7 @@ midme.xyz
 mikatoto.sgp1.digitaloceanspaces.com
 militia-watchdog.org
 mjitincorp.club
+mlp3vptao30s.i.optimole.com
 mm3wrcjtz2ctcker.sgp1.cdn.digitaloceanspaces.com
 mobile-api.5k2an3or4q209.xyz
 mobile-server-d6vvoidmvq-as.a.run.app
