@@ -293,6 +293,7 @@ himspeshawar.pages.dev
 hredeemerparish-kurohige.pages.dev
 ibu4d-rtp.pages.dev
 icccibfim.pages.dev
+idealis-core.pages.dev
 idw168rtpgame.pages.dev
 imagesku.pages.dev
 immortal-hunters.pages.dev
@@ -358,6 +359,7 @@ monbalcon.pages.dev
 moneysitedotaslot.pages.dev
 musimtogel-login.pages.dev
 nagitabet-shortlink.pages.dev
+naik-ni-brok-ke-spy.pages.dev
 naiklamek.pages.dev
 new77-slotgacor-rtp.pages.dev
 ngecas-terus.pages.dev
@@ -620,14 +622,14 @@ akunresmi.short.gy
 dc5f.short.gy 
 drch.short.gy 
 dx4j.short.gy
+epd5.short.gy
 fu5z.short.gy
 lancarjaya.short.gy 
 linklist.short.gy
 luckywish.short.gy 
+pelangi-link.short.gy
 sniperkill.short.gy 
 weblinked.short.gy
-pelangi-link.short.gy
-epd5.short.gy
 
 # from *.datasvc.xyz
 apkapi-zed.datasvc.xyz

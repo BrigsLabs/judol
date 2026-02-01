@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1556
+# Number of entries: 1559
 # 
 # 
 # 
@@ -80,6 +80,7 @@
 *asialive[0-9]*
 *asianslot[0-9]*
 *astra[0-9]*
+*asupantoto*
 *asura[0-9]*
 *atg88*
 *athena[0-9]*
@@ -901,6 +902,7 @@
 *spingratis*
 *spinhadiah*
 *spo[0-9]*
+*spy[0-9]*
 *sslloot*
 *ssstoto*
 *stadium[0-9]*
@@ -915,6 +917,7 @@
 *sultan[0-9]*
 *sultansawer*
 *sultanslot*
+*super[0-9]*
 *superdewa*
 *superhoki*
 *supertarik*
