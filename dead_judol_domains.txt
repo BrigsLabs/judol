@@ -484,6 +484,7 @@ souperbreww.pages.dev
 southkitchenrestaurant.pages.dev
 stadiumjakarta.pages.dev
 sumselcantik.pages.dev
+supalonely.pages.dev
 svobodnoe-propovedi.pages.dev
 talon-kikir.pages.dev
 target4d-seo.pages.dev
@@ -630,6 +631,7 @@ luckywish.short.gy
 pelangi-link.short.gy
 sniperkill.short.gy 
 weblinked.short.gy
+8tu7.short.gy
 
 # from *.datasvc.xyz
 apkapi-zed.datasvc.xyz
@@ -757,6 +759,7 @@ t0t0g4lsriwijaya.it.com
 tanggamonas.it.com
 tanggaqq.it.com
 tanggasurga.it.com
+tenarjitu.it.com
 tokeslot88.it.com
 vnloto1.it.com
 vua99.it.com

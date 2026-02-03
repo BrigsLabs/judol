@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1006
+# Number of entries: 1009
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -202,7 +202,9 @@ c23f1bb1b6d0420a94d3aeebea36c4c1.pacloudflare.com
 cafe-69-moneysite-default-rtdb.firebaseio.com
 cashier.onetoauto.com
 cd537.wordpress.com
+cdn-b.heylink.me
 cdn-content.ampproject.org
+cdn-f.heylink.me
 cdn-host.proxy188.com
 cdn-pelangi.onrender.com
 cdn-proxy.globalcontentcloud.com
@@ -255,6 +257,7 @@ cialisrtl.com # seo backlink
 cici4d.s3.wasabisys.com
 cikatech.sgp1.digitaloceanspaces.com
 clanker-events.squarespace.com
+click.heylink.me
 clickdrive.tech
 clk.sgp1.cdn.digitaloceanspaces.com
 cloud-assets.sgp1.cdn.digitaloceanspaces.com
