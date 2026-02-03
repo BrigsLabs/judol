@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1009
+# Number of entries: 1011
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -121,6 +121,8 @@ apk-host.com
 apk-login-84719-default-rtdb.firebaseio.com
 apk.e-droid.net
 apk.hi11office.com # apk
+apkapi-smb.bitely.xyz
+apkapi-smb.mobilesvc.xyz
 app-a.cdnlogic.net
 app-a.gm-ldr-82r2tndnuha5.com
 app-a.ply-ldr-rfo6v4aqd6cqw84z.com
