@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1570
+# Number of entries: 1573
 # 
 # 
 # 
@@ -235,6 +235,7 @@
 *dota[0-9]*
 *dotaslot*
 *dragslot*
+*dubai[0-9]*
 *dunia[0-9]*
 *duniasableng[0-9]*
 *duniatglin*
@@ -733,8 +734,10 @@
 *pedroslot*
 *pekantoto*
 *pelangi[0-9]*
+*pele[0-9]*
 *pelita[0-9]*
 *pelitatoto*
+*pemuda[0-9]*
 *pencariangka*
 *penidabet*
 *penulis[0-9]*

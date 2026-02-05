@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1011
+# Number of entries: 1015
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -52,7 +52,6 @@ accallyhigingola.com
 aceh4dblog.wordpress.com
 acehmediacom.wordpress.com # suspicious
 acsbsurakarta.com # hacked web : acsbsurakarta.com/shop
-admin-enggine.ropuntada.com
 adomselfrecigency.com
 adsdewigg.com
 afkpicture.vip
@@ -121,6 +120,9 @@ apk-host.com
 apk-login-84719-default-rtdb.firebaseio.com
 apk.e-droid.net
 apk.hi11office.com # apk
+apkapi-3in.bitely.xyz
+apkapi-3in.mobilesvc.xyz
+apkapi-3in.rebrandurl.cc
 apkapi-smb.bitely.xyz
 apkapi-smb.mobilesvc.xyz
 app-a.cdnlogic.net
@@ -178,7 +180,6 @@ bangaset.s3.ap-southeast-1.amazonaws.com
 bannerfoto.shop
 bas3data.xyz
 batesvilleclinicms.com # hacked web : https://www.batesvilleclinicms.com/our-staff
-be-qris-socket-redis.ropuntada.com
 behh-skuy-lah.s3.eu-north-1.amazonaws.com
 berbagaicaragif.com
 beritaindonesia.co
@@ -540,6 +541,7 @@ imghwgroup.com
 imgku.io
 imgnxa.com
 imgnxb.com
+imgotp.thanatosmaero.com
 imgsaya.io
 imgsaya.online
 imgsaya2.io
@@ -630,6 +632,7 @@ linkapk.org
 linkgacor.sgp1.cdn.digitaloceanspaces.com
 linkgambar.my.id
 linktogelslot4d.fra1.cdn.digitaloceanspaces.com
+livechat-pro.preview.emergentagent.com # may create false positive
 livechat.design
 livechat88.chat
 livehelpnow.net # might be false positif
@@ -810,6 +813,7 @@ robotcheap.com
 rog-toto.tor1.cdn.digitaloceanspaces.com
 roket1.sgp1.cdn.digitaloceanspaces.com
 roomangkakembar.blogspot.com
+ropuntada.com # subdom : admin-enggine.ropuntada.com be-qris-socket-redis.ropuntada.com
 royaleapi.sealintg.net
 rp888aabb.com
 rtp.sgp1.cdn.digitaloceanspaces.com
