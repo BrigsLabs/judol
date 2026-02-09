@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1573
+# Number of entries: 1580
 # 
 # 
 # 
@@ -31,6 +31,7 @@
 *aaa4d*
 *aat4d*
 *abcslt*
+*ace[0-9]*
 *acgwin*
 *adam77*
 *afktoto*
@@ -171,6 +172,7 @@
 *buyspin*
 *bwtoto*
 *c200m*
+*cacatoto*
 *cafe69*
 *cahaya[0-9]*
 *candu[0-9]*
@@ -422,6 +424,7 @@
 *jejuslot*
 *jempol[0-9]*
 *jesoslot*
+*jetbet*
 *jhonslot*
 *jhonslt*
 *jilibet*
@@ -451,6 +454,7 @@
 *jutawan[0-9]*
 *juu4d*
 *jvbet[0-9]*
+*kabayan[0-9]*
 *kadalgurun*
 *kaiko[0-9]*
 *kaisar[0-9]*
@@ -569,6 +573,7 @@
 *lux128*
 *lvobet*
 *lvonline*
+*m1toto*
 *m69ku*
 *mabar[0-9]*
 *macau[0-9]*
@@ -604,10 +609,11 @@
 *maxi188*
 *maxwin*
 *mbterbang*
+*mcmtoto*
 *mdg188*
 *medusa[0-9]*
-*mega1[0-9]*
 *mega4d*
+*mega[0-9]*
 *megagroup*
 *megashio*
 *mejahoki*
@@ -766,6 +772,7 @@
 *polawish[0-9]*
 *polayb*
 *polo[0-9]*
+*polonia[0-9]*
 *polototo*
 *pools.com
 *pools.net

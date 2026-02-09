@@ -125,7 +125,6 @@ medytox-coretox.b-cdn.net
 mumon.b-cdn.net
 ngamenjitu.b-cdn.net
 nikmati-perlahan.b-cdn.net
-
 official-link.b-cdn.net
 olx-adl.b-cdn.net
 omt-gambar.b-cdn.net
@@ -148,6 +147,7 @@ rtpcici4d12.b-cdn.net
 sab-oke.b-cdn.net
 sayangkurtpnyani.b-cdn.net
 seo-ltl.b-cdn.net
+seo-prime.b-cdn.net
 sg1wg.b-cdn.net
 situs-nama-baik-slot-gacor.b-cdn.net
 skyx.b-cdn.net
@@ -178,6 +178,7 @@ xidbsxnexus.b-cdn.net
 8fb4a7e9.rtpkingslot96.pages.dev
 abutogel-newrtpslot.pages.dev
 acuitykit.pages.dev
+additivebiomanufacturing.pages.dev
 aftertheharvestkc-v2.pages.dev
 agent-bola-terpercaya.pages.dev
 agentotoplay.pages.dev
@@ -233,6 +234,7 @@ bellekay.pages.dev
 bersyukur-its-a-key.pages.dev
 beton138amp2-ecp.pages.dev
 bierviltjes.pages.dev
+bisamain.pages.dev
 blitzbaru.pages.dev
 blockchainview.pages.dev
 bola16-cgi.pages.dev
@@ -266,6 +268,7 @@ digitalinnovationhub.pages.dev
 disinianesong.pages.dev
 dor-aah.pages.dev
 dora77-rtp.pages.dev
+drpatrickweightloss.pages.dev
 dunia-rtp.pages.dev
 ephysicsvn.pages.dev
 espaciocreativoelche.pages.dev
@@ -326,6 +329,7 @@ lapakapeljituhoki.pages.dev
 laskarinfo.pages.dev
 lead-wichert-juara.pages.dev
 ler-leicesterstudent.pages.dev
+link-slot-gacor-11-kabayan55.pages.dev
 linkgresiktotoaman.pages.dev
 linkinfortpcsowin.pages.dev
 lipatkainselatan-desa.pages.dev
@@ -363,6 +367,7 @@ musimtogel-login.pages.dev
 nagitabet-shortlink.pages.dev
 naik-ni-brok-ke-spy.pages.dev
 naiklamek.pages.dev
+nbherard.pages.dev
 new77-slotgacor-rtp.pages.dev
 ngecas-terus.pages.dev
 ngkfbads.pages.dev
@@ -479,6 +484,7 @@ situswin-footer.pages.dev
 skilfulessays.pages.dev
 skobam-theluckythirtykate.pages.dev
 skylacosmetics.pages.dev
+slot-gacor-petanimalwildlife.pages.dev
 slotgacor-vip88.pages.dev
 slotgacor2024rupiah.pages.dev
 softsfiles.pages.dev
@@ -540,6 +546,7 @@ pub-2a991c69018043aa97bece03d85e2fe4.r2.dev
 pub-2cb70b23ac0f4ad982d6b04d7c96aebe.r2.dev
 pub-2ea0a2d7577347c3a124333fd65b6494.r2.dev
 pub-31cfa9339ebc4afba516a186992fa41b.r2.dev
+pub-31f6c9cab2c244cbad32f861511db5f8.r2.dev
 pub-33f79e4933584e76ac497eed3b0b39c5.r2.dev
 pub-3a497eec89554a7087393a495285cca8.r2.dev
 pub-423755b7060d41bd991640eb44ea574c.r2.dev
@@ -547,6 +554,7 @@ pub-434259f7298942e39387d59f922d4cb6.r2.dev
 pub-467e2bfe3f1348dbadcbda78bc834b20.r2.dev
 pub-4d167d231b1e441db42fc94681994c45.r2.dev
 pub-4dab336953a44439993e62117ab2003c.r2.dev
+pub-4f4300019636497197d5b0bff8012507.r2.dev
 pub-54c35cbb1f8a429096797defb3a61ef3.r2.dev
 pub-56c7ffeacc6c46128f4c3806c3d91605.r2.dev
 pub-56dc6e91c6b14ae39d02ca37deae98ec.r2.dev
@@ -691,6 +699,8 @@ jogjatotoalternatif.it.com
 jogjatotoheylink.it.com
 jogjatototogel.it.com
 jpdewa.gacor.it.com
+kabayan55.it.com
+kabayan55slot.it.com
 kakaktogel.it.com cloaking
 kastoto.it.com
 kembarjitu.it.com
@@ -703,6 +713,7 @@ kyoto98jitu.it.com
 kyoto98max.it.com
 lampubet.it.com
 lampupion.it.com
+m1toto-4d.it.com
 mahajitu.it.com
 mahong4d.it.com
 makan.bebeksinjay.it.com
@@ -765,7 +776,17 @@ tanggaqq.it.com
 tanggasurga.it.com
 tenarjitu.it.com
 tokeslot88.it.com
+toto7788.it.com
 vnloto1.it.com
 vua99.it.com
 wakbayartuntas.it.com
 yeu88.it.com
+
+# from cdn *.gifyu.com
+s10.gifyu.com
+s12.gifyu.com
+s13.gifyu.com
+s14.gifyu.com
+s3.gifyu.com
+s6.gifyu.com
+s7.gifyu.com

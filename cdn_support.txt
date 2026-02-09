@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1015
+# Number of entries: 1020
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -15,6 +15,8 @@
 # cdn.datatables.net # whitelist
 # sgp1.digitaloceanspaces.com # whitelist
 # s3.us-east-1.amazonaws.com # whitelist
+# cdn-b.heylink.me 
+# cdn-f.heylink.me
 1.bp.blogspot.com
 10322apk.deliber.net
 10fr4ame-b3stweeb.xyz
@@ -146,6 +148,7 @@ asiasigma-assets.sgp1.cdn.digitaloceanspaces.com
 asiasigma.sgp1.cdn.digitaloceanspaces.com
 asset-arw.xyz
 asset-cdn.cfd
+asset-image.xyz
 asset01.source-static.us
 assetcsn.site # suspicious
 assetrtp.assetftpcanvas.com
@@ -201,13 +204,12 @@ bototomacau.weebly.com
 buktiabangempire.blogspot.com
 buktiedctoto.sgp1.digitaloceanspaces.com
 buktijpestoto00.blogspot.com
+by437ocd.ovslegodl.sched.ovscdns.com
 c23f1bb1b6d0420a94d3aeebea36c4c1.pacloudflare.com
 cafe-69-moneysite-default-rtdb.firebaseio.com
 cashier.onetoauto.com
 cd537.wordpress.com
-cdn-b.heylink.me
 cdn-content.ampproject.org
-cdn-f.heylink.me
 cdn-host.proxy188.com
 cdn-pelangi.onrender.com
 cdn-proxy.globalcontentcloud.com
@@ -292,6 +294,7 @@ d2fdcuev2flsum.cloudfront.net
 d2g2ks6h98pvqo.cloudfront.net
 d2lcoivv20vty7.cloudfront.net
 d2mpatx37cqexb.cloudfront.net
+d2po8s8685fal.cloudfront.net
 d2qos86h2u305y.cloudfront.net
 d2rzzcn1jnr24x.cloudfront.net
 d2te5kruq0pvbl.cloudfront.net
@@ -601,6 +604,7 @@ kari-nih-ges.sgp1.digitaloceanspaces.com
 kaucengkia.atl1.cdn.digitaloceanspaces.com
 kaya787.dataklmsad902.site
 kaya787.dataklmsad903.site
+kby55-ori6a9ulmdzkwij8ohml3mmh.vercel.app
 kejurtps.master-138group.workers.dev
 kerenbanget7.wordpress.com
 kesembilan.online
@@ -807,7 +811,7 @@ ress.sgp1.cdn.digitaloceanspaces.com
 riskct.geetest.com
 rj7na3gx.cndns.digicentre.com
 robootassets.com # subdom : cdn.robootassets.com
-robotaset.com
+robotaset.com # subdom : cdn.robotaset.com lb.robotaset.com widget.robotaset.com dwn.robotaset.com
 robotassets.com
 robotcheap.com
 rog-toto.tor1.cdn.digitaloceanspaces.com
@@ -831,6 +835,7 @@ s21-def.ks-la.net
 s3-ap-southeast-1.amazonaws.com
 s3-r-w.ap-northeast-1.amazonaws.com
 s3-r-w.ap-southeast-1.amazonaws.com
+s31.aconvert.com
 samuelkigelman.com # hacked web
 savegambar.com
 sayursawi.xyz
@@ -844,6 +849,7 @@ seamlesss-hptech.com # all subdom list in dead_judol_domains.txt apk cdn
 selalusiap.site
 senyumterus.xyz
 seo268.vip
+seoaceng.xyz # suspicious
 seobangjago.sgp1.cdn.digitaloceanspaces.com
 serubet.s3.ap-southeast-2.amazonaws.com
 serunyaberbag.com
@@ -977,6 +983,7 @@ vipgroup69.com # C2
 vm.homeleasyn.com
 voss-helmet.info
 vpn-app.s3.ap-southeast-3.amazonaws.com
+vpnserver.online
 vrximage.com
 vulture.rest
 vxbrkq1luxtv.gpa2glsjhw.xyz
