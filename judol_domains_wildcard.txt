@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1580
+# Number of entries: 1583
 # 
 # 
 # 
@@ -697,6 +697,7 @@
 *olb[0-9]*
 *ole[0-9]*
 *olislot*
+*ollo4d*
 *olx[0-9]*
 *olympus[0-9]*
 *omg[0-9]*
@@ -1088,6 +1089,7 @@
 *zoom[0-9]*
 4dsuper.*
 [0-9]-win*
+[0-9]grd*
 [0-9]win*
 aa[0-9]*
 alexavegas*
@@ -1103,6 +1105,7 @@ dunialot*
 evo[0-9]*
 gamespool*
 go[0-9]*
+grd[0-9]*
 hadiahcuan.*
 hm88*
 ijp88*

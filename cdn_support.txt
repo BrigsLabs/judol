@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1020
+# Number of entries: 1021
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -676,6 +676,7 @@ meyerweb.com
 mgapi2.lansn-model.com
 mgt.zhiwushui.com
 midme.xyz
+miegacoan.sirv.com
 mikatoto.sgp1.digitaloceanspaces.com
 militia-watchdog.org
 mjitincorp.club
