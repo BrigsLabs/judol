@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1583
+# Number of entries: 1588
 # 
 # 
 # 
@@ -147,6 +147,7 @@
 *bola[0-9]*
 *bonafit-[0-9]*
 *bonafit88*
+*bonanza[0-9]*
 *bongkar4dprize*
 *bonus138*
 *boom138*
@@ -156,6 +157,7 @@
 *bos515*
 *bosbet*
 *boshoki*
+*boskuda*
 *bosstoto*
 *botak[0-9]*
 *boxing[0-9]*
@@ -510,6 +512,7 @@
 *kraken1[0-9]*
 *kristal[0-9]*
 *kubatoto*
+*kudaslot*
 *kungfu4d*
 *kuningtoto*
 *kupanghoki*
@@ -590,6 +593,7 @@
 *mancing[0-9]*
 *maniakslot*
 *manobet*
+*mansion[0-9]*
 *mansionsku[0-9]*
 *mantap[0-9]*
 *mantra[0-9]*
@@ -1071,6 +1075,7 @@
 *wisdom77*
 *wla234*
 *woles4d*
+*wow77*
 *x-dewa*
 *xdewa*
 *xgo[0-9]*

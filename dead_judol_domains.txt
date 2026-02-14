@@ -289,6 +289,7 @@ garuda999.pages.dev
 gestione-e-logistica.pages.dev
 getvideo.pages.dev
 gg-rtpnyala.pages.dev
+goldenoneventurees.pages.dev
 grd-super.pages.dev
 gudang138ofc.pages.dev
 haikai.pages.dev
@@ -507,6 +508,7 @@ target4duhuy.pages.dev
 teenchallengeuc-kodack.pages.dev
 teeviso.pages.dev
 tertuliafest.pages.dev
+thecellarwinebarkitchen-qwer.pages.dev
 thelocalcatch-onepeople.pages.dev
 thestarsomerset.pages.dev
 theyashotel.pages.dev
@@ -625,6 +627,7 @@ pub-d8fbadbadffb491985f60c957f55140c.r2.dev
 pub-d917f3f0def8490db8760f3969e9273f.r2.dev
 pub-dfecbce2e4204125ba3b0f0bcb75834a.r2.dev
 pub-e55302e5a199465b9bb9f1c6220f77f1.r2.dev
+pub-e7319a66ee084a75882c4344c9590de7.r2.dev
 pub-e7779c29cf914271befd85a90d4dc9a2.r2.dev
 pub-eb56614beba6415c8ac276bfd0437e01.r2.dev
 pub-eca00f27c0544dbfa967993f427253f6.r2.dev
