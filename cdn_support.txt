@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1022
+# Number of entries: 1024
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -60,6 +60,7 @@ afkpicture.vip
 agrotek.unimen.ac.id # hacked 
 aiwasanfrancisco.com # hacked web
 aix-asset.s3.ap-southeast-1.amazonaws.com
+ajaibcloud.sgp1.cdn.digitaloceanspaces.com
 ajoystoryphotography.com # hacked web
 akamai-assets.squarespace.com
 akucloud.com
@@ -766,6 +767,7 @@ playtech-event.cross-ss.com
 plcl.me
 pmk.ac.id # scam
 png999.com
+pngusdt.com
 pnimg.asgard-bifrost.com
 pokerace-bb5be.firebaseio.com
 pol-ka.com # hacked web : https://pol-ka.com/bosswin/

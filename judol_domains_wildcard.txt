@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1588
+# Number of entries: 1591
 # 
 # 
 # 
@@ -227,6 +227,7 @@
 *dewislot*
 *dewisri[0-9]*
 *dinasti2[0-9]*
+*dingdong[0-9]*
 *dino[0-9]*
 *divisi3[0-9]*
 *dogelexus*
@@ -632,6 +633,7 @@
 *merona4d*
 *mesi[0-9]*
 *mesin1[0-9]*
+*mesinslot*
 *mewah[0-9]*
 *miko[0-9]*
 *miliarbet*
@@ -664,6 +666,7 @@
 *nagavip*
 *nana4d*
 *nanagroup*
+*nanas[0-9]*
 *napi[0-9]*
 *nara4d*
 *narkobet*

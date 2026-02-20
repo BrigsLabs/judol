@@ -234,6 +234,7 @@ bellekay.pages.dev
 bersyukur-its-a-key.pages.dev
 beton138amp2-ecp.pages.dev
 bierviltjes.pages.dev
+bisaloginya.pages.dev
 bisamain.pages.dev
 blitzbaru.pages.dev
 blockchainview.pages.dev
@@ -364,6 +365,7 @@ menkominfo-id.pages.dev
 menubumi-bumicafe-go-international.pages.dev
 meriah4d-login.pages.dev
 merona4dsor.pages.dev
+mesinslot-login.pages.dev
 metrosporsegundo.pages.dev
 modalkecil-untungbesar.pages.dev
 monbalcon.pages.dev
@@ -372,6 +374,8 @@ musimtogel-login.pages.dev
 nagitabet-shortlink.pages.dev
 naik-ni-brok-ke-spy.pages.dev
 naiklamek.pages.dev
+nanascoto.pages.dev
+nanastoto-maju.pages.dev
 nbherard.pages.dev
 new77-slotgacor-rtp.pages.dev
 ngecas-terus.pages.dev
@@ -512,6 +516,7 @@ thecellarwinebarkitchen-qwer.pages.dev
 thelocalcatch-onepeople.pages.dev
 thestarsomerset.pages.dev
 theyashotel.pages.dev
+thinktanktrainingcentercom.pages.dev
 udah-lama-gakjumpa.pages.dev
 univ-ikopin.pages.dev
 unlocksamsungonline.pages.dev
@@ -521,6 +526,7 @@ violet-top-one.pages.dev
 violetslot-go.pages.dev
 visabet88rtp.pages.dev
 warung-depan-shreeassociates.pages.dev
+wdbosku-naik.pages.dev
 webbiotech.pages.dev
 weboteric.pages.dev
 welcome-fightfight.pages.dev
@@ -652,6 +658,7 @@ pelangi-link.short.gy
 sniperkill.short.gy 
 weblinked.short.gy
 8tu7.short.gy
+nadi76lp.short.gy
 
 # from *.datasvc.xyz
 apkapi-zed.datasvc.xyz
@@ -788,6 +795,7 @@ tokeslot88.it.com
 toto7788.it.com
 vnloto1.it.com
 vua99.it.com
+vvip1.gampangmasuk.it.com
 wakbayartuntas.it.com
 yeu88.it.com
 
