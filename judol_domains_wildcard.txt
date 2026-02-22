@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1591
+# Number of entries: 1598
 # 
 # 
 # 
@@ -76,6 +76,7 @@
 *arya[0-9]*
 *asdjitu*
 *asdtoto*
+*ashk[0-9]*
 *asia[0-9]*
 *asiabet*
 *asiajp[0-9]*
@@ -245,6 +246,7 @@
 *duniasableng[0-9]*
 *duniatglin*
 *dutaslot[0-9]*
+*edit[0-9]*
 *elitjp*
 *emas[0-9]*
 *enakkali*
@@ -536,6 +538,7 @@
 *langkah[0-9]*
 *lantai6*
 *lapak303*
+*laporkemenangan*
 *laskar-[0-9]*
 *laskar[0-9]*
 *laza[0-9]*
@@ -580,6 +583,7 @@
 *m1toto*
 *m69ku*
 *mabar[0-9]*
+*macan[0-9]*
 *macau[0-9]*
 *maco4d*
 *mahajitu*
@@ -641,6 +645,7 @@
 *miniso[0-9]*
 *minobet*
 *mitosbet*
+*mium[0-9]*
 *mjpku[0-9]*
 *modal[0-9]*
 *monaco[0-9]*
@@ -772,6 +777,7 @@
 *play[0-9]*
 *playking[0-9]*
 *playsgg*
+*plus[0-9]*
 *poa[0-9]*
 *pohon[0-9]*
 *poka[0-9]*
@@ -917,6 +923,7 @@
 *slotsgg*
 *slotter[0-9]*
 *sm4d*
+*smir[0-9]*
 *sniperslot*
 *sohib4d*
 *soju[0-9]*

@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1024
+# Number of entries: 1027
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -268,6 +268,7 @@ clickdrive.tech
 clk.sgp1.cdn.digitaloceanspaces.com
 cloud-assets.sgp1.cdn.digitaloceanspaces.com
 cloudcdnetw.com
+clouddrive.digital
 cloudhostapk.com # apk
 cloudinary.com
 coastalmarket.org # scam
@@ -755,6 +756,7 @@ penilaianmauslot.lovable.app
 peruinformation.org # hacked web : https://www.peruinformation.org/geography https://amp.peruinformation.org/kaostogel.html
 pg888pp.com
 pglchat.com # might false positive
+photobanner.sgp1.cdn.digitaloceanspaces.com
 photoin.io
 photoku.io
 photosaya.io
@@ -949,6 +951,7 @@ test-drive-3-s6uit34pua-wl.a.run.app
 testdriver.site
 thelocalcatch.com # hacked web : thelocalcatch.com/john-dory
 themerchantkitchen.com # hacked web : themerchantkitchen.com/menu
+thomasbakri877-prog.github.io
 tianlonghi.com
 tiktakimage.shop
 tiktakspace.cc

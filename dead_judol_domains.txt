@@ -99,6 +99,7 @@ hss303.b-cdn.net
 humboldt101.b-cdn.net
 idb77.b-cdn.net
 imagebank.b-cdn.net
+img-899.b-cdn.net
 img-source.b-cdn.net
 imgkit.b-cdn.net
 iya-dech.b-cdn.net
@@ -148,6 +149,7 @@ sab-oke.b-cdn.net
 sayangkurtpnyani.b-cdn.net
 seo-ltl.b-cdn.net
 seo-prime.b-cdn.net
+seogemoy.b-cdn.net
 sg1wg.b-cdn.net
 situs-nama-baik-slot-gacor.b-cdn.net
 skyx.b-cdn.net
@@ -349,6 +351,7 @@ lupa-nama-ingat-alexistogel.pages.dev
 m-angelicsignature-com.pages.dev
 m-eltoncrego-com.pages.dev
 m-hoianahotels-com.pages.dev
+macan238c.pages.dev
 mahajituitcom.pages.dev
 mai-ane-hin-brother.pages.dev
 mailthehorsee.pages.dev
@@ -401,6 +404,7 @@ pedangtogel-cq0.pages.dev
 perbanyakcuan.pages.dev
 perkasajituit.pages.dev
 perprima.pages.dev
+pneumaticicamionmacan238s.pages.dev
 polagacor-png.pages.dev
 polakumbang.pages.dev
 pondasi-awal.pages.dev
@@ -540,8 +544,11 @@ yangpastipasti.pages.dev
 yatanokagami.pages.dev
 yesmovies-4uj.pages.dev
 zoom-d89.pages.dev
+medit899.pages.dev
+theirvingtonwoods.pages.dev
 
 # from cdn : *.r2.dev
+pub-4342a8a4bc4e4ea6a1ae05c91296684a.r2.dev
 pub-01daae9cfed641489a104989d6c91115.r2.dev
 pub-030bf10fe1a0403cb36d73c3e2e2b903.r2.dev
 pub-06f6a1761e7e47edaa63a07446d5dda9.r2.dev
@@ -669,10 +676,13 @@ apkapi-ov2.datasvc.xyz
 11uu.it.com
 188v.it.com
 acgwin.it.com
+aksesahk77.it.com
 albaslot.it.com
 altogel.it.com
 amerikatoto.it.com
 anoboy.it.com
+ashk77.it.com
+ashk77a.it.com
 asiabet.it.com
 asianslot88-livescore.it.com
 bagong4d.it.com
@@ -699,6 +709,8 @@ enakkali.it.com
 esblue.it.com
 esdice.it.com
 event.dewahoki88.it.com
+ff96kh.it.com
+fun88asia.it.com
 gajah138.it.com
 gelasgacor.it.com
 gelastogelnyata.it.com
@@ -732,6 +744,7 @@ m1toto-4d.it.com
 mahajitu.it.com
 mahong4d.it.com
 makan.bebeksinjay.it.com
+medit899.it.com
 mejawd.it.com
 meme4d.it.com
 mikihoshi.it.com
