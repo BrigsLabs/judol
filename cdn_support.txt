@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1027
+# Number of entries: 1025
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -15,8 +15,7 @@
 # cdn.datatables.net # whitelist
 # sgp1.digitaloceanspaces.com # whitelist
 # s3.us-east-1.amazonaws.com # whitelist
-# cdn-b.heylink.me 
-# cdn-f.heylink.me
+# incapdns.net # subdom : lbwet4w.x.incapdns.net pxuoou8.x.incapdns.net # whitelist
 1.bp.blogspot.com
 10322apk.deliber.net
 10fr4ame-b3stweeb.xyz
@@ -560,7 +559,6 @@ imgumk.online
 imgzm.com
 immortalseo.1b2u.asia
 incap-dw.ipcapsula.com
-incapdns.net # subdom : lbwet4w.x.incapdns.net
 infini88.network # subdom : setan69.infini88.network
 infinityteam.sgp1.cdn.digitaloceanspaces.com
 ios88app.com
@@ -789,7 +787,6 @@ protecer.org # hacked web
 public.pgsoft-games.com
 pulquemaniaeu.com # hacked web
 pwcplay.com # subdom : cdn.pwcplay.net assets.pwcplay.com
-pxuoou8.x.incapdns.net
 qaoncloud.com # suspicious
 qdalplaylive.com
 qoopic.co
