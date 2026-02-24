@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1598
+# Number of entries: 1604
 # 
 # 
 # 
@@ -279,6 +279,7 @@
 *gambler*
 *gambling*
 *gamesgg*
+*gaming[0-9]*
 *ganas69*
 *ganesa[0-9]*
 *gap8*
@@ -884,6 +885,7 @@
 *saritoto*
 *sastoto*
 *sawer[0-9]*
+*sbang[0-9]*
 *scatterhitam*
 *selayar[0-9]*
 *semut[0-9]*
@@ -951,8 +953,12 @@
 *sultanslot*
 *sumobet*
 *super[0-9]*
+*superbang*
 *superdewa*
+*supergaming*
 *superhoki*
+*supermax*
+*supermega*
 *supertarik*
 *surga88*
 *surya[0-9]*
@@ -1097,6 +1103,7 @@
 *yoda4d*
 *yukdwt*
 *yuktg[0-9]*
+*yummy[0-9]*
 *zapslot*
 *zeus[0-9]*
 *zilong[0-9]*
@@ -1331,7 +1338,6 @@ zx88*
 *.markets
 *.mba
 *.men
-*.menu
 *.miami
 *.ml
 *.moda
