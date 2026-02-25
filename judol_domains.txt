@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 22740
+# Number of entries: 22725
 #
 #
 # medium.com # whitelist
@@ -111,7 +111,6 @@
 169cuanhot.pro
 169cuanhot.xyz
 16group.vip
-16n37.50609215.com
 16rjs138.com
 17799-toolkit.com
 178betmy.net
@@ -313,7 +312,6 @@
 4dfalse.site
 4dkorean.com
 4dlivegame.com
-4dmbc.grindloungecasino.fun
 4dngine.com
 4dslot88.lat
 4dslot88b.fun
@@ -326,6 +324,7 @@
 4tukul777.com
 5.sun-togel.com
 500pg.org
+50609215.com # subdom : 16n37.50609215.com 5cfds.50609215.com
 50pemuda138.com
 511.abang99.sbs
 51games.site
@@ -334,6 +333,7 @@
 53above.com
 5554340.xyz
 555win.academy
+5587421.com # subdom : hycl9.5587421.com tunc7.5587421.com
 55kbet3n.top
 55kbet3p.top
 55kbet3y.top
@@ -355,7 +355,6 @@
 5ads508.com
 5beton138.net
 5caugas88.us
-5cfds.50609215.com
 5chilli6.com
 5dkorealottery.com
 5etiabang3t.top
@@ -409,7 +408,7 @@
 7111kelab.com
 711cuci.online
 718sp.games
-73143916.com
+73143916.com # subdom : w5vdr.73143916.com
 738382910483.com # subdom : images.738382910483.com # apk
 74lebah-4d.xyz
 76gaming-gacor.xyz
@@ -840,7 +839,6 @@ afalution26.com
 afalution3.com
 afastep.com
 afbgg.info
-afeoy.fordawin.info
 afep-asso.fr
 aff.ole694.com
 aff1.texas24.cc
@@ -2857,7 +2855,7 @@ biganslotclub.com
 biganslotrtp.shop
 bigape.nz
 bigballerclub.cc
-bigballerclub.house
+bigballerclub.house # subdom : rnj0i.bigballerclub.house
 bigballerclub.shop
 bigbangmini.com
 bigbldgbash.com
@@ -3312,7 +3310,6 @@ bp99c.com
 bpcs-edu.com
 bpoint9.com
 bpomkotapasuruan.id
-bpxm5.quantumbbc.online
 brabusmedia.com
 brackneyfuneralservice.com
 bradentonflavorsofindia.com
@@ -3369,7 +3366,6 @@ britoli.com
 brittanytoliver.com
 brittengineering.com
 brixgrillandchill.com
-brmwr.superbangbang.site
 bro11.com
 bro138e.com
 bro138ei.com
@@ -6180,7 +6176,6 @@ filmgratis21.com
 filmruhu.online
 filmsacrossborders.org
 filth.com.mx
-fimx6.superace777.net
 finaotraining.com
 fincasantamarta.com
 fincongames.com
@@ -6313,7 +6308,7 @@ forbes88.net
 forbes88vip.live
 forbidden.w88in.com
 fordassumsel.org
-fordawin.info
+fordawin.info # subdom : afeoy.fordawin.info
 fordjalbra.mx
 fordlawfirmpllc.com
 fore4dhost.com
@@ -7272,7 +7267,7 @@ greyareatavern.com
 greybintang4dp.net
 greyghostsports.org
 grilljam.co.uk
-grindloungecasino.fun
+grindloungecasino.fun # subdom : 4dmbc.grindloungecasino.fun
 gripari.net
 gripinfotech.com
 groovehouse.org
@@ -7985,7 +7980,6 @@ hws77.id
 hws77gg.com
 hybridacumen.eu
 hybwv45uzv.sesetoto04.com
-hycl9.5587421.com
 hyderabad.indusschool.com # cloaking
 hypecouncil.net
 hypefitsmartwatch.com
@@ -9052,6 +9046,7 @@ jdl688my.net
 jdl996my.com
 jdmfilmreviews.com
 jdslot88.vip
+jdultimate.club # subdom : tsn8a.jdultimate.club zo9bc.jdultimate.club
 jeannestclair.com
 jebol421.xyz
 jebol78.live
@@ -9500,7 +9495,6 @@ k69.778899303.xyz
 k86bola.info
 k86hk.pro
 k86shio.pro
-k9jss.megapanalo.xyz
 kabarkarawang.id
 kabarposnews.co.id
 kabarteknisi.com
@@ -12455,6 +12449,7 @@ megalinkshare.website # cloaking
 megamallify.in.net
 megamedia.id
 meganovels.org
+megapanalo.xyz # subdom : k9jss.megapanalo.xyz ogebe.megapanalo.xyz
 megaroulette.net
 megashiocreative8.xyz
 megashiogacor3.xyz
@@ -13816,7 +13811,6 @@ officialpartner.org
 officinebrera.com
 offnow.org
 offshorelegaladvice.com # cloaking
-ogebe.megapanalo.xyz
 ohanapokeandmore.com
 ohio-pools.com
 ohio4d.com
@@ -16002,7 +15996,6 @@ qcppos.com
 qdal88login.com
 qdal88on.fun
 qh88a.me
-qighd.superyummy888.online
 qiuqiu99.buzz
 qiuqiu99.com
 qiuqiu99.poker
@@ -16044,7 +16037,7 @@ qriskilatsisil4d.site
 qtqt.love
 quaidequeyries.net
 qualitystairsandwoodworking.com
-quantumbbc.online
+quantumbbc.online # subdom : bpxm5.quantumbbc.online u0owz.quantumbbc.online
 quantumbbcgaming.co
 quantumbbcgaming.net
 quantumgripamp.com
@@ -16670,7 +16663,6 @@ rmmerdeka.info
 rmslotutama.pro
 rmueagles.com
 rnb69.ink
-rnj0i.bigballerclub.house
 roadsafetycampaign.id
 roadto1billion.com
 roamingrgb.com
@@ -18515,7 +18507,6 @@ shruffo.fun
 shtaikun.com
 shu156duo289v.mom
 shuroushien.com
-shx4q.superace777.net
 si.cuan2.club
 siagapendis.id
 siakad.stkipmutiarabanten.com
@@ -18785,7 +18776,6 @@ skachat-winline.space
 skde.tech
 skechersoutletcheap.us.com
 sketch.wcdavis.net
-skflm.supermax888.world
 skidipapap.site
 skimaskape.xyz
 skimtechnologies.com
@@ -19651,8 +19641,9 @@ super8.akongsuper.com
 super88vip.online
 super8pasadena.com
 super96c.xyz
+superace777.net # subdom : fimx6.superace777.net shx4q.superace777.net
 superbangbang.shop
-superbangbang.site
+superbangbang.site # subdom : brmwr.superbangbang.site
 superbangbang888.co
 superboyapk.com
 superconix.com
@@ -19664,12 +19655,12 @@ supergacor88.pro
 supergacor88jp.com
 supergacorbets.com
 supergacorbets.site
-supergaming888.fun
+supergaming888.fun # subdom : swutb.supergaming888.fun
 superhakka.com
 superheromoviesnews.com
 superhoki.info
 superioritys.com
-supermax888.world
+supermax888.world # subdom : skflm.supermax888.world
 supermie.shop
 supermwin.com
 superoxywater.site
@@ -19692,6 +19683,7 @@ superttoogel.co
 superttoogel.com
 supertubeusa.com # apk
 superwiraspin88.pro
+superyummy888.online # subdom : qighd.superyummy888.online ykuiu.superyummy888.online
 supir.top
 supmakanan.com
 supmiso.com
@@ -19786,7 +19778,6 @@ swjournal.com
 swordofsetan69.com
 swordshio88.com
 swtotoking.lol
-swutb.supergaming888.fun
 swutb.supergaming888.store
 sxx6.ru.com
 syairikanmas.com
@@ -20929,7 +20920,6 @@ trynora.com
 ts-vip.rrqesports.com
 ts77maxjp.cfd
 tsduvaay.store # apk
-tsn8a.jdultimate.club
 tsubakisummit.com
 tsukubike.net
 tt-987.com
@@ -20988,7 +20978,6 @@ tulang4d16.com
 tulennagakdm.cfd # subdom : server1.tulennagakdm.cfd
 tumblerombak.site
 tummies.net
-tunc7.5587421.com
 tunesplitter.site
 tunggaling.xyz
 tunisia-lotto.com
@@ -21065,7 +21054,6 @@ tylebongda.co.com
 tyzjw.com
 tzqs.net
 u0.cx
-u0owz.quantumbbc.online
 u31.team
 u5s.uji4da.live
 u888.training
@@ -21714,7 +21702,6 @@ w3.emcl.com
 w3.i2pi.com
 w303.pink
 w365resmi.xyz
-w5vdr.73143916.com
 w7-c1.clawmachine.games
 w7-r1.rtpgacor-w.com
 w7-s2.spinterus.vip
@@ -22527,7 +22514,6 @@ ygtoto.pro
 yhse12.com # malicious backlink
 yjmelqvefm.net
 ykuiu.superyummy888.live
-ykuiu.superyummy888.online
 yo-eik-yo-eik.life
 yo88.top
 yoda4d77.com
@@ -22694,7 +22680,6 @@ znova168-th.com
 znova168.co
 znova168.net
 zo.win
-zo9bc.jdultimate.club
 zo9bc.jdultimate.me
 zodiac5d.com
 zodiak69.club # cdn
