@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1025
+# Number of entries: 1028
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -15,7 +15,7 @@
 # cdn.datatables.net # whitelist
 # sgp1.digitaloceanspaces.com # whitelist
 # s3.us-east-1.amazonaws.com # whitelist
-# incapdns.net # subdom : lbwet4w.x.incapdns.net pxuoou8.x.incapdns.net # whitelist
+# incapdns.net # whitelist 
 1.bp.blogspot.com
 10322apk.deliber.net
 10fr4ame-b3stweeb.xyz
@@ -624,6 +624,7 @@ laskarinfo.com # hacked web : laskarinfo.com/redaksi
 laurelofleaves.com # hacked web
 layarnonton.com # malicious
 layarwibu.com
+lbwet4w.x.incapdns.net 
 les.sgp1.digitaloceanspaces.com
 lfiles.s3.eu-west-2.amazonaws.com
 lh3-dz.googleusercontent.com
@@ -787,6 +788,7 @@ protecer.org # hacked web
 public.pgsoft-games.com
 pulquemaniaeu.com # hacked web
 pwcplay.com # subdom : cdn.pwcplay.net assets.pwcplay.com
+pxuoou8.x.incapdns.net 
 qaoncloud.com # suspicious
 qdalplaylive.com
 qoopic.co
@@ -1024,6 +1026,7 @@ yogaretreatguatemala.com # hacked web
 yuk-wd.com
 zakw1rog.drhk.loveota.com
 zakw1rog.dshk.loveota.com
+zalopay.vn
 zdataconnect.us
 zdataservices.us
 zfrmz.com

@@ -1006,7 +1006,6 @@
 *toogeel*
 *toogel*
 *tooogel*
-*top77*
 *topitoto*
 *topwdplay*
 *toto[0-9]*
@@ -1155,6 +1154,7 @@ sungai*.com
 sungai*.in
 sv3[0-9]*
 tko[0-9]*
+top[0-9]*
 tv88*
 twslive*
 u888*

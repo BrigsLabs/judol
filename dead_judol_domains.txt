@@ -292,6 +292,7 @@ garuda999.pages.dev
 gestione-e-logistica.pages.dev
 getvideo.pages.dev
 gg-rtpnyala.pages.dev
+gk88a.pages.dev
 goldenoneventurees.pages.dev
 grd-super.pages.dev
 gudang138ofc.pages.dev
@@ -363,6 +364,7 @@ maycokhi.pages.dev
 mclarenvale.pages.dev
 mcr-goes-to-indo.pages.dev
 mdgolden.pages.dev
+medit899.pages.dev
 meme4d-rtpslotgacor.pages.dev
 menkominfo-id.pages.dev
 menubumi-bumicafe-go-international.pages.dev
@@ -510,6 +512,7 @@ sumselcantik.pages.dev
 supalonely.pages.dev
 super-hadess.pages.dev
 svobodnoe-propovedi.pages.dev
+taiappgk88.pages.dev
 talon-kikir.pages.dev
 target4d-seo.pages.dev
 target4duhuy.pages.dev
@@ -517,6 +520,7 @@ teenchallengeuc-kodack.pages.dev
 teeviso.pages.dev
 tertuliafest.pages.dev
 thecellarwinebarkitchen-qwer.pages.dev
+theirvingtonwoods.pages.dev
 thelocalcatch-onepeople.pages.dev
 thestarsomerset.pages.dev
 theyashotel.pages.dev
@@ -544,8 +548,6 @@ yangpastipasti.pages.dev
 yatanokagami.pages.dev
 yesmovies-4uj.pages.dev
 zoom-d89.pages.dev
-medit899.pages.dev
-theirvingtonwoods.pages.dev
 
 # from cdn : *.r2.dev
 pub-4342a8a4bc4e4ea6a1ae05c91296684a.r2.dev
@@ -675,6 +677,7 @@ apkapi-ov2.datasvc.xyz
 # from *.it.com
 11uu.it.com
 188v.it.com
+23wincom.it.com
 acgwin.it.com
 aksesahk77.it.com
 albaslot.it.com
