@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1603
+# Number of entries: 1607
 # 
 # 
 # 
@@ -886,6 +886,7 @@
 *sawer[0-9]*
 *sbang[0-9]*
 *scatterhitam*
+*sekabet*
 *selayar[0-9]*
 *semut[0-9]*
 *sendok[0-9]*
@@ -1123,6 +1124,7 @@ cuankelas.*
 cuanmewah.*
 dunialot*
 evo[0-9]*
+fly[0-9]*
 gamespool*
 go[0-9]*
 grd[0-9]*
@@ -1149,6 +1151,8 @@ pafi*.org
 paki*.org
 pu88*
 rr88*
+sodo.*
+sodo[0-9]*
 ss88* 
 sungai*.com
 sungai*.in
