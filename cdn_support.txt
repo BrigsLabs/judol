@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1028
+# Number of entries: 1099
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -19,6 +19,7 @@
 1.bp.blogspot.com
 10322apk.deliber.net
 10fr4ame-b3stweeb.xyz
+1880house.com # hacked web
 18ea70d2d9a945cfb97d818ba71817dc.pacloudflare.com
 21assetmanagement.com
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
@@ -349,6 +350,7 @@ dh4oiqg45nvw7.cloudfront.net
 dha92jo6cen2v.cloudfront.net
 dhro5khzpwdga.cloudfront.net
 dhv857qjzfs98.cloudfront.net
+diabeticfootcareindia.com # hacked web
 digitalassetpro.xyz
 digitalwaypro.com # hacked web
 dilip.at
@@ -893,6 +895,7 @@ spaces-mtg.sgp1.cdn.digitaloceanspaces.com
 spaces-ptg.sgp1.cdn.digitaloceanspaces.com
 spaces-ptg.sgp1.digitaloceanspaces.com
 spaces-slg.sgp1.cdn.digitaloceanspaces.com
+sphinxbio.com # hacked web
 spribe.co
 spribe.com
 srv1648-files.hstgr.io
@@ -911,7 +914,6 @@ static.marsul.xyz
 static.nukeasset.com
 static.sameorigin.net
 static.stylecontent.xyz
-static.vecteezy.com
 static.zdassets.com
 static1.squarespace.com
 statis-images.s3.ap-southeast-1.amazonaws.com
@@ -1033,6 +1035,76 @@ zfrmz.com
 zmobileservices.com
 zmobileservices.us
 มีความสุข.today
+# suspicious backlink
+badakanom-desa.id 
+balaidesa.id
+bangka-desa.id
+bendoharjo.id
+bojong-desa.id
+bpnonline.ac.id
+brajaemas-desa.id
+bukitkelambingdesa.id
+buluhtelang.id
+buminabungbaru.id
+butontengahkab.id
+cekel.id
+dempel.id
+desa-co.id
+desa-jetis.id
+desa-kawo.id
+desa-ketapang.id
+desa-kuta.id
+desa-lebak.id
+desa-mojoagung.id
+desa-paluhmanis.id
+desa-pangkalan.id
+desa-parakan.id
+desa-pasarrawa.id
+desa-sekoci.id
+desaairhitam.id
+desaambelang.id
+desabagor.id
+desabajakuning.id
+desabrajagemilang.id
+desabungintende.id
+desacibitung.com
+desacibuntubekasikab.id
+desacitorektengah.id
+desaetam.id
+desagenius.id
+desajelbuk.id
+desakalianyar.id
+desakami.id
+desakaranganyar.id
+desakarangbolong.id
+desakayongutara.id
+desakertasari.id
+desaku.simpatidesa.id
+desakuat.id
+desalabuhanratuvii.id
+desalenggang.id
+desalingga.id
+desalojajarbondowoso.com
+desapadabale.id
+desapadek.id
+desapancasila.id
+desapangkungkarung.id
+desaraja.id
+desasepakat.id
+desasesandan-tabanan.net
+desasrengseng.id
+desasukamurni.id
+desasukasari.id
+desasumberdadi.id
+desasumurbatu.id
+desatomeang.id
+desatonusu.id
+desawewangriu.id
+dikdasmenkecsukmajaya.sch.id 
+dlhbukittinggi.org
+dukuhrejo-bayan.id
+durianlingga.id
+simpatidesa.id
 # azurewebsite.net
 berita-indonesia-engtgvgwd0edffbv.uksouth-01.azurewebsites.net # https://berita-indonesia-engtgvgwd0edffbv.uksouth-01.azurewebsites.net/cara-cepat-raih-hitam-wins-3-game-online.html
 cnbc-indonesia-hpgybngwhhdkh3e7.uksouth-01.azurewebsites.net # https://cnbc-indonesia-hpgybngwhhdkh3e7.uksouth-01.azurewebsites.net/1-305-pemain-game-online-tangerang-siap.html

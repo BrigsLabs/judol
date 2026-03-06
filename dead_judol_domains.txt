@@ -100,6 +100,7 @@ humboldt101.b-cdn.net
 idb77.b-cdn.net
 imagebank.b-cdn.net
 img-899.b-cdn.net
+img-air.b-cdn.net
 img-source.b-cdn.net
 imgkit.b-cdn.net
 iya-dech.b-cdn.net
