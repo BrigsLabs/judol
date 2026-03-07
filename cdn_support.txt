@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1099
+# Number of entries: 1171
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -1104,6 +1104,78 @@ dikdasmenkecsukmajaya.sch.id
 dlhbukittinggi.org
 dukuhrejo-bayan.id
 durianlingga.id
+e-atrbpn.ac.id
+erorejo.id
+geoportalatrbpn.ac.id
+gistaru.ac.id
+gunung-tumpeng.id
+gunungambat.id
+gunungbatinudik-desa.id
+gunungbatinudik.id
+gunungpasirjaya.id
+guyangan.id
+jangkungharjo.id
+jatengprovgo.id
+jenterastabat.id
+jilatang.id
+kalirejo-desa.id
+kamilin-desa.id
+kampungjawa-desa.id
+kampungluarbatang.id
+karanganyar-desa.id
+karanganyar-secanggang.id
+karangtanjung.id
+karyatani-desa.id
+katekan.id
+keboncau-desa.id
+kebonrejo.id
+kecamatan-benowo.org
+kecamatan-gunungpati.com
+kecamatanbator.com
+kecamatanjapah.com
+kecamatanjonggol.info
+kecamatankatinganhulu.com
+kecamatankramatjati.com
+kecamatanlarompongselatan.org
+kecamatanmatraman.com
+kecamatanmodung.com
+kecamatanpanongan-go.id
+kecamatansebuku.com
+kecamatansungaililin.com
+kecamatantobadak.com
+kedaung-mekarbaru-desa.id
+kelurahanbabau.id
+kelurahanbelian.id
+kelurahancikini.com
+kelurahancipedak.com
+kelurahankemasan.com
+kelurahankujangsari.id
+kelurahanmakasar.com
+kelurahanmaliti.com
+kelurahanmanuaman.com
+kelurahanpakualam.com
+kelurahanpemaluan.com
+kelurahanplombokan.com
+kelurahanpondokbambu.com
+kelurahanrejasari.com
+kelurahanrengas.info
+kelurahansukamiskin.com
+kelurahantombolo.com
+kelurahantunjungsekar.com
+kementrianpertanahan.ac.id
+kepulauan-lutungjawa.id
+kepyapenkab.id
+ketro.id
+kiarapayung-pakuhaji-desa.id
+kosambi-desa.id
+kranji.id
+kwalalangkat.id
+labuhanratudanau.id
+mekarjayadesa.id
+menduran.id
+merbaumataram.id
+muarajayalampungtimur.id
+pagedangan.id
 simpatidesa.id
 # azurewebsite.net
 berita-indonesia-engtgvgwd0edffbv.uksouth-01.azurewebsites.net # https://berita-indonesia-engtgvgwd0edffbv.uksouth-01.azurewebsites.net/cara-cepat-raih-hitam-wins-3-game-online.html
