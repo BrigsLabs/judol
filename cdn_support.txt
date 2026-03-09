@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1171
+# Number of entries: 1239
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -68,6 +68,7 @@ akundewaa.site
 alb-ipppw0c8ujq4ywp6eq.ap-southeast-1.alb.aliyuncs.com
 alcopay.com
 all-carousel.xyz # apk
+all-inedu.com # scam site : https://all-inedu.com/id-en/blog/mit-tuition-fees-a-full-financial-information-for-high-school-students
 allstarschildrensdentist.com # hacked web : https://www.allstarschildrensdentist.com/teeth-grinding-children https://www.allstarschildrensdentist.com/contact
 alphabod.org
 amatic.com
@@ -1175,8 +1176,75 @@ mekarjayadesa.id
 menduran.id
 merbaumataram.id
 muarajayalampungtimur.id
+mulyoarjo.id
+namuukurutara.id
+newdesabrilian2024.id
+ngabenrejo.id
+nukutorejo.id
+padangcermin-desa.id
 pagedangan.id
+pagerwojo-jombang.id
+panggangsari.id
+pardasukaselatan-desa.id
+pasar6kwalamencirim.id
+pastibpn.id
+payakkumang.id
+pekalongan-desa.id
+pekansawah.id
+pekonpandansaripringsewu.id
+pematangcengalbarat.id
+pematangtengah.id
+pemdescisungsang.id
+pemdessukra.id
+penawangan.id
+perkebunandamarcondong.id
+perkpulaurambung.id
+pesedahan-desa.id
+pojokwatu.id
+pos-bpn.ac.id
+poyowabesar-satu.id
+provmaluku.id
+rancalabuh-desa.id
+samaturudesa.id
+sambirejo.id
+sanggata-utara.id
+sendangagung-desa.id
+sendangasri.id
+sendangharjo.id
+sendangrejo-desa.id
+siapdesa.id
 simpatidesa.id
+singingihilir-desa.id
+sisteminformasibpn.ac.id
+sogogi.id
+sribawono.id
+srigading-desa.id
+sukadamai-langkat.id
+sukamajuabungsemuli.id
+sukamulia.id
+sumberjosari.id
+tabanandesa.id
+talangbatu-desa.id
+tambu-desa.id
+tanjunganom.id
+tanjunggunung.id
+tanjunglenggang.id
+tanjungpasir.id
+taruman.id
+tegalsumur.id
+telawah.id
+teluk-secanggang.id
+temon.id
+temurejo.id
+termas.id
+timbangjaya.id
+tuapejatdesa.id
+tumanggor.id
+turungunung.id
+wargadesa.id
+waykrui.id
+wedoro.id
+wrikapal-desa.id
 # azurewebsite.net
 berita-indonesia-engtgvgwd0edffbv.uksouth-01.azurewebsites.net # https://berita-indonesia-engtgvgwd0edffbv.uksouth-01.azurewebsites.net/cara-cepat-raih-hitam-wins-3-game-online.html
 cnbc-indonesia-hpgybngwhhdkh3e7.uksouth-01.azurewebsites.net # https://cnbc-indonesia-hpgybngwhhdkh3e7.uksouth-01.azurewebsites.net/1-305-pemain-game-online-tangerang-siap.html
