@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1607
+# Number of entries: 1617
 # 
 # 
 # 
@@ -19,6 +19,7 @@
 *[0-9]cuci*
 *[0-9]dewi*
 *[0-9]evenlucknew*
+*[0-9]gold*
 *[0-9]gtoto*
 *[0-9]hoki*
 *[0-9]kbet*
@@ -132,6 +133,7 @@
 *bgn168*
 *big365*
 *big77*
+*bigballer*
 *bigklik[0-9]*
 *bigo234*
 *binjaitoto*
@@ -139,6 +141,7 @@
 *biru138*
 *bisabos[0-9]*
 *bitkoin*
+*blackscatter*
 *blitar4d*
 *blu89*
 *bmx4d*
@@ -311,6 +314,7 @@
 *gojek[0-9]*
 *gojo[0-9]*
 *gol[0-9]*
+*gold[0-9]*
 *goldenlele*
 *goyangtoto*
 *gp2club*
@@ -382,7 +386,6 @@
 *indo[0-9]*
 *indobet*
 *indobit-[0-9]*
-*indomax[0-9]*
 *indoplay*
 *indoslot*
 *indosup*
@@ -615,7 +618,7 @@
 *matrixslot*
 *mauslot*
 *mawar[0-9]*
-*max88*
+*max[0-9]*
 *maxi188*
 *maxwin*
 *mbterbang*
@@ -626,6 +629,7 @@
 *mega[0-9]*
 *megagroup*
 *megashio*
+*megawin*
 *mejahoki*
 *mekar[0-9]*
 *member77*
@@ -744,6 +748,7 @@
 *panutantoto*
 *papa4d*
 *papabet*
+*paramanalo*
 *paris[0-9]*
 *pasir4d*
 *pastibet*
@@ -761,6 +766,7 @@
 *pencariangka*
 *penidabet*
 *penulis[0-9]*
+*peraplay*
 *permata[0-9]*
 *permen4d*
 *peso138*
@@ -819,6 +825,7 @@
 *qqslot*
 *qqstar[0-9]*
 *raban[0-9]*
+*race[0-9]*
 *rai88*
 *raja[0-9]*
 *rajabandot*
@@ -885,6 +892,7 @@
 *sastoto*
 *sawer[0-9]*
 *sbang[0-9]*
+*scatter*
 *scatterhitam*
 *sekabet*
 *selayar[0-9]*
@@ -1080,6 +1088,7 @@
 *warunggol*
 *wayangtoto*
 *wdhoki*
+*weissbet*
 *wg77*
 *wii4d*
 *win[0-9]*
@@ -1124,6 +1133,7 @@ cuankelas.*
 cuanmewah.*
 dunialot*
 evo[0-9]*
+fc[0-9]*
 fly[0-9]*
 gamespool*
 go[0-9]*
