@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1617
+# Number of entries: 1626
 # 
 # 
 # 
@@ -95,6 +95,7 @@
 *ayobet*
 *ayu89*
 *azkabet*
+*babelkekar*
 *babeltoto*
 *bacan[0-9]*
 *badak[0-9]*
@@ -113,6 +114,7 @@
 *bandarq*
 *barito[0-9]*
 *baron[0-9]*
+*barslot*
 *barudak*
 *batman[0-9]*
 *batmantoto*
@@ -255,12 +257,14 @@
 *enakkali*
 *enaxbet*
 *enaxtoto*
+*endut[0-9]*
 *enterslots*
 *episode[0-9]*
 *ertepe*
 *estabet*
 *ewi4d*
 *facebookslot*
+*falkon[0-9]*
 *fals4d*
 *fbslot*
 *fijislot*
@@ -306,9 +310,11 @@
 *gga88*
 *giga[0-9]*
 *gigaspin*
+*gila[0-9]*
 *gjh[0-9]*
 *go188*
 *go500*
+*goal[0-9]*
 *gocap[0-9]*
 *gogelpro*
 *gojek[0-9]*
@@ -371,6 +377,7 @@
 *icuci*
 *idmax*
 *idnsport*
+*idqq*
 *idr[0-9]*
 *ids[0-9]*
 *iduit*
@@ -545,6 +552,7 @@
 *laporkemenangan*
 *laskar-[0-9]*
 *laskar[0-9]*
+*lawak[0-9]*
 *laza[0-9]*
 *lazawinslot*
 *lebah-4d*
@@ -813,13 +821,14 @@
 *publiktoto*
 *pucuk[0-9]*
 *pulsa[0-9]*
+*puncaktoto*
 *pusaka[0-9]*
 *pusat-koin*
-*pusat4d*
+*pusat[0-9]*
 *pusatkoin*
 *putra[0-9]*
 *qiuqiu*
-*qq[0-9]
+*qq[0-9]*
 *qqmacan*
 *qqpalace*
 *qqslot*
@@ -849,7 +858,6 @@
 *rejeki[0-9]*
 *republik365*
 *rezekispin*
-*rgaqq[0-9]*
 *ria4d*
 *rice[0-9]*
 *rikvip*
@@ -1111,6 +1119,7 @@
 *yoda4d*
 *yukdwt*
 *yuktg[0-9]*
+*yumetoto*
 *yummy[0-9]*
 *zapslot*
 *zeus[0-9]*

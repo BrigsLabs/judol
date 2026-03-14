@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1239
+# Number of entries: 1258
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -56,8 +56,12 @@ acehmediacom.wordpress.com # suspicious
 acsbsurakarta.com # hacked web : acsbsurakarta.com/shop
 adomselfrecigency.com
 adsdewigg.com
+adsoptimization.top # seo
+aeodirectory.top # seo
+aeosubmission.top # seo
 afkpicture.vip
 agrotek.unimen.ac.id # hacked 
+aiodirectory.top # seo
 aiwasanfrancisco.com # hacked web
 aix-asset.s3.ap-southeast-1.amazonaws.com
 ajaibcloud.sgp1.cdn.digitaloceanspaces.com
@@ -73,6 +77,7 @@ allstarschildrensdentist.com # hacked web : https://www.allstarschildrensdentist
 alphabod.org
 amatic.com
 ambengine.com
+amoreshuttles.com # hacked web
 amp-escobar.sgp1.cdn.digitaloceanspaces.com
 ampabadi.com # suspicious
 anehoo.com
@@ -145,7 +150,6 @@ aryagames.com # subdom : internal.aryagames.com member.aryagames.com
 ascendercorp.com
 asdfcasa.com
 asetkadek.s3.ap-southeast-2.amazonaws.com
-asia99.jawirr.workers.dev
 asiasigma-assets.sgp1.cdn.digitaloceanspaces.com
 asiasigma.sgp1.cdn.digitaloceanspaces.com
 asset-arw.xyz
@@ -192,6 +196,7 @@ bestlink.ly
 bgdn.eu # hacked web
 binder-nx1.namesvr.xyz
 binder-nx2.nameserver.cfd
+biolabet.nyc3.cdn.digitaloceanspaces.com
 birototo.sgp1.cdn.digitaloceanspaces.com
 bitly.sbs
 bk.unimen.ac.id # hacked
@@ -206,6 +211,7 @@ bototomacau.weebly.com
 buktiabangempire.blogspot.com
 buktiedctoto.sgp1.digitaloceanspaces.com
 buktijpestoto00.blogspot.com
+burikama.com # hacked web
 by437ocd.ovslegodl.sched.ovscdns.com
 c23f1bb1b6d0420a94d3aeebea36c4c1.pacloudflare.com
 cafe-69-moneysite-default-rtdb.firebaseio.com
@@ -276,6 +282,7 @@ coastalmarket.org # scam
 coderedtacos.com # hacked web
 common-static.ppgames.net
 computerhope.com
+contentranking.top # seo
 cool-assets.sgp1.cdn.digitaloceanspaces.com
 corporationfoodhall.com # hacked web : https://corporationfoodhall.com/about-us
 creeksidenursing.com # hacked web : https://creeksidenursing.com/san-antonio-north-nursing-and-care/ 
@@ -353,6 +360,7 @@ dhro5khzpwdga.cloudfront.net
 dhv857qjzfs98.cloudfront.net
 diabeticfootcareindia.com # hacked web
 digitalassetpro.xyz
+digitalnomadtools.top # seo
 digitalwaypro.com # hacked web
 dilip.at
 dinohost.vip
@@ -380,6 +388,7 @@ drivehud.com
 dsbmedia.s3.ap-southeast-1.amazonaws.com
 dsuown9evwz4y.cloudfront.net
 dvbs75l69qv8d.cloudfront.net
+dvzlwzma32q6t.cloudfront.net
 dw.gp2play.com
 dwlink.skystarbiru.com
 dwnldapk.sgp1.cdn.digitaloceanspaces.com
@@ -403,6 +412,7 @@ entry.gyeitee.com
 entry.nuanmokeji.com
 eq37fu2xth.com
 erp.sphoki88.com
+escartonsbrevet.com
 estate77media.com
 exito.my.id
 exp.boobsbymassage.com
@@ -427,7 +437,6 @@ form.6mbr.com
 form.jotform.com # may create false positive
 forms.zohopublic.com
 fpnpmcdn.net
-fragrant-base-9dda.idebet88.workers.dev
 freeimage.host
 freespamfilter.org # seo # malicious backlink
 frescabowl.com # hacked web : https://www.frescabowl.com/egift-cards/
@@ -455,6 +464,7 @@ gameslotimage.sgp1.cdn.digitaloceanspaces.com
 gate.continue.group
 gate.networkappcomm.com
 gd88.app
+getairank.top # seo
 ghoulfire.pro
 gifyu.com
 giga-live-1-default-rtdb.asia-southeast1.firebasedatabase.app
@@ -471,6 +481,7 @@ gomanagedit.com # hacked web
 gpa2glsjhw.xyz
 greenbikefood.com # hacked web : https://greenbikefood.com/platters
 group-amp.ink
+growfasts.top # seo
 grup168.sgp1.digitaloceanspaces.com
 gso.kommo.com
 h85cndf2moxnwjz.com
@@ -489,7 +500,6 @@ hokijp168.mediamsg2.com
 hokiku.io # suspicious
 hostassets.online
 hosting-ampgsjp.site
-hotelinternationalrhodes.amanbos.workers.dev
 hotelvillaveneta.com
 hslmantap.sgp1.cdn.digitaloceanspaces.com
 i.ibb.co
@@ -584,6 +594,7 @@ jaringbet-official.blogspot.com
 jasj.us
 jejakkeren.com # suspicious
 jelajahyuk.id # scam
+jkt.omnicloud.io # apk
 jlfafafa3.com
 jmm-net.com # hacked web : https://jmm-net.com/cocol88/
 joyopetir.blogspot.com
@@ -608,12 +619,13 @@ kaucengkia.atl1.cdn.digitaloceanspaces.com
 kaya787.dataklmsad902.site
 kaya787.dataklmsad903.site
 kby55-ori6a9ulmdzkwij8ohml3mmh.vercel.app
-kejurtps.master-138group.workers.dev
+kenzototo.nyc3.cdn.digitaloceanspaces.com
 kerenbanget7.wordpress.com
 kesembilan.online
 khusus.nyc3.cdn.digitaloceanspaces.com
 kick.com
 kokobread.com
+konversiart.top # seo
 kumpulanfile.sgp1.digitaloceanspaces.com
 kumpulangambars.com
 kwellnessnyc.com # hacked web : https://kwellnessnyc.com/faq/
@@ -666,6 +678,7 @@ mantratt.sgp1.cdn.digitaloceanspaces.com
 maraset.site # CDN
 marinecorp.xyz
 market-online.wiki
+marketingfunnels.top # seo
 mawartt.sgp1.cdn.digitaloceanspaces.com
 me-qr.com # may create false positive
 media.api-sports.io
@@ -787,6 +800,7 @@ prod-api-ug4bv2.ns1-prototype.org
 prod-api-ug5cv2.web-sample.live
 prod-api-ug6v2.ns1-prototype.org
 projectgalery.xyz
+projectkzgroup.com # suspicious
 protecer.org # hacked web
 public.pgsoft-games.com
 pulquemaniaeu.com # hacked web
@@ -806,7 +820,7 @@ r2.dev # all subdom list in dead_judol_domains.txt
 rabanimage.io
 radartulungagung.co.id # malicious backlink
 rajabandot.sgp1.cdn.digitaloceanspaces.com
-rashakai.sijago88.workers.dev
+rankfaster.top # seo
 recamweek.com
 regalez-vous.farm
 renaimall.com
@@ -860,6 +874,8 @@ seoaceng.xyz # suspicious
 seobangjago.sgp1.cdn.digitaloceanspaces.com
 serubet.s3.ap-southeast-2.amazonaws.com
 serunyaberbag.com
+server-image.sgp1.cdn.digitaloceanspaces.com
+server-web.sgp1.cdn.digitaloceanspaces.com
 serverkaos.com
 sga-cdn-hxg6b2d7ctb2c0eu.z02.azurefd.net
 sgacdn.azureedge.net
@@ -1014,6 +1030,7 @@ winwin25.wordpress.com
 wlinetpos.com
 wllink.skystarbiru.com
 woainistef.sgp1.digitaloceanspaces.comwoainistef.sgp1.digitaloceanspaces.com
+workers.dev # all subdomain move to dead_judol_domains
 wow77.sgp1.cdn.digitaloceanspaces.com
 wss.823868.com
 wtgplay.xyz # subdom : apk.wtgplay.xyz media.wtgplay.xyz
@@ -1026,6 +1043,7 @@ xx1toto4.wordpress.com
 y2cdn.com
 yellowbirdcoffeehouse.com # hacked web
 yogaretreatguatemala.com # hacked web
+yrsbali.org # cloaking 
 yuk-wd.com
 zakw1rog.drhk.loveota.com
 zakw1rog.dshk.loveota.com
