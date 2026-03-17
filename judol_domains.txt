@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 24287
+# Number of entries: 24285
 #
 #
 # medium.com # whitelist
@@ -9254,7 +9254,6 @@ iluckyreals.asia
 image4d.me
 image77.xyz
 imagecurl.hospital
-imagedelivery.net
 imagehost.live
 imagenerd.com
 imagenesdeamortop.com
@@ -23833,7 +23832,6 @@ wp.griftery.com
 wp.tecnoysoc.com
 wpnerd.net
 wpteam.net
-wral.com
 wrdimimpiinkamu.lol
 wreckandsalvage.com
 writevibe.net

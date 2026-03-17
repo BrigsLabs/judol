@@ -1032,6 +1032,7 @@ wllink.skystarbiru.com
 woainistef.sgp1.digitaloceanspaces.comwoainistef.sgp1.digitaloceanspaces.com
 workers.dev # all subdomain move to dead_judol_domains
 wow77.sgp1.cdn.digitaloceanspaces.com
+wral.com
 wss.823868.com
 wtgplay.xyz # subdom : apk.wtgplay.xyz media.wtgplay.xyz
 xasia.me
