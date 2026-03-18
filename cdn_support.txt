@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1258
+# Number of entries: 1262
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -395,6 +395,7 @@ dwnldapk.sgp1.cdn.digitaloceanspaces.com
 dxqm4i1swgb5o.cloudfront.net
 dz5xbhxy6sjp4.cloudfront.net
 dztwieyphe62d.cloudfront.net
+e35058.api15.akamaiedge.net
 e39296.b.akamaiedge.net
 e39296.dscb.akamaiedge.net # may create false positive
 e39296.f.akamaiedge.net
@@ -534,6 +535,7 @@ images4.imagebam.com
 imageshare.click
 imagestaticcontent.com
 imagestechnics.com
+imageupload.online
 imagme.com
 img-cdngames.s3.amazonaws.com 
 img.atomgaming88images.com
@@ -712,6 +714,7 @@ moho.sgp1.cdn.digitaloceanspaces.com
 mpc-prod-1-1053047382554.us-central1.run.app
 mpc-prod-17-s6uit34pua-wl.a.run.app
 mpc-prod-4-1053047382554.us-central1.run.app
+mpc2-prod-27-is5qnl632q-uk.a.run.app
 mplay-live-2-default-rtdb.firebaseio.com
 mplay-live-4-default-rtdb.firebaseio.com
 mplay-live-5-default-rtdb.firebaseio.com
@@ -997,6 +1000,7 @@ uoaeiz3recbrojp76imxpthfemovjaxecjudzg8wytc.bithe.net
 updatechecker3-14ecc.firebaseio.com
 upload.ee
 upload.wikimedia.org
+uploadgambar.lat
 user-upload.aws-s3-r1r2str0bjx.sg-sin1.upcloudobjects.com
 usglobalasset.com
 veldrive.com # may create false positive
