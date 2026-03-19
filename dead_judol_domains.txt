@@ -79,6 +79,7 @@ cellceutix.b-cdn.net
 cindo.b-cdn.net
 dagelan4d-publisher.b-cdn.net
 dan-jika.b-cdn.net
+deepfreeze.b-cdn.net
 dikembalikan-sendiri-oleh-google.b-cdn.net
 dkwl.b-cdn.net
 dmca-images.b-cdn.net
@@ -707,6 +708,7 @@ albaslot.it.com
 altogel.it.com
 amerikatoto.it.com
 anoboy.it.com
+apkagennalo.it.com
 ashk77.it.com
 ashk77a.it.com
 asiabet.it.com
@@ -1259,3 +1261,29 @@ kejurtps.master-138group.workers.dev
 phapac.hafeiniamilan.workers.dev
 rashakai.sijago88.workers.dev
 situs-slot-gacor-tw88.rjpl-group.workers.dev
+
+#from arimbi89.live # subdom : 
+ma006.arimbi89.live 
+app.arimbi89.live 
+rtp01.arimbi89.live
+
+#from hantam88b.online # subdom : 
+mc001.hantam88b.online 
+app.hantam88b.online 
+rtp.hantam88b.online
+
+#from lion8a.site # subdom : 
+game006.lion8a.site 
+app.lion8a.site 
+rtp01.lion8a.site
+
+#from patriot77b.site # subdom : 
+app.patriot77b.site 
+po007.patriot77b.site 
+rtp.patriot77b.site
+
+#from pusaka189b.online # subdom : 
+game009.pusaka189b.online 
+app.pusaka189b.online 
+app.pusaka189b.online
+

@@ -4,9 +4,9 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 24285
+# Number of entries: 24311
 #
-#
+# imagedelivery.net # whitelist
 # medium.com # whitelist
 00789f.com
 01.datacuan.info
@@ -215,6 +215,7 @@
 28bet.bid
 28bet.gives
 28bet88.com
+293bayspin.com
 29pekantoto.com
 2agodaslot.net
 2archipedia.com
@@ -684,6 +685,7 @@ Teresina-wlalottery.com
 Verona-wlalottery.com
 a.buktijpdikia.com
 a.bwnn7.com
+a.edu.uy
 a.rtpdikia.com
 a.selalu-maxwin.com
 a.siakkab.com
@@ -777,6 +779,7 @@ abuwp13573.dewacashovo.one
 acaciaorganics.com
 academiadebomberosonline.com
 academiadecienciasveterinarias.org
+academyofpodcasters.pairsite.com
 acakina.com # subdom : paito3.acakina.com
 acc-kumaha.cfd
 acc-kumaha.cloud
@@ -954,6 +957,11 @@ agenjitu.cam
 agenjitu.xyz # cloaking
 agenmaksimal.vip
 agennall.vip
+agennalo.army
+agennalo.com.co
+agennalo.dan.unb.br
+agennalo.morrodagarca.cam.mg.gov.br
+agennalo.region6.dilg.gov.ph
 agenolx.com
 agenolxbaik.com
 agenolxbos.com
@@ -1640,6 +1648,7 @@ api-sandbox.geocloud.com.br
 api.arno.app
 api.burpandfartpiano.com
 api.cloud.uangloka.com
+api.digistartelkom.id
 api.fwdev.cloud
 api.gruelbox.com
 api.keepsake.de
@@ -1650,7 +1659,6 @@ api.tianlongpoker.net
 api.topnotchs.site
 api2-jaj.tr8ngames.com
 api2000av.com
-api214.cloud.mime.services
 api66ssw.store
 api777jaya.store
 apibetamp.online
@@ -1659,6 +1667,9 @@ apiccbali2025.com
 apics-wichita.com
 apinchofhealth.com
 apismezvhr.ru.com
+apitoto.giff.mx
+apitoto.munal.mx
+apitoto.tas.ac.uk
 apizeus777-jp.pro
 apizeus777rtp-top.shop
 apk-arusjitu.xyz
@@ -1944,6 +1955,9 @@ asiabetking.poker
 asiagacor77play.lat
 asiagacor77play.online
 asiago.site
+asiagol.dan.unb.br
+asiagol.id
+asiagol.morrodagarca.cam.mg.gov.br
 asiagosok88.store
 asiahoki77game.xyz # subdom : rtp1.asiahoki77game.xyz
 asiajp88-a.fun
@@ -2176,6 +2190,7 @@ avspu.supermegawin.biz
 avtizem.org
 avvip15kh.shop
 avyqatzenf.ru.com
+awael.edu.om
 awal-perahu.xyz
 awan.linetogel788.life
 awan128.live
@@ -2542,6 +2557,7 @@ baronglegend.pro
 baronglive.site
 barongmenang.site
 barongnaik.top
+barongtogel1000.morrodagarca.cam.mg.gov.br
 barrougeclubs.com
 barryhappycouples.com
 barudak4d.com
@@ -2601,6 +2617,7 @@ bayiservisi.com
 bayiservisi.com.tr
 bayodev.com
 baysidesaintpatricksdayparade.org
+bayspin.net
 baytcapital.id
 bayubiru.com
 bayusantai.com
@@ -2836,6 +2853,7 @@ bet88winn.com
 bet90ball.com
 beta.bpsgroup.com.br
 beta.ganntech.com.au
+beta.iitbhu.ac.in
 beta138elite.org
 betaalto.xyz
 betadinekapas.top
@@ -2868,6 +2886,7 @@ betis.info
 betis777.com
 betis888.com
 betista.com
+betistw.com
 betkhane.bio
 betluckmak88.win
 betmawar500.com
@@ -4231,6 +4250,7 @@ chicagobestlotto.com
 chicagoresourceexpo.com
 chicken-miche.com
 chickenfight.lol
+chigorodolosandes.edu.co
 childlabourdialogues.org
 childrensadventurecompany.org
 chilean-casino-online.cl
@@ -4602,6 +4622,7 @@ covenantcounselingministries.org
 coventry-pools.com
 covercarconcepts.com
 coverjoki188.xyz
+covid19.health.gov.gy
 covid19routtcounty.com
 covidcarenetwork.org
 covumc.net
@@ -5140,6 +5161,7 @@ departmentofability.com
 departures-arrivals.com
 depdertepe.cfd
 deploy.live
+depo-10k.nitescence.net
 depo-slot88.fun
 depo89-help.com
 depo89-ok.art
@@ -11343,6 +11365,7 @@ krakowpools.com
 kramerpools.com
 kranindovegas4d.com
 kreatifmania.online
+kreativewebstudio.pafi-ungaran.org
 kreativi.id
 kreatorhub.online
 krgelectric.org
@@ -13984,6 +14007,7 @@ mobi.maindiole777.com
 mobi.theslotole.xyz
 mobil100.id
 mobile-apk-hulk33.theeqapps.com
+mobile.ligaapps.net
 mobile.renzifoodservice.com
 mobilehealthmatters.com
 mobilhino99.com
@@ -19703,6 +19727,7 @@ server88.me # all subdom move to dead_judol_domains list
 serverafktoto.info
 serverafktoto.me
 serverbaik.com # cloaking
+serverbeta.xyz
 servercongku.xyz
 servergcr.com # cdn
 servergg.pro
@@ -20355,6 +20380,7 @@ smartcontractor.ca
 smartech.id
 smartfit20.com
 smartfleet.lk
+smartlocker.uncc.edu # cloaking
 smartshopcelular.com
 smarturl.ink # cloaking
 smartvapepods.com

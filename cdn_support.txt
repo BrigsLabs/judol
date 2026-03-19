@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1262
+# Number of entries: 1263
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -116,6 +116,7 @@ api.noproky.net
 api.scorebat.com
 api.shorebird.dev
 api.signalbit.io
+api214.cloud.mime.services
 apionix-7-default-rtdb.firebaseio.com
 apionix3-3-default-rtdb.asia-southeast1.firebasedatabase.app
 apionix4-3-default-rtdb.firebaseio.com
@@ -988,7 +989,7 @@ traff-poland.net
 tranfertous.com
 transcend-cdn.com
 trinetraeyecare.com # hacked web
-trustx.id/ # qris payment 
+trustx.id # qris payment 
 tulumlatingastropubmke.com # hacked web : https://www.tulumlatingastropubmke.com/menus
 turbokolor.com # hacked web
 uaim.edu.mx # hacked web
