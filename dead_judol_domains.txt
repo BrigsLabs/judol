@@ -7,8 +7,19 @@
 #
 #
 #
-
 #
+# azurewebsite.net
+berita-indonesia-engtgvgwd0edffbv.uksouth-01.azurewebsites.net
+cnbc-indonesia-hpgybngwhhdkh3e7.uksouth-01.azurewebsites.net
+evokingnews-hwcqhrh9b3ewdnag.uksouth-01.azurewebsites.net
+game-online-bnfpb3gahggbc9g7.uksouth-01.azurewebsites.net
+geforcextrup-bxe5gaa6b8fgdpek.uksouth-01.azurewebsites.net
+intelup-cacvdeh9fwhee0c9.uksouth-01.azurewebsites.net
+jpu-viral-eya8bjbwh9gacqg6.uksouth-01.azurewebsites.net
+jurnal-indonesia-hhhfbzexhjbpb6aj.uksouth-01.azurewebsites.net
+kumparan-bhcqhdhea6bzases.uksouth-01.azurewebsites.net
+telkomsel-id-a7e9czaddcc7fbcq.uksouth-01.azurewebsites.net
+
 # Github.io
 andreasiregar20.github.io 
 beritasiang.github.io 

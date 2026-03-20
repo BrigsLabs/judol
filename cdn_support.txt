@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1263
+# Number of entries: 1252
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -1269,15 +1269,3 @@ wargadesa.id
 waykrui.id
 wedoro.id
 wrikapal-desa.id
-# azurewebsite.net
-berita-indonesia-engtgvgwd0edffbv.uksouth-01.azurewebsites.net # https://berita-indonesia-engtgvgwd0edffbv.uksouth-01.azurewebsites.net/cara-cepat-raih-hitam-wins-3-game-online.html
-cnbc-indonesia-hpgybngwhhdkh3e7.uksouth-01.azurewebsites.net # https://cnbc-indonesia-hpgybngwhhdkh3e7.uksouth-01.azurewebsites.net/1-305-pemain-game-online-tangerang-siap.html
-evokingnews-hwcqhrh9b3ewdnag.uksouth-01.azurewebsites.net # https://evokingnews-hwcqhrh9b3ewdnag.uksouth-01.azurewebsites.net/akun-pro-punya-keunggulan-universal-scatter-hitam-bonus-dobel-bisa-diandalkan.html
-game-online-bnfpb3gahggbc9g7.uksouth-01.azurewebsites.net # https://game-online-bnfpb3gahggbc9g7.uksouth-01.azurewebsites.net/1-708-pemain-wins-3-pontianak-game-online.html
-geforcextrup-bxe5gaa6b8fgdpek.uksouth-01.azurewebsites.net # https://geforcextrup-bxe5gaa6b8fgdpek.uksouth-01.azurewebsites.net/bagaimana-seorang-pemain-pemula-menang-berkat-bocoran-scatter-hitam.html
-intelup-cacvdeh9fwhee0c9.uksouth-01.azurewebsites.net # https://intelup-cacvdeh9fwhee0c9.uksouth-01.azurewebsites.net/bagaimana-spin-eksklusif-di-virgobet88-membawa-pemain-mencapai-kemenangan-tertinggi.html
-jpu-viral-eya8bjbwh9gacqg6.uksouth-01.azurewebsites.net # https://jpu-viral-eya8bjbwh9gacqg6.uksouth-01.azurewebsites.net/barista-kafe-ini-bagikan-pola-rahasia-menang-mahjong-ways.php
-jurnal-indonesia-hhhfbzexhjbpb6aj.uksouth-01.azurewebsites.net # https://jurnal-indonesia-hhhfbzexhjbpb6aj.uksouth-01.azurewebsites.net/10-trik-efektif-bermain-wins-3-game-online.html
-kumparan-bhcqhdhea6bzases.uksouth-01.azurewebsites.net # https://kumparan-bhcqhdhea6bzases.uksouth-01.azurewebsites.net/pola-spin-rahasia-yang-disukai-pemain-sultan.html
-telkomsel-id-a7e9czaddcc7fbcq.uksouth-01.azurewebsites.net # https://telkomsel-id-a7e9czaddcc7fbcq.uksouth-01.azurewebsites.net/guru-honorer-sukses-bawa-pulang-hadiah-puluhan-juta-dari-mahjong-ways.php
-validatedata.azurewebsites.net
