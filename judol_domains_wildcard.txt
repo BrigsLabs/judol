@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1631
+# Number of entries: 1634
 # 
 # 
 # 
@@ -236,6 +236,7 @@
 *dinasti2[0-9]*
 *dingdong[0-9]*
 *dino[0-9]*
+*dinobet*
 *divisi3[0-9]*
 *dogelexus*
 *dokter[0-8]*
@@ -1284,6 +1285,7 @@ zx88*
 *.dpdns.org
 *.eco
 *.edu.eu
+*.energy
 *.engineer
 *.enterprises
 *.equipment
@@ -1473,6 +1475,7 @@ zx88*
 *.vision
 *.vote
 *.voto
+*.voyage
 *.wang
 *.webcam
 *.website
