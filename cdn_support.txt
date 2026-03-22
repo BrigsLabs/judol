@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1252
+# Number of entries: 1266
 # CDNs supporting site (may contains false positive)
 # i.pinimg.com # whitelist
 # img.freepik.com # whitelist
@@ -16,6 +16,7 @@
 # sgp1.digitaloceanspaces.com # whitelist
 # s3.us-east-1.amazonaws.com # whitelist
 # incapdns.net # whitelist 
+# s3-r-w.ap-southeast-1.amazonaws.com # whitelist
 1.bp.blogspot.com
 10322apk.deliber.net
 10fr4ame-b3stweeb.xyz
@@ -405,6 +406,7 @@ edcdesign.sgp1.digitaloceanspaces.com
 edge.api.flagsmith.com
 eghsuc4vt3.execute-api.us-east-1.amazonaws.com
 egt-digital.com
+eijkman.go.id # malicious backlink
 elejabaa.com # seo backlink
 enak.la
 enderocean.com
@@ -414,6 +416,7 @@ entry.nuanmokeji.com
 eq37fu2xth.com
 erp.sphoki88.com
 escartonsbrevet.com
+esports.heracles.nl # malicious backlink
 estate77media.com
 exito.my.id
 exp.boobsbymassage.com
@@ -424,6 +427,7 @@ felixhospitals.com
 feritogel.sgp1.cdn.digitaloceanspaces.com
 fffiiillleee.com
 fg-host-img.com
+ficavirtual2020.cdmx.gob.mx # malicious backlink
 file001.nxtengine.net
 fileku.cc
 filemu.cc
@@ -436,6 +440,7 @@ foodforestcafe.com # hacked web
 forbidden-pet.vercel.app
 form.6mbr.com
 form.jotform.com # may create false positive
+former.tax.gov.kh # malicious backlink
 forms.zohopublic.com
 fpnpmcdn.net
 freeimage.host
@@ -462,6 +467,8 @@ game.sfo2.digitaloceanspaces.com
 gameplayint.com
 games.evolution.com
 gameslotimage.sgp1.cdn.digitaloceanspaces.com
+gametobeta.files.wordpress.com
+gametobeta.wordpress.com
 gate.continue.group
 gate.networkappcomm.com
 gd88.app
@@ -480,6 +487,7 @@ global-server.net
 gobel.ink
 gomanagedit.com # hacked web
 gpa2glsjhw.xyz
+graduacao.dan.unb.br # malicious backlink
 greenbikefood.com # hacked web : https://greenbikefood.com/platters
 group-amp.ink
 growfasts.top # seo
@@ -672,6 +680,7 @@ love-kyoto.net # hacked web
 lp4d.nyc3.cdn.digitaloceanspaces.com
 lpip209.sgp1.cdn.digitaloceanspaces.com
 lpnyabatak.sgp1.digitaloceanspaces.com
+lucidfood.com # hacked web
 lumpiagoreng.xyz
 m-g.io
 m.ozzogame.com
@@ -755,6 +764,7 @@ omutgl.sgp1.digitaloceanspaces.com
 onelive.dataklmsad902.site
 onix-live-2-default-rtdb.firebaseio.com
 onix-live-5-default-rtdb.firebaseio.com
+onokabeh.id # malicous backlink # probe scam
 oxplay.api-oplbo.com
 ozzogame.com
 p3i.unimen.ac.id # hacked
@@ -765,6 +775,7 @@ pafikabbintan.co.id # backlink # scam
 pafipalu.co.id # backlink # scam
 pafirogtoto.org
 pages.dev # all subdom list in dead_judol_domains.txt
+paia.uj.ac.za # malicious backlink
 paneltki.info
 papacitan.site # scam # suspicious
 papitogel.sgp1.cdn.digitaloceanspaces.com
@@ -779,6 +790,7 @@ photobanner.sgp1.cdn.digitaloceanspaces.com
 photoin.io
 photoku.io
 photosaya.io
+photosme.site
 pict1.sgp1.cdn.digitaloceanspaces.com
 pictday.org
 pictstage.digital
@@ -803,6 +815,7 @@ prod-api-ug3bv2.web-sample.live
 prod-api-ug4bv2.ns1-prototype.org
 prod-api-ug5cv2.web-sample.live
 prod-api-ug6v2.ns1-prototype.org
+projectcarsgame.com # hacked web
 projectgalery.xyz
 projectkzgroup.com # suspicious
 protecer.org # hacked web
@@ -825,6 +838,7 @@ rabanimage.io
 radartulungagung.co.id # malicious backlink
 rajabandot.sgp1.cdn.digitaloceanspaces.com
 rankfaster.top # seo
+raspi.today # malicious backlink
 recamweek.com
 regalez-vous.farm
 renaimall.com
@@ -859,7 +873,6 @@ s16-11187.ap4r.com
 s21-def.ks-la.net
 s3-ap-southeast-1.amazonaws.com
 s3-r-w.ap-northeast-1.amazonaws.com
-s3-r-w.ap-southeast-1.amazonaws.com
 s31.aconvert.com
 samuelkigelman.com # hacked web
 savegambar.com
@@ -963,6 +976,7 @@ tasya51.wordpress.com
 tawk.to # may create false positive
 tbgroup.vip # subdom : cdn.tbgroup.vip tool.tbgroup.vip
 teamglobalasset.com
+technologytimes.pk # malicious backlink
 teenchallengeuc.org # hacked web : https://teenchallengeuc.org/contact/
 tenissauconymexico.com.mx # hacked web
 terhubung.xyz # subdom : pot.terhubung.xyz big.terhubung.xyz
@@ -992,6 +1006,7 @@ trinetraeyecare.com # hacked web
 trustx.id # qris payment 
 tulumlatingastropubmke.com # hacked web : https://www.tulumlatingastropubmke.com/menus
 turbokolor.com # hacked web
+tvmovilpublicidad.com # malicious backlink
 uaim.edu.mx # hacked web
 ucarecdn.com
 ug-meoh-pub.cloudassets.online
