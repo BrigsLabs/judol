@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1638
+# Number of entries: 1641
 # 
 # 
 # 
@@ -108,6 +108,7 @@
 *baginda[0-9]*
 *bagong[0-9]*
 *bahagia777*
+*balaksix*
 *balon4d*
 *bambu[0-9]*
 *bambumas[0-9]*
@@ -932,6 +933,7 @@
 *sisil[0-9]*
 *situstoto*
 *situswin*
+*six[0-9]*
 *sky[0-9]*
 *slot[0-9]*
 *slotbagus*
@@ -1337,6 +1339,7 @@ zx88*
 *.health
 *.healthcare
 *.help
+*.hl.cn
 *.homes
 *.hot
 *.house

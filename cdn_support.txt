@@ -4,19 +4,10 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1650
+# Number of entries: 1644
 # CDNs supporting site (may contains false positive)
-# i.pinimg.com # whitelist
-# img.freepik.com # whitelist
-# static.vecteezy.com # whitelist
-# cdn.digitaloceanspaces.com # whitelist
-# images.ctfassets.net # whitelist
-# i.scdn.co # whitelist
-# cdn.datatables.net # whitelist
-# sgp1.digitaloceanspaces.com # whitelist
-# s3.us-east-1.amazonaws.com # whitelist
-# incapdns.net # whitelist 
-# s3-r-w.ap-southeast-1.amazonaws.com # whitelist
+#
+#
 1.bp.blogspot.com
 10322apk.deliber.net
 10fr4ame-b3stweeb.xyz
@@ -1574,9 +1565,12 @@ pagedangan.id
 pagerwojo-jombang.id
 panggangsari.id
 pardasukaselatan-desa.id
+partai-kedaulatan.org
+partainasdemkabbekasi.com
 pasar6kwalamencirim.id
 pastibpn.id
 payakkumang.id
+pdamklaten.com
 pekalongan-desa.id
 pekansawah.id
 pekonpandansaripringsewu.id
@@ -1587,6 +1581,7 @@ pemdessukra.id
 penawangan.id
 perkebunandamarcondong.id
 perkpulaurambung.id
+perpuseru.org
 pesedahan-desa.id
 plandinkessampang.info
 pojokwatu.id
