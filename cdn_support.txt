@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1644
+# Number of entries: 1651
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -105,9 +105,11 @@ api.aqzbouatv2.com
 api.cloud.mime.services
 api.freshapp.top
 api.noproky.net
+api.pwa-marketing.com
 api.scorebat.com
 api.shorebird.dev
 api.signalbit.io
+api.wortise.com
 api214.cloud.mime.services
 apionix-7-default-rtdb.firebaseio.com
 apionix3-3-default-rtdb.asia-southeast1.firebasedatabase.app
@@ -216,6 +218,7 @@ cdn-pelangi.onrender.com
 cdn-proxy.globalcontentcloud.com
 cdn-seamless.m40c7v9i.com
 cdn-services.dev
+cdn.ably.com
 cdn.ampproject.org
 cdn.antipeluru.best
 cdn.areabermain.club
@@ -243,6 +246,7 @@ cdn.robotsatelit.net
 cdn.shorebird.cloud
 cdn.store-assets.com
 cdn.susu-na-khap.com
+cdn.vefrop.com
 cdn.wgsources.com
 cdn.zabbet.com
 cdn1.epicgames.com
@@ -281,6 +285,7 @@ corporationfoodhall.com # hacked web : https://corporationfoodhall.com/about-us
 creeksidenursing.com # hacked web : https://creeksidenursing.com/san-antonio-north-nursing-and-care/ 
 crisp.chat
 d145yfon394ak6.cloudfront.net
+d17if134pyeemt.cloudfront.net
 d1ayxb9ooonjts.cloudfront.net
 d1bnhxh1olb98c.cloudfront.net
 d1j3dnvd81uy9o.cloudfront.net
@@ -777,6 +782,7 @@ penilaianmauslot.lovable.app
 peruinformation.org # hacked web : https://www.peruinformation.org/geography https://amp.peruinformation.org/kaostogel.html
 pg888pp.com
 pglchat.com # might false positive
+phantom.com
 photobanner.sgp1.cdn.digitaloceanspaces.com
 photoin.io
 photoku.io
@@ -1024,6 +1030,7 @@ vulture.rest
 vxbrkq1luxtv.gpa2glsjhw.xyz
 w5svj.syd1.cdn.digitaloceanspaces.com
 walletconnect.com # payment gate
+wallkit.instal.com
 warnascore.com
 waterlilybeauty.com # hacked web : https://www.waterlilybeauty.com/waterlilyfacials
 wdnotif.sgp1.digitaloceanspaces.com
