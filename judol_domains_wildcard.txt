@@ -4,12 +4,13 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1641
+# Number of entries: 1672
 # 
 # 
 # 
 *11wbet*
 *168gg*
+*1playau*
 *3rp[0-9]*
 *4d.com
 *788*
@@ -92,6 +93,8 @@
 *atlasbet*
 *atom138*
 *att4d*
+*audgaming*
+*audplay*
 *awan1[0-9]*
 *ayobet*
 *ayu89*
@@ -127,6 +130,7 @@
 *bento4d*
 *benuabet*
 *berhadiahundian[0-9]*
+*bestau*
 *bet-coin*
 *bet[0-9]*
 *betberry*
@@ -157,6 +161,7 @@
 *bonafit88*
 *bonanza[0-9]*
 *bongkar4dprize*
+*bonsai[0-9]*
 *bonus138*
 *boom138*
 *borju[0-9]*
@@ -257,6 +262,7 @@
 *edit[0-9]*
 *elitjp*
 *emas[0-9]*
+*emu[0-9]*
 *enakkali*
 *enaxbet*
 *enaxtoto*
@@ -269,12 +275,15 @@
 *facebookslot*
 *falkon[0-9]*
 *fals4d*
+*fastspin*
 *fbslot*
 *fijislot*
 *flores[0-9]*
 *for4d*
 *formasi4d*
 *fptoto*
+*freeaud*
+*freecredit*
 *fulltoto*
 *fungame777*
 *g888*
@@ -285,6 +294,7 @@
 *gacor*
 *gadunslot*
 *gajah[0-9]*
+*galau[0-9]*
 *gama69*
 *gambler*
 *gambling*
@@ -331,6 +341,7 @@
 *gp2play*
 *grab[0-9]*
 *granat[0-9]*
+*grandau*
 *grda999*
 *gudang[0-9]*
 *guetoto*
@@ -508,6 +519,7 @@
 *khusus4d*
 *kientoto*
 *kilat[0-9]*
+*kimberley[0-9]*
 *king[0-9]*
 *kisaran4d*
 *kisarantoto*
@@ -746,6 +758,7 @@
 *paket4d*
 *paktuaslotaman*
 *paluapi[0-9]*
+*panas[0-9]*
 *pancing77*
 *panda[0-9]*
 *pandabet*
@@ -800,6 +813,7 @@
 *poka[0-9]*
 *pokaslot*
 *poker*
+*pokiesbillion*
 *polawish[0-9]*
 *polayb*
 *polo[0-9]*
@@ -836,6 +850,7 @@
 *qqpalace*
 *qqslot*
 *qqstar[0-9]*
+*queenau*
 *raban[0-9]*
 *race[0-9]*
 *rai88*
@@ -860,10 +875,13 @@
 *rawit1[0-9]*
 *rejeki[0-9]*
 *republik365*
+*rezeki[0-9]*
 *rezekispin*
 *ria4d*
 *rice[0-9]*
+*richspin*
 *rikvip*
+*rilek[0-9]*
 *rimbatoto*
 *ringgit[0-9]*
 *rjs138*
@@ -918,6 +936,7 @@
 *setan[0-9]*
 *shibatoto*
 *shio[0-9]*
+*shoei[0-9]*
 *siapbet*
 *sibayak*
 *sigmaslot*
@@ -954,16 +973,21 @@
 *sonitoto*
 *sor[0-9]*
 *sortoto*
+*spaceman[0-9]*
+*speedau*
+*spice[0-9]*
 *spingratis*
 *spinhadiah*
 *spo[0-9]*
 *spy[0-9]*
+*squeenau*
 *sslloot*
 *ssstoto*
 *stadium[0-9]*
 *star303*
 *starling[0-9]*
 *stars[0-9]*
+*steadyau*
 *sttoto*
 *subur[0-9]*
 *suburwin*
@@ -994,6 +1018,7 @@
 *tarungtoto*
 *tasenslot*
 *taxi[0-9]*
+*taxis[0-9]*
 *teamwish[0-9]*
 *tekun4d*
 *telurtoto*
@@ -1005,6 +1030,7 @@
 *terminalbet*
 *teslatoto*
 *texas88*
+*theoneau*
 *tiara-4d*
 *tifmau[0-9]*
 *tiger[0-9]*
@@ -1018,6 +1044,7 @@
 *toggel*
 *togggel*
 *tok99*
+*tokenau*
 *tokeslot[0-9]*
 *toko[0-9]*
 *tokoslot[0-9]*
@@ -1063,6 +1090,7 @@
 *ultrajp*
 *undian[0-9]*
 *unditoto*
+*unitedau*
 *unogg*
 *unovegas*
 *up2000*
@@ -1171,6 +1199,7 @@ kpk*.com
 kumbang*
 lc88*
 mb88*
+mbi[0-9]*
 mm88*
 mw68*
 nitroplay*
@@ -1193,7 +1222,9 @@ top[0-9]*
 tv88*
 twslive*
 u888*
+ufa[0-9]*
 ug[0-9]*
+ugg[0-9]*
 up[0-9]*
 uu88*
 vsa88bos.*

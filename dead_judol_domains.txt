@@ -192,7 +192,6 @@ wis77orid.b-cdn.net
 wis77usorg.b-cdn.net
 wong87-css.b-cdn.net
 xidbsxnexus.b-cdn.net
-totobeta-5000.b-cdn.net
 
 # from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
 23win-nohu.pages.dev
@@ -730,6 +729,7 @@ ashk77.it.com
 ashk77a.it.com
 asiabet.it.com
 asianslot88-livescore.it.com
+audgaming.it.com
 bagong4d.it.com
 baksosolo.it.com
 bandartogelonline.it.com
