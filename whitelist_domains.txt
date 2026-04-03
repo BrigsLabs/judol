@@ -83,6 +83,7 @@ lime.bike
 onlinesizing.bike
 rapido.bike
 anonymurl.biz
+antiphishing.biz
 asana.biz
 beiniz.biz
 bonial.biz
@@ -138,6 +139,7 @@ fanbox.cc
 fiedler.cc
 forestapp.cc
 frontrow.cc
+godoflove.cc
 imgus.cc
 is.cc
 itead.cc
@@ -215,6 +217,7 @@ tilde.club
 tmdb.club
 xhtml.club
 google.cm
+prop.cm
 helium.computer
 libre.computer
 neat.computer
@@ -229,7 +232,6 @@ prometko.cyou
 daily.dad
 dear.dad
 gdflix.dad
-gdtot.dad
 rad.dad
 endoflife.date
 boo.dating
@@ -242,6 +244,7 @@ meucarrinho.delivery
 push.delivery
 return-my.delivery
 ze.delivery
+clear.dental
 xhamster.desi
 2fa.directory
 cursor.directory
@@ -260,9 +263,13 @@ mkvtoolnix.download
 orangefox.download
 up4ever.download
 upfiles.download
+auk.eco
 elli.eco
 mer.eco
 play.eco
+bigdig.energy
+eonnext-kraken.energy
+octopus.energy
 biqu.equipment
 ticketco.events
 infosec.exchange
@@ -273,6 +280,7 @@ malware.expert
 lemmy.fan
 os.fan
 haal.fashion
+raster.finance
 xynth.finance
 appetit.fit
 clubb.fit
@@ -356,6 +364,7 @@ fastmail.help
 gorgias.help
 kustomer.help
 pixiv.help
+lzk.hl.cn
 stremio.homes
 minecraft.hot
 lanparty.house
@@ -418,6 +427,7 @@ status.lol
 techaro.lol
 weblog.lol
 wpp.lol
+football.london
 digitalize.ltd
 homebrew.ltd
 picsee.ltd
@@ -449,6 +459,7 @@ cdn.moe
 cubari.moe
 ddlc.moe
 dmn.moe
+ewe.moe
 honse.moe
 mathi.moe
 nyarchlinux.moe
@@ -488,7 +499,9 @@ postgres.new
 sheet.new
 site.new
 slide.new
+coupa.ng
 google.com.ng
+clash.ninja
 poe.ninja
 protomedia.ninja
 project2025.observer
@@ -514,6 +527,7 @@ manuals.online
 mastodon.online
 mrprice.online
 open.online
+order.online
 owncast.online
 photostore24.online
 radarpayment.online
@@ -532,6 +546,7 @@ ducks.party
 mstdn.party
 ntc.party
 spankbang.party
+wmars.party
 kickthespy.pet
 kuma.pet
 safe.pharmacy
@@ -588,6 +603,7 @@ srv.rent
 insomnia.rest
 nect.rest
 moyos.restaurant
+swipein.restaurant
 vecchioamore.restaurant
 highquality.rip
 medium.rip
@@ -607,6 +623,7 @@ aloedent.shop
 axisms.shop
 buergerspital.shop
 chessvibes.shop
+cineorder.shop
 derweinladen.shop
 domainname.shop
 domene.shop
@@ -645,7 +662,6 @@ winefactory.shop
 xn--dnemark-5wa.shop
 camz.show
 j.show
-7mb.site
 additive-apps.site
 aftermath.site
 anonimayzer.site
@@ -670,7 +686,6 @@ shopapps.site
 srht.site
 toast.site
 tst.site
-turkvetka.site
 wishonly.site
 wolow.site
 wpdns.site
@@ -697,6 +712,7 @@ mempool.space
 metahub.space
 momonster.space
 nitter.space
+nuvioapp.space
 ocr.space
 oldbytes.space
 qwik.space
@@ -771,6 +787,7 @@ applefans.today
 archive.today
 futurology.today
 lemmy.today
+oceanhero.today
 oldweb.today
 som.today
 type.today
@@ -794,6 +811,7 @@ strims.top
 suiten.top
 thedesk.top
 vsdb.top
+lofi.town
 tilde.town
 composer.trade
 dx.trade
@@ -865,6 +883,7 @@ severance.wiki
 survivors.wiki
 tajrobe.wiki
 tardis.wiki
+thefitness.wiki
 thehomelab.wiki
 tilde.wiki
 twewy.wiki
@@ -890,6 +909,7 @@ koding.work
 mirror.work
 schueller.work
 spiegel.work
+starlightnet.work
 bevisioneers.world
 boo.world
 calckey.world

@@ -338,6 +338,7 @@ icccibfim.pages.dev
 idealis-core.pages.dev
 idw168rtpgame.pages.dev
 imagesku.pages.dev
+img-mega.pages.dev
 immortal-hunters.pages.dev
 inchofcreativity.pages.dev
 indojaya168-gacor.pages.dev
@@ -360,6 +361,7 @@ kalkulatort4d.pages.dev
 kangbetwon.pages.dev
 kapten-ketua.pages.dev
 kapten808com.pages.dev
+karibwash.pages.dev
 kena-babat-google.pages.dev
 keras-lawan-nya.pages.dev
 kita-cobalagi-za.pages.dev
@@ -432,6 +434,7 @@ omo77-2qn.pages.dev
 onepelangi.pages.dev
 orashellorajoss.pages.dev
 p4n9k4t88.pages.dev
+palinghoki-peninglah.pages.dev
 panda99-1f7.pages.dev
 panenmainrtpslot.pages.dev
 pangerantoto-rtp.pages.dev
@@ -562,6 +565,7 @@ thecellarwinebarkitchen-qwer.pages.dev
 thedivachef.pages.dev
 theirvingtonwoods.pages.dev
 thelocalcatch-onepeople.pages.dev
+themanororiginal.pages.dev
 thestarsomerset.pages.dev
 theyashotel.pages.dev
 thinktanktrainingcentercom.pages.dev
@@ -1305,3 +1309,28 @@ game009.pusaka189b.online
 app.pusaka189b.online 
 app.pusaka189b.online
 
+#from prediksimu.live # subdom : 
+4home.prediksimu.live 
+5rtp.prediksimu.live 
+buktijp1.prediksimu.live
+
+#from tw88a.site # subdom : 
+az009.tw88a.site 
+app.tw88a.site 
+rtp.tw88a.site
+
+#from idnsp.net # subdom : 
+api.idnsp.net 
+global.idnsp.net 
+singaasia-image.idnsp.net
+
+#from it-cg.group # subdom : 
+cdn-master.it-cg.group 
+cdn.it-cg.group 
+x.it-cg.group
+
+#from robotaset.com # subdom : 
+cdn.robotaset.com 
+lb.robotaset.com 
+widget.robotaset.com 
+dwn.robotaset.com

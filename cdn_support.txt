@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1651
+# Number of entries: 1653
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -275,6 +275,7 @@ cloudcdnetw.com
 clouddrive.digital
 cloudhostapk.com # apk
 cloudinary.com
+cloudstoragesigma02.com
 coastalmarket.org # scam
 coderedtacos.com # hacked web
 common-static.ppgames.net
@@ -516,7 +517,7 @@ idl-cdn.rika.online
 idl-socket.rika.online
 idn.sgp1.cdn.digitaloceanspaces.com
 idnpopups.s3.ap-southeast-1.amazonaws.com
-idnsp.net # subdom : api.idnsp.net global.idnsp.net singaasia-image.idnsp.net
+idnsp.net # subdom : all subdom list in dead_judol_domains.txt
 idr-ong-huat.s-ed1.cloud.gcore.lu
 ifr.absolutepay.app
 ifr.ascentpay.net
@@ -587,7 +588,7 @@ ip36.sgp1.cdn.digitaloceanspaces.com
 is3.cloudhost.id
 isak.co.uk # hacked web
 istana2000.nsp2d.com
-it-cg.group # subdom : cdn-master.it-cg.group cdn.it-cg.group x.it-cg.group
+it-cg.group # all subdom list in dead_judol_domains.txt
 it.com # all subdom *.it.com move to dead_judol_domains.txt
 j8t62rp7.com
 j9hdbjg.com # many subdom
@@ -847,7 +848,7 @@ ress.sgp1.cdn.digitaloceanspaces.com
 riskct.geetest.com
 rj7na3gx.cndns.digicentre.com
 robootassets.com # subdom : cdn.robootassets.com
-robotaset.com # subdom : cdn.robotaset.com lb.robotaset.com widget.robotaset.com dwn.robotaset.com
+robotaset.com # all subdom list in dead_judol_domains.txt
 robotassets.com
 robotcheap.com
 rog-toto.tor1.cdn.digitaloceanspaces.com
@@ -1020,6 +1021,7 @@ veldrive.com # may create false positive
 verifyfrydextracts.com # hacked web
 vind.id
 vind.sgp1.cdn.digitaloceanspaces.com
+vipfloralandweddings.com # malicious backlink
 vipgroup69.com # C2
 vm.homeleasyn.com
 voss-helmet.info
