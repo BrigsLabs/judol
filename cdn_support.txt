@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1653
+# Number of entries: 1654
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -524,6 +524,7 @@ ifr.ascentpay.net
 iframe.archopay.com
 iframe.oasisid.com
 iframe.oasisidn.com
+igamingontario.ca
 iili.io
 ilovenypizzadawsonville.com # hacked web : https://www.ilovenypizzadawsonville.com/menus/
 image-cdn.link

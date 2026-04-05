@@ -331,6 +331,12 @@ harta-simpati.pages.dev
 healthcareaccreditationresources.pages.dev
 heng-bos-heng.pages.dev
 heran-gw-liat-google.pages.dev
+hi88-change-info.pages.dev
+hi88-live.pages.dev
+hi88appv2.pages.dev
+hi88cskh.pages.dev
+hi88ds01.pages.dev
+hi88usdt.pages.dev
 himspeshawar.pages.dev
 hredeemerparish-kurohige.pages.dev
 ibu4d-rtp.pages.dev
@@ -534,6 +540,7 @@ serenitycorner-amp.pages.dev
 shadowmafiaoperationsnetwork.pages.dev
 shortlink-hotjitu-login.pages.dev
 si-ladusing.pages.dev
+sieuthiquatanghi88.pages.dev
 silent-please.pages.dev
 sisil4dop.pages.dev
 situswin-footer.pages.dev
@@ -1334,3 +1341,9 @@ cdn.robotaset.com
 lb.robotaset.com 
 widget.robotaset.com 
 dwn.robotaset.com
+
+#from tianxiadiyiapps.com # subdom : 
+fastspinapp.tianxiadiyiapps.com 
+pksbilapp.tianxiadiyiapps.com 
+speedauapps.tianxiadiyiapps.com 
+unitedauapp.tianxiadiyiapps.com
