@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1674
+# Number of entries: 1679
 # 
 # 
 # 
@@ -28,6 +28,7 @@
 *[0-9]raja*
 *[0-9]slot*
 *[0-9]sport*
+*[0-9]starz*
 *[0-9]toto*
 *[0-9]xsport*
 *aaa4d*
@@ -380,6 +381,7 @@
 *horus[0-9]*
 *hotelbet*
 *hotjitu*
+*hotman[0-9]*
 *hp-777*
 *hss303*
 *hubtoto*
@@ -1173,6 +1175,7 @@ amp*
 angkasetan.*
 antinwl.*
 apkapi-*
+bj[0-9]*
 bn77*
 bos[0-9]*
 cuankelas.*
@@ -1182,6 +1185,7 @@ dlh*.com
 dlh*.id
 dlh*.org
 dunialot*
+e28*
 evo[0-9]*
 fc[0-9]*
 fly[0-9]*
@@ -1211,6 +1215,7 @@ on[0-9]*
 pafi*.org
 paki*.org
 pu88*
+rg[0-9]*
 rr88*
 sodo.*
 sodo[0-9]*

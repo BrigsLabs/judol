@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1654
+# Number of entries: 1655
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -466,6 +466,7 @@ games.evolution.com
 gameslotimage.sgp1.cdn.digitaloceanspaces.com
 gametobeta.files.wordpress.com
 gametobeta.wordpress.com
+garudagacor.t.me
 gate.continue.group
 gate.networkappcomm.com
 gd88.app
