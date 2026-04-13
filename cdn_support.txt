@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1655
+# Number of entries: 1664
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -57,6 +57,7 @@ aiodirectory.top # seo
 aiwasanfrancisco.com # hacked web
 aix-asset.s3.ap-southeast-1.amazonaws.com
 ajaibcloud.sgp1.cdn.digitaloceanspaces.com
+ajennings.net.cdn.cloudflare.net
 ajoystoryphotography.com # hacked web
 akamai-assets.squarespace.com
 akucloud.com
@@ -167,6 +168,7 @@ autodeluxecenter.net # hacked web
 autolookservice.com # hacked site
 autoredirectjack.me
 awan.pw
+aws-learning-kit.bitslovers.com.cdn.cloudflare.net
 ayodaftar.co
 b-cdn.net # all subdom list in dead_judol_domains.txt
 b-cdu.net # hacked web
@@ -244,6 +246,7 @@ cdn.rbtasset.com
 cdn.rek8k8.cloud
 cdn.robotsatelit.net
 cdn.shorebird.cloud
+cdn.snowmobiletrader.com.cdn.cloudflare.net
 cdn.store-assets.com
 cdn.susu-na-khap.com
 cdn.vefrop.com
@@ -407,6 +410,7 @@ eijkman.go.id # malicious backlink
 elejabaa.com # seo backlink
 enak.la
 enderocean.com
+endofamerica.com.cdn.cloudflare.net
 entecomputer.com
 entry.gyeitee.com
 entry.nuanmokeji.com
@@ -507,6 +511,7 @@ hokijp168.mediamsg2.com
 hokiku.io # suspicious
 hostassets.online
 hosting-ampgsjp.site
+hostingblues.com.cdn.cloudflare.net
 hotelvillaveneta.com
 hslmantap.sgp1.cdn.digitaloceanspaces.com
 i.ibb.co
@@ -581,6 +586,7 @@ imgumk.online
 imgzm.com
 immortalseo.1b2u.asia
 incap-dw.ipcapsula.com
+indomita.net.cdn.cloudflare.net
 infini88.network # subdom : setan69.infini88.network
 infinityteam.sgp1.cdn.digitaloceanspaces.com
 ios88app.com
@@ -626,6 +632,7 @@ kaos1.sgp1.cdn.digitaloceanspaces.com
 karep.pro
 kari-nih-ges.sgp1.digitaloceanspaces.com
 kaucengkia.atl1.cdn.digitaloceanspaces.com
+kauri.gallery.cdn.cloudflare.net
 kaya787.dataklmsad902.site
 kaya787.dataklmsad903.site
 kby55-ori6a9ulmdzkwij8ohml3mmh.vercel.app
@@ -999,6 +1006,7 @@ tokolontong.com
 toto188official.taplink.ws
 toxiclibs.org # landing
 tr8ngames.com
+tracegilton.com.cdn.cloudflare.net
 traff-poland.net
 tranfertous.com
 transcend-cdn.com
@@ -1007,6 +1015,7 @@ trustx.id # qris payment
 tulumlatingastropubmke.com # hacked web : https://www.tulumlatingastropubmke.com/menus
 turbokolor.com # hacked web
 tvmovilpublicidad.com # malicious backlink
+tweetymail.com.cdn.cloudflare.net
 uaim.edu.mx # hacked web
 ucarecdn.com
 ug-meoh-pub.cloudassets.online
