@@ -196,6 +196,7 @@ xidbsxnexus.b-cdn.net
 xt30sf.b-cdn.net
 
 # from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
+elsa78.pages.dev
 23win-nohu.pages.dev
 3dhoki-boyercellars.pages.dev
 3dhoki-sahara.pages.dev
@@ -1353,3 +1354,8 @@ fastspinapp.tianxiadiyiapps.com
 pksbilapp.tianxiadiyiapps.com 
 speedauapps.tianxiadiyiapps.com 
 unitedauapp.tianxiadiyiapps.com
+
+#from elsa78.live # subdom : 
+ma008.elsa78.live 
+app.elsa78.live 
+rtp01.elsa78.live
