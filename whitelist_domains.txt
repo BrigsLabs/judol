@@ -11,7 +11,8 @@
 imagedelivery.net # whitelist
 medium.com # whitelist
 
-amp-api-edge.apps.apple.com # amp* wildcard
+# from judol_domains_wildcard
+amp-api-edge.apps.apple.com 
 amp-api.apps.apple.com
 amp-account.itunes.apple.com
 amp-api.media.apple.com
@@ -21,6 +22,18 @@ asia2.ocws1.live.com.akadns.net
 ocws.officeapps.live.com
 cdn.awsusor1.fds.api.mi-img.com
 libra16-normal-useast5.tiktokv.us
+e28622.a.akamaiedge.net
+e28622.b.akamaiedge.net
+e28622.api1.akamaiedge.net
+e28622.api3.akamaiedge.net
+e28622.api7.akamaiedge.net
+e28622.api9.akamaiedge.net
+e28622.api11.akamaiedge.net
+e28622.api12.akamaiedge.net
+e28622.api13.akamaiedge.net
+e28622.api14.akamaiedge.net
+e28622.api15.akamaiedge.net
+e28142.dscg.akamaiedge.net
 
 # from cdn
 i.pinimg.com # whitelist
