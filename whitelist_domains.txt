@@ -34,6 +34,22 @@ e28622.api13.akamaiedge.net
 e28622.api14.akamaiedge.net
 e28622.api15.akamaiedge.net
 e28142.dscg.akamaiedge.net
+vcs-sg.tiktokv.com
+mcs-sg.tiktokv.com
+starling-sg.tiktokv.com
+starling-va.tiktokv.com
+api-h2.tiktokv.com
+api.tiktokv.com
+api16-normal-c-alisg.tiktokv.com
+mon16-normal-alisg.tiktokv.com
+static.nvidiagrid.net
+gecko16-normal-alisg.tiktokv.com
+hotapi16-normal-alisg.tiktokv.com
+api16-core-c-alisg.tiktokv.com
+webcast16-ws-alisg.tiktokv.com
+mssdk16-normal-alisg.tiktokv.com
+search16-normal-c-alisg.tiktokv.com
+widget-sg.tiktokv.com
 
 # from cdn
 i.pinimg.com # whitelist
