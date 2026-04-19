@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1664
+# Number of entries: 1665
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -369,6 +369,7 @@ diqv0ct81hsy8.cloudfront.net
 djbf5ang3nrpv.cloudfront.net
 djctha7hqvwmk.cloudfront.net
 dkexc23x457ak.cloudfront.net
+dkzd8du6wd13r.cloudfront.net
 dl.erlangyao.com
 dl.leigong.net
 dl.whfdckfzzdl.com

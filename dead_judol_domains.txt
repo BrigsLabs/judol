@@ -196,7 +196,6 @@ xidbsxnexus.b-cdn.net
 xt30sf.b-cdn.net
 
 # from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
-elsa78.pages.dev
 23win-nohu.pages.dev
 3dhoki-boyercellars.pages.dev
 3dhoki-sahara.pages.dev
@@ -303,6 +302,7 @@ dor-aah.pages.dev
 dora77-rtp.pages.dev
 drpatrickweightloss.pages.dev
 dunia-rtp.pages.dev
+elsa78.pages.dev
 ephysicsvn.pages.dev
 esgconsultingservicexkillyuwaaa.pages.dev
 espaciocreativoelche.pages.dev
@@ -360,6 +360,7 @@ istanaimpian4-rtp.pages.dev
 jacknathanmedspa-amp.pages.dev
 jamuplayrtp.pages.dev
 jangan-di-report-ya-bg.pages.dev
+jangan-kendor-ya.pages.dev
 jaringan-news.pages.dev
 javabet99vpn.pages.dev
 jeuxflashgratuits.pages.dev
@@ -543,6 +544,7 @@ serenitycorner-amp.pages.dev
 shadowmafiaoperationsnetwork.pages.dev
 shortlink-hotjitu-login.pages.dev
 si-ladusing.pages.dev
+siak-sdy.pages.dev
 sieuthiquatanghi88.pages.dev
 silent-please.pages.dev
 sisil4dop.pages.dev
@@ -579,6 +581,7 @@ themanororiginal.pages.dev
 thestarsomerset.pages.dev
 theyashotel.pages.dev
 thinktanktrainingcentercom.pages.dev
+togel-togel.pages.dev
 togelhitam.pages.dev
 top1toto-superkeren.pages.dev
 udah-lama-gakjumpa.pages.dev
@@ -598,6 +601,7 @@ whatsappofficial.pages.dev
 wika.pages.dev
 winjitu-rtp-slot-gacor.pages.dev
 writingiscakepapua.pages.dev
+ws4d-wilsonvillepainters-cuan.pages.dev
 xdewa-rtp.pages.dev
 xseounhide.pages.dev
 yangpastipasti.pages.dev
@@ -710,6 +714,7 @@ pub-fb1f2fdd2f70498aa4947ec5b6b854bf.r2.dev
 
 # from *.short.gy
 4cqx.short.gy
+8tu7.short.gy
 akunresmi.short.gy 
 dc5f.short.gy 
 drch.short.gy 
@@ -719,11 +724,10 @@ fu5z.short.gy
 lancarjaya.short.gy 
 linklist.short.gy
 luckywish.short.gy 
+nadi76lp.short.gy
 pelangi-link.short.gy
 sniperkill.short.gy 
 weblinked.short.gy
-8tu7.short.gy
-nadi76lp.short.gy
 
 # from *.datasvc.xyz
 apkapi-zed.datasvc.xyz
@@ -1190,6 +1194,7 @@ saljuhiu.seportpedal.com
 saljutameng8e.seportpedal.com 
 saljuasli.seportpedal.com
 saljubiggest.seportpedal.com
+saljuhua.seportpedal.com
 
 #from server88.me # subdom : 
 jackpot.server88.me 
@@ -1244,6 +1249,7 @@ wartatgsubur4.tokosepedakalimantan.online
 wargatgutara15q.tokosepedakalimantan.online 
 wargakuat.tokosepedakalimantan.online 
 wargamantap.tokosepedakalimantan.online
+wargatgdirk.tokosepedakalimantan.online
 
 #from tokosportbanyumas.online # subdom : 
 kayudelima9.tokosportbanyumas.online 
@@ -1281,6 +1287,7 @@ chefauth-chef.replit.app
 ionberjuang.tokekereta.com 
 ionbening.tokekereta.com 
 ione.tokekereta.com
+iondmitri.tokekereta.com
 
 #from rajaxslotvip.store 
 app.rajaxslotvip.store
@@ -1288,6 +1295,7 @@ rtp02.rajaxslotvip.store
 rx011.rajaxslotvip.store
 
 #from cdn_support worker.dev
+amanahtotogacor3.pastimemberi.workers.dev
 asia99.jawirr.workers.dev
 buenagranja-tw88.rjpl-group.workers.dev
 fragrant-base-9dda.idebet88.workers.dev

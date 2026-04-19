@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1685
+# Number of entries: 1687
 # 
 # 
 # 
@@ -1218,6 +1218,7 @@ ok365*
 okfun*
 on-[0-9]*
 on[0-9]*
+orgi*.org
 pafi*.org
 paki*.org
 pu88*
@@ -1245,6 +1246,7 @@ w88*
 wis[0-9]*
 xn88*
 xx88*
+ypci*.org
 zona[0-9].guru
 zx88*
 # [a-z0-9\-_]*.example.com # block all sub *.example.com but pass top domain example.com
