@@ -105,6 +105,7 @@ gambar-lp.b-cdn.net
 garuda-force.b-cdn.net
 gemini-master.b-cdn.net
 godhatesfigs.b-cdn.net
+group2000.b-cdn.net
 hasonangan.b-cdn.net
 hmmm-hmmm.b-cdn.net
 hp-slot-1.b-cdn.net
@@ -181,6 +182,7 @@ this-what-time.b-cdn.net
 ticdigital.b-cdn.net
 tko77game.b-cdn.net
 totobeta-5000.b-cdn.net
+totomacau.b-cdn.net
 tuveras.b-cdn.net
 ugstg.seamless-hptech.com
 vejatimon.b-cdn.net
@@ -249,6 +251,7 @@ asuusg-safety.pages.dev
 azkabet1234rtp-baru.pages.dev
 back-to-macau.pages.dev
 badai-pun-kita-terjang-v2.pages.dev
+bagong4d.pages.dev
 baikal-research.pages.dev
 balicenter-1000.pages.dev
 bandar388-rtp.pages.dev
@@ -320,10 +323,12 @@ figprayer.pages.dev
 flexbox-audio-store-new-updated.pages.dev
 formula-tmu.pages.dev
 fullkeerestaurants.pages.dev
+gamatogel.pages.dev
 garuda999.pages.dev
 gestione-e-logistica.pages.dev
 getvideo.pages.dev
 gg-rtpnyala.pages.dev
+gk33link.pages.dev
 gk88a.pages.dev
 goldenoneventurees.pages.dev
 grd-super.pages.dev
@@ -357,6 +362,7 @@ istanaimpian-rtp.pages.dev
 istanaimpian2-rtp.pages.dev
 istanaimpian3-rtp.pages.dev
 istanaimpian4-rtp.pages.dev
+it-bagong4d.pages.dev
 jacknathanmedspa-amp.pages.dev
 jamuplayrtp.pages.dev
 jangan-di-report-ya-bg.pages.dev
@@ -461,6 +467,7 @@ polagacor-png.pages.dev
 polakumbang.pages.dev
 pondasi-awal.pages.dev
 posgradoupea-edu-bo.pages.dev
+powbristol.pages.dev
 privatepageone.pages.dev
 project-lembagatoto-mobile.pages.dev
 projekdadakan.pages.dev
@@ -548,6 +555,7 @@ siak-sdy.pages.dev
 sieuthiquatanghi88.pages.dev
 silent-please.pages.dev
 sisil4dop.pages.dev
+situsgamatogel.pages.dev
 situswin-footer.pages.dev
 skilfulessays.pages.dev
 skobam-theluckythirtykate.pages.dev
@@ -559,6 +567,7 @@ softsfiles.pages.dev
 solusi-terbaik-untuk-menang.pages.dev
 souperbreww.pages.dev
 southkitchenrestaurant.pages.dev
+spontan-tanpa-uhuy.pages.dev
 spqrpizzeriacom.pages.dev
 stadiumjakarta.pages.dev
 sumbartoto-bejaye.pages.dev
@@ -751,6 +760,7 @@ ashk77a.it.com
 asiabet.it.com
 asianslot88-livescore.it.com
 audgaming.it.com
+bagong-4d.it.com
 bagong4d.it.com
 baksosolo.it.com
 bandartogelonline.it.com
@@ -781,6 +791,7 @@ falkon4d.it.com
 ff96kh.it.com
 fun88asia.it.com
 gajah138.it.com
+gamatogel.it.com
 gelasgacor.it.com
 gelastogelnyata.it.com
 gresiktoto.it.com
@@ -1251,6 +1262,11 @@ wargakuat.tokosepedakalimantan.online
 wargamantap.tokosepedakalimantan.online
 wargatgdirk.tokosepedakalimantan.online
 
+#from tokosepedapapua.online # subdom : 
+kudatgulat.tokosepedapapua.online 
+kudatbius3c.tokosepedapapua.online
+kudajohnny.tokosepedapapua.online
+
 #from tokosportbanyumas.online # subdom : 
 kayudelima9.tokosportbanyumas.online 
 kembarufc.tokosportbanyumas.online 
@@ -1305,6 +1321,7 @@ kejurtps.master-138group.workers.dev
 phapac.hafeiniamilan.workers.dev
 rashakai.sijago88.workers.dev
 situs-slot-gacor-tw88.rjpl-group.workers.dev
+solar.newmahjongways.workers.dev
 
 #from arimbi89.live # subdom : 
 ma006.arimbi89.live 
