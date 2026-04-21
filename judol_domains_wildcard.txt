@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1687
+# Number of entries: 1690
 # 
 # 
 # 
@@ -153,6 +153,7 @@
 *blackscatter*
 *blitar4d*
 *blu89*
+*bmw4d*
 *bmx4d*
 *boba[0-9]*
 *bobo[0-9]*
@@ -569,6 +570,7 @@
 *langkah[0-9]*
 *lantai6*
 *lapak303*
+*lapkv*
 *laporkemenangan*
 *laskar-[0-9]*
 *laskar[0-9]*
@@ -642,6 +644,7 @@
 *martoto*
 *maslele*
 *master[0-9]*
+*mataqq*
 *matauang*
 *matrixslot*
 *mauslot*

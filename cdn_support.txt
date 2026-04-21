@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1670
+# Number of entries: 1673
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -457,6 +457,7 @@ galeri.cloud
 galerybanner.site
 gama69.sgp1.cdn.digitaloceanspaces.com
 gambar-1.sgp1.cdn.digitaloceanspaces.com
+gambar.site # subdom : indobet365.gambar.site laliga365.gambar.site
 gambar.store
 gambar.website
 gambar1.sgp1.cdn.digitaloceanspaces.com
@@ -516,6 +517,7 @@ hokiku.io # suspicious
 hostassets.online
 hosting-ampgsjp.site
 hostingblues.com.cdn.cloudflare.net
+hostinggambar.com # cdn
 hotelvillaveneta.com
 hslmantap.sgp1.cdn.digitaloceanspaces.com
 i.ibb.co
@@ -534,6 +536,7 @@ ifr.ascentpay.net
 iframe.archopay.com
 iframe.oasisid.com
 iframe.oasisidn.com
+iframe.qrisflyer.com
 iframe1.qrizz.id
 igamingontario.ca
 iili.io
