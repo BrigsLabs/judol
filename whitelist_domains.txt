@@ -12,43 +12,44 @@ imagedelivery.net # whitelist
 medium.com # whitelist
 
 # from judol_domains_wildcard
-amp-api-edge.apps.apple.com 
-amp-api.apps.apple.com
+adobsi.id
 amp-account.itunes.apple.com
-amp-api.media.apple.com
-amp-api-updates.apps.apple.com
+amp-api-edge.apps.apple.com 
 amp-api-search-edge.apps.apple.com
+amp-api-updates.apps.apple.com
+amp-api.apps.apple.com
+amp-api.media.apple.com
+api-h2.tiktokv.com
+api.tiktokv.com
+api16-core-c-alisg.tiktokv.com
+api16-normal-c-alisg.tiktokv.com
 asia2.ocws1.live.com.akadns.net
-ocws.officeapps.live.com
 cdn.awsusor1.fds.api.mi-img.com
-libra16-normal-useast5.tiktokv.us
+e28142.dscg.akamaiedge.net
 e28622.a.akamaiedge.net
-e28622.b.akamaiedge.net
 e28622.api1.akamaiedge.net
-e28622.api3.akamaiedge.net
-e28622.api7.akamaiedge.net
-e28622.api9.akamaiedge.net
 e28622.api11.akamaiedge.net
 e28622.api12.akamaiedge.net
 e28622.api13.akamaiedge.net
 e28622.api14.akamaiedge.net
 e28622.api15.akamaiedge.net
-e28142.dscg.akamaiedge.net
-vcs-sg.tiktokv.com
-mcs-sg.tiktokv.com
-starling-sg.tiktokv.com
-starling-va.tiktokv.com
-api-h2.tiktokv.com
-api.tiktokv.com
-api16-normal-c-alisg.tiktokv.com
-mon16-normal-alisg.tiktokv.com
-static.nvidiagrid.net
+e28622.api3.akamaiedge.net
+e28622.api7.akamaiedge.net
+e28622.api9.akamaiedge.net
+e28622.b.akamaiedge.net
 gecko16-normal-alisg.tiktokv.com
 hotapi16-normal-alisg.tiktokv.com
-api16-core-c-alisg.tiktokv.com
-webcast16-ws-alisg.tiktokv.com
+libra16-normal-useast5.tiktokv.us
+mcs-sg.tiktokv.com
+mon16-normal-alisg.tiktokv.com
 mssdk16-normal-alisg.tiktokv.com
+ocws.officeapps.live.com
 search16-normal-c-alisg.tiktokv.com
+starling-sg.tiktokv.com
+starling-va.tiktokv.com
+static.nvidiagrid.net
+vcs-sg.tiktokv.com
+webcast16-ws-alisg.tiktokv.com
 widget-sg.tiktokv.com
 
 # from cdn

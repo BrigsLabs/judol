@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1692
+# Number of entries: 1693
 # 
 # 
 # 
@@ -1180,6 +1180,7 @@
 [0-9]grd*
 [0-9]win*
 aa[0-9]*
+adobsi*.id
 adobsi*.org
 alexavegas*
 amp*
