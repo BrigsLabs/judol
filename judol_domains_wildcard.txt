@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1690
+# Number of entries: 1692
 # 
 # 
 # 
@@ -723,6 +723,7 @@
 *netralhoki*
 *new[0-9]*
 *next[0-9]*
+*ngeng[0-9]*
 *niagabet*
 *niagahoki*
 *niastoto*
@@ -1154,7 +1155,7 @@
 *wla234*
 *wojobet*
 *woles4d*
-*wow77*
+*wow[0-9]*
 *x-dewa*
 *xbet*
 *xdewa*
@@ -1179,6 +1180,7 @@
 [0-9]grd*
 [0-9]win*
 aa[0-9]*
+adobsi*.org
 alexavegas*
 amp*
 angkasetan.*
