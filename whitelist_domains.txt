@@ -44,10 +44,14 @@ mcs-sg.tiktokv.com
 mon16-normal-alisg.tiktokv.com
 mssdk16-normal-alisg.tiktokv.com
 ocws.officeapps.live.com
+recent.svc.cloud.microsoft
 search16-normal-c-alisg.tiktokv.com
+sfds-geo.xbetservices.akadns.net
 starling-sg.tiktokv.com
 starling-va.tiktokv.com
 static.nvidiagrid.net
+storeedgefd.dsx.mp.microsoft.com
+storeedgefd.xbetservices.akadns.net
 vcs-sg.tiktokv.com
 webcast16-ws-alisg.tiktokv.com
 widget-sg.tiktokv.com
