@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1693
+# Number of entries: 1694
 # 
 # 
 # 
@@ -574,6 +574,7 @@
 *laporkemenangan*
 *laskar-[0-9]*
 *laskar[0-9]*
+*latar[0-9]*
 *lawak[0-9]*
 *laza[0-9]*
 *lazawinslot*
