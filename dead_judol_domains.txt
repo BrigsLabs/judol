@@ -199,6 +199,7 @@ xidbsxnexus.b-cdn.net
 xt30sf.b-cdn.net
 
 # from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
+02dd4d78.dewagacor138rtp.pages.dev
 23win-nohu.pages.dev
 3dhoki-boyercellars.pages.dev
 3dhoki-sahara.pages.dev
@@ -230,6 +231,7 @@ amp-sportsjabber-net.pages.dev
 amp-thefirearmexperts.pages.dev
 ampboxing55ten.pages.dev
 ampfarzanehnouri.pages.dev
+amphtml-omutogel-terbaru.pages.dev
 ampjavabet99alg.pages.dev
 ampjuaranet.pages.dev
 ampjuaraspinlol.pages.dev
@@ -300,6 +302,7 @@ dengerin.pages.dev
 deploy-a-your-site.pages.dev
 devampksr88.pages.dev
 dewadora-rtp.pages.dev
+dewagacor138-kang.pages.dev
 dibiasakanluar2.pages.dev
 digitalinnovationhub.pages.dev
 disinianesong.pages.dev
@@ -502,6 +505,7 @@ room-amp-62g.pages.dev
 rotunaje.pages.dev
 royalslot-resmi.pages.dev
 rto-new77-terbaru.pages.dev
+rtp-asli-indoslot303.pages.dev
 rtp-bayam89-v3.pages.dev
 rtp-cpo333.pages.dev
 rtp-gojasuper.pages.dev
@@ -557,6 +561,7 @@ seobaruuu.pages.dev
 seojojoo.pages.dev
 serenitycorner-amp.pages.dev
 shadowmafiaoperationsnetwork.pages.dev
+short-omutogel-resmi.pages.dev
 shortlink-hotjitu-login.pages.dev
 showdownfree.pages.dev
 si-ladusing.pages.dev
@@ -564,6 +569,7 @@ siak-sdy.pages.dev
 sieuthiquatanghi88.pages.dev
 silent-please.pages.dev
 sisil4dop.pages.dev
+situsbemo88.pages.dev
 situsgamatogel.pages.dev
 situswin-footer.pages.dev
 skilfulessays.pages.dev
@@ -752,6 +758,7 @@ weblinked.short.gy
 apkapi-zed.datasvc.xyz
 apkapi-b77.datasvc.xyz
 apkapi-ov2.datasvc.xyz
+apkapi-3in.datasvc.xyz
 
 # from *.it.com
 11uu.it.com
@@ -789,6 +796,7 @@ bxing423.hss324.it.com
 daga.it.com
 deevalemon.it.com
 dewa.it.com
+dewagacor.it.com
 dewe-toto.it.com
 dhx-4d.it.com
 diskominfo.it.com
@@ -1278,6 +1286,7 @@ wargamantap.tokosepedakalimantan.online
 wargatgdirk.tokosepedakalimantan.online
 wargatgkarel.tokosepedakalimantan.online
 wargatgpieter.tokosepedakalimantan.online
+wargatemanku.tokosepedakalimantan.online
 
 #from tokosepedapapua.online # subdom : 
 kudatgulat.tokosepedapapua.online 
@@ -1330,6 +1339,7 @@ ionbening.tokekereta.com
 ione.tokekereta.com
 iondmitri.tokekereta.com
 ionvolkov.tokekereta.com
+iondumbell.tokekereta.com
 
 #from rajaxslotvip.store 
 app.rajaxslotvip.store

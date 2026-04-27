@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1673
+# Number of entries: 1678
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -297,6 +297,7 @@ d1j3dnvd81uy9o.cloudfront.net
 d1lrs95zs5ox0o.cloudfront.net
 d1mxxk684qj8r3.cloudfront.net
 d1r7v8bs1sf4js.cloudfront.net
+d1ypugea1ik1hy.cloudfront.net
 d1zjar5ju5ryim.cloudfront.net
 d24m60q82dzu8y.cloudfront.net
 d2543yds26m4tl.cloudfront.net
@@ -490,6 +491,7 @@ global-config-3m-1-default-rtdb.firebaseio.com
 global-config-ug-default-rtdb.firebaseio.com
 global-configs-2-default-rtdb.asia-southeast1.firebasedatabase.app
 global-configs-default-rtdb.asia-southeast1.firebasedatabase.app
+global-gateways.space # subdom : apigm.global-gateways.space static.gm.global-gateways.space
 global-server.net
 gobel.ink
 gomanagedit.com # hacked web
@@ -700,6 +702,7 @@ lumpiagoreng.xyz
 m-g.io
 m.ozzogame.com
 m1cdn.com
+malsup.github.io
 manadobisnis.com # backlink
 mantratt.sgp1.cdn.digitaloceanspaces.com
 maraset.site # CDN
@@ -715,6 +718,7 @@ media.tenor.com
 media4.giphy.com
 mediainternal.com
 mediamsg2.com
+members.phpmu.com
 meubelkayumurah.pics 
 meyerweb.com
 mgapi2.lansn-model.com
@@ -863,6 +867,7 @@ res-odx.op-mobile.opera.com.cdn.cloudflare.net
 res.qqkwbase.net # apk
 resistancemanual.org # backlink
 ress.sgp1.cdn.digitaloceanspaces.com
+revistamqr.com
 riskct.geetest.com
 rj7na3gx.cndns.digicentre.com
 robootassets.com # subdom : cdn.robootassets.com

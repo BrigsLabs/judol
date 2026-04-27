@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1694
+# Number of entries: 1697
 # 
 # 
 # 
@@ -128,6 +128,7 @@
 *bb855*
 *bdk[0-9]*
 *beluga*
+*bemo[0-9]*
 *bento4d*
 *benuabet*
 *berhadiahundian[0-9]*
@@ -1197,6 +1198,7 @@ dlh*.co.id
 dlh*.com
 dlh*.id
 dlh*.org
+dsos*.org
 dunialot*
 e28*
 evo[0-9]*
@@ -1253,6 +1255,7 @@ w88*
 wis[0-9]*
 xn88*
 xx88*
+ypci*.id
 ypci*.org
 zona[0-9].guru
 zx88*
