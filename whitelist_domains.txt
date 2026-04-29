@@ -100,7 +100,6 @@ bolero.bar
 brexx.bar
 einhorn.bar
 ethics.bar
-fap.bar
 hai.bar
 herz.bar
 mavie.bar
@@ -110,13 +109,10 @@ strem.bar
 voi.bar
 amphi.beer
 epg.best
-xhamster.best
-thescore.bet
 dat.bike
 lime.bike
 onlinesizing.bike
 rapido.bike
-anonymurl.biz
 antiphishing.biz
 asana.biz
 beiniz.biz
@@ -130,7 +126,6 @@ ette.biz
 figureit.biz
 gamesindustry.biz
 giftee.biz
-gimmeporn.biz
 hb.biz
 iimwf.biz
 kioskcms.biz
@@ -163,7 +158,6 @@ doe.cash
 redtiger.cash
 vitunleija.cash
 10gen.cc
-adguard-vpn.cc
 akami-solutions.cc
 arduino.cc
 clashofmagic.cc
@@ -173,7 +167,6 @@ crcon.cc
 datapump.cc
 dhilosnetworks.cc
 dict.cc
-fanbox.cc
 fiedler.cc
 fito.cc
 forestapp.cc
@@ -246,7 +239,6 @@ nocss.club
 no-js.club
 readme.club
 rwinfo.club
-skin.club
 thelemmy.club
 tilde.club
 tmdb.club
@@ -272,7 +264,6 @@ rad.dad
 endoflife.date
 boo.dating
 breeze.dating
-gaudi.dating
 gg.deals
 opf.degree
 three60.degree
@@ -283,7 +274,6 @@ wedos.delivery
 ze.delivery
 clear.dental
 xhamster45.desi
-xhamster.desi
 2fa.directory
 cursor.directory
 fedi.directory
@@ -334,7 +324,6 @@ way.food
 e.foundation
 grapheneos.foundation
 jp.foundation
-lgbt.foundation
 player.foundation
 cdn.fun
 chinaq.fun
@@ -368,7 +357,6 @@ cst.gdn
 stad.gent
 discord.gift
 domain.glass
-xnxx.gold
 inege.gq
 mastodon.green
 tilde.green
@@ -391,9 +379,7 @@ bahn.guru
 base64.guru
 crontab.guru
 greenlight.guru
-jav.guru
 ludwig.guru
-mags.guru
 tilde.guru
 watcher.guru
 webcal.guru
@@ -427,9 +413,6 @@ work.ink
 returns.international
 doctolib.legal
 wbs.legal
-lex.lgbt
-mint.lgbt
-tech.lgbt
 2ch.life
 billo.life
 circles.life
@@ -446,7 +429,6 @@ ratcloud.llc
 adsb.lol
 ags.lol
 animevietsub.lol
-browser.lol
 dankmemer.lol
 fmhy.lol
 guns.lol
@@ -547,7 +529,6 @@ protomedia.ninja
 project2025.observer
 gc.onl
 2kweb.online
-adguard-vpn.online
 argon2.online
 bebraver.online
 blink.online
@@ -583,11 +564,9 @@ toast.ooo
 1password.partners
 nvidia.partners
 stripe.partners
-xh.partners
 ducks.party
 mstdn.party
 ntc.party
-spankbang.party
 wmars.party
 kickthespy.pet
 kuma.pet
@@ -599,12 +578,10 @@ picsum.photos
 am-cdn.pics
 covet.pics
 pixers.pics
-sexhd.pics
 slow.pics
 twic.pics
 cleanup.pictures
 comick.pictures
-pornhoarder.pictures
 tux.pizza
 gamedev.place
 mstdn.plus
@@ -639,11 +616,9 @@ mhn.quest
 mylegendary.quest
 prometheus.quest
 raccoon.quest
-bunkr.red
 cdprojekt.red
 platone.red
 sci-hub.red
-xvideos.red
 srv.rent
 insomnia.rest
 nect.rest
@@ -729,7 +704,6 @@ notion.site
 onrocket.site
 platformsh.site
 privacy-test-pages.site
-reddit-doesnt-like-this.site
 shopapps.site
 srht.site
 toast.site
@@ -764,11 +738,9 @@ ocr.space
 oldbytes.space
 qwik.space
 roguecorp.space
-scurra.space
 searx.space
 slashtw.space
 takeb1nzyto.space
-telegram.space
 truepeople.space
 uexcorp.space
 dyn.sport
@@ -839,7 +811,6 @@ oldweb.today
 som.today
 type.today
 ambr.top
-caitlin.top
 chillx.top
 corriente.top
 cpolar.top
@@ -864,10 +835,8 @@ tilde.town
 composer.trade
 dx.trade
 kite.trade
-hoes.tube
 neat.tube
 platform.uno
-18comic.vip
 liberta.vip
 oldskool.vip
 posh.vip
@@ -876,7 +845,6 @@ stream.vip
 trdiziizle.vip
 vidstream.vip
 wetv.vip
-yesporn.vip
 swing.vision
 arizona.vote
 acro.website
@@ -961,7 +929,6 @@ starlightnet.work
 bevisioneers.world
 boo.world
 calckey.world
-camhub.world
 edgecdn.world
 heated.world
 ift.world
@@ -987,7 +954,6 @@ jascha.wtf
 lemmy.wtf
 myip.wtf
 tigress.wtf
-wxx.wtf
 xo.wtf
 sinking.yachts
 community.zip
