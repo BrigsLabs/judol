@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1697
+# Number of entries: 1702
 # 
 # 
 # 
@@ -72,7 +72,10 @@
 *anugerahtoto*
 *apekslot*
 *apeljitu*
+*api28*
+*api33*
 *api777*
+*api88*
 *apitoto*
 *aquartp*
 *ares[0-9]*
@@ -305,7 +308,7 @@
 *gambling*
 *gamesgg*
 *gaming[0-9]*
-*ganas69*
+*ganas[0-9]*
 *ganesa[0-9]*
 *gap8*
 *garibet*
@@ -337,6 +340,7 @@
 *gogelpro*
 *gojek[0-9]*
 *gojo[0-9]*
+*gokil[0-9]*
 *gol[0-9]*
 *gold[0-9]*
 *goldenlele*
@@ -1189,6 +1193,7 @@ amp*
 angkasetan.*
 antinwl.*
 apkapi-*
+bayi*.com
 bj[0-9]*
 bn77*
 bos[0-9]*

@@ -330,6 +330,7 @@ flexbox-audio-store-new-updated.pages.dev
 formula-tmu.pages.dev
 fullkeerestaurants.pages.dev
 gamatogel.pages.dev
+ganas33-salon.pages.dev
 garuda999.pages.dev
 gestione-e-logistica.pages.dev
 getvideo.pages.dev
@@ -370,6 +371,7 @@ istanaimpian3-rtp.pages.dev
 istanaimpian4-rtp.pages.dev
 it-bagong4d.pages.dev
 jacknathanmedspa-amp.pages.dev
+jackpot-api88.pages.dev
 jamuplayrtp.pages.dev
 jangan-di-report-ya-bg.pages.dev
 jangan-kendor-ya.pages.dev
@@ -592,6 +594,7 @@ super-hadess.pages.dev
 svobodnoe-propovedi.pages.dev
 taiappgk88.pages.dev
 talon-kikir.pages.dev
+tamaaaatt-google-core.pages.dev
 target4d-seo.pages.dev
 target4duhuy.pages.dev
 teenchallengeuc-kodack.pages.dev
@@ -628,6 +631,7 @@ winjitu-rtp-slot-gacor.pages.dev
 writingiscakepapua.pages.dev
 ws4d-wilsonvillepainters-cuan.pages.dev
 xdewa-rtp.pages.dev
+xn--pckuasn8gwk.pages.dev
 xseounhide.pages.dev
 yangpastipasti.pages.dev
 yatanokagami.pages.dev
@@ -759,6 +763,7 @@ apkapi-zed.datasvc.xyz
 apkapi-b77.datasvc.xyz
 apkapi-ov2.datasvc.xyz
 apkapi-3in.datasvc.xyz
+apkapi-ezp.datasvc.xyz
 
 # from *.it.com
 11uu.it.com
@@ -895,6 +900,7 @@ scdihati.it.com
 sensa88.it.com
 siaptarung.it.com
 sicepatjaya.it.com
+situs.bambuhk88.it.com
 slotgacorhariini.it.com
 smscity8.it.comspartan.it.com
 sriwijaya33.spinwheel33.it.com
@@ -1309,6 +1315,11 @@ kembarhope.tokokipaslampung.online
 kayusengon.tokokipaslampung.online
 kayuulin.tokokipaslampung.online
 
+#from tokosepatuanakmadiun.online # subdom : 
+superironman.tokosepatuanakmadiun.online 
+supergrid.tokosepatuanakmadiun.online 
+superblackpanther.tokosepatuanakmadiun.online
+
 #from trikagenolx.info # subdom : 
 web22.trikagenolx.info 
 web20.trikagenolx.info 
@@ -1352,6 +1363,7 @@ rx011.rajaxslotvip.store
 amanahtotogacor3.pastimemberi.workers.dev
 asia99.jawirr.workers.dev
 buenagranja-tw88.rjpl-group.workers.dev
+burger-king-drink-menu.pacinozxzey.workers.dev
 fragrant-base-9dda.idebet88.workers.dev
 hantam88-anti-zonk.rjpl-group.workers.dev
 hotelinternationalrhodes.amanbos.workers.dev
