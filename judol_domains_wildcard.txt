@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1702
+# Number of entries: 1710
 # 
 # 
 # 
@@ -215,6 +215,7 @@
 *clickbet*
 *cobaivg*
 *cocaslot*
+*cogil[0-9]*
 *comototo*
 *cpo333*
 *crs[0-9]*
@@ -292,8 +293,8 @@
 *fptoto*
 *freeaud*
 *freecredit*
+*fufu4d*
 *fulltoto*
-*fungame777*
 *g888*
 *ga2000*
 *gaa88*
@@ -306,6 +307,7 @@
 *gama69*
 *gambler*
 *gambling*
+*game[0-9]*
 *gamesgg*
 *gaming[0-9]*
 *ganas[0-9]*
@@ -352,6 +354,7 @@
 *granat[0-9]*
 *grandau*
 *grda999*
+*group[0-9]*
 *gudang[0-9]*
 *guetoto*
 *gurita4d*
@@ -464,6 +467,7 @@
 *jejuslot*
 *jempol[0-9]*
 *jesoslot*
+*jet77*
 *jetbet*
 *jhonslot*
 *jhonslt*
@@ -565,6 +569,7 @@
 *kyoto98*
 *ladang[0-9]*
 *laga]0-9]*
+*lagagame*
 *laktobet[0-9]*
 *lakuserasi*
 *lakutoto*
@@ -975,6 +980,7 @@
 *slotbet*
 *slotbiru*
 *slotbom*
+*slotfafa*
 *slotindo*
 *slotjp*
 *slots[0-9]*
@@ -1151,6 +1157,7 @@
 *wdhoki*
 *weissbet*
 *wg77*
+*wifitoto*
 *wii4d*
 *win[0-9]*
 *winbet*
@@ -1233,6 +1240,7 @@ okfun*
 on-[0-9]*
 on[0-9]*
 orgi*.org
+p138*.xyz
 pafi*.org
 paki*.org
 pu88*

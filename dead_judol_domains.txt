@@ -99,6 +99,7 @@ dont-play-play-with-sese.b-cdn.net
 duha.b-cdn.net
 e-e-a-t.b-cdn.net
 fastads.b-cdn.net
+feicim-naikyah.b-cdn.net
 fotogroup.b-cdn.net
 fresh-grad.b-cdn.net
 gambar-lp.b-cdn.net
@@ -453,6 +454,7 @@ ngkfbads.pages.dev
 nny-m-100dollarartshow.pages.dev
 nny-m-esdoc2.pages.dev
 nny-web01-danicholls.pages.dev
+nolasstudios.pages.dev
 nopfa-org.pages.dev
 numbersneverdie.pages.dev
 offside-deff.pages.dev
@@ -503,6 +505,7 @@ resultsgp.pages.dev
 rice838.pages.dev
 rikhania.pages.dev
 rizkynadiateknik.pages.dev
+romosstreettacos.pages.dev
 room-amp-62g.pages.dev
 rotunaje.pages.dev
 royalslot-resmi.pages.dev
@@ -844,6 +847,7 @@ koi388.it.com
 kudajitu.it.com
 kyoto98jitu.it.com
 kyoto98max.it.com
+lagagame77daftar.it.com
 lampubet.it.com
 lampupion.it.com
 lawak4d.it.com
@@ -1451,3 +1455,8 @@ vendor.rajapanengacor.space
 5vwmxx79h8bv9elu9rwd.papatogeljin.xyz
 9eruh30g4wb67ugtwj5d.papatogeljin.xyz
 butebwzt3ttvflbezdzk.papatogeljin.xyz
+
+#from wifi818.com # subdom : 
+8bdv1aic0a.wifi818.com 
+d7ijwz74fl.wifi818.com 
+f42cjpa850.wifi818.com

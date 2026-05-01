@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1557
+# Number of entries: 1561
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -297,6 +297,7 @@ d1j3dnvd81uy9o.cloudfront.net
 d1lrs95zs5ox0o.cloudfront.net
 d1mxxk684qj8r3.cloudfront.net
 d1r7v8bs1sf4js.cloudfront.net
+d1tcqh4bio8cty.cloudfront.net
 d1ypugea1ik1hy.cloudfront.net
 d1zjar5ju5ryim.cloudfront.net
 d24m60q82dzu8y.cloudfront.net
@@ -597,7 +598,7 @@ imgzm.com
 immortalseo.1b2u.asia
 incap-dw.ipcapsula.com
 indomita.net.cdn.cloudflare.net
-infini88.network # subdom : setan69.infini88.network
+infini88.network # subdom : setan69.infini88.network jet77.infini88.network
 infinityteam.sgp1.cdn.digitaloceanspaces.com
 ios88app.com
 ip104.sgp1.cdn.digitaloceanspaces.com
@@ -619,6 +620,7 @@ jaringbet-official.blogspot.com
 jasj.us
 jejakkeren.com # suspicious
 jelajahyuk.id # scam
+jet-77.sgp1.cdn.digitaloceanspaces.com
 jivo.chat # may create false positive
 jkt.omnicloud.io # apk
 jlfafafa3.com
@@ -667,6 +669,7 @@ laurelofleaves.com # hacked web
 layarnonton.com # malicious
 layarwibu.com
 lbwet4w.x.incapdns.net 
+le-lego138.sgp1.cdn.digitaloceanspaces.com
 les.sgp1.digitaloceanspaces.com
 lfiles.s3.eu-west-2.amazonaws.com
 lh3-dz.googleusercontent.com
@@ -839,6 +842,7 @@ projectcarsgame.com # hacked web
 projectgalery.xyz
 projectkzgroup.com # suspicious
 protecer.org # hacked web
+pub-bb78216b6f0b40a5882d1473c51d7abd.r2.dev
 public.pgsoft-games.com
 pulquemaniaeu.com # hacked web
 pwcplay.com # subdom : cdn.pwcplay.net assets.pwcplay.com
