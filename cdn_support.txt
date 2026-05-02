@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1561
+# Number of entries: 1562
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -345,6 +345,7 @@ d5jmkjjpb7yfg.cloudfront.net
 d6ve0grjeaee7.cloudfront.net
 d84ify71m0ivu.cloudfront.net
 dataconnect.sbs
+datakingdom357.s3.ap-southeast-3.amazonaws.com
 dataklmsad902.site
 dataklmsad903.site
 datasvc.xyz # all subdom list in dead_judol_domains.txt

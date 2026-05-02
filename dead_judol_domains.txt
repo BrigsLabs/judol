@@ -767,6 +767,7 @@ apkapi-b77.datasvc.xyz
 apkapi-ov2.datasvc.xyz
 apkapi-3in.datasvc.xyz
 apkapi-ezp.datasvc.xyz
+apkapi-jts.datasvc.xyz
 
 # from *.it.com
 11uu.it.com
@@ -817,6 +818,7 @@ examove.it.com
 falkon4d.it.com
 ff96kh.it.com
 fun88asia.it.com
+gacoan99.it.com
 gajah138.it.com
 gamatogel.it.com
 gelasgacor.it.com
@@ -1239,6 +1241,7 @@ saljuhua.seportpedal.com
 saljuling.seportpedal.com
 saljuwei.seportpedal.com
 saljulyche.seportpedal.com
+saljudef.seportpedal.com
 
 #from server88.me # subdom : 
 jackpot.server88.me 
@@ -1357,6 +1360,7 @@ ione.tokekereta.com
 iondmitri.tokekereta.com
 ionvolkov.tokekereta.com
 iondumbell.tokekereta.com
+iondua2.tokekereta.com
 
 #from rajaxslotvip.store 
 app.rajaxslotvip.store
