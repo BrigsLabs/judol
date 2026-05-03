@@ -199,6 +199,9 @@ wong87-css.b-cdn.net
 xidbsxnexus.b-cdn.net
 xt30sf.b-cdn.net
 
+#from bitly.sbs
+apkapi-rk8.bitly.sbs
+
 # from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
 02dd4d78.dewagacor138rtp.pages.dev
 23win-nohu.pages.dev
@@ -477,6 +480,7 @@ perbanyakcuan.pages.dev
 perkasajituit.pages.dev
 perprima.pages.dev
 picassets.pages.dev
+pichae-bgst.pages.dev
 pneumaticicamionmacan238s.pages.dev
 polagacor-png.pages.dev
 polakumbang.pages.dev
@@ -821,6 +825,7 @@ fun88asia.it.com
 gacoan99.it.com
 gajah138.it.com
 gamatogel.it.com
+garuda69situs.it.com
 gelasgacor.it.com
 gelastogelnyata.it.com
 gresiktoto.it.com
@@ -828,6 +833,7 @@ hokiroom.totovip.it.com
 hongkongpools.it.com
 hss.spinwheel55.it.com
 inewsfit.com
+istana2000.it.com
 istanaku.it.com
 japanslot88.it.com
 jimat69.it.com
@@ -878,6 +884,7 @@ oddigotastas.it.com
 pangkalanbangka.it.com
 pasang123.it.com
 pasukantogel.it.com
+pecah138.it.com
 penulis4d.it.com
 perkasa-jitu.it.com
 petir-jitu.it.com

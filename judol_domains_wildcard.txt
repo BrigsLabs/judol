@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1717
+# Number of entries: 1722
 # 
 # 
 # 
@@ -442,7 +442,7 @@
 *isama*
 *isport*
 *istana-gaming*
-*istana9[0-9]*
+*istana[0-9]*
 *istanacasino*
 *istanagaming*
 *istanaimpian*
@@ -800,6 +800,7 @@
 *papabet*
 *paramanalo*
 *paris[0-9]*
+*partner[0-9]*
 *pasir4d*
 *pastibet*
 *pck1[0-9]*
@@ -1379,6 +1380,7 @@ zx88*
 *.faith
 *.family
 *.fan
+*.fans
 *.fashion
 *.finance
 *.financial
@@ -1397,6 +1399,7 @@ zx88*
 *.fyi
 *.ga
 *.games
+*.garden
 *.gdn
 *.gent
 *.gift
@@ -1408,6 +1411,7 @@ zx88*
 *.gq
 *.gratis
 *.green
+*.gripe
 *.guide
 *.guru
 *.hair
@@ -1434,6 +1438,7 @@ zx88*
 *.lgbt
 *.life
 *.lifestyle
+*.living
 *.llc
 *.llp
 *.loan

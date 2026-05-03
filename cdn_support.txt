@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1562
+# Number of entries: 1566
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -151,6 +151,7 @@ asiasigma.sgp1.cdn.digitaloceanspaces.com
 asset-arw.xyz
 asset-cdn.cfd
 asset-image.xyz
+asset-togelonline88.sgp1.cdn.digitaloceanspaces.com
 asset01.source-static.us
 assetcsn.site # suspicious
 assetrtp.assetftpcanvas.com
@@ -195,7 +196,7 @@ binder-nx1.namesvr.xyz
 binder-nx2.nameserver.cfd
 biolabet.nyc3.cdn.digitaloceanspaces.com
 birototo.sgp1.cdn.digitaloceanspaces.com
-bitly.sbs
+bitly.sbs # all subdom list in dead_judol_domains.txt
 bk.unimen.ac.id # hacked
 bkid.sgp1.cdn.digitaloceanspaces.com
 blazzpay-b7pktst.gamma.site
@@ -569,6 +570,7 @@ img.lovepik.com
 img.nextgen.sg-sin1.upcloudobjects.com
 img.outsidefound.org
 img.pay4d.info
+img.qiangmingbao.net
 img.thesports.com
 img.zhenqinghua.com
 img1.wsimg.com
@@ -599,6 +601,7 @@ imgzm.com
 immortalseo.1b2u.asia
 incap-dw.ipcapsula.com
 indomita.net.cdn.cloudflare.net
+inds.sgp1.digitaloceanspaces.com
 infini88.network # subdom : setan69.infini88.network jet77.infini88.network
 infinityteam.sgp1.cdn.digitaloceanspaces.com
 ios88app.com
@@ -831,6 +834,7 @@ pol-ka.com # hacked web : https://pol-ka.com/bosswin/
 pomf2.lain.la
 poskampung.com
 postimg.cc
+poweroftogelonline88.sgp1.cdn.digitaloceanspaces.com
 prdstream.com # media promo
 prediksi-togel-wahanatoto.blogspot.com
 prediksitogelangkakembar1-2.blogspot.com
