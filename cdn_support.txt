@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1566
+# Number of entries: 1572
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -52,6 +52,7 @@ adsoptimization.top # seo
 aeodirectory.top # seo
 aeosubmission.top # seo
 afkpicture.vip
+ag-cdn.net
 agrotek.unimen.ac.id # hacked 
 aiodirectory.top # seo
 aiwasanfrancisco.com # hacked web
@@ -249,13 +250,15 @@ cdn.rek8k8.cloud
 cdn.robotsatelit.net
 cdn.shorebird.cloud
 cdn.snowmobiletrader.com.cdn.cloudflare.net
+cdn.sportnanoapi.com
+cdn.sportnanoapi.com.eo.dnse1.com
 cdn.store-assets.com
 cdn.susu-na-khap.com
 cdn.vefrop.com
 cdn.wgsources.com
 cdn.zabbet.com
 cdn1.epicgames.com
-cdn568.net
+cdn568.net # subdom : img-2-2.cdn568.net
 cdnclass.com
 cdncode.org
 cdndeliver.xyz
@@ -868,6 +871,7 @@ radartulungagung.co.id # malicious backlink
 rajabandot.sgp1.cdn.digitaloceanspaces.com
 rankfaster.top # seo
 raspi.today # malicious backlink
+rbtasset.com
 recamweek.com
 regalez-vous.farm
 renaimall.com
@@ -1466,6 +1470,8 @@ gunungbatinudik-desa.id
 gunungbatinudik.id
 gunungpasirjaya.id
 guyangan.id
+idihulusungaitengah.org
+idiwajo.org
 jangkungharjo.id
 jatengprovgo.id
 jdrdisdikjakarta.com

@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 27446
+# Number of entries: 27492
 #
 #
 #
@@ -1772,6 +1772,7 @@ alitoto.org
 alitotogacor.com
 alitotogacor.net
 alktotoceria.com
+allbrandsauto.com
 alldaybreakfastclub.com
 allegrettismenu.com
 allenbarandlounge.com
@@ -3158,6 +3159,7 @@ baladacintarizieq.com
 baladatotortp.fun
 balaksix.org
 balaksix500.com
+balbirstore.com
 balearesempresas.com
 bali-pools.com
 bali777w.com
@@ -4839,6 +4841,7 @@ callebur.com
 callmepapa.info
 calloflovecraft.com
 calorique.info
+calottery.com
 calsolarresearch.org
 calvarymc.com
 cambodia-lottery.co
@@ -6588,6 +6591,7 @@ discovertheworld.co.id
 discovertimis.com
 disdikacehtimur.com
 disdikalor.com
+disdikbangkabarat.id
 disdikempatlawang.com
 disdikmuaratebo.com
 disdikmusirawasutara.com
@@ -8535,6 +8539,7 @@ fkqbqwrzzax.ru.com
 fkupon.com
 fl-annfarm.com
 flagfootballphotos.com
+flalottery.com
 flametreeupholstery.com.au
 flamingo-mc.org
 flashinternetcafe.com
@@ -9038,6 +9043,7 @@ gamatogel.co
 gamatogel.net
 gamatogel.org
 gamax128.com
+gambar-lp.com # cdn
 gambar-tg.pro
 gambarapaantuh.site
 gambarbunyum.vip
@@ -9078,6 +9084,7 @@ gamertp.store
 gamesdod4d.site
 gamesensa.com
 gamesgg.store
+gamesjoin999.space
 gameskiwi4d.click
 gameskiwi4d.xyz
 gameslot500.com # subdom : ap19e5.gameslot500.com u5x2vnu974.gameslot500.com
@@ -9503,6 +9510,7 @@ globalopenplatform.com
 globalpride2020.org
 globalqualitycerts.com
 globalsuccessleaders.com
+globaltestsolutions.com
 globalwebinars.org
 globalyouthrising.org
 globor7.com
@@ -10500,6 +10508,7 @@ hotelmarghera.com
 hotelnapolisuites.com
 hotelparisencamp.com
 hotelportsitges.com
+hotelreader.com
 hotels-amneville.com
 hotelsensa838.com
 hotelsingkil.com
@@ -10653,6 +10662,7 @@ iaminvictus.net
 iamlukewhite.com
 iamtempest.com
 iancheibub.com
+ianweeksforcongress.com
 iaotampa.org
 iapbd.org
 iascl2024.com
@@ -10757,12 +10767,15 @@ idhobi.com
 idi-mojokerto.com # subdom : tantrum.idi-mojokerto.com
 idisorong.org
 idjago168.com
+idlehourquincy.com
 idlibertes.com
 idmax.fun
 idmax.one
 idn-slot.rtprajasgptoto.store
 idn.zone
 idn96main.shop
+idnaga99vip.me
+idnaga99vìp.com
 idnduniabet.com
 idngoalbola.xyz
 idngoallive.com
@@ -10779,6 +10792,7 @@ idntoto-sydney.com
 idola88slot.store
 idolapenulis4d.art
 idolottery.net
+idqfansurvey.com
 idqq88official.com
 idqq88world.xyz
 idqqlink5.xyz
@@ -10847,10 +10861,12 @@ ijp88.blog
 ijp88.com
 ijp88.net
 ijp88zero.click
+ijraf.org
 ijstart.co.uk
 ijstartconnect.co.uk
 ijterm.org
 ik88bonus.claims
+ikan128.org
 ikanbakarasap.online
 ikanmars78.com
 ikatanperhotelan.id
@@ -10943,6 +10959,7 @@ imgspeed.co
 imgstorebumbum.xyz
 imgwebkita.info
 imhlcm.com
+imigrasilahat.com
 imigrasiranai.com
 immanuelucc.co
 immo-beausejour.net
@@ -10975,6 +10992,7 @@ inamen.xyz
 inapersero.com
 inatips.com # all subdom move to dead_judol_domains list
 inatogel.us # subdom : login5.inatogel.us
+inauguralscholar.com
 inbevstudio.com
 inbrella.uk.com
 inceptionmovie.com
@@ -11058,11 +11076,13 @@ indopokerku.com
 indopokerku.gold
 indoslot.bio
 indoslot.monster
+indoslot303id.live
 indoslot303j.cc
 indoslot303live.com
 indoslot303pro.org
 indoslot303s.site
 indoslot303s.store
+indoslot303win.icu
 indoslotair.boats
 indoslotasia.com
 indoslotgen.site
@@ -11097,6 +11117,8 @@ inetassist.com
 inetcepat.info
 infantindia.org
 infermieristica.polodidatticopanico.com
+infiniteamilktea.com
+infinitymidland.com
 infinityocean268.site
 infinyoursflowers.com
 inflazome.com
@@ -11138,6 +11160,7 @@ infopalingjitu.site
 infopapa4d.net
 infopartner138.com
 infopartner138.vip
+infopentingjet77.boats
 infopentinglego77.shop
 infopentingmi77.lol
 infopentingsky77.yachts
@@ -11194,6 +11217,7 @@ inikinggacor.lol
 inilinkku.com
 inimetal.org
 inimola.xyz
+ininbc.org
 inipaus.xyz
 inipayung.xyz
 inipga.motorcycles
@@ -11229,6 +11253,7 @@ inrtpkristal777.store
 ins-ert.cc
 insackongre.com
 insanintl.com
+insdhyd.com
 insidermarketresearch.com
 insiderplays.com
 insideyourart.com
@@ -11261,8 +11286,10 @@ internationalprimaryschool.thegrange.edu.sg # hacked web
 internetoffer24.com
 internetprincess.co.uk
 interno3.net
+interregionale.com
 interrupciones.net
 intertechvr.co.uk
+inthenameoftheking.com
 inthetrenches2023.com
 intipacek.polatinggi.com
 intipbocoran.site
@@ -11274,6 +11301,7 @@ inultogelresmi.com
 inultogelrtp.site
 inultogelscan.net
 inultogelsuper.site
+invantageadvising.com
 investasitanah.com
 investirou.com
 invictadivers.co.uk
@@ -11892,6 +11920,7 @@ jet77.org
 jet77.sbs
 jet77game.co
 jet77login.blog
+jet77login.sbs
 jetbet.store
 jetbet90iran.com
 jetshart.com
@@ -13357,6 +13386,7 @@ kw303com.com
 kw303gold.com
 kwgapp.download
 kwgreaterlex.com
+kylottery.com
 kyndersleylottery.com
 kyoto4dpools.asia
 kyoto4dpools.store
@@ -13855,7 +13885,12 @@ liga2000.link
 liga2000at.com
 liga2000ct.com
 liga2000de.com
+liga2000dewa.com
+liga2000dj.com
+liga2000dk.com
 liga2000kamrtp.com
+liga2000rtp.com
+liga2000rtpkonk.com
 liga2000rtpnyos.com
 liga788.biz
 liga788.website
@@ -17454,6 +17489,7 @@ ontariolottery.one
 ontheroadagainwithjen.com
 onvapasslaisserfaire.org
 onyxautorestorationak.com
+onyxcables.ca
 oobbrraa.com
 opazeus1.org
 open88.supply
@@ -19206,8 +19242,7 @@ prediksi-jitupolo.lol
 prediksi-jitupttgroup.xyz
 prediksi-lotre4d.pro
 prediksi-padangtoto.s3.wasabisys.com
-prediksi-raban31.lol
-prediksi-raban31.lol # subdom : prediksi36.prediksi-raban31.lol
+prediksi-raban31.lol # subdom : prediksi36.prediksi-raban31.lol prediksi39.prediksi-raban31.lol
 prediksi-rukantogel.com
 prediksi-sabungtoto.com
 prediksi-stargroup.lol
@@ -19516,6 +19551,7 @@ pucuk33an.com
 pucuk33aq.com
 pucuk33ar.com
 pucuk33as.com
+pucuk33au.com
 pucuk33rtp.com
 pucuk33rtpbru.com
 pucuk33rtphbt.com
@@ -19837,6 +19873,7 @@ rajabandot13.com
 rajabandot142.com
 rajabandot71.com
 rajabandotdamai27.com
+rajabandotdamai38.com
 rajabandotevent.com
 rajabandotsire.site
 rajabandotsuper19.com
@@ -20313,6 +20350,7 @@ revolutionisesport.com
 revolyco.com
 rextotojackpot.click
 rextotomain.click
+rextotoplay.online
 rezeki44.online
 rezeki66.vip
 rezeki777.online
@@ -20743,7 +20781,7 @@ rtp-pttgoupwins.com
 rtp-pttgroup.netlify.app
 rtp-pusat4d.sbs
 rtp-qqgaming.xyz
-rtp-raban34.lol # subdom : rtp53.rtp-raban34.lol
+rtp-raban34.lol # subdom : rtp53.rtp-raban34.lol rtp57.rtp-raban34.lol
 rtp-rajajudol.online
 rtp-rajamacau.online
 rtp-roket303.online
@@ -21107,6 +21145,7 @@ rtpjapanslot88website.xyz
 rtpjavaslot88berhadiah.xyz
 rtpjavaslot88depo.xyz
 rtpjavaslot88mujur.xyz
+rtpjet77terkini.xyz
 rtpjitu-koko138.online
 rtpjitu02.xyz
 rtpjitu99bookie.xyz
@@ -22349,6 +22388,7 @@ shartbandi-apk.app
 shartfoot.com
 shartforward.app
 shaunaustin.co.uk
+shebuyshebuilds.com
 sheetvegas6d.com
 shelbylimited.org
 shell777.one
@@ -22971,6 +23011,7 @@ slotup88mysterybox.com
 slotupslot88.info
 slotvip.page
 slotxogame88x.com
+slotxx.pro
 slotzeus88.com
 slotzone69.com
 slowbet.pro
@@ -24822,6 +24863,7 @@ tokoaf.xyz
 tokobajugrosirjakarta.online # all subdom move to dead_judol_domains list
 tokobandar1.xyz
 tokobatikmutiara.com
+tokobonekasumut.online # subdom : kayutimber.tokobonekasumut.online
 tokobuahsibolga.online # subdom : kawantharta.tokobuahsibolga.online kawansthyunwoo.tokobuahsibolga.online
 tokoemas.org
 tokoemasperkasa.online # subdom : kayusaw.tokoemasperkasa.online
@@ -25454,6 +25496,7 @@ u888np.com
 u888wl.com
 u9zv0uq6tomfchp.store
 ua.faqukr.com
+uaa2024.org
 uae4d.com
 uanggila12.com
 uanglimpol.click
@@ -27065,6 +27108,7 @@ xn--hi5b23ao1z.com
 xn--hy1b45civih1kue.com
 xn--hz2b29k79dink.net
 xn--hz2bj7ch92a.com
+xn--idnaga99vp-h8a.com
 xn--ii5b09t.com
 xn--m01bq5ku5a.com
 xn--mi3br6au7muml.com
@@ -27132,6 +27176,7 @@ xx88mh.info
 xx88n.org
 xx88tv.com
 xxladventure.travel
+xxtoto.us.com
 xy11z444.com # subdom : nenek-sakti.xy11z444.com
 xyz-klub.best
 xyz-klub.info
@@ -27148,6 +27193,7 @@ yabo-tw.com
 yachadmaccabi.org
 yachtchartersinmiami.com
 yachters-indonesia.id
+yadkinvilleflowers.com
 yakesma.org
 yakima-hog.com
 yakiniku-shortlink.site # cloaking

@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1722
+# Number of entries: 1726
 # 
 # 
 # 
@@ -1342,6 +1342,7 @@ zx88*
 *.clothing
 *.club
 *.cm
+*.co.com
 *.college
 *.computer
 *.consulting
@@ -1427,6 +1428,7 @@ zx88*
 *.icu
 *.immo
 *.ink
+*.insure
 *.international
 *.irish
 *.jetzt
@@ -1554,7 +1556,9 @@ zx88*
 *.trading
 *.tube
 *.uno
+*.us.com
 *.us.kg
+*.us.org
 *.vacations
 *.vegas
 *.ventures
