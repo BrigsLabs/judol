@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1572
+# Number of entries: 1576
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -545,6 +545,7 @@ iframe.archopay.com
 iframe.oasisid.com
 iframe.oasisidn.com
 iframe.qrisflyer.com
+iframe.stwopay.com # may create false positive
 iframe1.qrizz.id
 igamingontario.ca
 iili.io
@@ -605,7 +606,7 @@ immortalseo.1b2u.asia
 incap-dw.ipcapsula.com
 indomita.net.cdn.cloudflare.net
 inds.sgp1.digitaloceanspaces.com
-infini88.network # subdom : setan69.infini88.network jet77.infini88.network
+infini88.network # all subdom list in dead_judol_domains.txt
 infinityteam.sgp1.cdn.digitaloceanspaces.com
 ios88app.com
 ip104.sgp1.cdn.digitaloceanspaces.com
@@ -656,6 +657,7 @@ kaya787.dataklmsad902.site
 kaya787.dataklmsad903.site
 kby55-ori6a9ulmdzkwij8ohml3mmh.vercel.app
 kenzototo.nyc3.cdn.digitaloceanspaces.com
+keodinh.net
 kerenbanget7.wordpress.com
 kesembilan.online
 khusus.nyc3.cdn.digitaloceanspaces.com
@@ -720,6 +722,7 @@ marinecorp.xyz
 market-online.wiki
 marketingfunnels.top # seo
 mawartt.sgp1.cdn.digitaloceanspaces.com
+max77.sgp1.cdn.digitaloceanspaces.com
 me-qr.com # may create false positive
 media.api-sports.io
 media.giphy.com
@@ -850,6 +853,7 @@ projectcarsgame.com # hacked web
 projectgalery.xyz
 projectkzgroup.com # suspicious
 protecer.org # hacked web
+pub-54c35cbb1f8a429096797defb3a61ef3.r2.dev
 pub-bb78216b6f0b40a5882d1473c51d7abd.r2.dev
 public.pgsoft-games.com
 pulquemaniaeu.com # hacked web

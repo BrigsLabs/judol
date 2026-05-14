@@ -120,6 +120,7 @@ img-source.b-cdn.net
 imgkit.b-cdn.net
 iya-dech.b-cdn.net
 jangan-report-bro.b-cdn.net
+janjitoto.b-cdn.net
 kaliiniuntukmusim.b-cdn.net
 kangen-lagi.b-cdn.net
 kaos-bangkit-lagi.b-cdn.net
@@ -202,6 +203,7 @@ xt30sf.b-cdn.net
 
 #from bitly.sbs
 apkapi-rk8.bitly.sbs
+apkapi-mgc.bitly.sbs
 
 # from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
 02dd4d78.dewagacor138rtp.pages.dev
@@ -381,6 +383,8 @@ jackpot-api88.pages.dev
 jamuplayrtp.pages.dev
 jangan-di-report-ya-bg.pages.dev
 jangan-kendor-ya.pages.dev
+janjitoto-bandar-togel-terbaik.pages.dev
+janjitoto-bermain-dengan-bijak.pages.dev
 jaringan-news.pages.dev
 javabet99vpn.pages.dev
 jeuxflashgratuits.pages.dev
@@ -560,6 +564,7 @@ rtpsoju88-1.pages.dev
 rtptanggagacorjp.pages.dev
 rtptempo-bonanza.pages.dev
 rtpwaktogelplay.pages.dev
+rtpwinb88.pages.dev
 rtpzb.pages.dev
 sakti-kalselprov.pages.dev
 sakurawin.linkofgod.pages.dev
@@ -1071,6 +1076,7 @@ cdn21pb-vs.gp2club.com
 warga88pasti.groupbecak.com 
 warga88akal.groupbecak.com 
 warga88lalap.groupbecak.com
+warga88flux.groupbecak.com
 
 #from gt108vip3.com # subdom : 
 22ii88nkzc.gt108vip3.com 
@@ -1372,6 +1378,8 @@ ionvolkov.tokekereta.com
 iondumbell.tokekereta.com
 iondua2.tokekereta.com
 ionsatu1.tokekereta.com
+iondrava.tokekereta.com
+ionexa.tokekereta.com
 
 #from rajaxslotvip.store 
 app.rajaxslotvip.store
@@ -1475,3 +1483,8 @@ butebwzt3ttvflbezdzk.papatogeljin.xyz
 8bdv1aic0a.wifi818.com 
 d7ijwz74fl.wifi818.com 
 f42cjpa850.wifi818.com
+
+#from infini88.network # subdom : 
+setan69.infini88.network 
+jet77.infini88.network 
+max77.infini88.network
