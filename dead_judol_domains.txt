@@ -200,6 +200,7 @@ wis77usorg.b-cdn.net
 wong87-css.b-cdn.net
 xidbsxnexus.b-cdn.net
 xt30sf.b-cdn.net
+lisaku.b-cdn.net
 
 #from bitly.sbs
 apkapi-rk8.bitly.sbs
@@ -412,6 +413,7 @@ link-slot-gacor-11-kabayan55.pages.dev
 linkgresiktotoaman.pages.dev
 linkinfortpcsowin.pages.dev
 lipatkainselatan-desa.pages.dev
+lisa-utama.pages.dev
 livebolaparlaypng.pages.dev
 livescore-dunia77.pages.dev
 livescorekristal777.pages.dev
@@ -544,6 +546,7 @@ rtpgacorjawabarat4d.pages.dev
 rtpgacortoto168.pages.dev
 rtpgelaspetirmerah.pages.dev
 rtphoki88.pages.dev
+rtpindos-303.pages.dev
 rtpjp99new.pages.dev
 rtpkunti69.pages.dev
 rtplampuajaib.pages.dev
@@ -606,6 +609,7 @@ sumbartoto-bejaye.pages.dev
 sumselcantik.pages.dev
 supalonely.pages.dev
 super-hadess.pages.dev
+surgadewa188.pages.dev
 svobodnoe-propovedi.pages.dev
 taiappgk88.pages.dev
 talon-kikir.pages.dev
@@ -654,7 +658,6 @@ yesmovies-4uj.pages.dev
 zoom-d89.pages.dev
 
 # from cdn : *.r2.dev
-pub-4342a8a4bc4e4ea6a1ae05c91296684a.r2.dev
 pub-01daae9cfed641489a104989d6c91115.r2.dev
 pub-030bf10fe1a0403cb36d73c3e2e2b903.r2.dev
 pub-06f6a1761e7e47edaa63a07446d5dda9.r2.dev
@@ -677,6 +680,7 @@ pub-33f79e4933584e76ac497eed3b0b39c5.r2.dev
 pub-3a497eec89554a7087393a495285cca8.r2.dev
 pub-423755b7060d41bd991640eb44ea574c.r2.dev
 pub-434259f7298942e39387d59f922d4cb6.r2.dev
+pub-4342a8a4bc4e4ea6a1ae05c91296684a.r2.dev
 pub-467e2bfe3f1348dbadcbda78bc834b20.r2.dev
 pub-4d167d231b1e441db42fc94681994c45.r2.dev
 pub-4dab336953a44439993e62117ab2003c.r2.dev
@@ -753,6 +757,7 @@ pub-eca00f27c0544dbfa967993f427253f6.r2.dev
 pub-ee8bc42fcaa94552af960b71fb20e6be.r2.dev
 pub-ef90194c58694130bb7a03b0e7096ef5.r2.dev
 pub-f02d5c5aa29e4d489f6c0a961f787e8b.r2.dev
+pub-f27764a9ee4048ca9f905eb054d606f8.r2.dev
 pub-f60bd858425e49cb9949aa6ea0b94e86.r2.dev
 pub-fb1f2fdd2f70498aa4947ec5b6b854bf.r2.dev
 
@@ -772,6 +777,7 @@ nadi76lp.short.gy
 pelangi-link.short.gy
 sniperkill.short.gy 
 weblinked.short.gy
+fw9p.short.gy
 
 # from *.datasvc.xyz
 apkapi-zed.datasvc.xyz
@@ -852,13 +858,13 @@ jogjatototogel.it.com
 jpdewa.gacor.it.com
 kabayan55.it.com
 kabayan55slot.it.com
-kakaktogel.it.com cloaking
+kakaktogel.it.com
 kastoto.it.com
 kembarjitu.it.com
 kentangbet.it.com
 kfcslot.it.comkjcpro.it.com
 kilopuff.it.com
-koenokatachi.it.com hidden page
+koenokatachi.it.com
 koi388.it.com
 kudajitu.it.com
 kyoto98jitu.it.com
@@ -902,9 +908,9 @@ pola7.bintang5toto-rtp.it.com
 prabujitu.it.com
 prdks.hss2132.it.com
 prediksiciputratoto.it.com
-publichtml.it.com hidden page
+publichtml.it.com
 pucuk138.it.com
-rajacovid.it.com cloaking
+rajacovid.it.com
 rajajagolink.it.com
 rajajagotop.it.com
 rajangamen.it.com
@@ -916,7 +922,7 @@ rtpmahongbet2.it.com
 rtpslothariini.it.com
 rtpwaktogel.it.com
 sabungtoto.it.com
-santoryu.it.com landingpage
+santoryu.it.com
 scdihati.it.com
 sensa88.it.com
 siaptarung.it.com
@@ -1077,6 +1083,7 @@ warga88pasti.groupbecak.com
 warga88akal.groupbecak.com 
 warga88lalap.groupbecak.com
 warga88flux.groupbecak.com
+warga88zen.groupbecak.com
 
 #from gt108vip3.com # subdom : 
 22ii88nkzc.gt108vip3.com 
@@ -1380,6 +1387,7 @@ iondua2.tokekereta.com
 ionsatu1.tokekereta.com
 iondrava.tokekereta.com
 ionexa.tokekereta.com
+ionara.tokekereta.com
 
 #from rajaxslotvip.store 
 app.rajaxslotvip.store
@@ -1488,3 +1496,15 @@ f42cjpa850.wifi818.com
 setan69.infini88.network 
 jet77.infini88.network 
 max77.infini88.network
+
+#from netlify.app # subdom :
+diatas-langit-ada-langit33.netlify.app
+gamepalinggacor.netlify.app
+quiet-blancmange-7d5df2.netlify.app
+rr1221asiartpgacor2025.netlify.app
+rtp-dinasti168.netlify.app
+rtp-gangster4d.netlify.app
+rtp-indoagent188-002.netlify.app
+rtp-pttgroup.netlify.app
+rtphanabi88go8.netlify.app
+toto188-slot-casino.netlify.app

@@ -599,7 +599,7 @@
 *lazawinslot*
 *lebah-4d*
 *legendtoto*
-*lego77daftar*
+*lego[0-9]*
 *lemacau*
 *lentera4d*
 *leo[0-9]*

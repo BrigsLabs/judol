@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1576
+# Number of entries: 1579
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -348,6 +348,7 @@ d3pvfi6m7bxu71.cloudfront.net
 d5jmkjjpb7yfg.cloudfront.net
 d6ve0grjeaee7.cloudfront.net
 d84ify71m0ivu.cloudfront.net
+data.alwayswinpp.com
 dataconnect.sbs
 datakingdom357.s3.ap-southeast-3.amazonaws.com
 dataklmsad902.site
@@ -679,6 +680,7 @@ layarnonton.com # malicious
 layarwibu.com
 lbwet4w.x.incapdns.net 
 le-lego138.sgp1.cdn.digitaloceanspaces.com
+lego77.sgp1.cdn.digitaloceanspaces.com
 les.sgp1.digitaloceanspaces.com
 lfiles.s3.eu-west-2.amazonaws.com
 lh3-dz.googleusercontent.com
@@ -776,6 +778,7 @@ naturalbalanceosteopathy.com # hacked web
 neftdocs.com
 neftsoft.co
 neoxida.com # scam # hidden page login 
+netlify.app # all subdom list in dead_judol_domains.txt
 nexiangaming.com
 nextgen.sg-sin1.upcloudobjects.com
 nghia-architect.com # scam fake
@@ -864,7 +867,7 @@ qdalplaylive.com
 qoopic.co
 qqkwbase.net # subdom : config.qqkwbase.net setprod.qqkwbase.net
 qriselite.com
-qrishoki.com
+qrishoki.com # subdom : launcher.qrishoki.com
 qrismvp.com
 qrispapitogel.sgp1.cdn.digitaloceanspaces.com
 r1zendigistr.com
