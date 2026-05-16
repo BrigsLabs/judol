@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1730
+# Number of entries: 1733
 # 
 # 
 # 
@@ -230,6 +230,7 @@
 *dailydrop*
 *dalang[0-9]*
 *dana[0-9]*
+*danamax*
 *datajepe*
 *demoslotbaru*
 *dentoto*
@@ -869,6 +870,7 @@
 *publiktoto*
 *pucuk[0-9]*
 *pulsa[0-9]*
+*puma[0-9]*
 *puncaktoto*
 *pusaka[0-9]*
 *pusat-koin*
@@ -1111,6 +1113,7 @@
 *ttk777*
 *ttt4d*
 *tujuhribu[0-9]*
+*tupaiwin*
 *turbo1[0-9]*
 *uban4d*
 *ubitoto*

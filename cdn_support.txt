@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1579
+# Number of entries: 1585
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -206,6 +206,7 @@ bloonk.com
 bluecreekdenver.com # hacked web : bluecreekdenver.com/contact
 bo.gacha.business
 boccone.no # hacked web : boccone.no/fyp/bocoran-rahasia-developer-mahjong-ways-2-yang-baru-terbongkar.html
+bonanzastatic.com # subdom : images-bucket.bonanzastatic.com
 bototomacau.weebly.com
 buktiabangempire.blogspot.com
 buktiedctoto.sgp1.digitaloceanspaces.com
@@ -680,6 +681,7 @@ layarnonton.com # malicious
 layarwibu.com
 lbwet4w.x.incapdns.net 
 le-lego138.sgp1.cdn.digitaloceanspaces.com
+lego138.sgp1.cdn.digitaloceanspaces.com
 lego77.sgp1.cdn.digitaloceanspaces.com
 les.sgp1.digitaloceanspaces.com
 lfiles.s3.eu-west-2.amazonaws.com
@@ -714,6 +716,7 @@ lpnyabatak.sgp1.digitaloceanspaces.com
 lucidfood.com # hacked web
 lumpiagoreng.xyz
 m-g.io
+m.happypenguin99.com.whecloud.com
 m.ozzogame.com
 m1cdn.com
 malsup.github.io
@@ -939,6 +942,7 @@ sga-cdn-hxg6b2d7ctb2c0eu.z02.azurefd.net
 sgacdn.azureedge.net
 sgalabel.blob.core.windows.net
 sgw.stape.au
+shadowhunter.best # subdom : wears.shadowhunter.best
 shareservice.net
 shishkarestaurant.com # hacked web
 shj918.com
@@ -985,6 +989,7 @@ static.augipt.com
 static.cuanterus.net
 static.geevisit.com
 static.gwvkyk.com
+static.klaviyo.com
 static.marsul.xyz
 static.nukeasset.com
 static.sameorigin.net
@@ -994,6 +999,7 @@ static1.squarespace.com
 statis-images.s3.ap-southeast-1.amazonaws.com
 stg3mplay.web-sample.live
 storetn.in
+studiointermedia.com
 style.mixlink.top
 stylesheet.site
 subdo.asia
