@@ -781,6 +781,7 @@ pelangi-link.short.gy
 sniperkill.short.gy 
 weblinked.short.gy
 fw9p.short.gy
+loglink.short.gy
 
 # from *.datasvc.xyz
 apkapi-zed.datasvc.xyz
@@ -950,6 +951,7 @@ tanggasurga.it.com
 tenarjitu.it.com
 tokeslot88.it.com
 toto7788.it.com
+tovelmanufacturingequipment.it.com
 tupaiwinwin.it.com
 unduh4d.it.com
 vip1.solosolo.it.com
@@ -1401,6 +1403,7 @@ ionsatu1.tokekereta.com
 iondrava.tokekereta.com
 ionexa.tokekereta.com
 ionara.tokekereta.com
+ionyakult.tokekereta.com
 
 #from rajaxslotvip.store 
 app.rajaxslotvip.store

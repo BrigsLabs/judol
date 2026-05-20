@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1585
+# Number of entries: 1586
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -1046,6 +1046,7 @@ tokolontong.com
 toto188official.taplink.ws
 toxiclibs.org # landing
 tr8ngames.com
+trace.lxgaming.net
 tracegilton.com.cdn.cloudflare.net
 traff-poland.net
 tranfertous.com

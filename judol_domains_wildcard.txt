@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1733
+# Number of entries: 1738
 # 
 # 
 # 
@@ -380,6 +380,7 @@
 *harum4d*
 *harumslot*
 *hebat[0-9]*
+*hermes[0-9]*
 *hero[0-9]*
 *heroslot*
 *herototo*
@@ -750,12 +751,14 @@
 *niagahoki*
 *niastoto*
 *ninja[0-9]*
+*nix77*
 *nobitabet*
 *nohu[0-9]*
 *nona88*
 *nono4d*
 *nova[0-9]*
 *nusa[0-9]*
+*nx303*
 *nyala4d*
 *obatbet*
 *obatshio[0-9]*
@@ -793,6 +796,7 @@
 *pancing77*
 *panda[0-9]*
 *pandabet*
+*pandajago*
 *pandawa[0-9]*
 *panen[0-9]*
 *pangerantoto*
@@ -1188,6 +1192,7 @@
 *xdewa*
 *xgo[0-9]*
 *xiku188*
+*xin77*
 *xo368*
 *xyz-klub*
 *xyzklub*
