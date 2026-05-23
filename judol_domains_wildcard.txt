@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1738
+# Number of entries: 1739
 # 
 # 
 # 
@@ -1030,6 +1030,7 @@
 *sttoto*
 *subur[0-9]*
 *suburwin*
+*suka[0-9]*
 *sukaslot*
 *sukses[0-9]*
 *sultan[0-9]*
