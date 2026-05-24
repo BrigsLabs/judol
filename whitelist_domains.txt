@@ -22,7 +22,9 @@ amp-api.media.apple.com
 api-h2.tiktokv.com
 api.tiktokv.com
 api16-core-c-alisg.tiktokv.com
+api16-core.tiktokv.com
 api16-normal-c-alisg.tiktokv.com
+api16-normal-c-useast1a.tiktokv.com
 asia2.ocws1.live.com.akadns.net
 cdn.awsusor1.fds.api.mi-img.com
 e28142.dscg.akamaiedge.net
@@ -72,6 +74,14 @@ s3-r-w.ap-southeast-1.amazonaws.com # whitelist
 # trusted pages.dev
 malware-filter.pages.dev
 ublockorigin.pages.dev
+
+# trusted b-cdn.net subdom
+s3-symbol-logo.b-cdn.net
+s3-symbol-logo.tradingview.com
+s3-tradingview.b-cdn.net
+s3.tradingview.com
+tradingview-static.b-cdn.net
+static.tradingview.com
 
 # from https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/spam-tlds-allow-onlydomains.txt
 nation.africa
