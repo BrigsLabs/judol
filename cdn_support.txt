@@ -4,11 +4,12 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1586
+# Number of entries: 1592
 # CDNs supporting site (may contains false positive)
 #
 #
 1.bp.blogspot.com
+1004834818.rsc.cdn77.org
 10322apk.deliber.net
 10fr4ame-b3stweeb.xyz
 1880house.com # hacked web
@@ -45,6 +46,7 @@ abcfiresafety.net # hacked web : https://abcfiresafety.net/blog/ https://abcfire
 accallyhigingola.com
 aceh4dblog.wordpress.com
 acehmediacom.wordpress.com # suspicious
+ackreply.com # may create false positive
 acsbsurakarta.com # hacked web : acsbsurakarta.com/shop
 adomselfrecigency.com
 adsdewigg.com
@@ -246,7 +248,6 @@ cdn.passwordless.dev
 cdn.pn.tc
 cdn.projectapp.dev
 cdn.rawgit.com
-cdn.rbtasset.com
 cdn.rek8k8.cloud
 cdn.robotsatelit.net
 cdn.shorebird.cloud
@@ -278,6 +279,7 @@ cikatech.sgp1.digitaloceanspaces.com
 clanker-events.squarespace.com
 click.heylink.me
 clickdrive.tech
+cliply.co
 clk.sgp1.cdn.digitaloceanspaces.com
 cloud-assets.sgp1.cdn.digitaloceanspaces.com
 cloudcdnetw.com
@@ -590,6 +592,7 @@ imghippo.com # may create false positive
 imghn.com
 imghwgroup.com
 imgku.io
+imgme.pro
 imgnxa.com
 imgnxb.com
 imgotp.thanatosmaero.com
@@ -817,6 +820,7 @@ paia.uj.ac.za # malicious backlink
 paneltki.info
 papacitan.site # scam # suspicious
 papitogel.sgp1.cdn.digitaloceanspaces.com
+pas77.sgp1.cdn.digitaloceanspaces.com
 pastisuksesterus.xyz
 patch.sdfbvsdfb44trbsts65y67xs6.xyz 
 pdv.co.id # malicious backlink 
@@ -851,6 +855,7 @@ prdstream.com # media promo
 prediksi-togel-wahanatoto.blogspot.com
 prediksitogelangkakembar1-2.blogspot.com
 premicloud.net
+premium103.web-hosting.com
 prod-api-ug3bv2.web-sample.live
 prod-api-ug4bv2.ns1-prototype.org
 prod-api-ug5cv2.web-sample.live
@@ -881,7 +886,7 @@ radartulungagung.co.id # malicious backlink
 rajabandot.sgp1.cdn.digitaloceanspaces.com
 rankfaster.top # seo
 raspi.today # malicious backlink
-rbtasset.com
+rbtasset.com # subdom : cdn.rbtasset.com
 recamweek.com
 regalez-vous.farm
 renaimall.com
@@ -967,6 +972,7 @@ smbstatic.sgp1.digitaloceanspaces.com
 smksdb1jambi.sch.id # scam
 snapy.photo
 sobajimakmur.com
+socket.io # subdom : cdn.socket.io
 sohogroupblog.wordpress.com
 spacedigital-online.sgp1.cdn.digitaloceanspaces.com
 spacerbucket.com
@@ -1042,7 +1048,6 @@ tinypic.host
 tko77game.pro # scam
 tmc-group.photos
 tmgaming.asia
-tokolontong.com
 toto188official.taplink.ws
 toxiclibs.org # landing
 tr8ngames.com
@@ -1070,6 +1075,7 @@ uploadgambar.lat
 user-upload.aws-s3-r1r2str0bjx.sg-sin1.upcloudobjects.com
 usglobalasset.com
 veldrive.com # may create false positive
+velo.vip
 verifyfrydextracts.com # hacked web
 vind.id
 vind.sgp1.cdn.digitaloceanspaces.com

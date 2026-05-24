@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1739
+# Number of entries: 1741
 # 
 # 
 # 
@@ -129,6 +129,7 @@
 *batmantoto*
 *bayam[0-9]*
 *bb855*
+*bd89*
 *bdk[0-9]*
 *beluga*
 *bemo[0-9]*
@@ -810,6 +811,7 @@
 *paramanalo*
 *paris[0-9]*
 *partner[0-9]*
+*pas77*
 *pasir4d*
 *pastibet*
 *pck1[0-9]*
