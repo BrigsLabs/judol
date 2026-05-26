@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1741
+# Number of entries: 1745
 # 
 # 
 # 
@@ -133,6 +133,7 @@
 *bdk[0-9]*
 *beluga*
 *bemo[0-9]*
+*bengkel[0-9]*
 *bento4d*
 *benuabet*
 *berhadiahundian[0-9]*
@@ -606,6 +607,7 @@
 *lemacau*
 *lentera4d*
 *leo[0-9]*
+*lexus[0-9]*
 *lglive[0-9]*
 *lgopro[0-9]*
 *libra[0-9]*
@@ -938,6 +940,7 @@
 *rp888*
 *rtp*
 *rudaltoto*
+*rumahduit*
 *runcing[0-9]*
 *runnerball[0-9]*
 *rupabet*
@@ -971,6 +974,7 @@
 *senju33a*
 *sensa[0-9]*
 *sepuh*
+*seribu*
 *seru[0-9]*
 *serubet*
 *setan[0-9]*

@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1592
+# Number of entries: 1593
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -376,6 +376,7 @@ digitalassetpro.xyz
 digitalnomadtools.top # seo
 digitalwaypro.com # hacked web
 dilip.at
+dimkg7j6quj6k.cloudfront.net
 dinohost.vip
 diqv0ct81hsy8.cloudfront.net
 djbf5ang3nrpv.cloudfront.net
@@ -712,6 +713,7 @@ localcloudhost.biz
 loginapkspbutoto.blogspot.com
 logindapurtoto.blogspot.com
 loginsungaito2.blogspot.com
+lovable.app # subdom : penilaianmauslot.lovable.app penilaianceriabet.lovable.app
 love-kyoto.net # hacked web
 lp4d.nyc3.cdn.digitaloceanspaces.com
 lpip209.sgp1.cdn.digitaloceanspaces.com
@@ -824,7 +826,6 @@ pas77.sgp1.cdn.digitaloceanspaces.com
 pastisuksesterus.xyz
 patch.sdfbvsdfb44trbsts65y67xs6.xyz 
 pdv.co.id # malicious backlink 
-penilaianmauslot.lovable.app
 peruinformation.org # hacked web : https://www.peruinformation.org/geography https://amp.peruinformation.org/kaostogel.html
 pg888pp.com
 pglchat.com # might false positive
