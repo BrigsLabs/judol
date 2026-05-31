@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1745
+# Number of entries: 1748
 # 
 # 
 # 
@@ -199,6 +199,7 @@
 *cacatoto*
 *cafe69*
 *cahaya[0-9]*
+*cakra[0-9]*
 *candu[0-9]*
 *cantik[0-9]*
 *canyon[0-9]*
@@ -960,6 +961,7 @@
 *salam[0-9]*
 *samslot[0-9]*
 *samurai[0-9]*
+*sand[0-9]*
 *saritoto*
 *sastoto*
 *sawer[0-9]*
@@ -1159,6 +1161,7 @@
 *victory[0-9]*
 *vikingtoto*
 *vin[0-9]*
+*vio[0-9]*
 *violet4d*
 *violetslot*
 *vip4d*

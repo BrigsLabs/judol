@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1593
+# Number of entries: 1599
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -15,6 +15,7 @@
 1880house.com # hacked web
 18ea70d2d9a945cfb97d818ba71817dc.pacloudflare.com
 21assetmanagement.com
+2354db541df20c20.edgeone.dev.pages.dnsoe6.com
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 2fr4me-my4web.site
 3.bp.blogspot.com
@@ -188,6 +189,7 @@ bakso-kojek-5k.sfo3.cdn.digitaloceanspaces.com
 bandar-jaya.com
 bangaset.s3.ap-southeast-1.amazonaws.com
 bannerfoto.shop
+barangtupunyokito.sgp1.cdn.digitaloceanspaces.com
 bas3data.xyz
 batesvilleclinicms.com # hacked web : https://www.batesvilleclinicms.com/our-staff
 behh-skuy-lah.s3.eu-north-1.amazonaws.com
@@ -229,6 +231,7 @@ cdn-services.dev
 cdn.ably.com
 cdn.ampproject.org
 cdn.antipeluru.best
+cdn.apple-mapkit.com
 cdn.areabermain.club
 cdn.asstlnk.com
 cdn.bosluna.com
@@ -356,6 +359,7 @@ dataconnect.sbs
 datakingdom357.s3.ap-southeast-3.amazonaws.com
 dataklmsad902.site
 dataklmsad903.site
+datasvc.site # subdom : apkapi-kgb.datasvc.site
 datasvc.xyz # all subdom list in dead_judol_domains.txt
 db351sg6odjv.cloudfront.net
 dbxmjjzl5pc1g.cloudfront.net
@@ -925,12 +929,14 @@ s3-ap-southeast-1.amazonaws.com
 s3-r-w.ap-northeast-1.amazonaws.com
 s31.aconvert.com
 samuelkigelman.com # hacked web
+sand77-net.firebaseapp.com
 savegambar.com
 sayursawi.xyz
 script386.cloud
 scriptbambu.team
 scriptlexi.cloud
 scutimedia.online
+sd77-gaes.edgeone.dev
 sdl.jsoftdn.net
 seamless-hptech.com # all subdom list in dead_judol_domains.txt # apk cdn
 seamlesss-hptech.com # all subdom list in dead_judol_domains.txt apk cdn
