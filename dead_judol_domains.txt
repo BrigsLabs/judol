@@ -81,6 +81,7 @@ api-skygaming2.seamlesss-hptech.com
 api3m.seamlesss-hptech.com
 apiace-v2.seamlesss-hptech.com
 apionix3b.seamlesss-hptech.com
+bandotwd.b-cdn.net
 bang-jago.b-cdn.net
 bulan.b-cdn.net
 cabewin.b-cdn.net
@@ -166,11 +167,13 @@ pushalert-main.b-cdn.net
 rajajago.b-cdn.net
 report-ddos-mati-mamakmu.b-cdn.net
 richard77.b-cdn.netrootaccess.b-cdn.net
+rightontoproofingsc.b-cdn.net
 royal188-hoki-poll.b-cdn.net
 rtp-biolabet-gacor.b-cdn.net
 rtpakuratmacau303.b-cdn.net
 rtpbiola-v1.b-cdn.net
 rtpcici4d12.b-cdn.net
+rupiah222.b-cdn.net
 sab-oke.b-cdn.net
 sayangkurtpnyani.b-cdn.net
 seo-ltl.b-cdn.net
@@ -239,6 +242,7 @@ amp-nusa89-sugar.pages.dev
 amp-ohlillydesign.pages.dev
 amp-project-wonderboy.pages.dev
 amp-sportsjabber-net.pages.dev
+amp-spv88.pages.dev
 amp-thefirearmexperts.pages.dev
 ampboxing55ten.pages.dev
 ampfarzanehnouri.pages.dev
@@ -377,6 +381,7 @@ ibu4d-rtp.pages.dev
 icccibfim.pages.dev
 idealis-core.pages.dev
 idw168rtpgame.pages.dev
+imagesfyp.pages.dev
 imagesku.pages.dev
 img-mega.pages.dev
 immortal-hunters.pages.dev
@@ -391,6 +396,7 @@ istanaimpian2-rtp.pages.dev
 istanaimpian3-rtp.pages.dev
 istanaimpian4-rtp.pages.dev
 it-bagong4d.pages.dev
+izinnnn-ngerankk-yakk.pages.dev
 jacknathanmedspa-amp.pages.dev
 jackpot-api88.pages.dev
 jamuplayrtp.pages.dev
@@ -812,13 +818,14 @@ sniperkill.short.gy
 weblinked.short.gy
 
 # from *.datasvc.xyz
-apkapi-zed.datasvc.xyz
-apkapi-b77.datasvc.xyz
-apkapi-ov2.datasvc.xyz
 apkapi-3in.datasvc.xyz
+apkapi-b77.datasvc.xyz
 apkapi-ezp.datasvc.xyz
 apkapi-jts.datasvc.xyz
+apkapi-ov2.datasvc.xyz
+apkapi-pjo.datasvc.xyz
 apkapi-s2k.datasvc.xyz
+apkapi-zed.datasvc.xyz
 
 # from *.it.com
 11uu.it.com
@@ -826,6 +833,7 @@ apkapi-s2k.datasvc.xyz
 23wincom.it.com
 777-bet.it.com
 acgwin.it.com
+akses.rupiah222.it.com
 aksesahk77.it.com
 albaslot.it.com
 altogel.it.com
@@ -909,6 +917,7 @@ lampubet.it.com
 lampupion.it.com
 lawak4d.it.com
 linktoto88.it.com
+lisatoto.it.com
 m1toto-4d.it.com
 macau303.it.com
 mahajitu.it.com
@@ -936,6 +945,7 @@ pangkalanbangka.it.com
 pas77.it.com
 pasang123.it.com
 pasukantogel.it.com
+paten33.it.com
 pecah138.it.com
 penulis4d.it.com
 perkasa-jitu.it.com
@@ -1631,3 +1641,8 @@ w7-s2.spinterus.vip
 ceklive3.xn--rtp-6b4bur4a3is826c9zqd.com 
 live7.xn--rtp-6b4bur4a3is826c9zqd.com 
 ceria5.xn--rtp-6b4bur4a3is826c9zqd.com
+
+#from brioplayer.com # subdom : 
+ei4b7vyvf1.brioplayer.com 
+hypiv4ozzo.brioplayer.com 
+5di973eo0n.brioplayer.com

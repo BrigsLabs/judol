@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1599
+# Number of entries: 1600
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -359,7 +359,7 @@ dataconnect.sbs
 datakingdom357.s3.ap-southeast-3.amazonaws.com
 dataklmsad902.site
 dataklmsad903.site
-datasvc.site # subdom : apkapi-kgb.datasvc.site
+datasvc.site # subdom : apkapi-kgb.datasvc.site apkapi-spv.datasvc.site
 datasvc.xyz # all subdom list in dead_judol_domains.txt
 db351sg6odjv.cloudfront.net
 dbxmjjzl5pc1g.cloudfront.net
@@ -924,6 +924,7 @@ s1.kwai.net
 s1.kwai.net.cdn.dnsv1.com
 s15-def.ap4r.com
 s16-11187.ap4r.com
+s21-def.ap4r.com
 s21-def.ks-la.net
 s3-ap-southeast-1.amazonaws.com
 s3-r-w.ap-northeast-1.amazonaws.com
