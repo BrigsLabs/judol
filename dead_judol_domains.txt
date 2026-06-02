@@ -210,6 +210,7 @@ xt30sf.b-cdn.net
 apkapi-rk8.bitly.sbs
 apkapi-mgc.bitly.sbs
 apkapi-rmd.bitly.sbs
+apkapi-pd7.bitly.sbs
 
 # from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
 02dd4d78.dewagacor138rtp.pages.dev
@@ -311,6 +312,7 @@ chi-cham-si.pages.dev
 choubochoubo-bad.pages.dev
 claude-4u.pages.dev
 cobacobajeeee.pages.dev
+compositions-urbaines.pages.dev
 coolidealbike.pages.dev
 cosmebox-about.pages.dev
 crickethighlights2.pages.dev
@@ -426,6 +428,7 @@ landak-idm.pages.dev
 lapakapeljituhoki.pages.dev
 laskarinfo.pages.dev
 lead-wichert-juara.pages.dev
+learn-stalms-rajazeus.pages.dev
 ler-leicesterstudent.pages.dev
 link-slot-gacor-11-kabayan55.pages.dev
 linkgresiktotoaman.pages.dev
@@ -558,6 +561,7 @@ rtp-istanagaming.pages.dev
 rtp-pohon169-populer.pages.dev
 rtp-raj4bom.pages.dev
 rtp-resmi-sinaga4d-cwa.pages.dev
+rtp-slot-terbaru.pages.dev
 rtp-superjagoku.pages.dev
 rtp1337kemenangan.pages.dev
 rtp389slots.pages.dev
@@ -565,6 +569,7 @@ rtp3libra168.pages.dev
 rtpa99bet.pages.dev
 rtpakuratindos303.pages.dev
 rtpakuratinds303.pages.dev
+rtpasliindoslot303.pages.dev
 rtpbantuan2-rokok.pages.dev
 rtpbantuan3-online.pages.dev
 rtpfijislota.pages.dev
@@ -618,6 +623,7 @@ si-ladusing.pages.dev
 siak-sdy.pages.dev
 sieuthiquatanghi88.pages.dev
 silent-please.pages.dev
+simulator-slotdemo.pages.dev
 sisil4dop.pages.dev
 situsbemo88.pages.dev
 situsgamatogel.pages.dev
@@ -872,6 +878,7 @@ diskominfo.it.com
 dragslotsign.it.com
 enakkali.it.com
 enterbyzantia.it.com
+erzurumspor.it.com
 esblue.it.com
 esdice.it.com
 event.dewahoki88.it.com
@@ -889,6 +896,7 @@ gresiktoto.it.com
 hokiroom.totovip.it.com
 hongkongpools.it.com
 hss.spinwheel55.it.com
+imgcdn.it.com
 inewsfit.com
 istana2000.it.com
 istanaku.it.com
@@ -1386,6 +1394,7 @@ kudatbius3c.tokosepedapapua.online
 kudajohnny.tokosepedapapua.online
 kudabucephalus.tokosepedapapua.online
 kudaflow.tokosepedapapua.online
+kudanara.tokosepedapapua.online
 
 #from tokosportbanyumas.online # subdom : 
 kayudelima9.tokosportbanyumas.online 
@@ -1412,6 +1421,7 @@ kayugrain.tokobonekasumut.online
 kayutan.tokobonekasumut.online
 kayurex.tokobonekasumut.online
 kayusamurai.tokobonekasumut.online
+kayubear.tokobonekasumut.online
 
 #from tokopadeljogja.online # subdom : 
 saljuvexa.tokopadeljogja.online 
@@ -1494,6 +1504,7 @@ phapac.hafeiniamilan.workers.dev
 rashakai.sijago88.workers.dev
 situs-slot-gacor-tw88.rjpl-group.workers.dev
 solar.newmahjongways.workers.dev
+yukbisayukrank1.sub-saldo33sir.workers.dev
 
 #from arimbi89.live # subdom : 
 ma006.arimbi89.live 
@@ -1587,6 +1598,7 @@ pas77.infini88.network
 sky77.infini88.network
 
 #from netlify.app # subdom :
+catontavern.netlify.app
 diatas-langit-ada-langit33.netlify.app
 gamepalinggacor.netlify.app
 inquisitive-sherbet-acafee.netlify.app
@@ -1597,8 +1609,8 @@ rtp-gangster4d.netlify.app
 rtp-indoagent188-002.netlify.app
 rtp-pttgroup.netlify.app
 rtphanabi88go8.netlify.app
+rusa-ayo-aku-dimarahin-nih.netlify.app
 toto188-slot-casino.netlify.app
-catontavern.netlify.app
 
 #from airgunungmyoboku.com # subdom : 
 airsuci.airgunungmyoboku.com 
@@ -1646,3 +1658,8 @@ ceria5.xn--rtp-6b4bur4a3is826c9zqd.com
 ei4b7vyvf1.brioplayer.com 
 hypiv4ozzo.brioplayer.com 
 5di973eo0n.brioplayer.com
+
+#from rtp-cerah88sir.com # subdom : 
+mantap.rtp-cerah88sir.com 
+amon.rtp-cerah88sir.com 
+kadita.rtp-cerah88sir.com

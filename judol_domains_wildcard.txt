@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1754
+# Number of entries: 1757
 # 
 # 
 # 
@@ -211,6 +211,7 @@
 *cb88*
 *celtabet*
 *cemara[0-9]*
+*cerah[0-9]*
 *cerutuviral*
 *cici4d*
 *cihuy[0-9]*
@@ -271,6 +272,7 @@
 *dota[0-9]*
 *dotaslot*
 *dragslot*
+*duatoto*
 *dubai[0-9]*
 *dunia[0-9]*
 *duniasableng[0-9]*
@@ -379,6 +381,7 @@
 *halo303*
 *halo4d*
 *halusbet[0-9]*
+*hanslot*
 *hari[0-9]*
 *hariangkanet4d*
 *harta[0-9]*

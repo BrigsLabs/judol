@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1600
+# Number of entries: 1601
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -406,6 +406,7 @@ dr71dvn7kc6me.cloudfront.net
 drivehud.com
 dsbmedia.s3.ap-southeast-1.amazonaws.com
 dsuown9evwz4y.cloudfront.net
+duatoto.sgp1.cdn.digitaloceanspaces.com
 dvbs75l69qv8d.cloudfront.net
 dvzlwzma32q6t.cloudfront.net
 dw.gp2play.com
