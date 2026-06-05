@@ -244,6 +244,7 @@ amp-ohlillydesign.pages.dev
 amp-project-wonderboy.pages.dev
 amp-sportsjabber-net.pages.dev
 amp-spv88.pages.dev
+amp-susun4dstarlight-online.pages.dev
 amp-thefirearmexperts.pages.dev
 ampboxing55ten.pages.dev
 ampfarzanehnouri.pages.dev
@@ -563,6 +564,7 @@ rtp-raj4bom.pages.dev
 rtp-resmi-sinaga4d-cwa.pages.dev
 rtp-slot-terbaru.pages.dev
 rtp-superjagoku.pages.dev
+rtp-test-4sh.pages.dev
 rtp1337kemenangan.pages.dev
 rtp389slots.pages.dev
 rtp3libra168.pages.dev
@@ -671,6 +673,7 @@ togelhitam.pages.dev
 top1toto-superkeren.pages.dev
 topanhokimantapterus.pages.dev
 tupaiwin11-trunorthlabs.pages.dev
+ucpbgen.pages.dev
 udah-lama-gakjumpa.pages.dev
 univ-ikopin.pages.dev
 unlocksamsungonline.pages.dev
@@ -1596,6 +1599,7 @@ jet77.infini88.network
 max77.infini88.network
 pas77.infini88.network
 sky77.infini88.network
+kilat77.infini88.network
 
 #from netlify.app # subdom :
 catontavern.netlify.app
@@ -1616,6 +1620,7 @@ toto188-slot-casino.netlify.app
 airsuci.airgunungmyoboku.com 
 yoose.airgunungmyoboku.com 
 hala.airgunungmyoboku.com
+knnb889.airgunungmyoboku.com
 
 #from 3win8.com # subdom : 
 g10.3win8.com 

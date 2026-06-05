@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1601
+# Number of entries: 1615
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -111,6 +111,7 @@ api.cloud.mime.services
 api.freshapp.top
 api.noproky.net
 api.pwa-marketing.com
+api.qrserver.com
 api.scorebat.com
 api.shorebird.dev
 api.signalbit.io
@@ -272,6 +273,7 @@ cdnres.yidaiyiluclub.com
 cdnsimple.top
 cemara123vip.blogspot.com
 ceritabahagia.lol
+cfilvs.i3457.com
 chaport.com
 chat-socket.onechat.dev
 chat.onechat.dev
@@ -288,6 +290,7 @@ cloud-assets.sgp1.cdn.digitaloceanspaces.com
 cloudcdnetw.com
 clouddrive.digital
 cloudhostapk.com # apk
+cloudicdn.com
 cloudinary.com
 cloudstoragesigma02.com
 coastalmarket.org # scam
@@ -318,6 +321,7 @@ d2f3dnusg0rbp7.cloudfront.net
 d2fdcuev2flsum.cloudfront.net
 d2g2ks6h98pvqo.cloudfront.net
 d2lcoivv20vty7.cloudfront.net
+d2m14m4no0dk43.cloudfront.net
 d2mpatx37cqexb.cloudfront.net
 d2po8s8685fal.cloudfront.net
 d2qos86h2u305y.cloudfront.net
@@ -619,6 +623,7 @@ indomita.net.cdn.cloudflare.net
 inds.sgp1.digitaloceanspaces.com
 infini88.network # all subdom list in dead_judol_domains.txt
 infinityteam.sgp1.cdn.digitaloceanspaces.com
+ingest.ingtracer.com
 ios88app.com
 ip104.sgp1.cdn.digitaloceanspaces.com
 ip188baru.sgp1.cdn.digitaloceanspaces.com
@@ -637,6 +642,7 @@ jandamuda.cfd
 japaneseup.com # hacked web : https://japaneseup.com/learn-japanese-time/
 jaringbet-official.blogspot.com
 jasj.us
+jefcmhs3.gaofangz.com
 jejakkeren.com # suspicious
 jelajahyuk.id # scam
 jet-77.sgp1.cdn.digitaloceanspaces.com
@@ -770,7 +776,11 @@ modelkit1.com
 moho.sgp1.cdn.digitaloceanspaces.com
 mpc-prod-1-1053047382554.us-central1.run.app
 mpc-prod-17-s6uit34pua-wl.a.run.app
+mpc-prod-18-s6uit34pua-uc.a.run.app
+mpc-prod-21-1053047382554.us-central1.run.app
+mpc-prod-28-1053047382554.us-central1.run.app
 mpc-prod-4-1053047382554.us-central1.run.app
+mpc2-prod-1-is5qnl632q-uc.a.run.app
 mpc2-prod-27-is5qnl632q-uk.a.run.app
 mplay-live-2-default-rtdb.firebaseio.com
 mplay-live-4-default-rtdb.firebaseio.com
@@ -990,6 +1000,7 @@ spaces-ptg.sgp1.cdn.digitaloceanspaces.com
 spaces-ptg.sgp1.digitaloceanspaces.com
 spaces-slg.sgp1.cdn.digitaloceanspaces.com
 sphinxbio.com # hacked web
+sports-cdn.world-media.cn
 spribe.co
 spribe.com
 srv1648-files.hstgr.io
@@ -1102,10 +1113,12 @@ walletconnect.com # payment gate
 wallkit.instal.com
 warnascore.com
 waterlilybeauty.com # hacked web : https://www.waterlilybeauty.com/waterlilyfacials
+wati-integration-service.clare.ai
 wdnotif.sgp1.digitaloceanspaces.com
 web-istana2000.linkapp99.com
 web-vegas123.linkapp77.com
 website-monitor-c8444-default-rtdb.asia-southeast1.firebasedatabase.app
+websitetoapk.com
 weddingpuzzleshop.com # hacked web : weddingpuzzleshop.com/wholesale/
 wesleyggeorge.com # hacked web
 wgaming-assets.ap-south-1.linodeobjects.com
@@ -1117,6 +1130,7 @@ winwin25.wordpress.com
 wlinetpos.com
 wllink.skystarbiru.com
 woainistef.sgp1.digitaloceanspaces.comwoainistef.sgp1.digitaloceanspaces.com
+wonderfulnextapi.com
 workers.dev # all subdomain move to dead_judol_domains
 wow77.sgp1.cdn.digitaloceanspaces.com
 wral.com
