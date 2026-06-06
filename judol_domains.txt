@@ -4,11 +4,12 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 28869
+# Number of entries: 28948
 #
 #
 #
 00789f.com
+007win.dev
 01.datacuan.info
 01.panduanakong.info
 01.prediksiakong.info
@@ -48,6 +49,7 @@
 100cucimy.net
 100judi.vip
 100pokies.com
+100win.rocks
 101beton138.com
 1023win.com
 1023wowradio.com
@@ -91,8 +93,11 @@
 123winsb.com
 128menang.space
 12bet.in.net
+12bet.surf
 12cuci.bet
 12idr.com
+12play.lol
+12play.team
 12shiopools.net
 12shiototo.net
 12smart.us.com
@@ -105,6 +110,7 @@
 138klubs1.pro
 138luckyspingaruda.click
 13tokototo.shop
+13win13.win
 13wins90.com
 143.solarbotics.net
 148winpkr.com
@@ -147,7 +153,9 @@
 1828uk.com
 188bet.archi
 188bet.baby
+188bet.cyou
 188bet.fish
+188bet07bg.com
 188bett.app
 188spor.com
 188v.me
@@ -217,6 +225,7 @@
 1xbet-apk-rdc1.com
 1xbet-burkina-faso.com
 1xbet-burkina.com
+1xbet-th.ink
 1xbetapkburkina.com
 1xbetapkrdc.com
 1xbetcasino366fr.com
@@ -251,8 +260,10 @@
 23tokototo.lol
 23win.boo # subdom : m.23win.boo
 23win.fail
+23win.hiphop
 23win.kim
 23win.london
+23win.red
 23win06.world
 23winmi.com
 24hdna2nd934nkxjca84nakjnf7.com # apk
@@ -270,6 +281,7 @@
 28bet.bid
 28bet.gives
 28bet88.com
+28win.shop
 293bayspin.com
 29pekantoto.com
 2agodaslot.net
@@ -303,18 +315,22 @@
 32win.broker
 32win.chat
 32win.luxury
+32win32.win
+333win.codes
 3345.top
 33capy.site
 33win.legal
 33win.rentals
 33win.services
 33win.uk.net
+33win07bg.net
 33win1.casa
 33wincom.org
 33winv.net
 35rtpslotsakura.xyz
 360junkies.com
 365aud.co
+365bet.bio
 365bets.win
 365cuci.co
 365freekredit.com
@@ -377,6 +393,7 @@
 43tiara-4d.xyz
 456asdffds.cc
 456club.love678.store
+456club.shop
 46.solarbotics.net
 4687123mb777.xyz
 48xj.us.com
@@ -423,6 +440,7 @@
 566.autos
 566.world
 5662918328-p9y0004l.bttzs.com
+566bet.app
 576168.8b.io
 5789p.com
 58win.cafe
@@ -447,6 +465,7 @@
 5growth.eu
 5kslot88.com
 5mb.blog
+5mb.expert
 5mb.jpn.com
 5mb.link
 5mbaa.com
@@ -467,6 +486,7 @@
 66-lotteryy.win
 666-lotteryy.club
 66666tttt.com
+666vn.site
 66b.biz
 66b.icu
 66b.info
@@ -484,6 +504,7 @@
 6789.gr.com
 6789.guru
 678factions.com
+6886win.rocks
 68naga508.com
 69vn.chat
 69vn.cn.com
@@ -525,7 +546,11 @@
 77rabbit1q.cc
 77rabbitq.vip
 77sor.site
+77w.fit
 789335.com
+789bet-th.ink
+789bet.us.org
+789bet07sh.net
 789betviet.com
 789club.mx
 789club.quest
@@ -540,6 +565,7 @@
 789f.show
 789fvn.online
 789p.claims
+789p.party
 789p.shopping
 789p04.com
 789pc.icu
@@ -551,6 +577,7 @@
 789winbetting.biz
 789wins.vin
 789winvm.com
+78win.casa
 78win.fund
 78win01.locker
 78wingenz.com
@@ -562,6 +589,7 @@
 79win.band
 7b9cg.goal11.online
 7bong.com
+7bong.vin
 7cmobile.site
 7evenlucknew.life
 7evenlucknew.shop
@@ -665,6 +693,7 @@
 89bet.channel
 89bet.codes
 89spekta77.com
+8ase.ru.com
 8byb.com
 8id.live
 8id5.vip
@@ -2952,6 +2981,7 @@ autox500.com
 autumncorp.com
 aux-deux-clefs.com
 av-secret.com
+avahd.ru.com
 avalbet.bio
 avalbet.live
 avantisunsetpeak.com
@@ -3971,6 +4001,7 @@ big77mas.online
 big77wow.online
 big88.bh
 big88.cc
+big88.tw
 biganslotclub.com
 biganslotrtp.shop
 bigape.nz
@@ -4045,6 +4076,7 @@ billi-london.com
 billybillion1.com
 billymcdermott.com
 bimbiestorie.it
+bin88.fit
 binatively.eu.com
 bingo-89.com
 bingo4d-usa.com
@@ -4689,6 +4721,7 @@ buaya188.net
 bubbaddresort.com
 bubbleonic.space
 bubbleurl.com # cloaking
+bubet.com
 bubursedap.com
 bucharest4d.com
 buchitoscafe.com
@@ -5433,6 +5466,7 @@ chatcici4d.com
 chateauclosluce.com
 chateaurousseau.farmstand46.com
 chatyour.net
+chcarehealthcare.com
 cheap-psychics.org
 cheapincoming.com
 cheapjerseysaa.com
@@ -5523,6 +5557,8 @@ choicechiropractic.net
 choicewar.com
 choiminfat.com
 choiole.com
+chokbet.net
+chokbet.vip
 chomeikan.com
 chonburi-wlalottery.com
 chonburipools.com
@@ -5549,6 +5585,7 @@ chudetstvo.com
 chulavistaheritagemuseum.org
 churchai.xyz
 chusankan.net
+chuyendosi.vip
 ci1py.fs888.world
 ciafsm.com
 cialiscanadianpharmacybuy.com
@@ -5690,6 +5727,7 @@ cloudstoragesigma01.com
 clovebakery.com # https://clovebakery.com/ready-to-order
 clovertheater.com
 club.bandar4d.cloud
+club.tradelikerocket.com
 club33.online
 clubchom.com
 clubforeranch.com
@@ -5857,9 +5895,11 @@ continentalrelays.com
 continentaltours.net
 contrerashospital.com
 control.ozsub.com
+convertidordeletras.com
 convointeractive.xyz # subdom : dwtone-getforumtalk7889.convointeractive.xyz
 conway.us.com
 cookbkjj.com
+cookiespluscrumbs.com
 coolaboolalab.com
 coolbanget.info
 coolerssale.com
@@ -6060,6 +6100,7 @@ cuanwin77resmi.homes
 cuanyuk.xyz
 cubalotto.com
 cubanellerestaurant.com
+cubas.in.net
 cube2019.nusmathsoc.org
 cubitpipi.sbs
 cuci100cuci.com
@@ -6590,6 +6631,7 @@ desktopia.net
 dessertlady.com
 dessertmonstersg.com
 destinationnexus.com
+destosieras.ru.com
 desty.page
 desvinsavous.com
 detailingservices.net
@@ -7990,6 +8032,7 @@ durbanplumbers.com
 durhamlottery.com
 durian.lol
 dusesbet.net
+dv88.bid
 dv88.moi
 dv88.my
 dvdpuz.com
@@ -8596,6 +8639,7 @@ f168viet.org
 f200mplay.guru
 f8bet.me.uk
 fa4collective.com
+fa88.bz
 fa8y3.xyz
 faberpagamento.shop
 fabfoundations.com
@@ -8719,6 +8763,7 @@ fbslotgacor.xyz
 fbslothoki88.xyz
 fc188.co
 fc188gaming.com
+fc88.fan
 fc88.ink
 fc88.men
 fc88.red
@@ -9668,6 +9713,7 @@ gelora188q.website
 gelora188rx.site
 gely-na-nehty.com
 gem88.in
+gem88.ink
 gem88.to
 gem88pa.com
 gemarakyat.info
@@ -9825,6 +9871,7 @@ gildemeister-front.lilab.pe
 gilerkentang.com
 ginkgopune.com
 gionlineshop.com
+giovang.cx
 gipso.org
 girisbigwon.com
 girlscosmo.com
@@ -9891,6 +9938,9 @@ gm021.situsgm.com
 gm021.xyz
 gm4y.com
 gmi99gcr.site
+gmnc.casino
+gmnc.ch
+gmnckeo.club
 gmp99.org
 gmse.net
 gmstar.io
@@ -9921,6 +9971,7 @@ go88.ci
 go88.com
 go88.fast
 go88.tl
+go88.tw
 go88.us
 go88com.dev
 go8905.com
@@ -10682,6 +10733,7 @@ hitachilottery.com
 hitclub.bi
 hitclub.kitchen
 hitclub.marketing
+hitclub.mw
 hitclub.sa.com
 hitclub.so
 hitclub.vg
@@ -12497,6 +12549,7 @@ johnbrownseriousbbq.com
 johnnytherazor.co.uk
 johnsalvitti.com
 johnsondoerhoefer.com
+johnsonstore.uk.com
 johor-pools.com
 join-together.org
 join.goldsgymcharleston.com
@@ -12731,6 +12784,7 @@ jumbo99master.org # subdom : win.jumbo99master.org
 jumphackers.co.kr
 jumppp1122.com
 jun88.co.com
+jun88.courses
 jun888.app
 jun88casino.top
 jun88king.com
@@ -13145,6 +13199,7 @@ kbobet-18757549.springbuilder.org
 kbodr.com
 kbokix1.com
 kc-365.com
+kclub.gg
 kctribune.com
 kcwoolgrowersauxiliary.com
 kdei-taipei.org
@@ -13263,6 +13318,8 @@ kenya4d.com
 kenyatoto.online
 kenzievapestore.cloud
 kenzo188bless.co
+keobongvip.one
+keobongvip.top
 keongtogelalt.xyz
 keonhacai33.com
 keonhacai365.org
@@ -14357,6 +14414,7 @@ leo777.app
 leo777.biz
 leo777.fun
 leo777th.org
+leo88.net
 leo88server.com
 leonardzeskind.com
 leopardotours.com
@@ -15797,6 +15855,7 @@ mancitypools.com
 manclub.com.mx
 manclub.pw
 manclub.sh
+manclub.sx
 mandalaypoolstoday.com
 mandelnet.com
 mandirikawkw.com
@@ -16113,6 +16172,7 @@ max79.to
 max855my.net
 max855my1.net
 max88-amp.xyz
+max88.moe
 max88.net
 max88lte.com
 max88s.com
@@ -16351,6 +16411,7 @@ megasicbo.net
 megaslot777e.top
 megaslot88.com
 megaslot97.cfd
+megastores.sa.com
 megatgl9terbaik.top
 megatongkol.vip
 megawheel.net
@@ -17064,6 +17125,7 @@ mumubrandedbag.id
 mumunspin.icu
 munchen-pools4d.com
 munchenlotteries.com
+mundo.ru.com
 mundodelcafe.es
 munecaarthouse.com
 mungkinoneday.xyz
@@ -17492,6 +17554,8 @@ nestorlee.com
 net-konkatsu.com
 net77-rtp.store
 net77-vip1.website
+net88.ceo
+net88.gift
 net88.monster
 net88.navy
 netablog.com
@@ -21331,6 +21395,7 @@ ria4hebat.site
 riarmyguard.info
 ribonofc.org
 ricardosbargrill.com
+ricbet.co
 riccobetr.com
 rice838-d.cfd
 rice838.tech
@@ -21354,6 +21419,7 @@ richyahmed.com
 ricostacosmoya.net
 ricwin.shop
 ricwin.tv
+ricwin.tw
 ridgwaymailing.net
 riebeforutah.com
 riekeitalia.com
@@ -21364,6 +21430,8 @@ rik88.de
 rik88.io
 rikashart.com
 rikbet.ac
+rikbet.day
+rikbet.run
 rikbet.tv
 rikiplay.com
 rikon-etc.com
@@ -22838,6 +22906,7 @@ salvatorebonafede.com
 samarinda-pools.com
 sambalgurami.top
 sambaskini.com
+samdodulich.vip
 samfoxroyston.com
 sammyshiblaq.com
 samoa-lotto.com
@@ -24011,6 +24080,7 @@ slotasiabet1c.com
 slotastic.games
 slotbagus.store
 slotbagus.us
+slotbet-kecil.myarchventure.com
 slotbiruclub.site
 slotbiruwin.site
 slotbom-77.click
@@ -24145,6 +24215,7 @@ smithsdetectionjobs.net
 smk-kapitena.live
 smkmuh1cilacap.id
 smkn13jkt.net
+smkn49.info
 smkn7bandung.com
 smokeandumami.com
 smokewoodeats.com
@@ -24875,6 +24946,8 @@ sunwayman-usa.com
 sunwin.deals
 sunwin.live
 sunwin.moi
+sunwin.qa
+sunwin.vin
 sunwin01.win
 sunwin1.us
 sunwin10l.baby
@@ -25198,6 +25271,7 @@ tacomamama.com
 taconicpizza.com
 tacoscaliforniagrill.com
 tactapp.com
+tadalafilonline20.com
 tadalafilonlinepharmacy.net
 tag2024.org
 tagari.co.id
@@ -26204,6 +26278,7 @@ top805vip.site
 top88.loan
 top88.moi
 top88.mx
+top88.vc
 top888.us
 top8kbet.com
 topalpukat.com
@@ -27242,6 +27317,7 @@ vibestogeltop.com
 vic.icu
 vic.rip
 vic.sale
+vic.wine
 vic88.in
 vic88.info
 vict.me
@@ -28377,6 +28453,7 @@ x500top.shop
 x6t6btnsmdgkwwda7h6zbtlg.com
 x8.cafe
 x8.money
+x8.plus
 x8.tips
 x88.beauty
 x88.click
@@ -28508,6 +28585,7 @@ xoso.com.vn
 xotogel.com
 xpsc.net
 xteam.id
+xtmpsk.uk.com
 xtotojuara94.xyz
 xtwg.gb.net
 xuorum.com
@@ -28596,6 +28674,7 @@ yleovov.com
 ylinh.com
 ymcadanecounty.org
 yo-eik-yo-eik.life
+yo88.ci
 yo88.games
 yo88.my
 yo88.sx
