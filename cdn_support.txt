@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1615
+# Number of entries: 1620
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -366,9 +366,11 @@ dataklmsad903.site
 datasvc.site # subdom : apkapi-kgb.datasvc.site apkapi-spv.datasvc.site
 datasvc.xyz # all subdom list in dead_judol_domains.txt
 db351sg6odjv.cloudfront.net
+dbb7b81tozwbs.cloudfront.net
 dbxmjjzl5pc1g.cloudfront.net
 dd8p0622bwh41.cloudfront.net
 denvermineral.com # hacked web
+deoct7xngj20p.cloudfront.net
 desaterbaik.com
 designku.io
 detikslot.clouderbase.com
@@ -376,6 +378,7 @@ devsuperteam.com
 dewab2b.s3.amazonaws.com
 dfdo5rwtdmzk0.cloudfront.net
 dfiz23mj879i2.cloudfront.net
+dgdga3.swuacktu.net
 dha92jo6cen2v.cloudfront.net
 dhro5khzpwdga.cloudfront.net
 dhv857qjzfs98.cloudfront.net
@@ -1152,7 +1155,9 @@ zakw1rog.dshk.loveota.com
 zalopay.vn
 zdataconnect.us
 zdataservices.us
+zeronaught.com
 zfrmz.com
+zkt.mb.cdn-dysxb.com
 zmobileservices.com
 zmobileservices.us
 มีความสุข.today

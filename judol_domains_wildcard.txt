@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1762
+# Number of entries: 1767
 # 
 # 
 # 
@@ -25,6 +25,7 @@
 *[0-9]hoki*
 *[0-9]kbet*
 *[0-9]naga*
+*[0-9]nk88.com
 *[0-9]raja*
 *[0-9]slot*
 *[0-9]sport*
@@ -1232,6 +1233,8 @@
 *zodiak[0-9]*
 *zoom[0-9]*
 4dsuper.*
+990k-[0-9]*
+99kl.*
 [0-9]-win*
 [0-9]grd*
 [0-9]win*
@@ -1269,6 +1272,7 @@ ixp88*
 j88*
 k86*
 kendi*
+kl99.*
 koi*.com
 kpk*.com
 kumbang*
@@ -1279,6 +1283,7 @@ mbi[0-9]*
 mm88*
 mw68*
 nitroplay*
+nk88.*
 ok365*
 okfun*
 on-[0-9]*
