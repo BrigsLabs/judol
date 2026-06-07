@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 28948
+# Number of entries: 28995
 #
 #
 #
@@ -314,6 +314,7 @@
 32110101001a010100.shop
 32win.broker
 32win.chat
+32win.free
 32win.luxury
 32win32.win
 333win.codes
@@ -521,6 +522,7 @@
 73143916.com # subdom : w5vdr.73143916.com
 738382910483.com # subdom : images.738382910483.com # apk
 74lebah-4d.xyz
+7542.cn.com
 76gaming-gacor.xyz
 76gl.com
 77-tokeslot88.site
@@ -552,6 +554,7 @@
 789bet.us.org
 789bet07sh.net
 789betviet.com
+789club.lc
 789club.mx
 789club.quest
 789club.tube
@@ -578,6 +581,11 @@
 789wins.vin
 789winvm.com
 78win.casa
+78win.ch
+78win.cx
+78win.exposed
+78win.florist
+78win.food
 78win.fund
 78win01.locker
 78wingenz.com
@@ -636,6 +644,7 @@
 85thstreetbigband.com
 86bet.ing
 86bet.mobi
+86bet.nz
 86bet.to
 86bet.win
 872784.com
@@ -760,6 +769,7 @@
 91clublogin.xyz
 92-jeetoo.net
 9222004.com
+92i.uk.com
 92jeeto.game
 92jeeto.vip
 934bahisnow.com
@@ -1998,6 +2008,7 @@ amazing-wasp.sa.com
 amazingspaceproclean.com
 amb51.art
 amb51.one
+amberley.in.net
 amberwildmusic.com
 ambilhokimudisini.pro
 ambitiononice.com
@@ -3130,6 +3141,7 @@ b1tstarz31.com
 b200mcuan.top
 b52.id
 b52club.bot
+b52club.ren
 b52club.sa.com
 b52clubgl.com
 b6d.menantugoogle.vip
@@ -6194,6 +6206,7 @@ d1-r9.devil138play.com
 d1melb.com.au
 d3w4p0k3rzx.com
 da.solarbotics.net
+da88.pl
 da88w.net
 daaduku.store
 daaromevolutie.net
@@ -6317,6 +6330,7 @@ dancebetyek.app
 dancingclubla.net
 danddtreeremoval.com
 dangkyrr88.co.com
+dangkyvao.com
 danielforresterlaw.com
 danielgerardsmith.com
 daniellesdeli.com
@@ -6465,6 +6479,7 @@ debbiexenia-hotelapts.com
 debet.bz
 debet.cx
 debet.li
+debet.ml
 debet.mx
 debtconsole.ru.com
 debtmanagement.ru.com
@@ -8055,6 +8070,7 @@ dwlvgame.store
 dwlwins.online
 dwp0k312.com
 dwpforce.com
+dwrvoting.in.net
 dwsltn-gacor.baby
 dwtgl.com
 dwtglhoki.co
@@ -8640,8 +8656,10 @@ f200mplay.guru
 f8bet.me.uk
 fa4collective.com
 fa88.bz
+fa88.ch
 fa8y3.xyz
 faberpagamento.shop
+fabet.date
 fabfoundations.com
 fabianoriccoshoes.com
 fabiofa.top
@@ -8899,6 +8917,7 @@ five.alexistogel.world
 five88.ca
 five88.lt
 five88.moi
+five88.nl
 five883.com
 five88l.vip
 fivee88.com
@@ -8971,6 +8990,7 @@ fmfederal.com
 fmsindonesia.id
 fnn88.com
 fo88.com
+fo88.gd
 fo88.ing
 fo88.nl
 fo88.now
@@ -9728,6 +9748,7 @@ gempuranwarga62.com
 gemscool.co.id
 gemsgynaecology.com
 gemwin.ai
+gemwin.ink
 gemwin.my
 gemwin.to
 gen-two-controls.com
@@ -9970,6 +9991,7 @@ go8.mov
 go88.ci
 go88.com
 go88.fast
+go88.my
 go88.tl
 go88.tw
 go88.us
@@ -10552,6 +10574,7 @@ hayfaskincare.id
 hayscard.org
 haywin.ac
 haywin.store
+haywin.tel
 haywin.work
 hazaratbet.bio
 hazelhurstschool.co.uk
@@ -10733,6 +10756,7 @@ hitachilottery.com
 hitclub.bi
 hitclub.kitchen
 hitclub.marketing
+hitclub.ml
 hitclub.mw
 hitclub.sa.com
 hitclub.so
@@ -11099,6 +11123,7 @@ hypecouncil.net
 hypefitsmartwatch.com
 hypemuch.com
 hyperlinked.in
+hypnotic.us.com
 hypocriteseo.info
 hyrfyr.com
 hyundaimedan.com # malicious backlink
@@ -12066,6 +12091,7 @@ iwatchmore.com
 iwilltrustinyou.org
 iwin68.africa
 iwin68club.beauty
+iwinclub.bz
 ixora-al-barari.com
 ixp88gas.shop
 ixp88gcr.store
@@ -16168,6 +16194,7 @@ max77new.com
 max77terbaik.org
 max79.co
 max79.org
+max79.sx
 max79.to
 max855my.net
 max855my1.net
@@ -16213,6 +16240,7 @@ maxwinqueen.co
 maxxbrides.id
 may88.mx
 may88.nl
+may88.st
 mayaconic.org
 mayatogel.com
 mayatogelkita.com
@@ -17672,6 +17700,7 @@ nhacaiuytin0.com
 nhacaiuytin1vn.com
 nhacaiuytin77.com
 nhat.one
+nhat.sh
 nhatvip.info
 nhatvip.plus
 nhcyaounde.org
@@ -21427,6 +21456,7 @@ rightsided.org
 rigsbyveterinaryclinic.com
 rik88.at
 rik88.de
+rik88.gg
 rik88.io
 rikashart.com
 rikbet.ac
@@ -23760,6 +23790,7 @@ simplyslot.co
 simpsons.bet
 simtiokthia.co
 simulasikan.cfd
+sin88.lu
 sin88.nl
 sinaga4dgacor.site
 sinaga4dtogel.com
@@ -23973,6 +24004,7 @@ sky77scatter.club
 sky77scatter.lat
 sky77super.com
 sky88.moi
+sky88.ng
 sky88sk.com
 sky99bn.asia
 sky99bn.com
@@ -24947,6 +24979,7 @@ sunwin.deals
 sunwin.live
 sunwin.moi
 sunwin.qa
+sunwin.tg
 sunwin.vin
 sunwin01.win
 sunwin1.us
@@ -26292,6 +26325,7 @@ topbar.pro
 topbet.actor
 topbet.bz
 topbet.lc
+topbet.mba
 topbet.sx
 topbetting.vip
 topbos.space
@@ -26940,6 +26974,7 @@ uio.la
 uisek55.kuningtoto.io
 ujanahub.com
 ujayii.com
+uk88.mobi
 uk88.vc
 uk88vip.ink
 uk8thai.com
@@ -27318,6 +27353,7 @@ vic.icu
 vic.rip
 vic.sale
 vic.wine
+vic88.cz
 vic88.in
 vic88.info
 vict.me
@@ -27381,6 +27417,7 @@ vin7778.net
 vin88.app
 vin88.fun
 vin88.is
+vin88.lu
 vin88.my
 vin88.vip
 vin88b.com
@@ -27527,12 +27564,14 @@ vivo4did.top
 vivu88.biz
 vivu88.cx
 vivu88.net
+vivu88.si
 vivu88.vin
 vladimir-pools.com
 vmax88.fun
 vmax8net.mystrikingly.com
 vmaxofficial.co
 vmaxofficial1.com
+vn2sv368.com
 vn88.consulting
 vnae2bet.games
 vnalo789c.com
@@ -28160,6 +28199,7 @@ win4u11.com
 win678.art
 win678.autos
 win678.biz
+win79.fo
 win79.men
 win79.pl
 win79.you
@@ -28341,6 +28381,7 @@ worldcyclingrecord.com
 worldfreecredit.com
 worldkindnessusa.org
 worldlinkedu.com
+worldmall.ru.com
 worldreview.co.uk
 worldsolarcongress.com
 wortel21.net
@@ -28454,6 +28495,7 @@ x6t6btnsmdgkwwda7h6zbtlg.com
 x8.cafe
 x8.money
 x8.plus
+x8.surf
 x8.tips
 x88.beauty
 x88.click
@@ -28574,6 +28616,7 @@ xn8855.com
 xnguihuashu.com
 xo368.poker
 xo88.bar
+xo88.tw
 xo880.com
 xocdia.company
 xoilactvz.tv
@@ -28677,6 +28720,7 @@ yo-eik-yo-eik.life
 yo88.ci
 yo88.games
 yo88.my
+yo88.st
 yo88.sx
 yo88.top
 yoda4d77.com
@@ -28832,6 +28876,7 @@ zazula-music.net
 zbahis471.com
 zbcandyland.site
 zbet.in
+zbet.nz
 zbet.pw
 zbet.sa.com
 zbeventspin.site
@@ -28897,6 +28942,7 @@ znova168.net
 zo.win
 zo88.bio
 zo88.fit
+zo88.vg
 zo88.wiki
 zo9bc.jdultimate.me
 zoccer1.com
@@ -28942,6 +28988,7 @@ zorgandandy.com
 zoro77ao.com
 zowin.pw
 zowin.sx
+zowin.tw
 zrjcjf.ru.com
 zrozumpsiakaikociaka.pl
 ztchinesecafe.com
