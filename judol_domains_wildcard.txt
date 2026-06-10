@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1767
+# Number of entries: 1772
 # 
 # 
 # 
@@ -210,6 +210,7 @@
 *cari4d*
 *cashnet[0-9]*
 *casino*
+*castoto*
 *cb88*
 *celtabet*
 *cemara[0-9]*
@@ -224,6 +225,7 @@
 *clickbet*
 *cobaivg*
 *cocaslot*
+*cocol[0-9]*
 *cogil[0-9]*
 *comototo*
 *cpo333*
@@ -448,6 +450,7 @@
 *inibet*
 *iontogggelll*
 *ios368*
+*iosbet*
 *ip79*
 *ipar4d*
 *irantoto*
@@ -706,6 +709,7 @@
 *menang[0-9]*
 *mentoz4d*
 *merahhoki*
+*merahtoto*
 *merdeka[0-9]*
 *meriah4d*
 *merona4d*
@@ -1107,7 +1111,7 @@
 *togggel*
 *tok99*
 *tokenau*
-*tokeslot[0-9]*
+*tokeslot*
 *toko[0-9]*
 *tokoslot[0-9]*
 *tokototo*

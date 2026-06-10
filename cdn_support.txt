@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1620
+# Number of entries: 1588
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -43,12 +43,10 @@ a1211.dscr.akamai.net
 a1570.dscb.akamai.net
 a5cdn.com
 ab.da31889.com
-abcfiresafety.net # hacked web : https://abcfiresafety.net/blog/ https://abcfiresafety.net/testimonials/
 accallyhigingola.com
 aceh4dblog.wordpress.com
 acehmediacom.wordpress.com # suspicious
 ackreply.com # may create false positive
-acsbsurakarta.com # hacked web : acsbsurakarta.com/shop
 adomselfrecigency.com
 adsdewigg.com
 adsoptimization.top # seo
@@ -56,25 +54,19 @@ aeodirectory.top # seo
 aeosubmission.top # seo
 afkpicture.vip
 ag-cdn.net
-agrotek.unimen.ac.id # hacked 
 aiodirectory.top # seo
-aiwasanfrancisco.com # hacked web
 aix-asset.s3.ap-southeast-1.amazonaws.com
 ajaibcloud.sgp1.cdn.digitaloceanspaces.com
 ajennings.net.cdn.cloudflare.net
-ajoystoryphotography.com # hacked web
 akamai-assets.squarespace.com
 akucloud.com
 akundewaa.site
 alb-ipppw0c8ujq4ywp6eq.ap-southeast-1.alb.aliyuncs.com
 alcopay.com
 all-carousel.xyz # apk
-all-inedu.com # scam site : https://all-inedu.com/id-en/blog/mit-tuition-fees-a-full-financial-information-for-high-school-students
-allstarschildrensdentist.com # hacked web : https://www.allstarschildrensdentist.com/teeth-grinding-children https://www.allstarschildrensdentist.com/contact
 alphabod.org
 amatic.com
 ambengine.com
-amoreshuttles.com # hacked web
 amp-escobar.sgp1.cdn.digitaloceanspaces.com
 ampabadi.com # suspicious
 anehoo.com
@@ -82,7 +74,6 @@ angkasaputra.id # backlink
 anhuidingyue.com
 antoboomerblog.wordpress.com
 ap-south-1.linodeobjects.com.akadns.net
-apgapartments.com # hacked web
 api-3m2-ns2-2-default-rtdb.firebaseio.com
 api-3m2-ns2-4-default-rtdb.asia-southeast1.firebasedatabase.app 
 api-3m3-ns2-2-default-rtdb.asia-southeast1.firebasedatabase.app
@@ -143,7 +134,6 @@ app.galaxyworld999.com
 appid-dana.com
 appsetup.yidaiyiluclub.com
 appsgeyser.com
-aquaflorya.com # hacked web : https://aquaflorya.com/Media/
 arcastudio.co.id # malicious backlink
 ardeobardeo.com # seo backlink
 areahoki.com
@@ -165,19 +155,14 @@ assets-international.sgp1.cdn.digitaloceanspaces.com
 assets-vip.sfo2.cdn.digitaloceanspaces.com
 assetsbanner.sgp1.cdn.digitaloceanspaces.com
 aswransi.com
-ateamvan.com # hacked web
 atg88.atomgaming88images.com
 atom4d.sgp1.cdn.digitaloceanspaces.com
 atomgaming88.sgp1.cdn.digitaloceanspaces.com
-audacieusevanille.com # hacked web : https://audacieusevanille.com/password/
-autodeluxecenter.net # hacked web
-autolookservice.com # hacked site
 autoredirectjack.me
 awan.pw
 aws-learning-kit.bitslovers.com.cdn.cloudflare.net
 ayodaftar.co
 b-cdn.net # all subdom list in dead_judol_domains.txt
-b-cdu.net # hacked web
 b1speed.info
 bacan4dblog.wordpress.com
 bacan4dofficial.wordpress.com
@@ -187,7 +172,6 @@ backend.gameswhitelabel.com
 baduitoto.sgp1.cdn.digitaloceanspaces.com
 bajwapharma.com # hacked web : https://bajwapharma.com/antiepileptics/
 bakso-kojek-5k.sfo3.cdn.digitaloceanspaces.com
-bandar-jaya.com
 bangaset.s3.ap-southeast-1.amazonaws.com
 bannerfoto.shop
 barangtupunyokito.sgp1.cdn.digitaloceanspaces.com
@@ -203,14 +187,12 @@ binder-nx2.nameserver.cfd
 biolabet.nyc3.cdn.digitaloceanspaces.com
 birototo.sgp1.cdn.digitaloceanspaces.com
 bitly.sbs # all subdom list in dead_judol_domains.txt
-bk.unimen.ac.id # hacked
 bkid.sgp1.cdn.digitaloceanspaces.com
 blazzpay-b7pktst.gamma.site
 blazzpay.com
 bloonk.com
 bluecreekdenver.com # hacked web : bluecreekdenver.com/contact
 bo.gacha.business
-boccone.no # hacked web : boccone.no/fyp/bocoran-rahasia-developer-mahjong-ways-2-yang-baru-terbongkar.html
 bonanzastatic.com # subdom : images-bucket.bonanzastatic.com
 bototomacau.weebly.com
 buktiabangempire.blogspot.com
@@ -222,6 +204,7 @@ c23f1bb1b6d0420a94d3aeebea36c4c1.pacloudflare.com
 ca-f295d788950d4cb6af5274e37505bd9b.ecs.ap-southeast-2.on.aws
 cafe-69-moneysite-default-rtdb.firebaseio.com
 cashier.onetoauto.com
+castotoapk.sgp1.digitaloceanspaces.com
 cd537.wordpress.com
 cdn-content.ampproject.org
 cdn-host.proxy188.com
@@ -261,6 +244,7 @@ cdn.sportnanoapi.com.eo.dnse1.com
 cdn.store-assets.com
 cdn.susu-na-khap.com
 cdn.vefrop.com
+cdn.warna-cloudinary.org
 cdn.wgsources.com
 cdn.zabbet.com
 cdn1.epicgames.com
@@ -293,14 +277,10 @@ cloudhostapk.com # apk
 cloudicdn.com
 cloudinary.com
 cloudstoragesigma02.com
-coastalmarket.org # scam
-coderedtacos.com # hacked web
 common-static.ppgames.net
 computerhope.com
 contentranking.top # seo
 cool-assets.sgp1.cdn.digitaloceanspaces.com
-corporationfoodhall.com # hacked web : https://corporationfoodhall.com/about-us
-creeksidenursing.com # hacked web : https://creeksidenursing.com/san-antonio-north-nursing-and-care/ 
 crisp.chat
 d145yfon394ak6.cloudfront.net
 d17if134pyeemt.cloudfront.net
@@ -369,7 +349,6 @@ db351sg6odjv.cloudfront.net
 dbb7b81tozwbs.cloudfront.net
 dbxmjjzl5pc1g.cloudfront.net
 dd8p0622bwh41.cloudfront.net
-denvermineral.com # hacked web
 deoct7xngj20p.cloudfront.net
 desaterbaik.com
 designku.io
@@ -379,13 +358,12 @@ dewab2b.s3.amazonaws.com
 dfdo5rwtdmzk0.cloudfront.net
 dfiz23mj879i2.cloudfront.net
 dgdga3.swuacktu.net
+dh4oiqg45nvw7.cloudfront.net
 dha92jo6cen2v.cloudfront.net
 dhro5khzpwdga.cloudfront.net
 dhv857qjzfs98.cloudfront.net
-diabeticfootcareindia.com # hacked web
 digitalassetpro.xyz
 digitalnomadtools.top # seo
-digitalwaypro.com # hacked web
 dilip.at
 dimkg7j6quj6k.cloudfront.net
 dinohost.vip
@@ -402,7 +380,6 @@ dlmxz0etq5yy6.cloudfront.net
 dlportal.good-game-service.com
 dmwl0ca1bvnm.cloudfront.net
 dnserv.net
-dog-lilicos.com # hacked web
 domain7264.wordpress.com
 dominateapp.com
 downinfo.com
@@ -448,7 +425,6 @@ estate77media.com
 exito.my.id
 exp.boobsbymassage.com
 f88518a.gogoslam.com
-fargolandscape.com # hacked web
 fastqrisbb.com
 felixhospitals.com
 feritogel.sgp1.cdn.digitaloceanspaces.com
@@ -458,12 +434,9 @@ ficavirtual2020.cdmx.gob.mx # malicious backlink
 file001.nxtengine.net
 fileku.cc
 filemu.cc
-findaspring.org # hacked web
-findingford.com # hacked web
 firebase-settings.crashlytics.com
 florensia-gacor.lon1.cdn.digitaloceanspaces.com
 fonts.cdnfonts.com
-foodforestcafe.com # hacked web
 forbidden-pet.vercel.app
 form.6mbr.com
 form.jotform.com # may create false positive
@@ -472,7 +445,6 @@ forms.zohopublic.com
 fpnpmcdn.net
 freeimage.host
 freespamfilter.org # seo # malicious backlink
-frescabowl.com # hacked web : https://www.frescabowl.com/egift-cards/
 frm88.pro
 gachaengine.com
 gacor300.sgp1.cdn.digitaloceanspaces.com
@@ -489,7 +461,6 @@ gambarcuy.online
 gambarin.site
 gambarku.art
 gambarterkeren.xyz
-gamch.goel.edu.in # hacked web
 game-apk.s3.ap-northeast-1.amazonaws.com
 game.gp2play.com
 game.sfo2.digitaloceanspaces.com
@@ -509,7 +480,6 @@ gifyu.com
 giga-live-1-default-rtdb.asia-southeast1.firebasedatabase.app
 giga-live-2-default-rtdb.asia-southeast1.firebasedatabase.app
 giga4-ns3-default-rtdb.asia-southeast1.firebasedatabase.app
-girizevermahal.com # hacked web : https://girizevermahal.com/about.html
 global-config-3m-1-default-rtdb.firebaseio.com
 global-config-ug-default-rtdb.firebaseio.com
 global-configs-2-default-rtdb.asia-southeast1.firebasedatabase.app
@@ -517,20 +487,15 @@ global-configs-default-rtdb.asia-southeast1.firebasedatabase.app
 global-gateways.space # subdom : apigm.global-gateways.space static.gm.global-gateways.space
 global-server.net
 gobel.ink
-gomanagedit.com # hacked web
 gpa2glsjhw.xyz
-graduacao.dan.unb.br # malicious backlink
-greenbikefood.com # hacked web : https://greenbikefood.com/platters
 group-amp.ink
 growfasts.top # seo
 grup168.sgp1.digitaloceanspaces.com
 gso.kommo.com
 h85cndf2moxnwjz.com
 harimauterbang.sgp1.cdn.digitaloceanspaces.com
-harvelkitchen.sdcurtains.com # scam
 hbostatic.xyz
 helenafrithpowell.com
-hemmingways-bistro.com # hacked web : https://hemmingways-bistro.com/menu/
 here-we-go.top
 hfaker.com
 hk.aishengji.com
@@ -604,6 +569,7 @@ imgfire.art
 imghippo.com # may create false positive
 imghn.com
 imghwgroup.com
+imgkita.digital
 imgku.io
 imgme.pro
 imgnxa.com
@@ -627,6 +593,7 @@ inds.sgp1.digitaloceanspaces.com
 infini88.network # all subdom list in dead_judol_domains.txt
 infinityteam.sgp1.cdn.digitaloceanspaces.com
 ingest.ingtracer.com
+inlight-zn.firebaseapp.com
 ios88app.com
 ip104.sgp1.cdn.digitaloceanspaces.com
 ip188baru.sgp1.cdn.digitaloceanspaces.com
@@ -819,7 +786,6 @@ nxt-upload-bucket.ajp7e.upcloudobjects.com
 nyanpasu.click
 object-d001-cloud.cloudstoragesharingservice.com
 objek-d001-cloud-akucloud-valid.sukagambarku.com
-olx.recamweek.com
 olxjaya168.com
 omutgl.sgp1.digitaloceanspaces.com
 onelive.dataklmsad902.site
@@ -850,6 +816,7 @@ pglchat.com # might false positive
 phantom.com
 photobanner.sgp1.cdn.digitaloceanspaces.com
 photoin.io
+photokami.io
 photoku.io
 photosaya.io
 photosme.site
@@ -906,7 +873,7 @@ rajabandot.sgp1.cdn.digitaloceanspaces.com
 rankfaster.top # seo
 raspi.today # malicious backlink
 rbtasset.com # subdom : cdn.rbtasset.com
-recamweek.com
+recamweek.com # subdom : olx.recamweek.com
 regalez-vous.farm
 renaimall.com
 res-odx.op-mobile.opera.com
@@ -1068,6 +1035,7 @@ tianlonghi.com
 tiktakimage.shop
 tiktakspace.cc
 tinypic.host
+tk.mowell.tech
 tko77game.pro # scam
 tmc-group.photos
 tmgaming.asia
