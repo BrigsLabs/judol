@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1588
+# Number of entries: 1589
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -282,6 +282,7 @@ computerhope.com
 contentranking.top # seo
 cool-assets.sgp1.cdn.digitaloceanspaces.com
 crisp.chat
+customer-eq7kiuol0tk9chox.cloudflarestream.com
 d145yfon394ak6.cloudfront.net
 d17if134pyeemt.cloudfront.net
 d1ayxb9ooonjts.cloudfront.net
@@ -343,7 +344,7 @@ dataconnect.sbs
 datakingdom357.s3.ap-southeast-3.amazonaws.com
 dataklmsad902.site
 dataklmsad903.site
-datasvc.site # subdom : apkapi-kgb.datasvc.site apkapi-spv.datasvc.site
+datasvc.site # all subdom list in dead_judol_domains.txt
 datasvc.xyz # all subdom list in dead_judol_domains.txt
 db351sg6odjv.cloudfront.net
 dbb7b81tozwbs.cloudfront.net
@@ -741,7 +742,7 @@ mobile-server-s7n7536nxa-as.a.run.app
 mobile-server-xovczxfxsq-as.a.run.app
 mobile-server-zqsdy7qyda-as.a.run.app
 mobileapp.web-sample.live
-mobileservices.sbs
+mobileservices.sbs # subdom : apkapi-sc8.mobileservices.sbs apkapi-ju8.mobileservices.sbs
 modelkit1.com
 moho.sgp1.cdn.digitaloceanspaces.com
 mpc-prod-1-1053047382554.us-central1.run.app

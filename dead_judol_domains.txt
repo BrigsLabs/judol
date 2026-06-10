@@ -213,6 +213,7 @@ apkapi-rk8.bitly.sbs
 apkapi-mgc.bitly.sbs
 apkapi-rmd.bitly.sbs
 apkapi-pd7.bitly.sbs
+apkapi-jns.bitly.sbs
 
 # from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
 02dd4d78.dewagacor138rtp.pages.dev
@@ -848,6 +849,11 @@ apkapi-ov2.datasvc.xyz
 apkapi-pjo.datasvc.xyz
 apkapi-s2k.datasvc.xyz
 apkapi-zed.datasvc.xyz
+
+# from datasvc.site # subdom : 
+apkapi-kgb.datasvc.site 
+apkapi-spv.datasvc.site 
+apkapi-gr3.datasvc.site
 
 # from *.it.com
 11uu.it.com
