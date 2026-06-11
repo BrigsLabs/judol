@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1589
+# Number of entries: 1564
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -38,7 +38,6 @@
 888rpae.com
 88ksr.wordpress.com
 8r0h54-553-ppp.oss-accelerate.aliyuncs.com
-9degreegolf.com # hacked web
 a1211.dscr.akamai.net
 a1570.dscb.akamai.net
 a5cdn.com
@@ -49,12 +48,8 @@ acehmediacom.wordpress.com # suspicious
 ackreply.com # may create false positive
 adomselfrecigency.com
 adsdewigg.com
-adsoptimization.top # seo
-aeodirectory.top # seo
-aeosubmission.top # seo
 afkpicture.vip
 ag-cdn.net
-aiodirectory.top # seo
 aix-asset.s3.ap-southeast-1.amazonaws.com
 ajaibcloud.sgp1.cdn.digitaloceanspaces.com
 ajennings.net.cdn.cloudflare.net
@@ -134,7 +129,6 @@ app.galaxyworld999.com
 appid-dana.com
 appsetup.yidaiyiluclub.com
 appsgeyser.com
-arcastudio.co.id # malicious backlink
 ardeobardeo.com # seo backlink
 areahoki.com
 aryagames.com # subdom : internal.aryagames.com member.aryagames.com
@@ -154,14 +148,12 @@ assets-global.website-files.com
 assets-international.sgp1.cdn.digitaloceanspaces.com
 assets-vip.sfo2.cdn.digitaloceanspaces.com
 assetsbanner.sgp1.cdn.digitaloceanspaces.com
-aswransi.com
 atg88.atomgaming88images.com
 atom4d.sgp1.cdn.digitaloceanspaces.com
 atomgaming88.sgp1.cdn.digitaloceanspaces.com
 autoredirectjack.me
 awan.pw
 aws-learning-kit.bitslovers.com.cdn.cloudflare.net
-ayodaftar.co
 b-cdn.net # all subdom list in dead_judol_domains.txt
 b1speed.info
 bacan4dblog.wordpress.com
@@ -178,8 +170,6 @@ barangtupunyokito.sgp1.cdn.digitaloceanspaces.com
 bas3data.xyz
 batesvilleclinicms.com # hacked web : https://www.batesvilleclinicms.com/our-staff
 behh-skuy-lah.s3.eu-north-1.amazonaws.com
-berbagaicaragif.com
-beritaindonesia.co
 bestlink.ly
 bgdn.eu # hacked web
 binder-nx1.namesvr.xyz
@@ -198,7 +188,6 @@ bototomacau.weebly.com
 buktiabangempire.blogspot.com
 buktiedctoto.sgp1.digitaloceanspaces.com
 buktijpestoto00.blogspot.com
-burikama.com # hacked web
 by437ocd.ovslegodl.sched.ovscdns.com
 c23f1bb1b6d0420a94d3aeebea36c4c1.pacloudflare.com
 ca-f295d788950d4cb6af5274e37505bd9b.ecs.ap-southeast-2.on.aws
@@ -214,28 +203,17 @@ cdn-seamless.m40c7v9i.com
 cdn-services.dev
 cdn.ably.com
 cdn.ampproject.org
-cdn.antipeluru.best
 cdn.apple-mapkit.com
-cdn.areabermain.club
 cdn.asstlnk.com
-cdn.bosluna.com
-cdn.bunkerkiamat.com
-cdn.databerjalan.com
 cdn.embed.ly
-cdn.gambar.wiki
-cdn.gambaraku.io
-cdn.gambarsejarah.com
 cdn.globalcontentcloud.com
 cdn.hub88.io
 cdn.imgpile.com
-cdn.jp-punya.top
-cdn.linkgasih.com
 cdn.mixlink.top
 cdn.passwordless.dev
 cdn.pn.tc
 cdn.projectapp.dev
 cdn.rawgit.com
-cdn.rek8k8.cloud
 cdn.robotsatelit.net
 cdn.shorebird.cloud
 cdn.snowmobiletrader.com.cdn.cloudflare.net
@@ -256,7 +234,6 @@ cdnmonster.net
 cdnres.yidaiyiluclub.com
 cdnsimple.top
 cemara123vip.blogspot.com
-ceritabahagia.lol
 cfilvs.i3457.com
 chaport.com
 chat-socket.onechat.dev
@@ -320,7 +297,6 @@ d346e5v8wxznq7.cloudfront.net
 d34r1ocksf8dx3.cloudfront.net
 d35uxhjf90umnp.cloudfront.net
 d36deirv5kp4uh.cloudfront.net
-d36i6r7ov1g766.cloudfront.net
 d37kf7rs4g1hyv.cloudfront.net
 d39ezjiev2gct0.cloudfront.net
 d39r7a227pxlxu.cloudfront.net
@@ -532,7 +508,6 @@ iframe.stwopay.com # may create false positive
 iframe1.qrizz.id
 igamingontario.ca
 iili.io
-ilovenypizzadawsonville.com # hacked web : https://www.ilovenypizzadawsonville.com/menus/
 image-cdn.link
 image.apkstaticcontent.com
 image777.sgp1.cdn.digitaloceanspaces.com
