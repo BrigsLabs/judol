@@ -83,6 +83,7 @@ apiace-v2.seamlesss-hptech.com
 apionix3b.seamlesss-hptech.com
 bandotwd.b-cdn.net
 bang-jago.b-cdn.net
+blogrr.b-cdn.net
 bulan.b-cdn.net
 cabewin.b-cdn.net
 cabewin77.b-cdn.net

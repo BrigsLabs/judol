@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 29478
+# Number of entries: 29522
 #
 #
 #
@@ -567,6 +567,7 @@
 789bet07sh.net
 789betviet.com
 789club.lc
+789club.mov
 789club.mx
 789club.quest
 789club.tube
@@ -688,6 +689,7 @@
 86bet.mobi
 86bet.nz
 86bet.to
+86bet.vc
 86bet.win
 872784.com
 88-meteorbetwin.org
@@ -3061,6 +3063,7 @@ auth4.birri.com
 authentication.us.com
 autislife.com
 autismadvocatefoundation.com
+auto.ufaname.autos
 auto1max.site # cloaking
 auto301admin.top
 auto7slot12.info
@@ -3235,6 +3238,7 @@ b200mcuan.top
 b52.id
 b52club.bot
 b52club.money
+b52club.now
 b52club.ren
 b52club.sa.com
 b52clubc.city
@@ -4006,6 +4010,7 @@ betifycasino365fr.com
 betifycasino777fr.com
 betifycasinoa366fr.com
 betifycasinoappfr.com
+betinexchange.site
 betis.info
 betis777.com
 betis888.com
@@ -4374,6 +4379,7 @@ bloggercamp.id
 bloggermerdeka.id
 bloggingideas.net
 blogiurisdoc.com
+blogrr.net
 blogrudhi.id
 blogs.novinam.com
 blogsitesikur.com
@@ -4897,6 +4903,7 @@ buildthegames.com
 buildyourdreambody.com
 bujangenam.org
 bujrum.net
+bujunaris88.xyz # cloaking
 bujur888juara.xyz
 bukagamespools.com
 bukan-aku-bang.site
@@ -6641,6 +6648,7 @@ debbiexenia-hotelapts.com
 debet.bz
 debet.cx
 debet.li
+debet.lv
 debet.ml
 debet.mx
 debet.st
@@ -8847,6 +8855,7 @@ f8bet.me.uk
 fa4collective.com
 fa88.bz
 fa88.ch
+fa88.vc
 fa8y3.xyz
 faberpagamento.shop
 fabet.date
@@ -8868,6 +8877,7 @@ fafa-123.net
 fafa168a.org
 fafa188thb1.com
 fafajay.com
+fairplay24.green
 fairviewheightschamber.org
 fairygarden.id
 faithproject.io
@@ -9040,6 +9050,7 @@ fiercepeoplemovie.com
 fiestagourmetcatering.com
 fiestagrillcentral.com
 fiestaonflathead.com
+fifaworldcup2022.club
 fifthfactorleadership.com
 fightcircle.net
 fightofnapi69.com
@@ -9196,6 +9207,7 @@ fo88.gd
 fo88.ing
 fo88.nl
 fo88.now
+fo88.si
 foapi.fco45xzxz.com
 fobsvzx.uk.com
 focaravajuce.org
@@ -9481,8 +9493,10 @@ fulltilticecream.com
 fun88thailand.uk.com
 funcampcanada.com
 fundacioninquietudes.org
+funexchange.info
 fungame777depo.net
 fungame777hub.org
+funinexchange.vip
 funncity.com
 funneljourney.io
 fuoriportacoiano.com
@@ -9968,6 +9982,7 @@ gemsgynaecology.com
 gemwin.ai
 gemwin.ink
 gemwin.my
+gemwin.pl
 gemwin.to
 gen-two-controls.com
 gen.waktogel.cyou
@@ -10216,6 +10231,7 @@ go88.com
 go88.fast
 go88.gl
 go88.my
+go88.tax
 go88.tl
 go88.tokyo
 go88.tw
@@ -10810,6 +10826,7 @@ hayamiyu.net
 hayfaskincare.id
 hayscard.org
 haywin.ac
+haywin.now
 haywin.store
 haywin.tel
 haywin.work
@@ -10999,6 +11016,7 @@ hitclub.bi
 hitclub.kitchen
 hitclub.marketing
 hitclub.ml
+hitclub.mn
 hitclub.mw
 hitclub.sa.com
 hitclub.so
@@ -16510,6 +16528,7 @@ max79.co
 max79.org
 max79.sx
 max79.to
+max79.vin
 max855my.net
 max855my1.net
 max88-amp.xyz
@@ -18037,6 +18056,7 @@ nhacaiuytin.com.se
 nhacaiuytin0.com
 nhacaiuytin1vn.com
 nhacaiuytin77.com
+nhat.my
 nhat.one
 nhat.sh
 nhatvip.info
@@ -20193,6 +20213,7 @@ player.tmsplay.com
 playeribetwin4d.live
 playforwin.xyz
 playhly88.online
+playinexchange.game
 playjoin999.online # subdom : lucky.playjoin999.online hoki.playjoin999.online
 playjoin999.site # subdom : pg.playjoin999.site
 playjoin999.space # subdom : fortune.playjoin999.space
@@ -21560,6 +21581,7 @@ redchannels.org
 redchilligold.com
 reddhfic.org
 reddogcasino.vip
+reddybook.news
 redefineteachered.org
 redfootbreeder.com
 redii.info
@@ -21827,6 +21849,7 @@ richspinau.online
 richspinau.site
 richyahmed.com
 ricostacosmoya.net
+ricwin.cv
 ricwin.shop
 ricwin.tv
 ricwin.tw
@@ -21839,6 +21862,7 @@ rik88.at
 rik88.de
 rik88.gg
 rik88.io
+rik88.mobi
 rikashart.com
 rikbet.ac
 rikbet.day
@@ -21852,6 +21876,7 @@ rikvip.claims
 rikvip.college
 rikvip.info
 rikvip.mx
+rikvip.online
 rikvip.photos
 rikvip.sc
 rikvip1.cc
@@ -22950,6 +22975,7 @@ rtpslot88ku8.club
 rtpslot88resmi3.art
 rtpslot88resmijp9.beauty
 rtpslotasiabet5.gamingplay.co
+rtpslotbom77gcr.top
 rtpslotbom77keren.lol
 rtpslotbom77live.lol
 rtpslotbom77pg.lol
@@ -24426,6 +24452,7 @@ sky77super.com
 sky88.ci
 sky88.moi
 sky88.ng
+sky88.nu
 sky88sk.com
 sky99bn.asia
 sky99bn.com
@@ -24544,6 +24571,7 @@ slotbom77cuan.top
 slotbom77org.com
 slotbom77qris.top
 slotbom77sctr.cyou
+slotbom77slhk.lol
 slotbom77toto.icu
 slotbrunei.com # subdom : lucky.slotbrunei.com
 slotcocol88.beauty
@@ -24938,6 +24966,7 @@ spinbkrbro.shop
 spinbns138.art
 spincabewin77.com
 spincuanmu.site
+spindex.net
 spindisini.com
 spineed.com
 spinelevens4.com
@@ -25411,6 +25440,7 @@ sunwin.help
 sunwin.live
 sunwin.moi
 sunwin.qa
+sunwin.sl
 sunwin.talk
 sunwin.tg
 sunwin.town
@@ -26758,6 +26788,7 @@ top69-vip.club
 top77-rtp.college
 top77.college
 top805vip.site
+top88.gdn
 top88.loan
 top88.moi
 top88.mx
@@ -26776,6 +26807,7 @@ topbet.actor
 topbet.bz
 topbet.lc
 topbet.mba
+topbet.ml
 topbet.sx
 topbetting.vip
 topbos.space
@@ -27294,6 +27326,7 @@ txlottery.org
 tybeeislandonline.com
 tyeevet.com
 tylebongda.co.com
+tylecacuoc.club
 tylekeo.store
 tylekeonhacai.life
 tylekeonhacai.top
@@ -27389,6 +27422,8 @@ ufakick.services
 ufamadam.cn.com
 ufamax24.company
 ufamax24.ink # subdom : member.ufamax24.ink
+ufaname-auto.com
+ufaname.ufaauto.cash
 ufanice.com
 ufanice1.com
 ufasexy.com
@@ -27812,8 +27847,10 @@ vibestogeltop.com
 vic.icu
 vic.rip
 vic.sale
+vic.wales
 vic.wine
 vic88.cz
+vic88.fun
 vic88.in
 vic88.info
 vict.me
@@ -27876,6 +27913,7 @@ vimark.com.tr
 vin777.wang
 vin7778.net
 vin88.app
+vin88.cl
 vin88.fun
 vin88.is
 vin88.lu
@@ -28026,6 +28064,7 @@ vivo4did.info
 vivo4did.top
 vivu88.biz
 vivu88.cx
+vivu88.id
 vivu88.net
 vivu88.si
 vivu88.vin
@@ -28673,6 +28712,7 @@ win678.biz
 win79.fo
 win79.men
 win79.pl
+win79.tw
 win79.you
 win79sr.com
 win88-blues.digital
@@ -28968,6 +29008,7 @@ x500.store
 x500rtp.online
 x500top.shop
 x6t6btnsmdgkwwda7h6zbtlg.com
+x8.beer
 x8.cafe
 x8.money
 x8.plus
@@ -29201,6 +29242,7 @@ yo-eik-yo-eik.life
 yo88.ci
 yo88.games
 yo88.my
+yo88.nu
 yo88.st
 yo88.sx
 yo88.top
@@ -29423,6 +29465,7 @@ znova168.net
 zo.win
 zo88.bio
 zo88.fit
+zo88.io
 zo88.vg
 zo88.wiki
 zo9bc.jdultimate.me
@@ -29470,6 +29513,7 @@ zoomwithscott.co
 zorgandandy.com
 zoro77ao.com
 zowin.pw
+zowin.run
 zowin.sx
 zowin.tw
 zrjcjf.ru.com
