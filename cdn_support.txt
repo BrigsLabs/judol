@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1564
+# Number of entries: 1558
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -371,7 +371,6 @@ duatoto.sgp1.cdn.digitaloceanspaces.com
 dvbs75l69qv8d.cloudfront.net
 dvzlwzma32q6t.cloudfront.net
 dw.gp2play.com
-dwlink.skystarbiru.com
 dwnldapk.sgp1.cdn.digitaloceanspaces.com
 dxqm4i1swgb5o.cloudfront.net
 dz5xbhxy6sjp4.cloudfront.net
@@ -387,7 +386,6 @@ edge.api.flagsmith.com
 eghsuc4vt3.execute-api.us-east-1.amazonaws.com
 egt-digital.com
 eijkman.go.id # malicious backlink
-elejabaa.com # seo backlink
 enak.la
 enderocean.com
 endofamerica.com.cdn.cloudflare.net
@@ -395,11 +393,9 @@ entecomputer.com
 entry.gyeitee.com
 entry.nuanmokeji.com
 eq37fu2xth.com
-erp.sphoki88.com
 escartonsbrevet.com
 esports.heracles.nl # malicious backlink
 estate77media.com
-exito.my.id
 exp.boobsbymassage.com
 f88518a.gogoslam.com
 fastqrisbb.com
@@ -407,10 +403,7 @@ felixhospitals.com
 feritogel.sgp1.cdn.digitaloceanspaces.com
 fffiiillleee.com
 fg-host-img.com
-ficavirtual2020.cdmx.gob.mx # malicious backlink
 file001.nxtengine.net
-fileku.cc
-filemu.cc
 firebase-settings.crashlytics.com
 florensia-gacor.lon1.cdn.digitaloceanspaces.com
 fonts.cdnfonts.com
@@ -421,7 +414,6 @@ former.tax.gov.kh # malicious backlink
 forms.zohopublic.com
 fpnpmcdn.net
 freeimage.host
-freespamfilter.org # seo # malicious backlink
 frm88.pro
 gachaengine.com
 gacor300.sgp1.cdn.digitaloceanspaces.com
@@ -670,6 +662,7 @@ localcloudhost.biz
 loginapkspbutoto.blogspot.com
 logindapurtoto.blogspot.com
 loginsungaito2.blogspot.com
+lordsexch.info
 lovable.app # subdom : penilaianmauslot.lovable.app penilaianceriabet.lovable.app
 love-kyoto.net # hacked web
 lp4d.nyc3.cdn.digitaloceanspaces.com
@@ -845,6 +838,7 @@ r1zengrp.link
 r2.dev # all subdom list in dead_judol_domains.txt
 rabanimage.io
 radartulungagung.co.id # malicious backlink
+radheexchid.com
 rajabandot.sgp1.cdn.digitaloceanspaces.com
 rankfaster.top # seo
 raspi.today # malicious backlink

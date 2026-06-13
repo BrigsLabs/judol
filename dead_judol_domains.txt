@@ -100,6 +100,7 @@ doa-selalu-menyertai.b-cdn.net
 dont-play-play-with-sese.b-cdn.net
 duha.b-cdn.net
 e-e-a-t.b-cdn.net
+enderocean-centre.b-cdn.net
 fastads.b-cdn.net
 feicim-naikyah.b-cdn.net
 fotogroup.b-cdn.net
@@ -950,6 +951,7 @@ lagagame77daftar.it.com
 lampubet.it.com
 lampupion.it.com
 lawak4d.it.com
+link4.tenbrand.it.com
 linktoto88.it.com
 lisatoto.it.com
 m1toto-4d.it.com
@@ -1027,6 +1029,7 @@ tanggaqq.it.com
 tanggasurga.it.com
 tarungbebas.it.com
 tenarjitu.it.com
+tentaco.it.com
 tokeslot88.it.com
 toto7788.it.com
 tovelmanufacturingequipment.it.com
@@ -1517,6 +1520,7 @@ agen13.buktiagenolx.info
 agen28.buktiagenolx.info
 
 #from cdn_support worker.dev
+abc8page.public-f1c.workers.dev
 amanahtotogacor3.pastimemberi.workers.dev
 asia99.jawirr.workers.dev
 attopuma.sub-puma33.workers.dev
@@ -1532,6 +1536,7 @@ idnpoker.mjitcorporationltd.workers.dev
 kejurtps.master-138group.workers.dev
 phapac.hafeiniamilan.workers.dev
 rashakai.sijago88.workers.dev
+safe-link-abc.public-f1c.workers.dev
 situs-slot-gacor-tw88.rjpl-group.workers.dev
 solar.newmahjongways.workers.dev
 story-barbar77.proplayer-esport046.workers.dev
