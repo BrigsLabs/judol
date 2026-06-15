@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1558
+# Number of entries: 1617
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -1099,8 +1099,51 @@ zkt.mb.cdn-dysxb.com
 zmobileservices.com
 zmobileservices.us
 มีความสุข.today
-# suspicious backlink
+##############################
+# suspicious scam & backlink #
+##############################
+1selflessact.org
+7neurology-kensyu2023.org
+aadivcarefoundation.org
+aarogyadaan.org
+abdul-wahab.org
+abudhabifashionweek.org
+accmadrid.org
+aceitp.org
+achhel.org
+adamdartist.com
+adcndsj.org
+afots.org
+africaworldmun.org
+ageheartycare.org
+agmsm.org
+ahcconstruction.org
+ai4teens.org
 akkesdinkesriau.info
+albertonboosterclub.org
+alianzasolidariadecapellanes.org
+aliveinaustin.org
+allaweddingart.com
+allconstructionpros.org
+allianceofchrist.org
+allnationssabbathchurch.org
+alternativehealersfund.org
+amcure.org
+americanfirearm.org
+americasschool.org
+amicidipio.org
+ampservice.org
+andresbikepark.org
+annafccla.org
+antiabortionfront.org
+arc-development.org
+ardentatum.org
+arouz.org
+artfactoryamerica.com
+artiface.org
+artofprivacy.org
+ashleyjordan.org
+asomip.org
 atr-bpn.id
 atrbpn-kotasolok.com
 atrbpnbali.com
@@ -1168,11 +1211,29 @@ atrbpntanjungpinang.com
 atrbpntasikmalaya.com
 atrbpntegal.or.id
 atrbpnyogyakarta.com
+aulapis.org
+auroville-citytheearthneeds.org
+autismbook.org
+aviheikkinen.com
+awlgroup.org
 aydinkestanebali.com
+ayurvedaecuador.org
+baacc.org
 badakanom-desa.id
 balaidesa.id
+ballyscolombo.org
 bangka-desa.id
+baraah.org
+baseballready.org
+battleforgednation.org
+baystatepainters.org
+bbfghana.org
+bdsss.org
 bendoharjo.id
+benimsayfam.org
+bethanyshopeandcommunity.org
+betterenergywv.org
+bgbratya.org
 bidangpfmdinsosmaluku.com
 bojong-desa.id
 brajaemas-desa.id

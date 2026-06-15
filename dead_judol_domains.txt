@@ -1734,3 +1734,13 @@ hotwin.bigcartel.com
 totobeta.bigcartel.com 
 win.bigcartel.com
 live.bigcartel.com
+
+#from juli4d30.com # subdom : 
+masukan.juli4d30.com 
+login.juli4d30.com 
+top1.juli4d30.com
+
+#from mitratogel40.com # subdom : 
+info.mitratogel40.com 
+online.mitratogel40.com 
+mitra01.mitratogel40.com
