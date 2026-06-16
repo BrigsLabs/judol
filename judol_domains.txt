@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 29765
+# Number of entries: 29815
 #
 #
 #
@@ -2323,6 +2323,7 @@ angkakembar-polartp.vip
 angkakembar1-one.store
 angkakeramatjitu.com
 angkakudus.pro
+angkamacau.org # subdom : data.angkamacau.org
 angkamadu4d.net
 angkamistis5.site
 angkanet.codes
@@ -6451,6 +6452,7 @@ daaromevolutie.net
 daarularqom.org
 dabet.mobi
 dachcolombia.comtemaq
+daddyalterations.com
 dadfordisney.com
 dado88ag.com
 dado88nexus.online
@@ -6489,6 +6491,7 @@ daftarcnn.top
 daftardadu.net
 daftardepoxito.com
 daftargameseru.com
+daftarjuli4d.com
 daftarkanjeng69.com
 daftarmaenyuk.cyou
 daftarmas.com
@@ -9489,6 +9492,7 @@ freexy.net
 freigeist-drink.com
 freightpipes.com
 freiheit-fuer-jo.org
+frenchtechargentina.org
 frescabowl.com 
 freshcasino24.de
 freshlearn.org
@@ -10971,6 +10975,7 @@ hdlsuksesselalu.com # cloaking
 hdxrom.com
 headinthesandblog.org
 heagewindmillers.co.uk
+healmgm.org
 healthandchiropractic.com
 healthcaresalaryonline.com
 healthconsultantsnj.com
@@ -11281,6 +11286,7 @@ homebaking88.com
 homebet88cuan.online
 homecling.xyz # apk
 homedelicatering.com
+homeessential.org
 homeklondike.com
 homelandsecurityresponse.com
 homelessdublin.org
@@ -11310,6 +11316,7 @@ hondastair.com
 hondasuguh.com
 hondatulisan.com
 honduraslottery.com
+honestfootball.org
 honestopentransparent.com
 hongarialottery.com
 hongkencana.com
@@ -11408,6 +11415,7 @@ houseofmedusasc.com
 houseonthehillaustin.com
 housepaintingla.com
 houseunseen.com
+housingkarma.org
 houston-lottery.com
 houston4d.com
 houstonlottery.one
@@ -11552,6 +11560,7 @@ ibayar.live
 ibayar.net
 ibbfuel.com
 ibcbet.com
+iberorquestas.org
 ibet899a.com
 ibet899ku.lat
 ibet899loe.lat
@@ -11634,6 +11643,7 @@ id.lskatsu5.site
 id.rayajos.club
 id01.orekgurita4d.lat
 idaholottery.live
+idainnovationrelief.org
 idajahoki.site
 idanamax777.net
 idb365.ink
@@ -11855,6 +11865,7 @@ imhlcm.com
 imigrasilahat.com
 imigrasiranai.com
 immanuelucc.co
+immigrantministryguide.org
 immo-beausejour.net
 immunenet.com
 imortalslot4d.online
@@ -11864,6 +11875,7 @@ impactaquariums.com
 impactcompetitions.net # scam # landing
 impactedge.eu.com
 impactministry.id
+impactsigns.org
 impian2.fun
 impian2istana.xyz
 implantedente.com
@@ -11909,6 +11921,7 @@ indhoki4d.pro
 india45pools.com
 indialivepools.com
 indianempiregc.com
+indianhillsnlr.org
 indianhotpics.org
 indianonlineshoppings.com
 indianpools.com
@@ -12097,6 +12110,8 @@ infosapi.id
 infosgp.com # subdom : riwayat-data.infosgp.com
 infoshibatotoo.xyz
 infoslot.asia
+infotechedu.org
+infotogelhariini.org # subdom : cek.infotogelhariini.org
 ingatcuan.cloud # cloaking
 ingatcuan.space # cloaking
 ingatcuan88casino.site
@@ -12194,7 +12209,9 @@ instrafitter.com
 insuranceonclick.com
 insurenow4less.com
 integrityga.com
+integritymedicare.org
 integrohospitals.com
+intelagentsystems.org
 intelltheory.com
 interabu.com
 interculturel.net
@@ -12336,6 +12353,7 @@ islamintheageofnewmedia.com
 islamisohbet.click
 islanddonutcompany.com
 islandlinksgolf.com
+islandsendmotel.com
 islandtimetrolley.com
 ismakualaterengganu.com
 iso777wd.net
@@ -12442,6 +12460,7 @@ it353.com
 itadoriyuji.xyz
 italiamiafestival.com
 italian-art.org
+italianheritagelodge.org # subdom : announcement.italianheritagelodge.org
 italianpastarecipes.it
 italianspacefood.org # cloaking
 italy-pools.com
@@ -12990,6 +13009,7 @@ johannalong.com
 johnbrownseriousbbq.com
 johnnytherazor.co.uk
 johnsalvitti.com
+johnshopkinsmedical.org
 johnsondoerhoefer.com
 johnsonstore.uk.com
 johor-pools.com
@@ -13543,6 +13563,7 @@ karibbeancuisine.com
 karimun.link-antinawala-viocash.shop
 karinastore.id
 karirbank.id
+karisjenniferphotography.com
 karmaapp.io
 karpatorusyns.org
 karpe-dm.com
@@ -14995,6 +15016,7 @@ lied3r.vip
 lienminhkjc.com
 lifeeffige.eu
 lifelessonsradio.org
+lifesavecharitabletrust.org
 lifesoever.com
 liga.win
 liga123.cc
@@ -15707,6 +15729,7 @@ lsm99k.bet
 lsm99k.com
 lsmbzjcj.com
 lsmview.com
+lsno1.org # subdom : live.lsno1.org
 ltauharestaurant.com
 ltc-wallet.com
 ltd.business
@@ -16113,6 +16136,7 @@ mahajitu991.org # cloaking
 mahajituu.com
 maharaja188juara.site
 maharaja188x380.site
+maharsh.org
 mahasarakhampolice.com
 mahasiusa.org
 mahasuhurendikt.com
@@ -16516,6 +16540,7 @@ marseillepools.com
 marshchristiantrust.org
 marshillchurch.org
 martechadvisor.org
+marthanfoundation.org
 marthasmexicanfood.com
 martialartsplanet.com
 martiansgohome.com
@@ -16767,6 +16792,7 @@ mbiplay.com
 mbiwallet.com
 mbkapak.lat
 mbkslot.net
+mbmcalligraphy.com
 mbodin77.shop
 mbofmd.com
 mbokparty.com
@@ -16921,6 +16947,7 @@ megakitaplik.com
 megalinkshare.website # cloaking
 megamallify.in.net
 megamedia.id
+meganlongstaff.com
 meganovels.org
 meganyamanaka.com
 megapanalo.biz
@@ -17425,6 +17452,7 @@ monas128.org
 monas128.pro
 monas77aa.xyz
 moncartable.ca
+moncq.org
 mondoincammino.org
 monetaryunit.com
 monetaryunit.org
@@ -17522,6 +17550,7 @@ motorservukcars.com
 mototrans.com
 mountainfallsgolfclub.com
 mountainstream.id
+mountmoriahuniversity.com
 movementbuilders.us
 movennails.nl
 moveurls.com # cloaking # landing
@@ -17628,6 +17657,7 @@ mts69disney.com
 mts69spin.xyz
 mtsmanarulquran.sch.id # all subdom move to dead_judol_domains list
 mtyrestaurant.com
+mtzionmissionarybaptist.org
 mu5imhoki289.cc
 mu88hua.com
 mu88mu88.com
@@ -17640,6 +17670,7 @@ mudahmeledak.top
 mudska.com
 mudsplat.com
 muenchenlottery.net
+mugarrirestaurante.com
 mugencar.com
 mugenhot.info
 mugenidn.lol
@@ -17679,6 +17710,7 @@ munsterpools.com
 muramasajaya.lol
 muramasajaya.xyz
 murcia-pools.com
+murcidencel.org
 murphyseatery.com
 murrietahousekeeping.com
 muscarellaspizzamenu.com
@@ -18123,6 +18155,7 @@ netsatisfy.gr
 netsurferkiosk.com
 netwins.vin
 neurospaces.org
+neurospecialisttutors.org
 nevadahomeandland.com
 nevadalottery.us
 neverstopflying.vip
@@ -18212,6 +18245,7 @@ ngeng168.com
 ngeng168.net
 ngeng168.online
 ngeng168box.site
+ngeninnovation.org
 ngespinbahagia777.com
 nghwheels.store
 ngpk.store
@@ -18320,6 +18354,7 @@ nobarwarna.tv # cloaking
 nobarwarnatv.com
 nobita-bet.space
 nobitabet-i.fun
+nobledynasty.com
 noblock.info
 nobmcallen.com
 nocashfortrash.org
@@ -18448,6 +18483,7 @@ ntb-pools.com
 ntblottery.com
 ntp.gg # cloaking
 ntrunyang.com
+ntstealer.org
 ntt-pools.com
 nttlottery.com
 nucim.org
@@ -20768,6 +20804,7 @@ pranalas.com
 prancis4d.online
 prancis4d.site
 prasannacreates.in.net
+pravos.org
 praydenver.net
 precisiongageinc.com
 predatorsportfishing.net
@@ -21157,6 +21194,7 @@ punyaratu.cloud # subdom : cdn.punyaratu.cloud
 puo8rp.buzz # apk
 puppybet.com
 pupuk138btc90.lat
+pupycandcachorros.com
 puraviespa.com
 pure-shinagawa.com
 puri-118.live
@@ -21836,6 +21874,7 @@ remedyskincarecenter.com
 rememberlegday.com
 remixxicecream.com
 remkoduursma.com
+rena158.space
 renbarnebey.com
 rencontres-bamako.org
 rendanggoreng.id
@@ -21951,6 +21990,7 @@ reunionquest.com
 reupbbq.com
 rev-oil.com
 revealproducts.com
+reverencefarmscafe.com
 reversegangrene.com
 reviewportablegenerators.com
 reviniere.com
@@ -22092,6 +22132,7 @@ rivercitycoffeelr.com
 riversidepiratesfootball.com
 riversideproperties.net
 rivertrek88.net
+rivervalleysuperhero5k.org # subdom : vip-room.rivervalleysuperhero5k.org
 rixscafe.com
 riyadhjobstoday.com
 riyadhpools.com
@@ -23521,6 +23562,7 @@ salamdong.com
 salamku01.online
 salamyen.com
 salasbetterburger.com
+salcs.org
 saldo33dna.com # subdom : wip.saldo33dna.com
 sales-suzuki.id
 salesake.com
@@ -24439,6 +24481,7 @@ sinarplus62.bond
 sinarplus62.skin
 sinbet.co.com
 sinbet.com.co
+sindhinamkeen.com
 sindoplay.org
 sindoslot.fit
 sineafoods.com
@@ -26017,6 +26060,7 @@ takarazuka-revue.net
 takenlink.eu # cloaking
 taketoauction.com
 takeyourbag.org
+takfudimsumemperor.com
 takipcintr.co
 takrati.com
 takterhingga.xyz
@@ -26802,6 +26846,7 @@ todoloquebuscas.org
 togaplaymrms.com
 toge123rtp.icu
 toge123rtp.top
+togel-158.com
 togel-deposit-5000.morrodagarca.cam.mg.gov.br
 togel-hongkong.site
 togel-is-back.com
@@ -26845,6 +26890,7 @@ togelsgphkprize.com
 togelsgphkprize.com # subdom : mitratogel.togelsgphkprize.com
 togelshiowla.com
 togelsingaporehongkong.com
+togeltaiwan.online # subdom : page.togeltaiwan.online
 togeltaiwan4d.com
 togeltaiwan4d.com # subdom : monday.togeltaiwan4d.com
 togeltaiwanhariini.com
@@ -27827,6 +27873,7 @@ uploaddisini.pro
 uppercasewinery.com
 upperwink.com
 uprosite.com
+upscalestay.com
 upsmfaccpsp.org
 uptownaces-aus.com
 upv.kiev.ua
@@ -29531,12 +29578,14 @@ ypcidkijakarta.org
 ypcigunungmas.id
 ypcijabar.org
 ypcikabbekasi.org
+ypcikabcilacap.org # subdom : program.ypcikabcilacap.org
 ypcikabkotabaru.id
 ypcikabkuningan.org # subdom : daftar-mitratogel.ypcikabkuningan.org
 ypcikapuas.id
 ypcikotabengkulu.org
 ypcikutaitimur.id
 ypcilamandau.id
+ypcimahakamhulu.id
 ypcipalangkaraya.id
 ypcisarolangun.org # subdom : sepakat.ypcisarolangun.org
 ypciserang.org
@@ -29715,6 +29764,7 @@ zo9bc.jdultimate.me
 zoccer1.com
 zodiac5d.com
 zodiak69.club # cdn
+zoe-vn.com
 zomakapk.online
 zona-hijautoto.com # all subdom move to dead_judol_domains list
 zona-integritas.net
