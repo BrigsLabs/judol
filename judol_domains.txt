@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 29871
+# Number of entries: 29895
 #
 #
 #
@@ -8239,9 +8239,22 @@ ds77-giga.lol
 dsbasesoria.com
 dsmonde.net
 dsnetz.com
+dsos.co.id
+dsos.id
+dsosacehhulu.org
+dsosacehtamiang.org
+dsosambon.org
+dsosbandung.org
+dsosbanjarmasin.org
+dsosbatang.org
 dsosbaubau.org
+dsosbengkulu.org
+dsosbengkuluselatan.org
+dsosbengkulutimur.com
 dsosbone.org
+dsosbrebesbarat.org
 dsosdepok.org
+dsoskecdepokjogja.org
 dsosmakassar.org
 dsosmalang.org
 dsosmaros.org
@@ -13237,6 +13250,7 @@ judol88.lol
 judolbet88asli.online
 judolbet88cepat.xyz
 judykats.com
+juegoesresponsable.org
 juguetes.galopsco.com
 jujutop.com
 juli4d.art
@@ -15502,6 +15516,7 @@ loginjuli4d.org # cdn
 loginkangku.com # cloaking
 loginmeriah4d.com
 loginmiabet88k.com
+loginmitratogel.org
 loginpulsa777.com
 loginputra.co
 loginqiuqiu99.store
@@ -17305,6 +17320,7 @@ mitierrasanjose.com
 mitosbet88login4.online
 mitosbett.com
 mitoyotaprius.net
+mitra-togel.com # subdom : mitratogel.mitra-togel.com
 mitra.ibiiasahan.org
 mitra77mantap.lol
 mitraatoogel.live
@@ -17316,13 +17332,16 @@ mitrarjs138.com
 mitraslot5.icu
 mitratogel-is-back.com # subdom : wap.mitratogel-is-back.com
 mitratogel-singapore-hongkong.site # subdom : link.mitratogel-singapore-hongkong.site
+mitratogel.biz.id
 mitratogel.com
 mitratogel.id
+mitratogel.my
 mitratogel.online
 mitratogel.web.id
 mitratogel40.com # all subdom list in dead_judol_domains.txt
 mitratogel4d.com
 mitratogel4d.org
+mitratogelsgp.org
 mitsubishimedan.org # malicious backlink
 mitsuwadai-clinic.com
 mittratogel.club
@@ -18447,6 +18466,7 @@ nothingbutnescac.com
 nothinkimpposible.my.id
 notizieintv.com
 notoday.lol
+notogelhariini.com
 notoneocons.com
 nottingham-pools.com
 nourishayurveda.org
@@ -20020,6 +20040,7 @@ pentilcrispy.shop
 pentol303.store
 penulis4d.com
 penulis4dbos.xyz
+peopleslands.org
 peoplesoft-planet.com
 peopletree.eu
 peoriapalace.com
@@ -20054,6 +20075,7 @@ perfectlybrewedcoffee.com
 perfectlyperfectinc.org
 perfectnailsnorthplatte.com
 perfectpropertiesmn.com
+perfilesysiluetas.org
 perforsportwear.com
 perfwars.com
 perihokilink.xyz
@@ -27306,6 +27328,7 @@ totoslot138maxwin.beauty
 totoslot4d3.site
 totoslotvip.xyz
 tototogel.asia
+tototogel.biz.id
 tototogel.com
 tototogel.us
 tototogelhongkong.id
@@ -29641,6 +29664,7 @@ ypcikotabengkulu.org
 ypcikutaitimur.id
 ypcilamandau.id
 ypcimahakamhulu.id
+ypcimalaka.org
 ypcipalangkaraya.id
 ypcisarolangun.org # subdom : sepakat.ypcisarolangun.org
 ypciserang.org
