@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 29815
+# Number of entries: 29871
 #
 #
 #
@@ -3234,6 +3234,7 @@ azbibak.com
 azembalagens.com
 azerbaijanpools.com
 azerbaizanpools.com
+azgreenchamber.org # subdom : vip-member.azgreenchamber.org
 azino777official.ru.com
 azithromycinzt.com
 azkabet14.com
@@ -11534,6 +11535,7 @@ i1067.com
 i1bet.asia
 i1cash88.com
 i1mega99a.com
+i69tradecorridor.org # subdom : link-hoki.i69tradecorridor.org
 i6d.menantugoogle.vip
 i8idr5.com
 i8live01.motorcycles
@@ -18039,6 +18041,7 @@ nayafilm.com
 nayagaadi.com
 naypyidawpools.com
 naza24s.ltd
+nazitunnels.org
 nbalockercodes.com
 nbbc2025.com
 nbbfline.com
@@ -18388,7 +18391,9 @@ nomercyamp.org
 nomerku.com
 nomoralien.work
 nomoredeportations.org
+nomorkeluarsgp.com # subdom : portugal.nomorkeluarsgp.com
 nomormimpiweng.pro
+nomortogelhariini.com # subdom : skit-ae.nomortogelhariini.com
 non-gamstop-betting.com # subdom : uk-gb.non-gamstop-betting.com
 nona88-geneva.icu
 nona88advent.xyz
@@ -18597,6 +18602,7 @@ octon.ai
 odawafc.com
 oddballgrape.com
 oddduckchestertown.com
+oddechem.org
 oddfellowsliquorbar.com
 oddigo.bid
 oddigo.com
@@ -18901,6 +18907,7 @@ onestaorganics.com
 onestophealthservice.com
 oneterminalbet.lol
 onewin888.com
+oneworldschoolhouse.org
 ong777.pro
 ong7778.com
 ong7778.net
@@ -19735,6 +19742,7 @@ pasangrtp.vip
 pasar168.vip
 pasaran-menara4d.com
 pasaran01.com
+pasaranhk.com # subdom : situs.pasaranhk.com
 pasaranmaxwin.com
 pasarantogel1.id
 pasarantogel2.cloud
@@ -19751,6 +19759,7 @@ pasir4d5.life
 pasirhilir.online
 pasoor.bet
 passionadulttoys.com
+passosnafe.org
 pastamiaeast.com
 pastaprontousa.com
 pasti-jp.gacorwin55.sbs
@@ -19794,6 +19803,7 @@ paten33h.com
 patenkeren777.xyz
 patersonforny.com
 pathlabeducation.com
+pathwaydevelopmentconsortium.org
 patner.perintis.io
 patraslottery.club
 patricealbertus.net
@@ -19859,6 +19869,7 @@ pcso.gov.ph
 pcxf92.com
 pdam-denpasar.com
 pdbbq.com
+pdbrandphotography.com
 pdcsafety.com
 pdgax.ru.com
 pdgitangerang.com
@@ -20040,6 +20051,7 @@ perfectcleanaz.com
 perfectgame.online
 perfectgrower.com
 perfectlybrewedcoffee.com
+perfectlyperfectinc.org
 perfectnailsnorthplatte.com
 perfectpropertiesmn.com
 perforsportwear.com
@@ -20756,6 +20768,7 @@ power.myanmarvr.com
 power4d.net
 powerfulbeauty.org
 powerlumen.com.au
+powerofquestions.org
 powerpwr.pro
 powerranger-hokiemas88.xyz
 powersdistributing.com
@@ -20965,6 +20978,7 @@ presidenslotsport.cfd
 presidentabang.com
 presidentaltar.com
 prestige-parkgrove.com
+prestine.org
 prettycosmeticsymas.com
 prettylink99win.org # cloaking
 prettylinki9bet.pro # cloaking
@@ -21004,6 +21018,7 @@ prismabox-enterprise.com
 prisonbreakmanhunt.com
 prisonhope.org
 prisonplanet.tv
+privaceum.org # subdom : togel-kamboja.privaceum.org
 priya-restaurant.com
 prizeporte.com
 prmanagment.org
@@ -21012,6 +21027,7 @@ pro.bitphantom.io
 pro8et-naik.store
 pro8etwaw.site
 proasialive88zona.homes
+proctorprideparade.org
 proctorvilleohio.com
 procycleconsultancy.com
 prod-api-ug4v2.web-sample.live
@@ -21020,6 +21036,7 @@ prod-test.crekodr.com
 products.wheelerfarmsmeat.com
 produkrtpgacordipopo.com
 proevent.ru.com
+professers.org # subdom : sign-up.professers.org
 professornick.com
 profile.battlesteps.com
 profiledesign-sg.com
@@ -21393,6 +21410,7 @@ quinnsamms.com
 quirinuscup.org
 quirkykids.co
 quitequitefantastic.com
+quixcel.org
 quoality.com
 quotchemical-bin.info
 quoteshunger.com
@@ -21768,6 +21786,7 @@ realbg.net
 realestatearoundphilly.com
 realestatecrawfordville.com
 realestatesolutionsinc.com
+realexperts.org
 realfoodcatering.net
 realjanean.com
 reallesbianporn.net
@@ -23596,6 +23615,7 @@ samarinda-pools.com
 sambalgurami.top
 sambaskini.com
 samdodulich.vip
+samehfouad.org
 samfoxroyston.com
 sammyshiblaq.com
 samoa-lotto.com
@@ -23812,6 +23832,7 @@ scena1.com
 sceneformations.com
 schalkburger.za.net
 schams.org
+schantzmfg.org
 schfess.id
 schgh.com
 schights.art
@@ -24136,6 +24157,7 @@ serverbeta.xyz
 servercongku.xyz
 servergcr.com # cdn
 servergg.pro
+serverhk.net # subdom : tercepat.serverhk.net
 serverjagoan303.click # all subdom move to dead_judol_domains list
 serverrukantogel.org
 serversgp.com # cloaking
@@ -24193,6 +24215,7 @@ shacmanfactory.com
 shadesnaturalcolor.com
 shadowcore.one # subdom : 5berries.shadowcore.one
 shahtaxti.com
+shainotshy.org
 shamelesstruths.com
 shamrocktruckingllc.com
 shandaken-ny.com
@@ -24219,6 +24242,7 @@ shartbandi-apk.app
 shartfoot.com
 shartforward.app
 shaunaustin.co.uk
+shcjolietmusic.org
 shebuyshebuilds.com
 sheetvegas6d.com
 shelbylimited.org
@@ -24338,6 +24362,7 @@ shu156duo289v.mom
 shuckingcrab.com
 shuffle.tw
 shuffle6.com
+shurerdhara.org
 shuroushien.com
 si.cuan2.club
 siadswepe.click
@@ -24917,6 +24942,7 @@ smartfit20.com
 smartfleet.lk
 smarthomekhmer.com
 smartlocker.uncc.edu # cloaking
+smartroller.org
 smartshopcelular.com
 smarturl.ink # cloaking
 smartvapepods.com
@@ -25255,6 +25281,7 @@ spinwt.com
 spinxx.rtpsrajamahjong.com
 spinzonadewacasino.cyou
 spionbelakang.com
+spirepeak.org
 spiritofaqsa.org
 spiritofx.com
 spkzh.com
@@ -25271,6 +25298,7 @@ sportsunknown.com
 sportuna-casino.com.gr
 spotui.com
 spqrpizzeria.com
+springhallhealthketo.org
 springhousegrille.com
 springleaf.icu
 springmexicangrill.com
@@ -25370,6 +25398,7 @@ star-exabet88.xyz
 star-gossip.com
 star303gas.shop
 staranisegrill.com
+starbasedod.org
 stariknigi.net
 starjoker88.bid
 starjoker88.dev
@@ -25535,6 +25564,7 @@ suaraxts.xyz
 sub-a2.com
 sub-koin138.xyz
 subdomain2.xyz
+subhromemorial.org
 subnhanhs.org
 subs.miawwhite.xyz
 subur88wap.asia
@@ -25608,6 +25638,7 @@ sultanplay.info
 sultansawer.co
 sultansawerlogin.net
 sultraperdetik.id
+sumakyaku.org # subdom : sign-in.sumakyaku.org
 sumateralottery.com
 sumb9vype4azhrtkd2bdm4xtky42mcnpghmmj76y.com
 sumbarjepe.site
@@ -26342,6 +26373,7 @@ teslatoto.com
 teslatoto410.com
 teslatoto45.com
 tespola.info
+tessvu.org
 test-tools.galaxyportal.net
 test.asankan.info
 test.cnxlearn.com
@@ -26445,7 +26477,9 @@ theadversary.org
 theafoss.com
 theamericanbuddhistcenter.org
 theamishvillage.net
+thearogyam.org
 theathleisureteacher.com
+theathletehub.org
 theatrebox.com
 theatredeleveil.org
 theatreleeds.com
@@ -26502,6 +26536,7 @@ thedefectormovie.com
 thederbyapex.com
 thedigitalvogue.com
 thedivachef.com
+thedivinefeminine.org
 thedognewcastle.com
 thedomecafe.com
 thedopingclub.com
@@ -26522,6 +26557,7 @@ thefilmsinmylife.com
 thefirearmexperts.com
 theflowroomsc.com
 thefoxandcrowcafe.com
+thefractionalrevolution.org
 thefreeartfoundation.org
 thefullpaquage.com
 thegameanderson.com
@@ -26560,6 +26596,7 @@ thelaunchhive.com
 theleadingedgemtsu.com
 theliberatingarts.org
 thelincolnite.co.uk
+thelinehivemind.org
 theliquidprojects.com
 thelittleinnofharlan.net
 thelodgebarnamustards.com
@@ -26596,6 +26633,7 @@ theoneau.co
 theoneau.online
 theoneau.org
 theoneau.site
+theonemedia.org
 theorchard-residence.com
 theorganictravel.com
 theoriginote.id # malicious backlink
@@ -26607,8 +26645,10 @@ thepalmsmed.com
 theparktijuana.com
 thepassionateprojectmanager.com
 thepawpawpatch.net
+thepbadvisors.org
 thepeoplespeoplenetwork.com
 thephillipshouse.com
+thephotodoc.org
 thepillarlife.com
 thepittstopgranger.com
 theplasticbronchitisfoundation.org
@@ -26672,6 +26712,7 @@ thewelding.pro
 thewiltongarage.com
 thewindupbird.com
 thewinesourceonline.com
+thewisconsinite.org
 thewizardofpawzllc.org
 theworkfilm.com
 thewriteapproachinc.com
@@ -26693,6 +26734,7 @@ thirstydice.com
 thisisfriendship.com
 thisisfunlove.com
 thisisnotengland.co.uk
+thisisspringfield.org
 thitruong.org
 thomastonford.com
 thompsoncommunication.com
@@ -26873,6 +26915,7 @@ togelhongkong.today
 togelhongkongpools.net
 togelhongkongpools.org
 togelhongkongprize.com
+togelindonesia2026.com
 togeljitumahir.shop
 togelmugen.com
 togelonlen.info
@@ -27265,6 +27308,7 @@ totoslotvip.xyz
 tototogel.asia
 tototogel.com
 tototogel.us
+tototogelhongkong.id
 tototogelhongkong.org
 tototogelid.com
 tototogelsore.com
@@ -27392,6 +27436,7 @@ trimoon.net
 tringham-preschool.org
 trinity-game.com
 trinityinted.com
+trinitylutherankeene.org
 trinityuxbridge.com
 triple9movie.com # backlink
 triplegem88.co
@@ -27525,6 +27570,7 @@ turin-wlalottery.com
 turinpools.net
 turinpools4d.org
 turintexels.co.uk
+turismomitocondrial.org
 turistaloserastu.es
 turkey-lotto.com
 turkeylottery.net
@@ -28140,6 +28186,7 @@ victory-sengon.xyz
 victory88-purple.com
 victory88-white.com
 victory996myr.com
+victorymarketingco.org
 video-rama.net
 videodateusa.com
 videoonwikipedia.org
@@ -28379,6 +28426,7 @@ voteleavetakecontrol.org
 voteterrywise.com
 voxcasino40.com
 voxlatina.com
+voyagerpress.org
 vozdeguanacaste.yoquierosaber.org
 vpn108.co
 vpn108.com
@@ -28418,6 +28466,7 @@ vpnzeusresmi.com # cloaking
 vpower34.com # apk
 vppphuongnguyen.com
 vr46prediksi.fun
+vrabo-ec.org # subdom : server-vip.vrabo-ec.org
 vrama.net
 vremedylabs.com
 vsa88bos.com
@@ -28631,6 +28680,7 @@ warungplaysfix.live
 warungplayterbaik.com
 warungqueen.xyz
 warungtotoo.info
+warwickcollective.org
 washington-lotto.com
 washingtongmegalottery.net
 washingtonlottery.xyz
@@ -28700,6 +28750,7 @@ wealthclub33.co
 wealthclub33.com
 wealthwizardpro.ru.com
 wearabletechworld.com
+weareensemble.org
 wearefawnbrake.com
 wearepylon.com
 wearetheo.org
@@ -29160,6 +29211,7 @@ wooboom.com
 woocasakitchen.com
 woodenfish.orgwoodfarmcottages.com
 woodfinlottery.fun
+woodlandfarmscommunity.org
 woodrell.net
 woodytalkshow.com
 wooftags.com
@@ -29180,6 +29232,8 @@ worldlinkedu.com
 worldmall.ru.com
 worldreview.co.uk
 worldsolarcongress.com
+worldwidedispensary.org
+worrylessenjoylifemore.org
 wortel21.net
 wortelrtpgacor.xyz
 worthsuite.com # lander
@@ -29581,6 +29635,7 @@ ypcikabbekasi.org
 ypcikabcilacap.org # subdom : program.ypcikabcilacap.org
 ypcikabkotabaru.id
 ypcikabkuningan.org # subdom : daftar-mitratogel.ypcikabkuningan.org
+ypcikabmagelang.org # subdom : link-cepat.ypcikabmagelang.org
 ypcikapuas.id
 ypcikotabengkulu.org
 ypcikutaitimur.id
@@ -29638,6 +29693,7 @@ yumkimbap.com
 yummyvietnam.net
 yunanilottery.com
 yunaniprize.com
+yunidergi.org
 yunnanlottery.com
 yupibaru.info
 yupijoy.xyz
