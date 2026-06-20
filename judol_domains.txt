@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 29895
+# Number of entries: 29934
 #
 #
 #
@@ -1133,6 +1133,7 @@ administrabien.com
 adminrogtoto.co
 admintampan.com
 admiredelectroniccomponents.com
+adobsi.or.id
 adobsi.org
 adobsiaceh.id # subdom : no.adobsiaceh.id
 adobsiaceh.org
@@ -4659,6 +4660,7 @@ bonusneng4d.com
 bonusreferral.info
 bonusroyalistplay.com
 bonusrtp.sbs
+bonustogel.com # subdom : cashback.bonustogel.com
 boobo77.one
 book.maldiveshoteldeal.com
 book.perilibayresort.com
@@ -8253,11 +8255,34 @@ dsosbengkuluselatan.org
 dsosbengkulutimur.com
 dsosbone.org
 dsosbrebesbarat.org
+dsoscilegon.org
 dsosdepok.org
+dsosdharmasraya.org
+dsosende.org
+dsosfakfak.org
+dsosgunungsugihselatan.org
+dsosjakartaselatan.org
+dsosjambi.org
+dsoskabagam.org
+dsoskabdeliserdang.org
+dsoskabkepulauanmeranti.org
+dsoskabprobolinggo.org
+dsoskabtasikmalaya.org
+dsoskarangasem.org
+dsoskarawangtimur.org
+dsoskecboyolali.org
+dsoskeccipondoh.org
 dsoskecdepokjogja.org
+dsoskecgunungkidul.org
+dsoskecjombang.org
+dsoskecpurworejo.org
+dsoskecsedayu.org
+dsoskecsrandakan.org
+dsoskerincibarat.org
 dsosmakassar.org
 dsosmalang.org
 dsosmaros.org
+dsosmetro.org
 dsossamarinda.org
 dspequineservices.co.uk
 dt138-17.store
@@ -9397,6 +9422,7 @@ fortunesedge.co
 fortunesedge.org
 fortunesites.org
 fortworthmexicanrestaurant.com
+forum-science-health.org
 forum.setelwin.me
 forumberita.com
 forumbookie.net
@@ -17338,9 +17364,13 @@ mitratogel.id
 mitratogel.my
 mitratogel.online
 mitratogel.web.id
+mitratogel14.com
+mitratogel3d.com
 mitratogel40.com # all subdom list in dead_judol_domains.txt
 mitratogel4d.com
 mitratogel4d.org
+mitratogelasia.com # subdom : asia-togel.mitratogelasia.com
+mitratogelhk.org
 mitratogelsgp.org
 mitsubishimedan.org # malicious backlink
 mitsuwadai-clinic.com
@@ -19870,6 +19900,7 @@ pbk.co.id
 pbn.vsswin.com
 pbpasi.id
 pbpasibangka.co.id
+pbpasipalu.co.id
 pbpaten.com
 pbreview.org
 pbtaurus.com
@@ -26915,6 +26946,8 @@ togel-deposit-5000.morrodagarca.cam.mg.gov.br
 togel-hongkong.site
 togel-is-back.com
 togel-kamboja.id
+togel-mitra-is-back.com
+togel-singapore-hongkong.site
 togel-singapore.site
 togel.online # subdom : prediksi-lisa.togel.online prediksi88.togel.online
 togel.orgikotajombang.org
@@ -29650,10 +29683,12 @@ ypcibanten.org
 ypcibaubau.org # subdom : mitra-togel.ypcibaubau.org
 ypciboalemo.id
 ypcicilegon.org
+ypcidairi.org
 ypcidepok.org
 ypcidkijakarta.org
 ypcigunungmas.id
 ypcijabar.org
+ypcijambi.org
 ypcikabbekasi.org
 ypcikabcilacap.org # subdom : program.ypcikabcilacap.org
 ypcikabkotabaru.id
@@ -29663,11 +29698,15 @@ ypcikapuas.id
 ypcikotabengkulu.org
 ypcikutaitimur.id
 ypcilamandau.id
+ypcilampungtimur.org
 ypcimahakamhulu.id
 ypcimalaka.org
+ypcingada.org
 ypcipalangkaraya.id
 ypcisarolangun.org # subdom : sepakat.ypcisarolangun.org
 ypciserang.org
+ypcisiak.org
+ypcisikka.org
 ypcisukamara.id
 ypcisurakarta.id
 ypcitangerang.org
