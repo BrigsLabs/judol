@@ -174,6 +174,7 @@ richard77.b-cdn.netrootaccess.b-cdn.net
 rightontoproofingsc.b-cdn.net
 royal188-hoki-poll.b-cdn.net
 rtp-biolabet-gacor.b-cdn.net
+rtp1-aatoto.b-cdn.net
 rtpakuratmacau303.b-cdn.net
 rtpbiola-v1.b-cdn.net
 rtpcici4d12.b-cdn.net
@@ -287,6 +288,7 @@ bandar388-rtp.pages.dev
 bandartogelonlinetoto.pages.dev
 bandung1.pages.dev
 bandungtoto11.pages.dev
+bbtn4d-selalu.pages.dev
 beakecil.pages.dev
 beko.pages.dev
 bellekay.pages.dev
@@ -479,6 +481,7 @@ medit899.pages.dev
 megakitaplik.pages.dev
 meme4d-rtpslotgacor.pages.dev
 menkominfo-id.pages.dev
+menpo.pages.dev
 menubumi-bumicafe-go-international.pages.dev
 meriah4d-login.pages.dev
 merona4dsor.pages.dev
@@ -856,6 +859,7 @@ apkapi-zed.datasvc.xyz
 apkapi-kgb.datasvc.site 
 apkapi-spv.datasvc.site 
 apkapi-gr3.datasvc.site
+apkapi-jpt.datasvc.site
 
 # from *.it.com
 11uu.it.com
@@ -1009,6 +1013,7 @@ rtpwaktogel.it.com
 sabungtoto.it.com
 santoryu.it.com
 scdihati.it.com
+searchdolar.it.com
 sensa88.it.com
 siaptarung.it.com
 sicepatjaya.it.com
@@ -1044,6 +1049,22 @@ wakbayartuntas.it.com
 wow33.it.com
 yeu88.it.com
 yupitoto.it.com
+
+# from de.com # subdom :
+akai123.de.com
+axio.de.com
+exago.de.com
+fba.de.com
+goverment.de.com
+hagel-shop.de.com
+hb88.de.com
+mare.de.com
+ojo.de.com
+qq88.de.com
+rajabandot15.de.com/
+thabett.de.com
+tws.de.com
+xin77.de.com # subdom : official.xin77.de.com
 
 # from cdn *.gifyu.com
 s10.gifyu.com
@@ -1534,6 +1555,7 @@ fragrant-base-9dda.idebet88.workers.dev
 hantam88-anti-zonk.rjpl-group.workers.dev
 hotelinternationalrhodes.amanbos.workers.dev
 idnpoker.mjitcorporationltd.workers.dev
+jentoto-anorange.gasukagelay.workers.dev
 kejurtps.master-138group.workers.dev
 phapac.hafeiniamilan.workers.dev
 rashakai.sijago88.workers.dev
@@ -1644,6 +1666,7 @@ getafealdia.netlify.app
 inquisitive-sherbet-acafee.netlify.app
 kilat77-gandalf.netlify.app
 kuningtotodanmasbc.netlify.app
+mawar500-atememlakgazetesi.netlify.app
 quiet-blancmange-7d5df2.netlify.app
 rr1221asiartpgacor2025.netlify.app
 rtp-dinasti168.netlify.app
@@ -1745,3 +1768,13 @@ togel4d.juli4d30.com
 info.mitratogel40.com 
 online.mitratogel40.com 
 mitra01.mitratogel40.com
+
+#from prediksi-raban31.lol # subdom : 
+prediksi36.prediksi-raban31.lol 
+prediksi39.prediksi-raban31.lol 
+prediksi42.prediksi-raban31.lol
+
+#from rtp-raban34.lol # subdom : 
+rtp53.rtp-raban34.lol 
+rtp57.rtp-raban34.lol 
+rtp65.rtp-raban34.lol

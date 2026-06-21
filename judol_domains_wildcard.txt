@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1773
+# Number of entries: 1789
 # 
 # 
 # 
@@ -34,6 +34,7 @@
 *[0-9]xsport*
 *aaa4d*
 *aat4d*
+*aatoto*
 *abcslt*
 *ace[0-9]*
 *acgwin*
@@ -163,6 +164,7 @@
 *blu89*
 *bmw4d*
 *bmx4d*
+*bni4d*
 *boba[0-9]*
 *bobo[0-9]*
 *bogemenyatu*
@@ -188,6 +190,7 @@
 *boytoto*
 *brandlokal*
 *briototo*
+*btn4d*
 *btv4d*
 *buah4d*
 *buaya[0-9]*
@@ -207,6 +210,7 @@
 *candu[0-9]*
 *cantik[0-9]*
 *canyon[0-9]*
+*capitaltoto*
 *cari4d*
 *cashnet[0-9]*
 *casino*
@@ -264,6 +268,7 @@
 *dingdong[0-9]*
 *dino[0-9]*
 *dinobet*
+*direkturtoto*
 *divisi3[0-9]*
 *dogelexus*
 *dokter[0-8]*
@@ -275,6 +280,7 @@
 *dot77*
 *dota[0-9]*
 *dotaslot*
+*dragon[0-9]*
 *dragslot*
 *duatoto*
 *dubai[0-9]*
@@ -488,6 +494,7 @@
 *jaya[0-9]*
 *jejuslot*
 *jempol[0-9]*
+*jentoto*
 *jesoslot*
 *jet77*
 *jetbet*
@@ -551,6 +558,7 @@
 *kembarcuan*
 *kembarjitu*
 *kemonbet*
+*kenangan4d*
 *kentang[0-9]*
 *kentangbet*
 *kentangtoto*
@@ -685,6 +693,7 @@
 *martoto*
 *maslele*
 *master[0-9]*
+*mastertoto*
 *mataqq*
 *matauang*
 *matrixslot*
@@ -692,6 +701,7 @@
 *mawar[0-9]*
 *max[0-9]*
 *maxi188*
+*maximtoto*
 *maxwin*
 *mbterbang*
 *mcmtoto*
@@ -726,6 +736,7 @@
 *mium[0-9]*
 *mjpku[0-9]*
 *modal[0-9]*
+*mole4d*
 *monaco[0-9]*
 *monas[0-9]*
 *money[0-9]*
@@ -737,6 +748,7 @@
 *mpoxl*
 *mudah[0-9]*
 *mulia[0-9]*
+*muliatoto*
 *mutasit0t[0-9]*
 *mutasitoto*
 *mvia88*
@@ -886,6 +898,7 @@
 *pragmatic*
 *prediksi*
 *preman*
+*presidenttoto*
 *primerplay*
 *prince88*
 *profesional[0-9]*
@@ -1045,6 +1058,7 @@
 *spv88*
 *spy[0-9]*
 *squeenau*
+*sritoto*
 *sslloot*
 *ssstoto*
 *stadium[0-9]*
@@ -1061,6 +1075,7 @@
 *sultan[0-9]*
 *sultansawer*
 *sultanslot*
+*sultantoto*
 *sumobet*
 *super[0-9]*
 *superbang*
@@ -1133,6 +1148,7 @@
 *totohok[0-9]*
 *totoking*
 *totokita[0-9]*
+*totolink[0-9]*
 *totomacau*
 *totonusa*
 *totopanen*
@@ -1227,6 +1243,7 @@
 *xyzklub*
 *yaktoto*
 *yoda4d*
+*youngtoto*
 *yukdwt*
 *yuktg[0-9]*
 *yumetoto*

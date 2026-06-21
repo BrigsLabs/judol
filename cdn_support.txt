@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2619
+# Number of entries: 2621
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -119,6 +119,7 @@ apk.hi11office.com # apk
 apkapi-3in.bitely.xyz
 apkapi-3in.mobilesvc.xyz
 apkapi-3in.rebrandurl.cc
+apkapi-ram.rebrandy.site
 apkapi-smb.bitely.xyz
 apkapi-smb.mobilesvc.xyz
 app-a.cdnlogic.net
@@ -197,7 +198,6 @@ castotoapk.sgp1.digitaloceanspaces.com
 cd537.wordpress.com
 cdn-content.ampproject.org
 cdn-host.proxy188.com
-cdn-pelangi.onrender.com
 cdn-proxy.globalcontentcloud.com
 cdn-seamless.m40c7v9i.com
 cdn-services.dev
@@ -326,6 +326,7 @@ db351sg6odjv.cloudfront.net
 dbb7b81tozwbs.cloudfront.net
 dbxmjjzl5pc1g.cloudfront.net
 dd8p0622bwh41.cloudfront.net
+de.com # all subdom list in dead_judol_domains.txt
 deoct7xngj20p.cloudfront.net
 desaterbaik.com
 designku.io
@@ -347,6 +348,7 @@ dinohost.vip
 diqv0ct81hsy8.cloudfront.net
 djbf5ang3nrpv.cloudfront.net
 djctha7hqvwmk.cloudfront.net
+djgroup-dev.com # subdom : s3.djgroup-dev.com
 dkexc23x457ak.cloudfront.net
 dkzd8du6wd13r.cloudfront.net
 dl.erlangyao.com
