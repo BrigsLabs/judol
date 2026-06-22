@@ -175,6 +175,7 @@ rightontoproofingsc.b-cdn.net
 royal188-hoki-poll.b-cdn.net
 rtp-biolabet-gacor.b-cdn.net
 rtp1-aatoto.b-cdn.net
+rtp2-motoslot.b-cdn.net
 rtpakuratmacau303.b-cdn.net
 rtpbiola-v1.b-cdn.net
 rtpcici4d12.b-cdn.net
@@ -830,6 +831,7 @@ pub-fb1f2fdd2f70498aa4947ec5b6b854bf.r2.dev
 4cqx.short.gy
 8tu7.short.gy
 akunresmi.short.gy 
+bnan.short.gy
 dc5f.short.gy 
 drch.short.gy 
 dx4j.short.gy
@@ -860,6 +862,7 @@ apkapi-kgb.datasvc.site
 apkapi-spv.datasvc.site 
 apkapi-gr3.datasvc.site
 apkapi-jpt.datasvc.site
+apkapi-dr2.datasvc.site
 
 # from *.it.com
 11uu.it.com
