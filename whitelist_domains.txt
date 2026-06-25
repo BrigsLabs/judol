@@ -20,12 +20,14 @@ amp-api-updates.apps.apple.com
 amp-api.apps.apple.com
 amp-api.media.apple.com
 api-h2.tiktokv.com
+api-va.tiktokv.com
 api.tiktokv.com
 api16-core-c-alisg.tiktokv.com
 api16-core.tiktokv.com
 api16-normal-c-alisg.tiktokv.com
 api16-normal-c-useast1a.tiktokv.com
 asia2.ocws1.live.com.akadns.net
+bsync-sg.tiktokv.com
 cdn.awsusor1.fds.api.mi-img.com
 e28142.dscg.akamaiedge.net
 e28622.a.akamaiedge.net
@@ -42,6 +44,7 @@ e28622.b.akamaiedge.net
 gecko16-normal-alisg.tiktokv.com
 hotapi16-normal-alisg.tiktokv.com
 libra16-normal-useast5.tiktokv.us
+libra32-normal-alisg.tiktokv.com
 mcs-sg.tiktokv.com
 mon16-normal-alisg.tiktokv.com
 mssdk16-normal-alisg.tiktokv.com
@@ -52,8 +55,8 @@ sfds-geo.xbetservices.akadns.net
 starling-sg.tiktokv.com
 starling-va.tiktokv.com
 static.nvidiagrid.net
-storeedgefd.dsx.mp.microsoft.com
 storeedge.microsoft.com
+storeedgefd.dsx.mp.microsoft.com
 storeedgefd.xbetservices.akadns.net
 vcs-sg.tiktokv.com
 webcast16-ws-alisg.tiktokv.com
@@ -119,6 +122,7 @@ reit.bar
 strem.bar
 voi.bar
 amphi.beer
+catboy.best
 epg.best
 dat.bike
 lime.bike
@@ -145,6 +149,7 @@ knuddels.biz
 line.biz
 localise.biz
 luckysbarbershop.biz
+meetbot.biz
 movabletype.biz
 mysubwaytoolbox.biz
 netcetera.biz
@@ -268,6 +273,7 @@ compromise.cool
 eagle.cool
 shirtz.cool
 upbitit.cool
+ymq.cool
 hammertime.cyou
 prometko.cyou
 daily.dad
@@ -287,6 +293,7 @@ return-my.delivery
 wedos.delivery
 ze.delivery
 clear.dental
+xhamster46.desi
 2fa.directory
 cursor.directory
 fedi.directory
@@ -364,6 +371,7 @@ mmo.ga
 crazypanda.games
 embark.games
 eneba.games
+erkul.games
 gxcorner.games
 skystone.games
 cst.gdn
@@ -397,6 +405,7 @@ tilde.guru
 watcher.guru
 webcal.guru
 lunar.haus
+tri.haus
 flo.health
 sca.health
 severance.healthcare
@@ -413,6 +422,7 @@ lanparty.house
 nature.house
 mond.how
 notrace.how
+fastdl.icu
 intervals.icu
 lunar.icu
 mon.icu
@@ -432,6 +442,7 @@ billo.life
 circles.life
 colorgame.life
 digitalcitizen.life
+enerjoy.life
 fami.life
 iboost.life
 lifetime.life
@@ -463,6 +474,7 @@ sibellavia.lol
 social.lol
 status.lol
 techaro.lol
+vcloud.lol
 weblog.lol
 wpp.lol
 football.london
@@ -524,6 +536,7 @@ peerflix.mov
 pstream.mov
 chris.boyle.name
 davidwalsh.name
+hostaan.name
 keenetic.name
 stefvanbuuren.name
 vlo.name
@@ -549,6 +562,7 @@ gc.onl
 argon2.online
 bebraver.online
 blink.online
+bodyreset.online
 cf-equality.online
 dancewave.online
 discuss.online
@@ -565,6 +579,7 @@ infomax.online
 instructions.online
 manuals.online
 mastodon.online
+mijnslimhuis.online
 mrprice.online
 open.online
 order.online
@@ -580,9 +595,11 @@ toast.ooo
 1password.partners
 nvidia.partners
 stripe.partners
+r.parts
 ducks.party
 mstdn.party
 ntc.party
+searchengine.party
 wmars.party
 kickthespy.pet
 kuma.pet
@@ -609,6 +626,7 @@ casey.prof
 arc.pub
 bierbaum.pub
 infosec.pub
+isu.pub
 leaflet.pub
 lunar.pub
 outpost.pub
@@ -623,6 +641,7 @@ gopass.pw
 palaugov.pw
 petridish.pw
 plutonium.pw
+psono.pw
 xor.pw
 zok.pw
 dice.quest
@@ -656,6 +675,7 @@ terminal.sexy
 4id.shop
 aloedent.shop
 axisms.shop
+brothersinarms.shop
 buergerspital.shop
 chessvibes.shop
 cineorder.shop
@@ -671,6 +691,7 @@ freshtorge.shop
 frontiers.shop
 funk-dichtungstechnik.shop
 geekchic.shop
+gourmet-kochmanufaktur.shop
 grnk.shop
 grog.shop
 gurkistan.shop
@@ -688,7 +709,9 @@ nocut.shop
 nordland.shop
 owl-dampfer.shop
 oxiline.shop
+papaplatte.shop
 prohibited.shop
+redbrain.shop
 scayle.shop
 schweden.shop
 scorpions.shop
@@ -697,6 +720,7 @@ seyffer.shop
 swedish-supplements.shop
 terminal.shop
 urlbluemedia.shop
+waldhaus.shop
 weinbibliothek.shop
 weinwunder.shop
 wielrenner.shop
@@ -733,6 +757,7 @@ wpdns.site
 forecast.solar
 optimizer.solar
 ariadne.space
+azccriminal.space
 blinko.space
 cslogs.space
 dragonscave.space
@@ -785,6 +810,7 @@ myexpresscarwash.store
 myshopline.store
 pbshop.store
 peugeot.store
+pyrocynical.store
 roble.store
 rokomari.store
 shoplazza.store
@@ -794,6 +820,7 @@ stan.store
 tatemcraeeu.store
 tatemcrae.store
 timberjacks.store
+xqc.store
 affinity.studio
 ai.studio
 firebase.studio
@@ -846,6 +873,7 @@ mastodon.top
 mianbeian.top
 nfmirrorcdn.top
 noru.top
+passt.top
 pegelinux.top
 polar.top
 qwertycxz.top
@@ -913,6 +941,7 @@ libreelec.wiki
 manson.wiki
 mediaclients.wiki
 minecraft.wiki
+moddedmc.wiki
 modding.wiki
 mtg.wiki
 namu.wiki
@@ -956,6 +985,7 @@ spiegel.work
 starlightnet.work
 betterme.world
 bevisioneers.world
+bk.world
 boo.world
 calckey.world
 edgecdn.world
