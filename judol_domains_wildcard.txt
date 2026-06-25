@@ -4,10 +4,18 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1851
+# Number of entries: 1843
 # 
 # 
 # 
+# *bigo234*
+# *go188*
+# *go500*
+# *jago[0-9]*
+# *lego[0-9]*
+# *xgo[0-9]*
+# go88*
+# go99*
 *11wbet*
 *168gg*
 *1playau*
@@ -154,7 +162,6 @@
 *big77*
 *bigballer*
 *bigklik[0-9]*
-*bigo234*
 *binjaitoto*
 *bintang[0-9]*
 *biru138*
@@ -366,8 +373,7 @@
 *gila[0-9]*
 *gjh[0-9]*
 *glamor[0-9]*
-*go188*
-*go500*
+*go[0-9]*
 *goal[0-9]*
 *gocap[0-9]*
 *gogelpro*
@@ -487,7 +493,6 @@
 *iwallet*
 *jackpot[0-9]*
 *jagat[0-9]*
-*jago[0-9]*
 *jagoan[0-9]*
 *jagungbet*
 *jagungtoto*
@@ -638,7 +643,6 @@
 *lazawinslot*
 *lebah-4d*
 *legendtoto*
-*lego[0-9]*
 *lemacau*
 *lentera4d*
 *leo[0-9]*
@@ -1262,7 +1266,6 @@
 *x-dewa*
 *xbet*
 *xdewa*
-*xgo[0-9]*
 *xiku188*
 *xin77*
 *xo368*
@@ -1321,9 +1324,6 @@ five[0-9]*
 fly[0-9]*
 gamespool*
 gem88*
-go88*
-go99*
-go[0-9]*
 grd[0-9]*
 hadiahcuan.*
 hd88*
