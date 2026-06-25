@@ -442,6 +442,7 @@ kungfu4d2-rtp.pages.dev
 landak-idm.pages.dev
 lapakapeljituhoki.pages.dev
 laskarinfo.pages.dev
+lc88.pages.dev
 lead-wichert-juara.pages.dev
 learn-stalms-rajazeus.pages.dev
 ler-leicesterstudent.pages.dev
@@ -482,6 +483,7 @@ mdgolden.pages.dev
 medit899.pages.dev
 megakitaplik.pages.dev
 meme4d-rtpslotgacor.pages.dev
+menara188ku.pages.dev
 menkominfo-id.pages.dev
 menpo.pages.dev
 menubumi-bumicafe-go-international.pages.dev
@@ -702,6 +704,7 @@ upcristo.pages.dev
 violet-top-one.pages.dev
 violetslot-go.pages.dev
 visabet88rtp.pages.dev
+wargalokal62-menangbanyak.pages.dev
 warung-depan-shreeassociates.pages.dev
 wdbosku-naik.pages.dev
 webbiotech.pages.dev
@@ -884,6 +887,7 @@ ashk77.it.com
 ashk77a.it.com
 asiabet.it.com
 asianslot88-livescore.it.com
+asihka.it.com
 audgaming.it.com
 bagong-4d.it.com
 bagong4d.it.com
@@ -929,6 +933,7 @@ garuda69situs.it.com
 gelasgacor.it.com
 gelastogelnyata.it.com
 gresiktoto.it.com
+hi77.it.com
 hokiroom.totovip.it.com
 hongkongpools.it.com
 hss.spinwheel55.it.com
@@ -962,6 +967,7 @@ lagagame77daftar.it.com
 lampubet.it.com
 lampupion.it.com
 lawak4d.it.com
+lc88.it.com
 link4.tenbrand.it.com
 linktoto88.it.com
 lisatoto.it.com
@@ -1036,6 +1042,7 @@ sulemio.it.com
 sultanplaygokil.it.com
 sumbartoto-online.it.com
 t0t0g4lsriwijaya.it.com
+taca.it.com
 tafsir-mimpi.it.com
 tanggamonas.it.com
 tanggaqq.it.com
@@ -1548,7 +1555,7 @@ agen15.buktiagenolx.info
 agen13.buktiagenolx.info 
 agen28.buktiagenolx.info
 
-#from cdn_support worker.dev
+#from cdn_support workers.dev
 abc8page.public-f1c.workers.dev
 amanahtotogacor3.pastimemberi.workers.dev
 asia99.jawirr.workers.dev
@@ -1567,6 +1574,7 @@ jogoluck.app-b17.workers.dev
 kejurtps.master-138group.workers.dev
 phapac.hafeiniamilan.workers.dev
 rashakai.sijago88.workers.dev
+rr88_shortlink.rr88tino.workers.dev
 safe-link-abc.public-f1c.workers.dev
 shortlink.kjcpage.workers.dev
 situs-slot-gacor-tw88.rjpl-group.workers.dev

@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1792
+# Number of entries: 1851
 # 
 # 
 # 
@@ -95,6 +95,7 @@
 *astra[0-9]*
 *asupantoto*
 *asura[0-9]*
+*asustoto*
 *atg88*
 *athena[0-9]*
 *atlasbet*
@@ -232,10 +233,13 @@
 *cocol[0-9]*
 *cogil[0-9]*
 *comototo*
+*comtoto*
 *cpo333*
 *crs[0-9]*
 *cuan[0-9]*
+*cuantoto*
 *cukong[0-9]*
+*dabet*
 *dado88*
 *daduku*
 *daduukuu*
@@ -246,6 +250,7 @@
 *dana[0-9]*
 *danamax*
 *datajepe*
+*debet*
 *demoslotbaru*
 *dentoto*
 *depo[0-9]*
@@ -264,6 +269,7 @@
 *dewiku[0-9]*
 *dewislot*
 *dewisri[0-9]*
+*dewitoto*
 *dinasti2[0-9]*
 *dingdong[0-9]*
 *dino[0-9]*
@@ -302,6 +308,7 @@
 *ertepe*
 *estabet*
 *ewi4d*
+*fabet*
 *facebookslot*
 *falkon[0-9]*
 *fals4d*
@@ -408,11 +415,13 @@
 *hijautoto*
 *hinototo*
 *hitam[0-9]*
+*hitclub*
 *hoki[0-9]*
 *hokiemas*
 *hokijp[0-9]*
 *hokirtp[0-9]*
 *hokislot[0-9]*
+*hoktoto*
 *hong[0-9]*
 *hongbet*
 *horas88*
@@ -465,6 +474,7 @@
 *irit4d*
 *iroyal*
 *isama*
+*isitoto*
 *isport*
 *istana-gaming*
 *istana[0-9]*
@@ -583,6 +593,7 @@
 *komodo[0-9]*
 *konco[0-9]*
 *kong[0-9]*
+*kongtoto*
 *kopi[0-9]*
 *korbet*
 *kpi4d*
@@ -611,6 +622,7 @@
 *lakutoto*
 *lambo69*
 *lampu[0-9]*
+*lanaya[0-9]*
 *lancelot88*
 *langit[0-9]*
 *langkah[0-9]*
@@ -689,6 +701,8 @@
 *mantraslot*
 *mantratoto*
 *manut[0-9]*
+*mapsbet*
+*mapstoto*
 *marontoto*
 *mars[0-9]*
 *martoto*
@@ -703,8 +717,10 @@
 *max[0-9]*
 *maxi188*
 *maximtoto*
+*maxistoto*
 *maxwin*
 *mbterbang*
+*mcdtoto*
 *mcmtoto*
 *mdg188*
 *medusa[0-9]*
@@ -777,6 +793,7 @@
 *net77*
 *netralbet*
 *netralhoki*
+*nettoto*
 *new[0-9]*
 *next[0-9]*
 *ngeng[0-9]*
@@ -813,6 +830,7 @@
 *osaka[0-9]*
 *ovo[0-9]*
 *ovoslot*
+*oxbet*
 *oyo2[0-9]*
 *p0k[0-9]*
 *p0ker[0-9]*
@@ -867,6 +885,7 @@
 *peso138*
 *pesona[0-9]*
 *petanitoto*
+*petatoto*
 *petir[0-9]*
 *petronas[0-9]*
 *pewe[0-9]*
@@ -907,6 +926,7 @@
 *promo[0-9]*
 *proyek[0-9]*
 *pttgroup*
+*pubgtoto*
 *publiktoto*
 *pucuk[0-9]*
 *pulsa[0-9]*
@@ -1023,6 +1043,7 @@
 *simpati[0-9]*
 *sinarlampung*
 *singaasia*
+*sintoto*
 *sip[0-9]*
 *siputri[0-9]*
 *sis4d*
@@ -1154,6 +1175,7 @@
 *totomacau*
 *totonusa*
 *totopanen*
+*totopedia*
 *totovip*
 *tradesia*
 *tradisibet*
@@ -1196,6 +1218,7 @@
 *venom[0-9]*
 *vgslot[0-9]*
 *victory[0-9]*
+*victorytoto*
 *vikingtoto*
 *vin[0-9]*
 *vio[0-9]*
@@ -1220,6 +1243,7 @@
 *warunggol*
 *warungplay*
 *wayangtoto*
+*wazetoto*
 *wdhoki*
 *weissbet*
 *wg77*
@@ -1260,7 +1284,9 @@
 990k-[0-9]*
 99kl.*
 [0-9]-win*
+[0-9].cn.com
 [0-9]grd*
+[0-9]lc88.com
 [0-9]win*
 aa[0-9]*
 adobsi*.id
@@ -1274,35 +1300,52 @@ bayi*.com
 bj[0-9]*
 bn77*
 bos[0-9]*
+bu88*
+co88*
 cuankelas.*
 cuanmewah.*
+da88*
 dlh*.co.id
 dlh*.com
 dlh*.id
 dlh*.org
 dsos*.com
 dsos*.org
+du88*
 dunialot*
 e28*
+ea88*
 evo[0-9]*
 fc[0-9]*
+five[0-9]*
 fly[0-9]*
 gamespool*
+gem88*
+go88*
+go99*
 go[0-9]*
 grd[0-9]*
 hadiahcuan.*
+hd88*
 hm88*
 ijp88*
 ixp88*
 j88*
 k86*
 kendi*
+kkwin*
 kl99.*
 koi*.com
 kpk*.com
+ku88*
 kumbang*
 lc88*
 linkberkah.*
+llwin*
+lode88*
+lu88*
+lv88*
+may88*
 mb88*
 mbi[0-9]*
 mm88*
@@ -1318,29 +1361,45 @@ p138*.xyz
 pafi*.org
 paki*.org
 pu88*
+pub88*
+qs88*
+red88*
 rg[0-9]*
 rr88*
+sin88*
+sky88*
 sodo.*
 sodo[0-9]*
 ss88* 
 sungai*.com
 sungai*.in
 sv3[0-9]*
+ta88*
+tip88*
 tko[0-9]*
 top[0-9]*
+tr88*
 tv88*
 twslive*
+tx88*
 u888*
 ufa[0-9]*
 ug[0-9]*
 ugg[0-9]*
+uk88*
 up[0-9]*
 uu88*
+va88*
+vb88*
+vin88*
 vip[0-9]*
+vk88*
 vsa88bos.*
+vu88*
 w88*
 wis[0-9]*
 xn88*
+xo88*
 xx88*
 ypci*.id
 ypci*.org
