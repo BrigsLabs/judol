@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 31678
+# Number of entries: 31659
 #
 #
 #
@@ -434,7 +434,6 @@
 3meoh789.cyou
 3nsm892ggwp.com
 3p.imbuhan.cc
-3prize.menantugoogle.vip
 3prize4d.vip
 3prizetoto.com
 3prizetoto.shop
@@ -2991,7 +2990,6 @@ artglace.com
 artikelsh.xyz
 artimoderne.net
 artingle.org
-artis.menantugoogle.vip
 artisanelegance.com
 artistasdelgenero.com
 artistoto.com
@@ -3528,7 +3526,6 @@ b52clubgl.com
 b52game.biz
 b52v2.com
 b52v3.com
-b6d.menantugoogle.vip
 b77victorioussecret.com
 b78win.net
 b88betbooster.store
@@ -3828,7 +3825,6 @@ barbar-77d.kim # subdom : gong.barbar-77d.kim
 barbar77gas.com # subdom : gol.barbar77gas.com
 barbarslot.cv # subdom : rtp-2.barbarslot.cv
 barberenafc.com
-barca.menantugoogle.vip
 barcatoto.com
 barcelona-lottery.com
 barcelona-pools4d.com
@@ -5224,7 +5220,6 @@ btv4dwin.lol
 bu88.autos
 bu88.bar
 bu88.store
-buah.menantugoogle.vip
 buahharum.cc
 buahnagamerah.com
 buahtogel.com
@@ -5248,7 +5243,6 @@ budapest4d.com
 budapest4dpools.com
 budapestlottery.com
 budapestspinball.com
-budaya.menantugoogle.vip
 buddhibalchessacademy.com
 budsteele.net
 buenagranja.com
@@ -12287,7 +12281,6 @@ i1bet.asia
 i1cash88.com
 i1mega99a.com
 i69tradecorridor.org # subdom : link-hoki.i69tradecorridor.org
-i6d.menantugoogle.vip
 i8idr5.com
 i8live01.motorcycles
 i9bet.ren
@@ -12704,7 +12697,6 @@ indo45b.xyz
 indo500-selalu.lol
 indo500.lol
 indo500altenatif.lol
-indo6d.menantugoogle.vip
 indo6dtoto.fun
 indo6dtoto.top
 indoagent188.casa
@@ -12790,7 +12782,6 @@ indowin168cc.xyz
 indowin168dd.xyz
 indowin168spinwheels.live
 indowin88.lat
-indowla.menantugoogle.vip
 indowlatoto.com
 indowlatotoa.top
 indpure.lol
@@ -13759,7 +13750,6 @@ jira.nubitt.com
 jira.sidret.com
 jishimy.com
 jitu-rtptaipan78.shop
-jitu.menantugoogle.vip
 jitu128e.org
 jitu128h.org
 jitu20.slotasiabetjitu.com
@@ -17473,7 +17463,6 @@ mandirikawkw.com
 mandiripin.com
 mangalammatrimonial.com
 mangalapai.com
-mangga.menantugoogle.vip
 manggajaya.com
 manggalaris.cc
 manggatoto.com
@@ -17917,7 +17906,6 @@ mcdowellmission.com
 mcgilltribune.store
 mch.uk.net
 mchips.com
-mcity.menantugoogle.vip
 mcitykota.cc
 mcitytoto.com
 mckinsey.com
@@ -18139,6 +18127,7 @@ menangterus.infinityfreeapp.com
 menangterus777.rtp-presidenmaxwin.lol
 menangwd.xyz
 menangwg77ok.online
+menantugoogle.vip # all subdom list in dead_judol_domains.txt
 menara188p1.com
 menaralauthotel.com
 mencaricuan.net # cloaking
@@ -21301,7 +21290,6 @@ pepperminthippoakronoh.com
 pepperreport.io
 peppesbistro.com
 perahu4d.vzy.io
-perak.menantugoogle.vip
 perakee.com
 peraktoto.com
 peramaltogeljitu.store
@@ -25226,7 +25214,6 @@ sbk21.club
 sbk21.xyz
 sbmart.co.id
 sbo-bet.co.com
-sbo.menantugoogle.vip
 sbobet888m.win
 sbobetcasino.com
 sbobetcc.net
@@ -25242,7 +25229,6 @@ sbt119.com
 sbtvienna.com
 sbu88.org
 sc.momoplay.dev
-sc78.menantugoogle.vip
 sc88bet.net
 sc88e.net
 sc88my.com
@@ -25415,7 +25401,6 @@ selayar88.website
 selayar88.wiki
 seldoctorados.iexpro.com.mx
 seldoviaharborinn.com
-seleb.menantugoogle.vip
 selebanu.cc
 selebtoto.com
 selebtoto.info
@@ -25755,7 +25740,6 @@ shop.finearthl.com
 shop.finestcupofcoffee.com
 shop.larkinsband.com
 shop.ludicaweb.com
-shop.menantugoogle.vip
 shop.themerchkings.com
 shopbop.uk.com
 shopcori.com
@@ -26862,7 +26846,6 @@ sswwkk.com # subdom : sports-bsi.sswwkk.com
 st-albert-parish.com
 st5.linkuji4d.xyz
 st666s4.com
-st78.menantugoogle.vip
 sta5iunplay.com
 stacguard.com
 stackau.site
@@ -29737,7 +29720,6 @@ veg67.com
 vegaatlangton.com
 veganplanetuk.com
 veganrestaurantonline.com
-vegas.menantugoogle.vip
 vegas88depozona.sbs
 vegas88getjp.online
 vegas88jp98m.net
@@ -29809,7 +29791,6 @@ veza.store
 vg.vg78slot.net
 vg123ind7.com
 vg123pos4.com
-vg78.menantugoogle.vip
 vggc.info
 vgs88.me
 vgslot88cuan.online

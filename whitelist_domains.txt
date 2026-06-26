@@ -13,6 +13,7 @@ medium.com # whitelist
 
 # from judol_domains_wildcard
 adobsi.id
+alb-m3m9qq73l36xxs2bso.eu-central-1.alb.aliyuncsslbintl.com
 amp-account.itunes.apple.com
 amp-api-edge.apps.apple.com 
 amp-api-search-edge.apps.apple.com
@@ -58,6 +59,7 @@ static.nvidiagrid.net
 storeedge.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 storeedgefd.xbetservices.akadns.net
+tms2.palmplaystore.com
 vcs-sg.tiktokv.com
 webcast16-ws-alisg.tiktokv.com
 widget-sg.tiktokv.com
