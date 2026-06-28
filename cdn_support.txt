@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2622
+# Number of entries: 2597
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -424,14 +424,10 @@ galeri.cloud
 galerybanner.site
 gama69.sgp1.cdn.digitaloceanspaces.com
 gambar-1.sgp1.cdn.digitaloceanspaces.com
-gambar.site # subdom : indobet365.gambar.site laliga365.gambar.site
-gambar.store
 gambar.website
 gambar1.sgp1.cdn.digitaloceanspaces.com
 gambarcuy.online
-gambarin.site
 gambarku.art
-gambarterkeren.xyz
 game-apk.s3.ap-northeast-1.amazonaws.com
 game.gp2play.com
 game.sfo2.digitaloceanspaces.com
@@ -459,26 +455,20 @@ global-gateways.space # subdom : apigm.global-gateways.space static.gm.global-ga
 global-server.net
 gobel.ink
 gpa2glsjhw.xyz
-group-amp.ink
 growfasts.top # seo
 grup168.sgp1.digitaloceanspaces.com
 gso.kommo.com
 h85cndf2moxnwjz.com
 harimauterbang.sgp1.cdn.digitaloceanspaces.com
-hbostatic.xyz
-helenafrithpowell.com
 here-we-go.top
 hfaker.com
 hk.aishengji.com
 hkbchat.com
 ho-bxry-com.k0llpst3r.org
-hokibagus.club
 hokijp168.mediamsg2.com
-hokiku.io # suspicious
 hostassets.online
 hosting-ampgsjp.site
 hostingblues.com.cdn.cloudflare.net
-hostinggambar.com # cdn
 hotelvillaveneta.com
 hslmantap.sgp1.cdn.digitaloceanspaces.com
 i.ibb.co
@@ -505,8 +495,6 @@ iili.io
 image-cdn.link
 image.apkstaticcontent.com
 image777.sgp1.cdn.digitaloceanspaces.com
-imagedel.com
-imagekoi.io
 images.7281581.com
 images.linkcdn.cloud
 images.mixlink.top
@@ -531,7 +519,6 @@ img.thesports.com
 img.zhenqinghua.com
 img1.wsimg.com
 imgalx.art
-imgambarku.com
 imgbob.online
 imgbox.com
 imgdate.com
@@ -539,17 +526,10 @@ imgfire.art
 imghippo.com # may create false positive
 imghn.com
 imghwgroup.com
-imgkita.digital
-imgku.io
 imgme.pro
 imgnxa.com
 imgnxb.com
 imgotp.thanatosmaero.com
-imgsaya.io
-imgsaya.online
-imgsaya2.io
-imgsaya3.io
-imgsaya4.io
 imgstack.net
 imgstore.io
 imgstore.org
@@ -569,27 +549,20 @@ ip104.sgp1.cdn.digitaloceanspaces.com
 ip188baru.sgp1.cdn.digitaloceanspaces.com
 ip36.sgp1.cdn.digitaloceanspaces.com
 is3.cloudhost.id
-isak.co.uk # hacked web
 istana2000.nsp2d.com
 it-cg.group # all subdom list in dead_judol_domains.txt
 it.com # all subdom *.it.com move to dead_judol_domains.txt
 j8t62rp7.com
 j9hdbjg.com # many subdom
 jagoangadget.com # scam # seo # landing
-jalurtelkom.net # scam
 jamepix.com
 jandamuda.cfd
-japaneseup.com # hacked web : https://japaneseup.com/learn-japanese-time/
 jaringbet-official.blogspot.com
 jasj.us
 jefcmhs3.gaofangz.com
-jejakkeren.com # suspicious
-jelajahyuk.id # scam
 jet-77.sgp1.cdn.digitaloceanspaces.com
 jivo.chat # may create false positive
 jkt.omnicloud.io # apk
-jlfafafa3.com
-jmm-net.com # hacked web : https://jmm-net.com/cocol88/
 joyopetir.blogspot.com
 jp-api.namesvr.dev
 jp-api.nexuswlb.com
@@ -795,6 +768,7 @@ photosme.site
 pict1.sgp1.cdn.digitaloceanspaces.com
 pictday.org
 pictstage.digital
+pixel.genzimg.io
 platforms3-yzw03img-0ejj3sb721.s3.ap-northeast-1.amazonaws.com
 playstarevent.com
 playtech-event.cross-ss.com 
@@ -905,6 +879,7 @@ serunyaberbag.com
 server-image.sgp1.cdn.digitaloceanspaces.com
 server-web.sgp1.cdn.digitaloceanspaces.com
 serverkaos.com
+serverkumon.sgp1.cdn.digitaloceanspaces.com
 sga-cdn-hxg6b2d7ctb2c0eu.z02.azurefd.net
 sgacdn.azureedge.net
 sgalabel.blob.core.windows.net
