@@ -119,7 +119,6 @@ apk.hi11office.com # apk
 apkapi-3in.bitely.xyz
 apkapi-3in.mobilesvc.xyz
 apkapi-3in.rebrandurl.cc
-apkapi-ram.rebrandy.site
 apkapi-smb.bitely.xyz
 apkapi-smb.mobilesvc.xyz
 app-a.cdnlogic.net
@@ -820,6 +819,7 @@ rajabandot.sgp1.cdn.digitaloceanspaces.com
 rankfaster.top # seo
 raspi.today # malicious backlink
 rbtasset.com # subdom : cdn.rbtasset.com
+rebrandy.site # subdom : apkapi-ram.rebrandy.site apkapi-ign.rebrandy.site
 recamweek.com # subdom : olx.recamweek.com
 regalez-vous.farm
 renaimall.com
