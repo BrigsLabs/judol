@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2597
+# Number of entries: 2601
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -194,6 +194,7 @@ ca-f295d788950d4cb6af5274e37505bd9b.ecs.ap-southeast-2.on.aws
 cafe-69-moneysite-default-rtdb.firebaseio.com
 cashier.onetoauto.com
 castotoapk.sgp1.digitaloceanspaces.com
+cbdbanner.sgp1.cdn.digitaloceanspaces.com
 cd537.wordpress.com
 cdn-content.ampproject.org
 cdn-host.proxy188.com
@@ -520,6 +521,7 @@ img1.wsimg.com
 imgalx.art
 imgbob.online
 imgbox.com
+imgcbd.com
 imgdate.com
 imgfire.art
 imghippo.com # may create false positive
@@ -736,6 +738,7 @@ onelive.dataklmsad902.site
 onix-live-2-default-rtdb.firebaseio.com
 onix-live-5-default-rtdb.firebaseio.com
 onokabeh.id # malicous backlink # probe scam
+orangejelly.info
 oxplay.api-oplbo.com
 ozzogame.com
 p3i.unimen.ac.id # hacked
@@ -819,7 +822,7 @@ rajabandot.sgp1.cdn.digitaloceanspaces.com
 rankfaster.top # seo
 raspi.today # malicious backlink
 rbtasset.com # subdom : cdn.rbtasset.com
-rebrandy.site # subdom : apkapi-ram.rebrandy.site apkapi-ign.rebrandy.site
+rebrandy.site # all subdom list in dead_judol_domains.txt
 recamweek.com # subdom : olx.recamweek.com
 regalez-vous.farm
 renaimall.com
@@ -870,6 +873,7 @@ sdl.jsoftdn.net
 seamless-hptech.com # all subdom list in dead_judol_domains.txt # apk cdn
 seamlesss-hptech.com # all subdom list in dead_judol_domains.txt apk cdn
 selalusiap.site
+sensational77.codeberg.page
 senyumterus.xyz
 seo268.vip
 seoaceng.xyz # suspicious
