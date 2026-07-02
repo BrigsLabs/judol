@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2601
+# Number of entries: 2602
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -173,6 +173,7 @@ behh-skuy-lah.s3.eu-north-1.amazonaws.com
 bestlink.ly
 bgdn.eu # hacked web
 binder-nx1.namesvr.xyz
+binder-nx2.bindserv2.site
 binder-nx2.nameserver.cfd
 biolabet.nyc3.cdn.digitaloceanspaces.com
 birototo.sgp1.cdn.digitaloceanspaces.com
@@ -596,16 +597,9 @@ kick.com
 kokobread.com
 konversiart.top # seo
 kumpulanfile.sgp1.digitaloceanspaces.com
-kumpulangambars.com
-kwellnessnyc.com # hacked web : https://kwellnessnyc.com/faq/
 l0bs-tterr.k0llpst3r.net
 l43fnw-1198-ppp.oss-accelerate.aliyuncs.com
 l78img.sgp1.cdn.digitaloceanspaces.com
-lacasatequila.com # hacked web : https://lacasatequila.com/our-menu/
-lakewoodparkumc.org # hacked web
-lartisan-restaurant.com # hacked web : https://lartisan-restaurant.com/lunch-menu/
-laskarinfo.com # hacked web : laskarinfo.com/redaksi
-laurelofleaves.com # hacked web
 layarnonton.com # malicious
 layarwibu.com
 lbwet4w.x.incapdns.net 
@@ -706,6 +700,7 @@ mutliple.com
 mybluehost.me
 myimage.ink
 myimg.site
+n2mobilesvc.site # subdom : apkapi-jws.n2mobilesvc.site
 nagavip88resmi.notion.site
 nakamauploader.com # file cdn
 namakami.com
@@ -822,7 +817,12 @@ rajabandot.sgp1.cdn.digitaloceanspaces.com
 rankfaster.top # seo
 raspi.today # malicious backlink
 rbtasset.com # subdom : cdn.rbtasset.com
+rebrandy.online # subdom : apkapi-jws.rebrandy.online
 rebrandy.site # all subdom list in dead_judol_domains.txt
+rebrandy.store # subdom : apkapi-jws.rebrandy.store
+rebrandyn2.com # subdom : apkapi-jws.rebrandyn2.com
+rebrandyn2.net # subdom : apkapi-jws.rebrandyn2.net
+rebrandyn2.org # subdom : apkapi-jws.rebrandyn2.org
 recamweek.com # subdom : olx.recamweek.com
 regalez-vous.farm
 renaimall.com
@@ -1009,6 +1009,7 @@ uaim.edu.mx # hacked web
 ucarecdn.com
 ug-meoh-pub.cloudassets.online
 umeng.com
+unitedhost.top # subdom : kinggaruda138.unitedhost.top
 untidy-robin-production.up.railway.app
 uoaeiz3recbrojp76imxpthfemovjaxecjudzg8wytc.bithe.net
 updatechecker3-14ecc.firebaseio.com

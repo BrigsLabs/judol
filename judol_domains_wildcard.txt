@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1846
+# Number of entries: 1848
 # 
 # 
 # 
@@ -430,6 +430,7 @@
 *hotjitu*
 *hotman[0-9]*
 *hp-777*
+*hptoto*
 *hss303*
 *hubtoto*
 *hws77*
@@ -651,6 +652,7 @@
 *ligatunai*
 *limajp*
 *line[0-9]*
+*lingkartoto*
 *link-*
 *link4d*
 *lisatoto*

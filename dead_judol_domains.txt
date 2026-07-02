@@ -1445,6 +1445,7 @@ nenekkilau.tokosepatujambi.online
 nenekdesir.tokosepatujambi.online 
 nenekgendut.tokosepatujambi.online
 nenekmatsuzaka.tokosepatujambi.online
+nenekombak.tokosepatujambi.online
 
 #from tokosepedakalimantan.online # subdom : 
 wargakuat.tokosepedakalimantan.online 
@@ -1460,6 +1461,7 @@ wartatgsubur4.tokosepedakalimantan.online
 wargatzora.tokosepedakalimantan.online
 wargananos.tokosepedakalimantan.online
 wargamusang.tokosepedakalimantan.online
+wargapanah.tokosepedakalimantan.online
 
 #from tokosepedapapua.online # subdom : 
 kudatgulat.tokosepedapapua.online 
@@ -1469,6 +1471,7 @@ kudabucephalus.tokosepedapapua.online
 kudaflow.tokosepedapapua.online
 kudanara.tokosepedapapua.online
 kudatoel.tokosepedapapua.online
+kudanoel.tokosepedapapua.online
 
 #from tokosportbanyumas.online # subdom : 
 kayudelima9.tokosportbanyumas.online 
@@ -1835,6 +1838,7 @@ vg78.menantugoogle.vip
 apkapi-ram.rebrandy.site 
 apkapi-ign.rebrandy.site 
 apkapi-bsw.rebrandy.site
+apkapi-jws.rebrandy.site
 
 #from ltn7.com # subdom : 
 promosi.ltn7.com 
@@ -1851,3 +1855,13 @@ gacor.mul7.com
 cuan.snsa7.com 
 gacor.snsa7.com 
 promosi.snsa7.com
+
+#from zona-emasputihtoto.com # subdom : 
+live1.zona-emasputihtoto.com 
+gacor.zona-emasputihtoto.com 
+gacor3.zona-emasputihtoto.com
+
+#from akseshp.com # subdom : 
+1alter.akseshp.com
+2alter.akseshp.com
+3alter.akseshp.com
