@@ -51,6 +51,7 @@ akun-terbaiq.b-cdn.net
 alt-img.b-cdn.net
 alximg.b-cdn.net
 amdone.b-cdn.net
+amp-html.b-cdn.net
 amp-oct.b-cdn.net
 api-3m2b.seamlesss-hptech.com
 api-3m4.seamlesss-hptech.com
@@ -162,6 +163,7 @@ panjatrank1.b-cdn.net
 pasti-khi-liau-nih.b-cdn.net
 percayalah.b-cdn.net
 ply288.b-cdn.net
+polamaryan.b-cdn.net
 poso.b-cdn.net
 prime-2000-dubai-clean.b-cdn.net
 priv-img.b-cdn.net
@@ -235,6 +237,7 @@ additivebiomanufacturing.pages.dev
 aftertheharvestkc-v2.pages.dev
 agent-bola-terpercaya.pages.dev
 agentotoplay.pages.dev
+akses-pola900.pages.dev
 alakadarnya.pages.dev
 all-images-game.pages.dev
 alternativ-musimtogel-etactics-org.pages.dev
@@ -257,6 +260,7 @@ amp-spv88.pages.dev
 amp-susun4dstarlight-online.pages.dev
 amp-thefirearmexperts.pages.dev
 ampboxing55ten.pages.dev
+ampehoscar27.pages.dev
 ampfarzanehnouri.pages.dev
 amphtml-omutogel-terbaru.pages.dev
 ampjavabet99alg.pages.dev
@@ -313,6 +317,7 @@ buset-rtpninja002.pages.dev
 cal-pass.pages.dev
 calculator-parlay.pages.dev
 cambridgehub.pages.dev
+cara-deposit-qris-pola900.pages.dev
 caradepositqris.pages.dev
 carbon-source.pages.dev
 catleblanc.pages.dev
@@ -436,6 +441,7 @@ kena-babat-google.pages.dev
 keras-lawan-nya.pages.dev
 kita-cobalagi-za.pages.dev
 kittyskitchenlondon.pages.dev
+kl33.pages.dev
 kukiracupurupanyasuhu.pages.dev
 kungfu4d-rtp.pages.dev
 kungfu4d2-rtp.pages.dev
@@ -491,6 +497,7 @@ meriah4d-login.pages.dev
 merona4dsor.pages.dev
 mesinslot-login.pages.dev
 metrosporsegundo.pages.dev
+mietwisehome.pages.dev
 modalkecil-untungbesar.pages.dev
 modric.pages.dev
 moga-bisa-nangkring-no1.pages.dev
@@ -514,6 +521,7 @@ nny-web01-danicholls.pages.dev
 nolasstudios.pages.dev
 nopfa-org.pages.dev
 numbersneverdie.pages.dev
+nusabet88kicau-home.pages.dev
 obatkuatoto88.pages.dev
 offside-deff.pages.dev
 okking1.pages.dev
@@ -521,6 +529,7 @@ oklahomagardenclubmania.pages.dev
 olitoplay.pages.dev
 omo77-2qn.pages.dev
 onepelangi.pages.dev
+opie-anddixie.pages.dev
 orashellorajoss.pages.dev
 p4n9k4t88.pages.dev
 palinghoki-peninglah.pages.dev
@@ -538,6 +547,7 @@ perkasajituit.pages.dev
 perprima.pages.dev
 picassets.pages.dev
 pichae-bgst.pages.dev
+pigeonsonbroadway.pages.dev
 pneumaticicamionmacan238s.pages.dev
 polagacor-png.pages.dev
 polakumbang.pages.dev
@@ -581,6 +591,7 @@ rtp-gojasuper.pages.dev
 rtp-gtcbet.pages.dev
 rtp-indos-303.pages.dev
 rtp-istanagaming.pages.dev
+rtp-jutawan.pages.dev
 rtp-pohon169-populer.pages.dev
 rtp-raj4bom.pages.dev
 rtp-resmi-sinaga4d-cwa.pages.dev
@@ -638,6 +649,8 @@ sensa88.pages.dev
 seo-baru-1-minggu.pages.dev
 seobaruuu.pages.dev
 seojojoo.pages.dev
+seomama969.pages.dev
+seoreff.pages.dev
 serenitycorner-amp.pages.dev
 shadowmafiaoperationsnetwork.pages.dev
 short-omutogel-resmi.pages.dev
@@ -713,6 +726,7 @@ webbiotech.pages.dev
 weboteric.pages.dev
 welcome-fightfight.pages.dev
 whatsappofficial.pages.dev
+whatsappofficialpola900.pages.dev
 wika.pages.dev
 winjitu-rtp-slot-gacor.pages.dev
 winrtp88.pages.dev
@@ -869,6 +883,7 @@ apkapi-spv.datasvc.site
 apkapi-gr3.datasvc.site
 apkapi-jpt.datasvc.site
 apkapi-dr2.datasvc.site
+apkapi-hsr.datasvc.site
 
 # from *.it.com
 11uu.it.com
@@ -1213,6 +1228,8 @@ warga88lalap.groupbecak.com
 warga88flux.groupbecak.com
 warga88zen.groupbecak.com
 warga88lock.groupbecak.com
+warga88caps.groupbecak.com
+warga88onglae.groupbecak.com
 
 #from gt108vip3.com # subdom : 
 22ii88nkzc.gt108vip3.com 
@@ -1419,6 +1436,7 @@ jwwarna.tokobajugrosirjakarta.online
 jwjejak.tokobajugrosirjakarta.online 
 jwnada.tokobajugrosirjakarta.online 
 jwtombaklaut.tokobajugrosirjakarta.online
+jwpokad.tokobajugrosirjakarta.online
 
 #from tokomarmersurabaya.online # scam # subdom : 
 cintajelas.tokomarmersurabaya.online 
@@ -1434,6 +1452,9 @@ nenekshaha.tokomarmersurabaya.online
 neneksjuara.tokomarmersurabaya.online 
 nenekslangit1d.tokomarmersurabaya.online 
 nenekspetir.tokomarmersurabaya.online 
+nenekslangen.tokomarmersurabaya.online
+cintambg.tokomarmersurabaya.online
+neneksmentri.tokomarmersurabaya.online
 
 #from tokosepatujambi.online # subdom : 
 nenektgoal1.tokosepatujambi.online 
@@ -1446,6 +1467,7 @@ nenekdesir.tokosepatujambi.online
 nenekgendut.tokosepatujambi.online
 nenekmatsuzaka.tokosepatujambi.online
 nenekombak.tokosepatujambi.online
+nenekgress.tokosepatujambi.online
 
 #from tokosepedakalimantan.online # subdom : 
 wargakuat.tokosepedakalimantan.online 
@@ -1462,6 +1484,7 @@ wargatzora.tokosepedakalimantan.online
 wargananos.tokosepedakalimantan.online
 wargamusang.tokosepedakalimantan.online
 wargapanah.tokosepedakalimantan.online
+wargavoley.tokosepedakalimantan.online
 
 #from tokosepedapapua.online # subdom : 
 kudatgulat.tokosepedapapua.online 
@@ -1472,6 +1495,7 @@ kudaflow.tokosepedapapua.online
 kudanara.tokosepedapapua.online
 kudatoel.tokosepedapapua.online
 kudanoel.tokosepedapapua.online
+kudajoget.tokosepedapapua.online
 
 #from tokosportbanyumas.online # subdom : 
 kayudelima9.tokosportbanyumas.online 
@@ -1509,6 +1533,9 @@ saljunian.tokopadeljogja.online
 #from tokosinarperkoso.online # subdom : 
 kayuvibe.tokosinarperkoso.online 
 kembarnaruto.tokosinarperkoso.online
+kembarxnana.tokosinarperkoso.online
+kembarhasian.tokosinarperkoso.online
+kayubloom.tokosinarperkoso.online
 
 #from trikagenolx.info # subdom : 
 web22.trikagenolx.info 
@@ -1839,6 +1866,7 @@ apkapi-ram.rebrandy.site
 apkapi-ign.rebrandy.site 
 apkapi-bsw.rebrandy.site
 apkapi-jws.rebrandy.site
+apkapi-rk8.rebrandy.site
 
 #from ltn7.com # subdom : 
 promosi.ltn7.com 
@@ -1865,3 +1893,29 @@ gacor3.zona-emasputihtoto.com
 1alter.akseshp.com
 2alter.akseshp.com
 3alter.akseshp.com
+
+#from ramalan.info # subdom : 
+olx37.ramalan.info 
+olx60.ramalan.info 
+olx65.ramalan.info
+
+#from selalu-maxwin.com # subdom : 
+pola.selalu-maxwin.com 
+a.selalu-maxwin.com 
+prediksitogel900.selalu-maxwin.com
+prediksipola900.selalu-maxwin.com
+
+#from play-kuningtoto.com # subdom : 
+live.play-kuningtoto.com 
+gacor2.play-kuningtoto.com 
+gacor.play-kuningtoto.com
+
+#from sketer.site # subdom : 
+ofc.sketer.site 
+rtp.sketer.site 
+wa.sketer.site
+
+#from sulejitu.online # subdom : 
+buktijp1.sulejitu.online 
+prediksi1.sulejitu.online
+rtp1.sulejitu.online

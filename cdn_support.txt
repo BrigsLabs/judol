@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2602
+# Number of entries: 2603
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -173,6 +173,7 @@ behh-skuy-lah.s3.eu-north-1.amazonaws.com
 bestlink.ly
 bgdn.eu # hacked web
 binder-nx1.namesvr.xyz
+binder-nx2.bindname2.site
 binder-nx2.bindserv2.site
 binder-nx2.nameserver.cfd
 biolabet.nyc3.cdn.digitaloceanspaces.com
@@ -313,14 +314,15 @@ d3nglpcg1mlj3k.cloudfront.net
 d3pjq3rrv5sdh6.cloudfront.net
 d3pr994l7txgml.cloudfront.net
 d3pvfi6m7bxu71.cloudfront.net
+d3v8lwhw9579ec.cloudfront.net
 d5jmkjjpb7yfg.cloudfront.net
 d6ve0grjeaee7.cloudfront.net
 d84ify71m0ivu.cloudfront.net
 data.alwayswinpp.com
 dataconnect.sbs
 datakingdom357.s3.ap-southeast-3.amazonaws.com
-dataklmsad902.site
-dataklmsad903.site
+dataklmsad902.site # subdom : kaya787.dataklmsad902.site onelive.dataklmsad902.site
+dataklmsad903.site # subdom : kaya787.dataklmsad903.site
 datasvc.site # all subdom list in dead_judol_domains.txt
 datasvc.xyz # all subdom list in dead_judol_domains.txt
 db351sg6odjv.cloudfront.net
@@ -496,6 +498,7 @@ iili.io
 image-cdn.link
 image.apkstaticcontent.com
 image777.sgp1.cdn.digitaloceanspaces.com
+imageforwork.sgp1.cdn.digitaloceanspaces.com
 images.7281581.com
 images.linkcdn.cloud
 images.mixlink.top
@@ -585,8 +588,6 @@ karep.pro
 kari-nih-ges.sgp1.digitaloceanspaces.com
 kaucengkia.atl1.cdn.digitaloceanspaces.com
 kauri.gallery.cdn.cloudflare.net
-kaya787.dataklmsad902.site
-kaya787.dataklmsad903.site
 kby55-ori6a9ulmdzkwij8ohml3mmh.vercel.app
 kenzototo.nyc3.cdn.digitaloceanspaces.com
 keodinh.net
@@ -667,6 +668,7 @@ meubelkayumurah.pics
 meyerweb.com
 mgapi2.lansn-model.com
 mgt.zhiwushui.com
+mhbos.sgp1.cdn.digitaloceanspaces.com
 midme.xyz
 miegacoan.sirv.com
 mikatoto.sgp1.digitaloceanspaces.com
@@ -729,7 +731,6 @@ object-d001-cloud.cloudstoragesharingservice.com
 objek-d001-cloud-akucloud-valid.sukagambarku.com
 olxjaya168.com
 omutgl.sgp1.digitaloceanspaces.com
-onelive.dataklmsad902.site
 onix-live-2-default-rtdb.firebaseio.com
 onix-live-5-default-rtdb.firebaseio.com
 onokabeh.id # malicous backlink # probe scam

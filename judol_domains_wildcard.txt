@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1848
+# Number of entries: 1851
 # 
 # 
 # 
@@ -47,6 +47,7 @@
 *agentoto*
 *aha4d*
 *ahabet*
+*ahha4d*
 *airbet*
 *ajo89*
 *ajp99*
@@ -251,6 +252,7 @@
 *danamax*
 *datajepe*
 *debet*
+*deltaslot*
 *demoslotbaru*
 *dentoto*
 *depo[0-9]*
@@ -972,6 +974,7 @@
 *rezeki[0-9]*
 *rezekispin*
 *ria4d*
+*ribut[0-9]*
 *rice[0-9]*
 *richspin*
 *rikvip*
