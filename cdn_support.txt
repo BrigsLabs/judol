@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2603
+# Number of entries: 2606
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -92,6 +92,7 @@ api-onix7-2-default-rtdb.firebaseio.com
 api-royal-live-1-default-rtdb.firebaseio.com
 api-royal-ns2-1-default-rtdb.firebaseio.com
 api-seo-1354997367.ap-southeast-1.elb.amazonaws.com
+api-sports.io # may create false positive
 api.aqzbouatv2.com
 api.cloud.mime.services
 api.freshapp.top
@@ -285,6 +286,7 @@ d2m14m4no0dk43.cloudfront.net
 d2mpatx37cqexb.cloudfront.net
 d2po8s8685fal.cloudfront.net
 d2qos86h2u305y.cloudfront.net
+d2rxm38zs7w1c4.cloudfront.net
 d2rzzcn1jnr24x.cloudfront.net
 d2te5kruq0pvbl.cloudfront.net
 d2tgl6ertesjei.cloudfront.net
@@ -1042,6 +1044,7 @@ wati-integration-service.clare.ai
 wdnotif.sgp1.digitaloceanspaces.com
 web-istana2000.linkapp99.com
 web-vegas123.linkapp77.com
+web.app # all subdom list in dead_judol_domains.txt
 website-monitor-c8444-default-rtdb.asia-southeast1.firebasedatabase.app
 websitetoapk.com
 weddingpuzzleshop.com # hacked web : weddingpuzzleshop.com/wholesale/

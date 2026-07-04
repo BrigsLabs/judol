@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1851
+# Number of entries: 1856
 # 
 # 
 # 
@@ -130,6 +130,7 @@
 *baron[0-9]*
 *barslot*
 *barudak*
+*batamtoto*
 *batman[0-9]*
 *batmantoto*
 *bayam[0-9]*
@@ -890,8 +891,10 @@
 *petanitoto*
 *petatoto*
 *petir[0-9]*
+*petirsuper*
 *petronas[0-9]*
 *pewe[0-9]*
+*pilartoto*
 *pin69*
 *pisangbet*
 *pisangtoto*
@@ -1138,6 +1141,7 @@
 *terminalbet*
 *teslatoto*
 *texas88*
+*tgel*
 *theoneau*
 *tiara-4d*
 *tifmau[0-9]*
@@ -1375,6 +1379,7 @@ sungai*.com
 sungai*.in
 sv3[0-9]*
 ta88*
+tg88*
 tip88*
 tko[0-9]*
 top[0-9]*

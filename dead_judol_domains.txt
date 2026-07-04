@@ -194,6 +194,7 @@ skyx.b-cdn.net
 slots777.b-cdn.net
 sto-rage.b-cdn.net
 sukses-detected.b-cdn.net
+sweetimage.b-cdn.net
 terbang-dulu-lahhh.b-cdn.net
 this-what-time.b-cdn.net
 ticdigital.b-cdn.net
@@ -596,6 +597,7 @@ rtp-pohon169-populer.pages.dev
 rtp-raj4bom.pages.dev
 rtp-resmi-sinaga4d-cwa.pages.dev
 rtp-slot-terbaru.pages.dev
+rtp-solidtoto.pages.dev
 rtp-superjagoku.pages.dev
 rtp-test-4sh.pages.dev
 rtp1337kemenangan.pages.dev
@@ -705,6 +707,7 @@ thestarsomerset.pages.dev
 theyashotel.pages.dev
 thinktanktrainingcentercom.pages.dev
 timeticking.pages.dev
+togel-about-box-hill.pages.dev
 togel-togel.pages.dev
 togelhitam.pages.dev
 top1toto-superkeren.pages.dev
@@ -884,6 +887,8 @@ apkapi-gr3.datasvc.site
 apkapi-jpt.datasvc.site
 apkapi-dr2.datasvc.site
 apkapi-hsr.datasvc.site
+apkapi-stg.datasvc.site
+apkapi-sbu.datasvc.site
 
 # from *.it.com
 11uu.it.com
@@ -1002,6 +1007,7 @@ meme4d.it.com
 mikihoshi.it.com
 mikipro.it.com
 mm88.it.com
+mobile.batamhoki.it.com
 mulia77keren.it.com
 n888.it.com
 naga5000.it.com
@@ -1050,6 +1056,7 @@ sensa88.it.com
 siaptarung.it.com
 sicepatjaya.it.com
 situs.bambuhk88.it.com
+slot-gacor-16.koko5000.it.com
 slotgacorhariini.it.com
 smscity8.it.comspartan.it.com
 sriwijaya33.spinwheel33.it.com
@@ -1919,3 +1926,94 @@ wa.sketer.site
 buktijp1.sulejitu.online 
 prediksi1.sulejitu.online
 rtp1.sulejitu.online
+
+#from promointeractive.xyz # subdom : 
+nasirames-gameplay789789.promointeractive.xyz 
+stream.promointeractive.xyz
+
+#from web.app # subdom :
+amp-version.web.app
+bettogel-asia.web.app
+cau-nimale.web.app
+kudajituuk.web.app
+kudajituus.web.app
+mvia88-bf140.web.app
+my-gun-f658d.web.app
+superbandar-amp.web.app
+tombol-daftar.web.app
+
+#from streamid.app # subdom :
+303vip.streamid.app
+7meter.streamid.app
+adobet88.streamid.app
+airasiabet.streamid.app
+bigdewa.streamid.app
+bola88.streamid.app
+dewabet.streamid.app
+dewacash.streamid.app
+dewagg.streamid.app
+dewahub.streamid.app
+dewascore.streamid.app
+golbos.streamid.app
+idngoal.streamid.app
+javaplay88.streamid.app
+klikfifa.streamid.app
+koinvegas.streamid.app
+mesingg.streamid.app
+nyalabet.streamid.app
+playslots88.streamid.app
+proplay88.streamid.app
+sigapbet.streamid.app
+skor88.streamid.app
+tigerasia88.streamid.app
+vegasslots.streamid.app
+
+#from javaplay88club.org # subdom :
+axkom35492.javaplay88club.org
+gdklx49136.javaplay88club.org
+gxmxy44056.javaplay88club.org
+iurhm10685.javaplay88club.org
+nboaz38925.javaplay88club.org
+pfpgx49136.javaplay88club.org
+
+#from lintas7.pro # subdom : 
+bcpyr12345.lintas7.pro
+dupwq12345.lintas7.pro
+hcvlr12345.lintas7.pro
+
+#from portalskor.pro # subdom :
+buhbo12345.portalskor.pro
+crnis12345.portalskor.pro
+hdskm12345.portalskor.pro
+ptiwm12345.portalskor.pro
+
+#from lintaskoin.pro # subdom :
+cdpyw12345.lintaskoin.pro
+czoho54462.lintaskoin.pro
+fthbr12345.lintaskoin.pro
+gvqxt14157.lintaskoin.pro
+hstzu10158.lintaskoin.pro
+krjfm12345.lintaskoin.pro
+kyjlw12345.lintaskoin.pro
+lxnkx50714.lintaskoin.pro
+ntnku12345.lintaskoin.pro
+
+#from playslot88ku.in # subdom :
+cspwz12345.playslot88ku.in
+edkzm31835.playslot88ku.in
+hstht10732.playslot88ku.in
+kcpha11433.playslot88ku.in
+kqmgn74624.playslot88ku.in
+otuiq12345.playslot88ku.in
+ubdjt88396.playslot88ku.in
+
+#from playslot88pro.in # subdom :
+hzqiz12345.playslot88pro.in
+kqhcy12345.playslot88pro.in
+putfv12345.playslot88pro.in
+pzmyb12345.playslot88pro.in
+
+#from ligabl88.site # subdom :
+lyhxw12345.ligabl88.site
+nviga12345.ligabl88.site
+pxviu12345.ligabl88.site
