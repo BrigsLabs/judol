@@ -4,11 +4,10 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2606
+# Number of entries: 2593
 # CDNs supporting site (may contains false positive)
 #
 #
-1.bp.blogspot.com
 1004834818.rsc.cdn77.org
 10322apk.deliber.net
 10fr4ame-b3stweeb.xyz
@@ -18,10 +17,8 @@
 2354db541df20c20.edgeone.dev.pages.dnsoe6.com
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 2fr4me-my4web.site
-3.bp.blogspot.com
 3400efa8-fd32-44eb-b743-12ffd5b0fb26.seals.dlagglobal.com
 3j3ap99cfwu6.7281581.com.eo.dnse3.com
-4.bp.blogspot.com
 4n76bph80j.gbgfstie.biz
 66555.xyz
 67864891qp14api.238968.com
@@ -148,6 +145,7 @@ assetrtp.assetftpcanvas.com
 assets-global.website-files.com
 assets-international.sgp1.cdn.digitaloceanspaces.com
 assets-vip.sfo2.cdn.digitaloceanspaces.com
+assets.288cdn.asia
 assetsbanner.sgp1.cdn.digitaloceanspaces.com
 atg88.atomgaming88images.com
 atom4d.sgp1.cdn.digitaloceanspaces.com
@@ -187,10 +185,7 @@ bloonk.com
 bluecreekdenver.com # hacked web : bluecreekdenver.com/contact
 bo.gacha.business
 bonanzastatic.com # subdom : images-bucket.bonanzastatic.com
-bototomacau.weebly.com
-buktiabangempire.blogspot.com
 buktiedctoto.sgp1.digitaloceanspaces.com
-buktijpestoto00.blogspot.com
 by437ocd.ovslegodl.sched.ovscdns.com
 c23f1bb1b6d0420a94d3aeebea36c4c1.pacloudflare.com
 ca-f295d788950d4cb6af5274e37505bd9b.ecs.ap-southeast-2.on.aws
@@ -236,7 +231,6 @@ cdndeliver.xyz
 cdnmonster.net
 cdnres.yidaiyiluclub.com
 cdnsimple.top
-cemara123vip.blogspot.com
 cfilvs.i3457.com
 chaport.com
 chat-socket.onechat.dev
@@ -293,6 +287,7 @@ d2tgl6ertesjei.cloudfront.net
 d2ujflorbtfzji.cloudfront.net
 d2vgu95hoyrpkh.cloudfront.net
 d2vl8r1wf4ayem.cloudfront.net
+d2ww6n6zilcrhv.cloudfront.net
 d30uvy2l9rv94q.cloudfront.net
 d30xzloyu3qfm5.cloudfront.net
 d32jers.com
@@ -320,6 +315,7 @@ d3v8lwhw9579ec.cloudfront.net
 d5jmkjjpb7yfg.cloudfront.net
 d6ve0grjeaee7.cloudfront.net
 d84ify71m0ivu.cloudfront.net
+data-288.sgp1.cdn.digitaloceanspaces.com
 data.alwayswinpp.com
 dataconnect.sbs
 datakingdom357.s3.ap-southeast-3.amazonaws.com
@@ -382,6 +378,7 @@ dwnldapk.sgp1.cdn.digitaloceanspaces.com
 dxqm4i1swgb5o.cloudfront.net
 dz5xbhxy6sjp4.cloudfront.net
 dztwieyphe62d.cloudfront.net
+e2915.dscx.akamaiedge.net
 e35058.api15.akamaiedge.net
 e39296.b.akamaiedge.net
 e39296.dscb.akamaiedge.net # may create false positive
@@ -400,7 +397,6 @@ entecomputer.com
 entry.gyeitee.com
 entry.nuanmokeji.com
 eq37fu2xth.com
-escartonsbrevet.com
 esports.heracles.nl # malicious backlink
 estate77media.com
 exp.boobsbymassage.com
@@ -515,6 +511,7 @@ imagme.com
 img-cdngames.s3.amazonaws.com 
 img.atomgaming88images.com
 img.cupr.us
+img.gb18030.com
 img.hotimg.com
 img.lovepik.com
 img.nextgen.sg-sin1.upcloudobjects.com
@@ -564,13 +561,11 @@ j9hdbjg.com # many subdom
 jagoangadget.com # scam # seo # landing
 jamepix.com
 jandamuda.cfd
-jaringbet-official.blogspot.com
 jasj.us
 jefcmhs3.gaofangz.com
 jet-77.sgp1.cdn.digitaloceanspaces.com
 jivo.chat # may create false positive
 jkt.omnicloud.io # apk
-joyopetir.blogspot.com
 jp-api.namesvr.dev
 jp-api.nexuswlb.com
 jp-api.wlcas999.com
@@ -632,9 +627,6 @@ loader-1.duniadigital.site
 lobbygambar.com
 lobbyplay.com
 localcloudhost.biz
-loginapkspbutoto.blogspot.com
-logindapurtoto.blogspot.com
-loginsungaito2.blogspot.com
 lordsexch.info
 lovable.app # subdom : penilaianmauslot.lovable.app penilaianceriabet.lovable.app
 love-kyoto.net # hacked web
@@ -747,6 +739,7 @@ pafikabbintan.co.id # backlink # scam
 pafipalu.co.id # backlink # scam
 pafirogtoto.org
 pages.dev # all subdom list in dead_judol_domains.txt
+pahala4drtp.sgp1.cdn.digitaloceanspaces.com
 paia.uj.ac.za # malicious backlink
 paneltki.info
 papacitan.site # scam # suspicious
@@ -784,8 +777,6 @@ poskampung.com
 postimg.cc
 poweroftogelonline88.sgp1.cdn.digitaloceanspaces.com
 prdstream.com # media promo
-prediksi-togel-wahanatoto.blogspot.com
-prediksitogelangkakembar1-2.blogspot.com
 premicloud.net
 premium103.web-hosting.com
 prod-api-ug3bv2.web-sample.live
@@ -843,7 +834,6 @@ robotassets.com
 robotcheap.com
 rog-toto.tor1.cdn.digitaloceanspaces.com
 roket1.sgp1.cdn.digitaloceanspaces.com
-roomangkakembar.blogspot.com
 ropuntada.com # subdom : admin-enggine.ropuntada.com be-qris-socket-redis.ropuntada.com
 royaleapi.sealintg.net
 rp888aabb.com
@@ -910,8 +900,6 @@ siuntung.vip
 sivanlevy.com
 sk88-mime-a3b28.firebaseio.com
 sky77.sgp1.cdn.digitaloceanspaces.com
-slotdanagacorterpercaya.blogspot.com # seo
-slotonlinegacor22.blogspot.com
 smbstatic.sgp1.digitaloceanspaces.com
 smksdb1jambi.sch.id # scam
 snapy.photo
@@ -1307,7 +1295,6 @@ dibundkijakarta.id
 dibunriau.id
 digitalkart.org
 dijitalistihdam.org
-dikdasmenkecsukmajaya.sch.id
 dikmendisdikcimahi.com
 dinkes-bireuen.com
 dinkes-kabkupang.net
