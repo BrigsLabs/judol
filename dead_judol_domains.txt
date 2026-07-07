@@ -84,6 +84,7 @@ apiace-v2.seamlesss-hptech.com
 apionix3b.seamlesss-hptech.com
 bandotwd.b-cdn.net
 bang-jago.b-cdn.net
+batamsakti.b-cdn.net
 blogrr.b-cdn.net
 bulan.b-cdn.net
 cabewin.b-cdn.net
@@ -138,6 +139,7 @@ kepanasan-yah-bang.b-cdn.net
 kgames.b-cdn.net
 kgaming.b-cdn.net
 kita-kasih-paham.b-cdn.net
+knzo.b-cdn.net
 ks20.b-cdn.net
 lai-le.b-cdn.net
 lisaku.b-cdn.net
@@ -176,6 +178,7 @@ richard77.b-cdn.netrootaccess.b-cdn.net
 rightontoproofingsc.b-cdn.net
 royal188-hoki-poll.b-cdn.net
 rtp-biolabet-gacor.b-cdn.net
+rtp-kenzototo2-new.b-cdn.net
 rtp1-aatoto.b-cdn.net
 rtp2-motoslot.b-cdn.net
 rtpakuratmacau303.b-cdn.net
@@ -389,6 +392,7 @@ goldenoneventurees.pages.dev
 grd-super.pages.dev
 gudang138ofc.pages.dev
 haikai.pages.dev
+hantam-rejeki-kamu.pages.dev
 harta-simpati.pages.dev
 healthcareaccreditationresources.pages.dev
 heng-bos-heng.pages.dev
@@ -643,6 +647,7 @@ rtpwaktogelplay.pages.dev
 rtpwinb88.pages.dev
 rtpzb.pages.dev
 rumahduit-site.pages.dev
+s-mgo777.pages.dev
 sakti-kalselprov.pages.dev
 sakurawin.linkofgod.pages.dev
 satset-gaskan-depoinboskuhh.pages.dev
@@ -894,6 +899,7 @@ apkapi-dr2.datasvc.site
 apkapi-hsr.datasvc.site
 apkapi-stg.datasvc.site
 apkapi-sbu.datasvc.site
+apkapi-sbr.datasvc.site
 
 # from *.it.com
 11uu.it.com
@@ -1020,6 +1026,7 @@ mobile.batamhoki.it.com
 mulia77keren.it.com
 n888.it.com
 naga5000.it.com
+new.pahlawanpembukatutupbotol.it.com
 ngamenjitu.it.com
 ngamentogel.it.com
 nrvip.it.com
@@ -1110,10 +1117,11 @@ hb88.de.com
 mare.de.com
 ojo.de.com
 qq88.de.com
-rajabandot15.de.com/
+rajabandot15.de.com
 thabett.de.com
 tws.de.com
-xin77.de.com # subdom : official.xin77.de.com
+xin77.de.com 
+official.xin77.de.com
 
 # from cdn *.gifyu.com
 s10.gifyu.com
@@ -1553,6 +1561,7 @@ kembarxnana.tokosinarperkoso.online
 kembarhasian.tokosinarperkoso.online
 kayubloom.tokosinarperkoso.online
 kembarjaya.tokosinarperkoso.online
+kembarmulia.tokosinarperkoso.online
 
 #from trikagenolx.info # subdom : 
 web22.trikagenolx.info 
@@ -1633,7 +1642,9 @@ jangan-pada-resign-lahh-capefoot-clinic.doraahoki.workers.dev
 jentoto-anorange.gasukagelay.workers.dev
 jogoluck.app-b17.workers.dev
 kejurtps.master-138group.workers.dev
+live-punya2.puhseo.workers.dev
 phapac.hafeiniamilan.workers.dev
+puhseo.workers.dev
 rashakai.sijago88.workers.dev
 rr88_shortlink.rr88tino.workers.dev
 safe-link-abc.public-f1c.workers.dev
@@ -2059,3 +2070,23 @@ buktijp2.agenclover.xyz
 prediksi2.agenclover.xyz 
 rtp5.agenclover.xyz
 rtp4.agenclover.xyz
+
+#from lintasgb.pro # subdom : 
+ctubw12345.lintasgb.pro
+ecpgn12345.lintasgb.pro
+hqrft12345.lintasgb.pro
+kftwy12345.lintasgb.pro
+
+#from krtnbet.site # subdom : 
+app.krtnbet.site 
+mp001.krtnbet.site 
+rtp.krtnbet.site
+
+#from dataklmsad902.site # subdom : 
+kaya787.dataklmsad902.site 
+onelive.dataklmsad902.site 
+pilartoto.dataklmsad902.site
+
+#from dataklmsad903.site # subdom : 
+kaya787.dataklmsad903.site 
+pilartoto.dataklmsad903.site

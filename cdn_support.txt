@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2593
+# Number of entries: 2598
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -319,8 +319,8 @@ data-288.sgp1.cdn.digitaloceanspaces.com
 data.alwayswinpp.com
 dataconnect.sbs
 datakingdom357.s3.ap-southeast-3.amazonaws.com
-dataklmsad902.site # subdom : kaya787.dataklmsad902.site onelive.dataklmsad902.site
-dataklmsad903.site # subdom : kaya787.dataklmsad903.site
+dataklmsad902.site # all subdom list in dead_judol_domains.txt
+dataklmsad903.site # all subdom list in dead_judol_domains.txt
 datasvc.site # all subdom list in dead_judol_domains.txt
 datasvc.xyz # all subdom list in dead_judol_domains.txt
 db351sg6odjv.cloudfront.net
@@ -661,6 +661,7 @@ members.phpmu.com
 meubelkayumurah.pics 
 meyerweb.com
 mgapi2.lansn-model.com
+mgo777.sgp1.cdn.digitaloceanspaces.com
 mgt.zhiwushui.com
 mhbos.sgp1.cdn.digitaloceanspaces.com
 midme.xyz
@@ -684,6 +685,7 @@ mpc-prod-1-1053047382554.us-central1.run.app
 mpc-prod-17-s6uit34pua-wl.a.run.app
 mpc-prod-18-s6uit34pua-uc.a.run.app
 mpc-prod-21-1053047382554.us-central1.run.app
+mpc-prod-25-s6uit34pua-wl.a.run.app
 mpc-prod-28-1053047382554.us-central1.run.app
 mpc-prod-4-1053047382554.us-central1.run.app
 mpc2-prod-1-is5qnl632q-uc.a.run.app
@@ -723,6 +725,7 @@ nxt-upload-bucket.ajp7e.upcloudobjects.com
 nyanpasu.click
 object-d001-cloud.cloudstoragesharingservice.com
 objek-d001-cloud-akucloud-valid.sukagambarku.com
+ol1-maribermain8899-com.evonetworks.net
 olxjaya168.com
 omutgl.sgp1.digitaloceanspaces.com
 onix-live-2-default-rtdb.firebaseio.com
@@ -919,6 +922,7 @@ spribe.com
 srv1648-files.hstgr.io
 ssl.gg-global-cdn.com
 staging-9a793.firebaseapp.com
+starkmaxwin.sgp1.cdn.digitaloceanspaces.com
 starlink4d.sgp1.cdn.digitaloceanspaces.com
 static-content.pro
 static-global.asgard-bifrost.com
@@ -1071,6 +1075,7 @@ zdataservices.us
 zeronaught.com
 zfrmz.com
 zkt.mb.cdn-dysxb.com
+zm-cdn.zoomwl.com
 zmobileservices.com
 zmobileservices.us
 มีความสุข.today

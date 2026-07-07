@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1859
+# Number of entries: 1863
 # 
 # 
 # 
@@ -518,8 +518,8 @@
 *jimat[0-9]*
 *jitu[0-9]*
 *jitutoto*
-*jiwa168*
-*jiwaku88*
+*jiwa[0-9]*
+*jiwaku[0-9]*
 *joker[0-9]*
 *joko4d*
 *joni[0-9]*
@@ -576,6 +576,7 @@
 *kentang[0-9]*
 *kentangbet*
 *kentangtoto*
+*kenzototo*
 *keren[0-9]*
 *khusus4d*
 *kientoto*
@@ -589,6 +590,7 @@
 *koi[0-9]*
 *koin[0-9]*
 *koinhoki*
+*koitoto*
 *kokitoto*
 *koko[0-9]*
 *kokoplay*
@@ -1246,6 +1248,7 @@
 *wahanatoto*
 *wak89*
 *warga[0-9]*
+*warkop[0-9]*
 *warkopgaming*
 *warkoptoto*
 *warto*
@@ -1367,6 +1370,7 @@ orgi*.org
 p138*.xyz
 pafi*.org
 paki*.org
+pk88*
 pu88*
 pub88*
 qs88*
