@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2598
+# Number of entries: 2600
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -147,6 +147,7 @@ assets-international.sgp1.cdn.digitaloceanspaces.com
 assets-vip.sfo2.cdn.digitaloceanspaces.com
 assets.288cdn.asia
 assetsbanner.sgp1.cdn.digitaloceanspaces.com
+assetsgame.sgp1.cdn.digitaloceanspaces.com
 atg88.atomgaming88images.com
 atom4d.sgp1.cdn.digitaloceanspaces.com
 atomgaming88.sgp1.cdn.digitaloceanspaces.com
@@ -800,6 +801,7 @@ qaoncloud.com # suspicious
 qdalplaylive.com
 qoopic.co
 qqkwbase.net # subdom : config.qqkwbase.net setprod.qqkwbase.net
+qrfy.io # may create false positive
 qriselite.com
 qrishoki.com # subdom : launcher.qrishoki.com
 qrismvp.com

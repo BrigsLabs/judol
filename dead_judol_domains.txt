@@ -217,6 +217,8 @@ wis77usorg.b-cdn.net
 wong87-css.b-cdn.net
 xidbsxnexus.b-cdn.net
 xt30sf.b-cdn.net
+dexnet.b-cdn.net
+fastads.b-cdn.net
 
 #from bitly.sbs
 apkapi-rk8.bitly.sbs
@@ -472,6 +474,7 @@ livescorem9win.pages.dev
 login-kuningtoto.pages.dev
 login-togel900.pages.dev
 logingacoremperor33.pages.dev
+london69-main.pages.dev
 lovya.pages.dev
 lupa-nama-ingat-alexistogel.pages.dev
 m-angelicsignature-com.pages.dev
@@ -1009,6 +1012,7 @@ lc88.it.com
 link4.tenbrand.it.com
 linktoto88.it.com
 lisatoto.it.com
+london69main.it.com
 m1toto-4d.it.com
 macau303.it.com
 mahajitu.it.com

@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 32657
+# Number of entries: 32687
 #
 #
 #
@@ -1805,6 +1805,7 @@ affiliasimaha.com
 affiliate-eksternal.com
 affiliatecapital.com # subdom : link.affiliatecapital.com
 affiliatedconstructionllc.net
+affiliatemposport.xyz
 affinities.net
 affirmationspower.com
 affordablehealthca.com
@@ -2832,6 +2833,7 @@ apksktt.xyz
 apkslot.asia
 apkslotgacor.org
 apkslotsgg.us
+apkstore.vip
 apkstore888.com
 apksule.site
 apksumo777.site
@@ -4269,6 +4271,7 @@ berhadiahspin.shop
 berhadiahundian4.xyz
 berhadiahundian6.xyz
 berhasilmasuk.site
+berikantimshellyoktampil.my.id
 berita.imgix.net
 beritabarujtg.space
 beritabolagbo1.beauty
@@ -5180,6 +5183,7 @@ bowca.org
 bowmanfieldsolutions.com
 bowmansseafoodrestaurant.com
 bowspeed.com
+boxhadiah.com # subdom : c.boxhadiah.com
 boxhadiah7winbet.lol
 boxing55ad.store
 boxing55gacor1.store
@@ -5278,6 +5282,10 @@ broadwayvision.nyc
 broculos.net
 broenjoy.shop
 brogeek.com
+brojp-stayfun.com # subdom : dualima18.brojp-stayfun.com duasatu12.brojp-stayfun.com
+brojprtpjitu.com
+brojpsvip.com # subdom : puncak.brojpsvip.com
+brojpya.store
 brokeveteran.com
 brooklinebooksmith-shop.com
 brooklynbrewerymash.com
@@ -16052,6 +16060,7 @@ laporanolx06.info
 laporanpengaduan.site
 lapordultokendala.com
 laporhokijp168.org
+laporkeluhan.org
 laporkemenangan.cfd
 laporkemenangan.online
 laporkendala.co
@@ -16316,6 +16325,7 @@ levitatetech.com
 lewandowskiofficial.com
 lewat.nekoweb.org # cloaking
 lewat.top # cloaking
+lewatsini.guru
 lex-irrs01.com
 lexcasino.com.de
 lexingtonlottery.com
@@ -17049,6 +17059,10 @@ lomogrill.com
 london-pools.com
 london-pools4d.com
 london.edu.au
+london69.digital
+london69mantap.xyz
+london69ok.online # subdom : 2026070700.london69ok.online
+london69top.com
 londonbusinfo.com
 londonlogisticsltd.com
 londonlottery.one
@@ -17344,6 +17358,7 @@ luckylexx-izinn.com
 luckylink888.com
 luckymaron.online
 luckymaxwin.com
+luckynews168.com
 luckynow.fun
 luckyovo288.com # subdom : rtp3.luckyovo288.com s1.luckyovo288.com
 luckypalaceokatie.com
@@ -19307,7 +19322,11 @@ mpodeltahoki.shop
 mpogacor88jp.site
 mpogacorjp.store
 mpogoal-shop.com
+mposkor.com
 mposlot500.com # all subdom move to dead_judol_domains list
+mposport212.site
+mposportbe.com
+mposportnine.com
 mpovegas.org
 mpowkwk777.com
 mpoxl-vip.art
@@ -20510,6 +20529,7 @@ okebet99.diy
 okebet99amp.sbs
 okebet99hoki.site
 okebet99win.top
+okebonus.com
 okegas02.site
 okelink.cc
 okemesinggrtp.shop
@@ -24837,6 +24857,7 @@ rtpbos303.biz
 rtpbosbobeta.com
 rtpbotak123eu.store
 rtpbro.xyz
+rtpbrojpbest.com # subdom : gacor6a3dfceb9643f.rtpbrojpbest.com
 rtpbtpgood.shop
 rtpbuaya138gcr.cfd
 rtpbujur888-kece.xyz
@@ -25204,6 +25225,7 @@ rtpmodus99supt.sbs
 rtpmonster69go.click
 rtpmonyethoki.click
 rtpmoon.com
+rtpmposport.vip # subdom : 3.rtpmposport.vip
 rtpmulia77.skin
 rtpmvia88.com
 rtpmvptogel1.perchapp.com
@@ -25403,6 +25425,7 @@ rtpslots-afslot.online
 rtpslotspo777.pro
 rtpslotup83312.com
 rtpslotupdate.com # subdom : m9win.rtpslotupdate.com
+rtpslotyok660.com
 rtpslotyumeto.xyz
 rtpsmasheyp.shop
 rtpsmr69bos.click
@@ -29634,6 +29657,7 @@ totalworldstore.com
 tothemoon.id # cloaking
 toto-lottery.com
 toto-redirect.com # cloaking
+toto-seo.com
 toto.pe # cloaking
 toto.sgpools.live
 toto12boston.net
@@ -30493,6 +30517,7 @@ userboard.net
 userfotoimg.com # cdn
 usfinancehelp.com
 usgexclusives.com
+ushoptwo.com
 using.id
 ussblockisland.org
 usu.lol
@@ -31068,6 +31093,7 @@ vpnjago.xyz # cloaking
 vpnmaju.win
 vpnmama.org # cloaking
 vpnpapa.org # cloaking
+vpnpastisenyum.com
 vpnpil.org # cloaking
 vpnpitbull.com
 vpnpro.online
@@ -32327,8 +32353,12 @@ yogurtcityjohnspass.com
 yoi4dav.icu
 yojigen-jp.com
 yok.li # cloaking
+yokblog99.org
 yokohamaforex.com
 yokohamalottery.co
+yoktogel.com
+yoktogel73.com
+yoktogel788.life # subdom : nyata.yoktogel788.life
 yokuatarukeiba.biz
 yol.us.com
 yola4dgahar.online

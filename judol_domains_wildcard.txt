@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1863
+# Number of entries: 1865
 # 
 # 
 # 
@@ -192,6 +192,7 @@
 *boytoto*
 *brandlokal*
 *briototo*
+*brojp*
 *btn4d*
 *btv4d*
 *buah4d*
@@ -663,6 +664,7 @@
 *lisatoto*
 *livedraw*
 *loginsamudera*
+*london[0-9]*
 *long-*
 *lotre*
 *lottery*
