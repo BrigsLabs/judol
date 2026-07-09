@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 32687
+# Number of entries: 32852
 #
 #
 #
@@ -658,6 +658,7 @@
 777vipv9.com
 7788099.com
 7789win.net
+77box.vip # subdom : game.77box.vip
 77cuci.net
 77jili.website
 77judi1.com
@@ -1238,6 +1239,7 @@ accentthaikitchen.com
 acceptableamp.xyz
 accesorios-peugeot.com
 accessible-websites.com
+accesslapak99.my.id
 accessnepal.org
 accioncampesina.org
 accountantswinnipeg.net
@@ -1935,6 +1937,7 @@ ahha4dtelkom9.com
 ahluwaliamd.com
 ahmedabadcallgirlss.com
 ahmstore.com
+ahuitjes.nl
 ahzhuiyuan.com
 ai-university.id
 ai4d.icu
@@ -2161,6 +2164,7 @@ alexistogel333.com
 alexistogel770.com
 alexistoto77.com
 alexisvaan.com
+alexisverdugo.com
 alexisvpn.com
 alexiszayra.com
 alfa77.so
@@ -2176,6 +2180,7 @@ alfonsosbb.com
 alfredleroy.com
 alfredosristorante.com
 algorithmos.net
+algues.info # subdom : multi.algues.info
 alhijazindowisatagroup.id
 aliakbarrakbesi.com
 alicecarback.com
@@ -2568,10 +2573,14 @@ angelinaspizzasanleandro.com
 angelsrestbbsuites.com
 anginprj.cyou
 angk.at
-angka-alexis.pro # subdom : prediksi60.angka-alexis.pro prediksi58.angka-alexis.pro
+angka-alexis.pro # all subdom list in dead_judol_domains.txt
 angka2win.online
 angkabbfs.angka-jitu711.top
 angkabbfs.wiki
+angkabet39928.com
+angkabet788.life # subdom : one.angkabet788.life
+angkabet80240.com
+angkabet90.com
 angkahkhariini.org
 angkaiwantogel.com
 angkajentoto.rest
@@ -2842,6 +2851,8 @@ apktempo.com
 apktopgroup.com
 apktotogg88.us
 apktribun.com
+apku.org
+apku.vip # subdom : apk.apku.vip
 apkwaktogel.org
 apkwb403.site
 apkyumetoto.com
@@ -2974,6 +2985,7 @@ ardamobilya.com
 ardenshakespearegild.org
 ardenstarhotel.com
 areamobilmewah.xyz
+arena30390.com
 arena39.click
 arena899tokyo.xyz
 arenahometeam.com
@@ -3794,6 +3806,7 @@ bancodelalba.org
 bandaisuke.com
 bandar-jaya.com
 bandar126-a.vip
+bandar71.com
 bandara1.com
 bandarapolonia.xyz
 bandarbala855.com
@@ -5119,6 +5132,7 @@ bosgacorkeren.site
 boshoki-2.lat
 boshoki.biz
 boshoki.lat
+bosjoko70.com
 bosjoko88712.com
 bosjp.dev
 bosku.live
@@ -6592,7 +6606,6 @@ coklatsusu.org
 cokmerahhokivip.com
 cola-prediksiku.lol
 cola-rtp.lol
-cola.simplyworks.xyz
 colade2025.com
 colakubayar.lol
 colalotto.com
@@ -6657,7 +6670,7 @@ companies.us.com
 compeanrealestate.com
 competitividadturistica.com
 competz.io
-complainalexis.com # subdom : report4.complainalexis.com
+complainalexis.com # all subdom list in dead_judol_domains.txt
 completeskilletmealsgreengiant.com
 completevb.com
 complexecapitalehelicoptere.com
@@ -7177,6 +7190,7 @@ danamax777svb.xyz
 danamax777van.com
 danamax777zyl.site
 danang58pools.com
+danatoto72.com
 danau.xyz
 danauhoki35.click
 danauhoki35.site
@@ -7489,6 +7503,8 @@ depo89-ok.digital
 depo89-ok.lol
 depo89asli.makeup
 depo89rtp.hair
+depobos80889.com
+depobos90.com
 depogalond303.site
 depoksosial.com
 deposit1000.dan.unb.br
@@ -7784,6 +7800,7 @@ dimensionalrecords.com
 dimesingg.net # subdom : ftkjs12345.dimesingg.net
 dimimpiaku.cfd
 dimintamenang.com
+dimitra77.com
 dinamanzo.com
 dinamobet.casinogiristr.com
 dinas-ti-168.xyz
@@ -7810,6 +7827,7 @@ dingdong83300.com
 dingdongblog193.com
 dingdongtogel662.life # subdom : curam.dingdongtogel662.life
 dingdongtogel788.life # subdom : gravity.dingdongtogel788.life
+dingdongtogel91.com
 dingin-di-pucuk.site
 dinginsekolah.com
 dinkeslebong.net
@@ -9484,6 +9502,7 @@ epiphanybio.com
 episode88c.icu
 episode88c.lol
 epoindustry.com
+eppingen-palme.de
 eptexasautocollision.com
 eqncdn.com
 equador-lotto.com
@@ -9713,6 +9732,12 @@ exshincheonji.com
 ext-hscn.deontics.com
 exteriorinteriors.com
 extrabeluga.lat
+extrabonusangkabet2.info
+extrabonusangkabet4.info
+extrabonusdepobos.info
+extrabonusdepobos1.info
+extrabonuslatoto.info
+extrabonuspulitoto1.info
 extradul.xyz
 extrathebest.com
 extrawla.com
@@ -9869,6 +9894,7 @@ fastwayrentacar.com
 fastwengtoto.info
 fastwinz.org
 fataladdictionband.com
+fatcai70.com
 fatmakarakullukcu.com
 fatoshop.store # subdom : sgw.fatoshop.store # cdn
 fatpuppiesinn.com
@@ -9976,6 +10002,7 @@ fhckdashits.ru.com
 fhvery.com
 fi-r9.rtpfire.org
 fi-s1.demoslotbaru.com
+fiatogel72.com
 fiav.info
 fiddlecreekfarms.com
 fiercepeoplemovie.com
@@ -10663,6 +10690,7 @@ galaxy899.com
 galcheat77.xyz
 galeria.estranydelamota.com
 galeriaesmoli.net
+galeriapodolany.pl
 galerie-cordouan.com
 galery303.site # cdn
 galexis.getkickbox.com
@@ -10951,6 +10979,7 @@ gc57.shop
 gc57vip.cyou
 gcacheer.entretechllc.com
 gceip.org
+gclandscapingbrooklyn.com
 gcrbgt.xyz
 gcrin.click # cloaking
 gcservices.info
@@ -11030,6 +11059,7 @@ generraassitogel.net
 genesisbewell.com
 geneva-pools.com
 genevasociety.org
+gengtoto72.com
 gengwd002.com
 gengwdputarhoki.info
 genialaujapon.com
@@ -11430,6 +11460,7 @@ golfasia.org
 golfsellersdirect.com
 golifevacation.com
 goliveweb.eu
+goltogel72.com
 golvlabs.com
 gomeyra.com
 gomu.live
@@ -11498,6 +11529,7 @@ gp2play.info # subdom : casino.gp2play.info
 gpencari4d.online
 gpigames.com # apk
 gplaystore.id # scam # apk
+gplaystore.org
 gpmtded.org
 gpshof.org
 gpstracking.us.com
@@ -12251,6 +12283,7 @@ hm88.poker
 hm88.studio
 hm88.works
 hm8808.com
+hmarnhem.nl
 hmikotatamianglayang.id
 hmu.co.id
 hmumo.ru.com
@@ -12267,6 +12300,7 @@ hoholah.xyz
 hoidapnhanh.org
 hoimage.com
 hokage77.top
+hokbentoto70.com
 hoki.asia
 hoki.bighokiads.com
 hoki108b.net
@@ -12304,6 +12338,7 @@ hokiemas88-a.site
 hokiemas88.actor
 hokiforfun.com
 hokiimage.online
+hokijitu90.com
 hokijp168fire.site
 hokikale.me # cloaking
 hokiku.io # suspicious
@@ -12371,6 +12406,7 @@ homeqq8.com
 homesamui.com
 homescaninspector.com
 homeschoolingcarnation.sch.id
+hometogel91.com
 hometowndays.org
 homeworkfortune.com
 homeworkhelp.co.com
@@ -13141,6 +13177,7 @@ indosuper99.com
 indosurga88a.icu
 indotogel.me
 indotogelku.com
+indotogelx.com
 indovegas.rocks
 indovegas.shop
 indowin168cc.xyz
@@ -13150,7 +13187,12 @@ indowin88.lat
 indowlatoto.com
 indowlatotoa.top
 indpure.lol
+indrabet30012.com
+indrabet33985.com
+indrabet80071.com
+indrabet90.com
 indraofficiel.com
+indratogel72.com
 inds.me # cloaking
 industrialcoatingpaint.com
 industrialdesignserved.com
@@ -13251,6 +13293,7 @@ ingeniushack.com
 ingetsohib.xyz # cloaking
 inggris4d.online
 inggris4d.top
+ingoodcompanymovie.com
 inhouselive.net
 ini-generasi88.store
 ini-granat88.online
@@ -14003,6 +14046,7 @@ jebolsk.xyz
 jedar88top.monster
 jedelkenz.com
 jeeniiussstoto.info
+jeeptrend.com
 jeeterjuice.net
 jeeterjuices.com
 jeeto-92.com
@@ -14256,6 +14300,7 @@ joniblog11.com
 jonimulia.xyz
 jonisaber.online
 jonisteak.co.id
+jonitogel83.com
 joobjoobs.com
 joocasino-australia.com
 joocasino.live
@@ -14382,6 +14427,8 @@ juara126-rtp.host # subdom : ayo.juara126-rtp.host
 juara126web.com # subdom : b.juara126web.com
 juara288.art
 juara288vvip.online 
+juara31808.com
+juara88173.com
 juaraberkah.lol
 juaraku.net
 juaraltn77.site
@@ -14519,7 +14566,9 @@ justproplay88.in # subdom : juujm12345.justproplay88.in
 jutawan188.id
 jutawan188.us
 jutawan188l.sbs
+jutawan31940.com
 jutawan88712.com
+jutawanbet71.com
 juticelight.fun
 juuka.co.uk
 juummppp.net
@@ -14890,6 +14939,7 @@ kaybeer.click # cloacking
 kayeschemist.co.uk
 kaylaraecellars.com
 kaylee-wordpress.pazres.net
+kayskitchenky.com # subdom : kitchen.kayskitchenky.com
 kayutogel.com
 kazakhstanpools.com
 kazanpoolstoday.com
@@ -14939,6 +14989,7 @@ kedaipkr8.cc
 keenansroom.com
 keepingroom.com
 keepseattlemoving.com
+keepyourcooler.com
 keepyourfeetup.co.uk
 keerwedersafaris.com
 keiapp.me
@@ -15532,6 +15583,7 @@ kontak-kami.com # subdom : indobet365.kontak-kami.com lapkv.kontak-kami.com # cl
 kontakniastoto.com
 kontenseru.com 
 kontol4d.com
+kookburgerbar.com
 kopi77g2.com
 kopi77h1.com
 kopiaren5.com
@@ -15548,6 +15600,7 @@ korfezpsikolog.com
 kornascorp.com
 koruna.pro
 kosmospizza.com
+kosportsbar.com
 kota.hero369.mom
 kotahiu.xyz
 kotakkisaran4d.com
@@ -15566,6 +15619,7 @@ kp88.bio
 kp88.social
 kpai-kotabanyuwangi.id
 kpai-ternatekota.id
+kpbi.org
 kpi4dgacorr.com # subdom : rtp10.kpi4dgacorr.com
 kpi4dikan.com
 kpi4dsui.com
@@ -15787,6 +15841,7 @@ kurniamotor.id
 kuroobi.live
 kurosaki.lol
 kursi4dgacor.com
+kushkingdomtx.com
 kustom-car-magazine.de
 kuudaaatogell.org
 kuudaaatoogel.org
@@ -15901,6 +15956,7 @@ laguutogel.online
 lahousedininghall.com
 laju8.xyz
 lajubet.xyz
+lajur.link # subdom : protogel.lajur.link # cloaking
 lakebreezecampground.com
 lakeeriewoodworks.com
 lakeffect.net
@@ -16036,9 +16092,11 @@ lapak303best.org
 lapak303gacor.xyz
 lapak303gold.net
 lapak303gold.us
+lapak71.com
 lapak7dlord.icu
 lapak7dmaju.club
 lapak7dtoto.sbs
+lapak80660.com
 lapakjudivvip.net
 lapaksensa.info
 lapalmagrill.com
@@ -16114,6 +16172,7 @@ latobet88ku.vip
 latobet88ku.xyz
 latobet88link.xyz
 latobet88resmi.com
+latoto91.com
 latotologin168.shop
 latowin2.sbs
 latowinreal.site
@@ -16419,6 +16478,8 @@ liga89mega.com
 liga89mng.com
 liga89tenang.com 
 liga99.yoga
+ligabandot.com
+ligabandot72.com
 ligabl88.site # all subdom list in dead_judol_domains.txt
 ligahoki89.baby
 ligahoki89.pro
@@ -16434,6 +16495,7 @@ ligasawah.com
 ligatotoax.com
 ligatotoay.com
 ligatotortpmasa.com
+ligawin.web.id
 lighthousecarskc.com
 lightofkedai69.com
 lightshiptherapies.net
@@ -16457,7 +16519,10 @@ lindeloft.com
 lindseysculinarymarket.com
 line-admin.com
 line007.republik365vip.com
+line018.com
 line3.airbet88-vip.com
+line32170.com
+line34754.com
 line35260.com
 line35462.com
 line36458.com
@@ -16465,12 +16530,17 @@ line37445.com
 line38467.com
 line5.airbet88-vip.com
 line77.vip
+line83342.com
 line87112.com
 line87126.com
 linebiz.com
 lineblog33.com
+lineblog590.com
+lineblog897.com
 linenandlavender.net
 lineslot88resmi.club
+linetogel73.com
+linetogel788.com # subdom : duka.linetogel788.com merapi.linetogel788.com
 lingkar.digital # cdn
 lingkaranmerah.online
 lingkaranpaus.cc
@@ -16798,6 +16868,7 @@ lisbonlottery.net
 list-gigantic.com
 listenwhileyouwait.com
 listkudewaseru.live
+lit.link # cloaking
 liteblueinsider.com
 literariocast.com
 literasijabar.org
@@ -17023,6 +17094,7 @@ loginkangku.com # cloaking
 loginkzgroup.net
 loginmeriah4d.com
 loginmiabet88k.com
+loginmitra77.biz
 loginmitratogel.org
 loginpulsa777.com
 loginputra.co
@@ -17442,10 +17514,13 @@ luminasa.co.uk
 lumipermata.pro
 lumosmo.com
 lumpkinandoxner.com
+luna87153.com
 lunabet78.blog
 lunabet78sekawan.click
+lunablog721.com
 lunarfoom.lol
 lunashptoto.info # subdom : 1.lunashptoto.info 11.lunashptoto.info
+lunatogel78.com
 lundy.io
 luongson161.tv
 luqmantrading.com
@@ -17846,6 +17921,7 @@ mainlexus.com
 mainligabl88.us
 mainline-trains.com
 mainmikasa.xyz
+mainmitra77.com
 mainmitrajp.win
 mainmugen.com
 mainmugen3.live
@@ -17984,6 +18060,7 @@ mancing138gg.online
 mancing138gg.store
 mancing138hoki.com
 mancing138rtp.wiki
+mancingduit90.com
 mancity4d.com
 mancitypools.com
 manclub.com.mx
@@ -18038,6 +18115,7 @@ mansionealter.info
 mansionpos.co.uk
 mansionsku777.site
 mansionsku777.store
+mant69.click # subdom : amp14.mant69.click
 mantap.ctrr7.com
 mantap.semuarudaltoto.org
 mantap.tokyo # cloaking
@@ -18089,9 +18167,15 @@ margalitscakesanddesserts.com
 margarethahopfner.net
 margototo-desa.id
 mari2bmwcuanonline.shop
+maria-salon.web.id
+maria34220.com
+maria82920.com
+mariablog665.com
 mariacanyigueral.co.uk
 mariannedupontverrier.org
 marianoarista.edu.mx
+mariatogel.com
+mariatogel91.com
 maribermain8899.com # subdom : ol1.maribermain8899.com
 maribersama.biz # cloaking
 maribos.org # cloaking
@@ -18121,6 +18205,7 @@ marjoramandroux.com
 marjorierwilliams.com
 markascolatogel.com
 markasobral.com # subdom : play.markasobral.com
+markaswd70.com
 markbalanay.site
 markbiss.net
 market.pecksfarmmarketeast.com
@@ -19086,6 +19171,7 @@ mnckochi.com
 mne-ploho.net
 mne.gov.tl
 mnemonicsworld.com
+mntr69.quest
 mnz.uk.com
 mob-entertainment.shop
 mobail.ru.com
@@ -19717,6 +19803,7 @@ nanas36714.com
 nanas39157.com
 nanas83723.com
 nanasblog999.net
+nanastoto92.com
 nanhiltonhead.com
 nanjing-pools.co
 nanteslottery.com
@@ -20633,6 +20720,7 @@ olislotflagged.blog
 olislotkuy.com
 olislotsingapura.blog
 olivercoffea.com
+olivesandgrace.com
 olivescre.in
 olivestreetfoodcafe.com
 oliviagorra.com
@@ -20830,6 +20918,9 @@ operationbigblue.org
 operon-group.com
 opheliasplace.org
 opokarepmu.xyz # cloaking
+oppablog99.org
+oppatoto788.life # subdom : tabungan.oppatoto788.life
+oppatoto93.com
 oppkitchen.com
 opressrc.org
 opsa-help.saas.hp.com
@@ -21238,6 +21329,7 @@ pafipadanglawas.org
 pafipadanglawasutara.org
 pafipadangsidempuan.org
 pafiparigimoutong.org
+pafipatumbak.org # subdom : tutorial.pafipatumbak.org
 pafipcaekkanopan.org
 pafipckabmamasa.org
 pafipcmanado.org
@@ -21627,7 +21719,12 @@ parniboo.com
 parpoker.vip
 parrocchiacrocetta.org
 parsgool.live
+partai30479.com
+partaiblog193.com
 partaikaryaperjuangan.org
+partaitogel76.com
+partaitogel788.life # subdom : garpu.partaitogel788.life
+partaitogel94.com
 participle.net
 particleo.de
 partner.tagliosc.com
@@ -21711,6 +21808,10 @@ patenkeren777.xyz
 patersonforny.com
 pathlabeducation.com
 pathwaydevelopmentconsortium.org
+patih33148.com
+patihtoto72.com
+patihtoto788.life # subdom : amarta.patihtoto788.life
+patihtotobionih.org
 patner.perintis.io
 patraslottery.club
 patricealbertus.net
@@ -22027,6 +22128,8 @@ pesona69-prowin.site
 pesona69-topwin.click
 pesona69-vipwin.site
 pesona77.ink
+pesona805maju.id
+pesona805trust.id
 peta-dorahoki.org
 petamembara.site
 petanify.com
@@ -23036,6 +23139,7 @@ pro.bitphantom.io
 pro8et-naik.store
 pro8etwaw.site
 proasialive88zona.homes
+problog207.com
 proctorprideparade.org
 proctorvilleohio.com
 procycleconsultancy.com
@@ -23131,6 +23235,9 @@ protectedbytrust.com
 protegebr.org
 protigerasia.com
 protigerasia88zona.bond
+protogel662.life # subdom : batuan.protogel662.life
+protogel73.com
+protogel74.com
 protosmusic.net
 prototypesource.com
 protoursdestination.com
@@ -23215,7 +23322,11 @@ pulaukunti.shop
 pulaumas.id
 pulaumorotaikab.site
 pulausamba.top
+puli31752.com
+puli34555.com
+puli35266.com
 pulipuli.net
+pulitoto90.com
 pulsa0.com
 pulsa777ku.id
 pulsamaxwin.com
@@ -23331,6 +23442,12 @@ pwmrc.com
 pwprediksi.info
 pwprediksi4d.site
 pwrhazmat.com
+pwvip31748.com
+pwvip4d71.com
+pwvip4d788.life # subdom : cerek.pwvip4d788.life
+pwvip4dblog160.com
+pxlink.sbs # cloaking
+pxlink.xyz # cloaking
 pxnuvigtray.sa.com
 pyongyanglottery.com
 pyongyanglottery.store
@@ -23465,6 +23582,7 @@ quixcel.org
 quoality.com
 quotchemical-bin.info
 quoteshunger.com
+qurl.bio # cloaking
 qzskuxotrcof.sbs # cloaking
 qzz.io # subdom : cdn.rockstar.qzz.io shortix.qzz.io # cloaking
 r138putih.xyz
@@ -24263,7 +24381,6 @@ riyadhjobstoday.com
 riyadhpools.com
 rizkynadiateknik.id
 rizzio.io
-rjb.simplyworks.xyz
 rjbaccarat.biz
 rjbet77a.net
 rjbom.ink # cloaking
@@ -25411,22 +25528,36 @@ rtpslotgogo.click
 rtpslotgogo.sbs
 rtpslotgol66442.com
 rtpslotgol91243.com
+rtpslotindrabet530.com
 rtpslotkami.site
 rtpslotkami.xyz
 rtpslotline66142.com
+rtpslotline909.com
+rtpslotluna185.com
 rtpslotmahir.shop
+rtpslotmaria318.com
 rtpslotnanas497.com
+rtpslotnanas599.com
 rtpslotogel.app
 rtpsloton94672.com
 rtpslotonlineasikcoktogel.com
+rtpslotoppa417.com
+rtpslotpartai185.com
+rtpslotpatih251.com
+rtpslotpro983.com
+rtpslotpwvip4d00011.com
 rtpslotratogel.live
 rtpslotresmi.store
 rtpslots-afslot.online
 rtpslotspo777.pro
+rtpslotudin318.com
+rtpslotup660.com
 rtpslotup83312.com
 rtpslotupdate.com # subdom : m9win.rtpslotupdate.com
 rtpslotyok660.com
+rtpslotyowes660.com
 rtpslotyumeto.xyz
+rtpslotzia848.com
 rtpsmasheyp.shop
 rtpsmr69bos.click
 rtpsoddi.xyz
@@ -25529,11 +25660,13 @@ rttpower.com
 ru-pinup.ru
 ruang80s.com
 ruangok.com
+ruangwd90.com
 ruangwede.click 
 ruayy.com
 rubakhin.org
 rubam.net
 rubens51.com
+rubioscompany.com # subdom : company.rubioscompany.com
 rubro7.com
 rubyaud.co
 rubyaud.me
@@ -25931,6 +26064,8 @@ satlantaspolrespelalawan.com
 satpastulungagung.com
 satreskrimpolresmaros.com
 satset.ink # cloaking
+satset189.site
+satset189x.live # all subdom list in dead_judol_domains.txt
 satset757.situsesmislot.com
 sattakinggroup.com
 sattamatkatb.com
@@ -26173,6 +26308,7 @@ sekolahweek.com
 sektoralk.com
 sektorjasa.com
 sektorwg77.com
+sekut.dev # cloaking
 selalu-maxwin.com # all subdom list in dead_judol_domains.txt
 selalubar.xyz
 selalucuanbrayrtpjiwaku88.online
@@ -26305,6 +26441,7 @@ seobapak.site # cloaking
 seobuncit.net
 seocandy.click
 seocupu.org # cloaking
+seoforce.xyz
 seofufu.com
 seogeneration.click
 seohamster.click
@@ -26578,6 +26715,7 @@ shortlinkws4d.online
 shortlynx.online # cloaking
 shortmds.xyz # cloaking
 shortstoriesnj.com
+shorturl.at # cloaking
 shorturlonline.com # cloaking
 shortvpn.com # cloaking
 shortwarna.xyz # cloaking
@@ -26741,6 +26879,7 @@ simplycubatours.com
 simplyorganizedonline.com
 simplyorganizedwithjill.com
 simplyslot.co
+simplyworks.xyz # all subdom list in dead_judol_domains.txt
 simpsons.bet
 simtiokthia.co
 simulasikan.cfd
@@ -26878,6 +27017,7 @@ situsaman.cc
 situsbar.com
 situsbebasvpn.xyz
 situsbirukita.com
+situsblog209.com
 situscermat88.art
 situsclickbet88gacor02.xyz
 situsdado88.online
@@ -26920,6 +27060,7 @@ situsthor138.com
 situstogel.co
 situstokyo88.pro
 situstoto.info
+situstoto90.com
 situsvipjpmania.site # cloaking
 situswin1.fit
 situswin1.shop
@@ -27560,6 +27701,7 @@ spinfortunerocket.lol # subdom : tournament.spinfortunerocket.lol
 spinglamor4.com
 spingo138.com
 spingoau.co
+spingratis.biz # subdom : web1.spingratis.biz
 spingratis08.com
 spingratis15.com
 spinhadiah.site
@@ -27615,6 +27757,7 @@ spkzh.com
 sport-vacature.nl
 sportfitnoord.nl
 sporthirek.info
+sportiva.gg # subdom : live.sportiva.gg
 sportparlay.asia
 sportplan.club
 sports-ohio.com
@@ -29380,6 +29523,7 @@ togelhongkongprize.com
 togelindonesia2026.com
 togeljitumahir.shop
 togelmugen.com
+togelon72.com
 togelonlen.info
 togelonline88.com
 togelonline88apk.com
@@ -29401,6 +29545,8 @@ togeltaiwan.online # subdom : page.togeltaiwan.online
 togeltaiwan4d.com # subdom : monday.togeltaiwan4d.com
 togeltaiwanhariini.com
 togeltogel.id
+togelup74.com
+togelup788.life # subdom : world.togelup788.life
 togelwin.id
 togolottery.com
 tojogo.win
@@ -29577,6 +29723,8 @@ top88.vc
 top888.us
 top8kbet.com
 topalpukat.com
+topanbos71.com
+topanbos8890.com
 topanhoki-rtp5a.com
 topanhoki.web-ns3.live
 topanhoki15.com # all subdom move to dead_judol_domains list
@@ -29629,6 +29777,7 @@ topsportcipo.com # scam # landing
 topthatgrille2.com
 toptierappliance.com # lander
 topvegs88.vip
+topwd90.com
 topwdplay.com
 topxx88.com
 toradolrx.com
@@ -30119,6 +30268,7 @@ tvfanclub.net
 tvnassets.mediaprima.com.my
 tvtogelku.vip
 tvtogelpastikuat.com
+tvtoto90.com
 tvzarea.org
 tw.com.kw
 tw88a.site # all subdom list in dead_judol_domains.txt
@@ -30227,11 +30377,15 @@ udin-australia.online
 udin-singapore.online
 udin-thailand.online
 udin138.online
+udin35080.com
 udin8.biz
 udin8.site
 udin88f.com
 udin88f.top
 udin8a.dev
+udinblog160.com
+udinblog689.com
+udintogel91.com
 ueadubaipools.com
 uealottery.com
 uemy.cc
@@ -31363,6 +31517,7 @@ watershedlrs.info
 waterzonic.com
 watfordpools.com
 watfordpools.net
+watitoto71.com
 watsonlakeinn.com
 wave-cdn.com # cdn # apk
 wavevapeofficial.com
@@ -31396,6 +31551,7 @@ wd40b.com
 wd40c.com
 wd77.rtp2025.live
 wdbos80561.com
+wdbos90.com
 wdemas36.site
 wdhoki1.fun
 wdhoki5.fun
@@ -31404,6 +31560,7 @@ wdhoki9.fun
 wdjantan69.fun
 wdlevel789.click
 wdm2501.com
+wdmahjong90.com
 wdsikat88.fun
 we0.us.com
 we88jap.com
@@ -32016,6 +32173,7 @@ wukong288.top
 wukong288indo.com
 wul.ing # cloaking
 wulingmedan.net # malicious backlink
+wurl.bio # cloaking
 wuweareurope.com
 wvevw.com
 wvhealthconnection.com
@@ -32391,6 +32549,8 @@ youthalivez.com
 youthministryideas.net
 youtiao18.xyz
 youwet.com
+yowesblog160.com
+yowestogel70.com
 ypcibadung.org
 ypcibanjarbaru.id
 ypcibanten.org
@@ -32592,6 +32752,11 @@ zhenwudadi.net # apk
 zhonghuarestaurant.com
 zhyper-shel.info
 zhypercarry.us
+ziablog11.com
+ziablog207.com
+ziablog689.com
+ziatogel788.life # subdom : semut.ziatogel788.life
+ziatogel90.com
 zidshopp.com
 ziggy.works
 zilong.site

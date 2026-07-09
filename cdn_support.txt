@@ -329,6 +329,7 @@ dbb7b81tozwbs.cloudfront.net
 dbxmjjzl5pc1g.cloudfront.net
 dd8p0622bwh41.cloudfront.net
 de.com # all subdom list in dead_judol_domains.txt
+demielpe.sgp1.digitaloceanspaces.com
 deoct7xngj20p.cloudfront.net
 desaterbaik.com
 designku.io
@@ -894,7 +895,6 @@ short.gy # all subdom list in dead_judol_domains.txt
 sicolab.me
 sidesupports.com
 simpangambar.fun
-simplyworks.xyz
 sinjai.info # backlink malicious & gambling inside 
 sintesys-travel-software.com
 sitestatic.net

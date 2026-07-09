@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1865
+# Number of entries: 1877
 # 
 # 
 # 
@@ -67,6 +67,7 @@
 *amavi[0-9]*
 *amdbet*
 *amerikatoto*
+*angkabet*
 *angkanet4d*
 *angkasa[0-9]*
 *angkot88*
@@ -258,6 +259,7 @@
 *demoslotbaru*
 *dentoto*
 *depo[0-9]*
+*depobos[0-9]*
 *depoxito*
 *detik[0-9]*
 *dewa[0-9]*
@@ -465,6 +467,7 @@
 *indoslot*
 *indosup*
 *indovegas*
+*indrabet*
 *informasibaru*
 *ing303*
 *ingatcuan*
@@ -658,6 +661,7 @@
 *ligatunai*
 *limajp*
 *line[0-9]*
+*lineblog[0-9]*
 *lingkartoto*
 *link-*
 *link4d*
@@ -711,6 +715,7 @@
 *manut[0-9]*
 *mapsbet*
 *mapstoto*
+*maria[0-9]*
 *marontoto*
 *mars[0-9]*
 *martoto*
@@ -758,6 +763,7 @@
 *miniso[0-9]*
 *minobet*
 *mitosbet*
+*mitra[0-9]*
 *mium[0-9]*
 *mjpku[0-9]*
 *modal[0-9]*
@@ -834,6 +840,7 @@
 *olympus[0-9]*
 *omg[0-9]*
 *operabola*
+*oppatoto*
 *orca1[0-9]*
 *osaka[0-9]*
 *ovo[0-9]*
@@ -874,6 +881,7 @@
 *pas77*
 *pasir4d*
 *pastibet*
+*patihtoto*
 *pck1[0-9]*
 *pecelbet*
 *pedia4d*
@@ -1027,6 +1035,7 @@
 *sand[0-9]*
 *saritoto*
 *sastoto*
+*satset[0-9]*
 *sawer[0-9]*
 *sbang[0-9]*
 *scatter*
@@ -1205,6 +1214,7 @@
 *ucubet*
 *udin-*
 *udin[0-9]*
+*udinblog[0-9]*
 *udinslot*
 *uge[0-9]*
 *uji4d*
@@ -1292,6 +1302,7 @@
 *yupitoto*
 *zapslot*
 *zeus[0-9]*
+*ziablog[0-9]*
 *zilong[0-9]*
 *zodiak[0-9]*
 *zoom[0-9]*
@@ -1375,6 +1386,7 @@ paki*.org
 pk88*
 pu88*
 pub88*
+puli[0-9]*
 qs88*
 red88*
 rg[0-9]*

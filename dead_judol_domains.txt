@@ -96,6 +96,7 @@ cindo.b-cdn.net
 dagelan4d-publisher.b-cdn.net
 dan-jika.b-cdn.net
 deepfreeze.b-cdn.net
+dexnet.b-cdn.net
 dikembalikan-sendiri-oleh-google.b-cdn.net
 dkwl.b-cdn.net
 dmca-images.b-cdn.net
@@ -217,8 +218,6 @@ wis77usorg.b-cdn.net
 wong87-css.b-cdn.net
 xidbsxnexus.b-cdn.net
 xt30sf.b-cdn.net
-dexnet.b-cdn.net
-fastads.b-cdn.net
 
 #from bitly.sbs
 apkapi-rk8.bitly.sbs
@@ -447,6 +446,7 @@ kapten-ketua.pages.dev
 kapten808com.pages.dev
 kaptenbandot.pages.dev
 karibwash.pages.dev
+keepyourcooler.pages.dev
 kena-babat-google.pages.dev
 keras-lawan-nya.pages.dev
 kita-cobalagi-za.pages.dev
@@ -854,6 +854,7 @@ pub-dfecbce2e4204125ba3b0f0bcb75834a.r2.dev
 pub-e55302e5a199465b9bb9f1c6220f77f1.r2.dev
 pub-e7319a66ee084a75882c4344c9590de7.r2.dev
 pub-e7779c29cf914271befd85a90d4dc9a2.r2.dev
+pub-eb34239f2ca34419b87aeede03f4d192.r2.dev
 pub-eb56614beba6415c8ac276bfd0437e01.r2.dev
 pub-eca00f27c0544dbfa967993f427253f6.r2.dev
 pub-ee8bc42fcaa94552af960b71fb20e6be.r2.dev
@@ -903,6 +904,8 @@ apkapi-hsr.datasvc.site
 apkapi-stg.datasvc.site
 apkapi-sbu.datasvc.site
 apkapi-sbr.datasvc.site
+apkapi-jw8.datasvc.site
+apkapi-brp.datasvc.site
 
 # from *.it.com
 11uu.it.com
@@ -1048,6 +1051,7 @@ paten33.it.com
 pecah138.it.com
 penulis4d.it.com
 perkasa-jitu.it.com
+pesona805.it.com
 petir-jitu.it.com
 pintutogelone.it.com
 pohon169.it.com
@@ -1370,6 +1374,7 @@ henjitu.polagacor.store
 rtp87.polalexis.pro 
 rtp86.polalexis.pro 
 rtp41.polalexis.pro
+rtp130.polalexis.pro
 
 #from posototo.club # subdom : 
 lhqt.posototo.club 
@@ -1566,6 +1571,7 @@ kembarhasian.tokosinarperkoso.online
 kayubloom.tokosinarperkoso.online
 kembarjaya.tokosinarperkoso.online
 kembarmulia.tokosinarperkoso.online
+kembarutama.tokosinarperkoso.online
 
 #from trikagenolx.info # subdom : 
 web22.trikagenolx.info 
@@ -1900,6 +1906,7 @@ apkapi-ign.rebrandy.site
 apkapi-bsw.rebrandy.site
 apkapi-jws.rebrandy.site
 apkapi-rk8.rebrandy.site
+apkapi-lon.rebrandy.site
 
 #from ltn7.com # subdom : 
 promosi.ltn7.com 
@@ -2094,3 +2101,24 @@ pilartoto.dataklmsad902.site
 #from dataklmsad903.site # subdom : 
 kaya787.dataklmsad903.site 
 pilartoto.dataklmsad903.site
+
+#from angka-alexis.pro # subdom : 
+prediksi60.angka-alexis.pro 
+prediksi58.angka-alexis.pro 
+prediksi98.angka-alexis.pro
+
+#from complainalexis.com # subdom : 
+report4.complainalexis.com 
+messenger.complainalexis.com 
+report6.complainalexis.com
+akses.complainalexis.com
+
+#from simplyworks.xyz # subdom : 
+alexis.simplyworks.xyz 
+cola.simplyworks.xyz 
+rjb.simplyworks.xyz
+
+#from satset189x.live : subdom :
+cs001.satset189x.live
+app.satset189x.live
+rtp.satset189x.live
