@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1877
+# Number of entries: 1891
 # 
 # 
 # 
@@ -172,6 +172,7 @@
 *bobo[0-9]*
 *bogemenyatu*
 *bola[0-9]*
+*bolapelangi*
 *bom[0-9]*
 *bonafit-[0-9]*
 *bonafit88*
@@ -183,6 +184,7 @@
 *borju[0-9]*
 *borutoto*
 *bos-hoki*
+*bos138*
 *bos515*
 *bosbet*
 *boshoki*
@@ -587,6 +589,7 @@
 *kilat[0-9]*
 *kimberley[0-9]*
 *king[0-9]*
+*kingjp*
 *kisaran4d*
 *kisarantoto*
 *kiwi[0-9]*
@@ -598,6 +601,7 @@
 *kokitoto*
 *koko[0-9]*
 *kokoplay*
+*koloni[0-9]*
 *komet1[0-9]*
 *komodo[0-9]*
 *konco[0-9]*
@@ -647,6 +651,7 @@
 *laza[0-9]*
 *lazawinslot*
 *lebah-4d*
+*legendaqq*
 *legendtoto*
 *lemacau*
 *lentera4d*
@@ -698,6 +703,7 @@
 *mahjong*
 *mahoni[0-9]*
 *mainslot*
+*majalah4d*
 *malang4d*
 *maluku4d*
 *mamabet*
@@ -716,6 +722,7 @@
 *mapsbet*
 *mapstoto*
 *maria[0-9]*
+*marioqq*
 *marontoto*
 *mars[0-9]*
 *martoto*
@@ -889,6 +896,8 @@
 *pedroslot*
 *pekantoto*
 *pelangi[0-9]*
+*pelangiqq*
+*pelcasvip*
 *pele[0-9]*
 *pelita[0-9]*
 *pelitatoto*
@@ -955,11 +964,13 @@
 *pusat-koin*
 *pusat[0-9]*
 *pusatkoin*
+*putarspesial*
 *putra[0-9]*
 *qiuqiu*
 *qq[0-9]*
 *qqmacan*
 *qqpalace*
+*qqpro*
 *qqslot*
 *qqstar[0-9]*
 *queenau*
@@ -1065,6 +1076,7 @@
 *simpati[0-9]*
 *sinarlampung*
 *singaasia*
+*singaslot*
 *sintoto*
 *sip[0-9]*
 *siputri[0-9]*
@@ -1145,6 +1157,7 @@
 *tasenslot*
 *taxi[0-9]*
 *taxis[0-9]*
+*tayang4d*
 *teamwish[0-9]*
 *tekun4d*
 *telurtoto*
@@ -1188,6 +1201,7 @@
 *totoagung*
 *totobarong*
 *totobayar*
+*totoberkah*
 *totobeta*
 *totocc*
 *totog*

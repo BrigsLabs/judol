@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2600
+# Number of entries: 2613
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -41,7 +41,7 @@ a5cdn.com
 ab.da31889.com
 accallyhigingola.com
 aceh4dblog.wordpress.com
-acehmediacom.wordpress.com # suspicious
+acehmediacom.wordpress.com
 ackreply.com # may create false positive
 adomselfrecigency.com
 adsdewigg.com
@@ -61,6 +61,7 @@ amatic.com
 ambengine.com
 amp-escobar.sgp1.cdn.digitaloceanspaces.com
 ampabadi.com # suspicious
+ampmajalah4d.s3.ap-southeast-2.amazonaws.com
 anehoo.com
 angkasaputra.id # backlink
 anhuidingyue.com
@@ -122,6 +123,7 @@ apkapi-smb.mobilesvc.xyz
 app-a.cdnlogic.net
 app-a.gm-ldr-82r2tndnuha5.com
 app-a.ply-ldr-rfo6v4aqd6cqw84z.com
+app-b.ply-ldr-rfo6v4aqd6cqw84z.com
 app-imgstore.cc
 app.galaxyworld999.com
 appid-dana.com
@@ -140,7 +142,7 @@ asset-cdn.cfd
 asset-image.xyz
 asset-togelonline88.sgp1.cdn.digitaloceanspaces.com
 asset01.source-static.us
-assetcsn.site # suspicious
+assetcsn.site # cdn
 assetrtp.assetftpcanvas.com
 assets-global.website-files.com
 assets-international.sgp1.cdn.digitaloceanspaces.com
@@ -303,6 +305,7 @@ d39r7a227pxlxu.cloudfront.net
 d39xq0g0jylmqw.cloudfront.net
 d3ci3nnu1jeurw.cloudfront.net
 d3dy5gmtp8yhk7.cloudfront.net
+d3e54v103j8qbb.cloudfront.net
 d3ejb2l5e3bvmc.cloudfront.net
 d3h1yom8coubmj.cloudfront.net
 d3h2cjocy0dp0y.cloudfront.net
@@ -336,6 +339,7 @@ designku.io
 detikslot.clouderbase.com
 devsuperteam.com
 dewab2b.s3.amazonaws.com
+dewipicai-production.up.railway.app
 dfdo5rwtdmzk0.cloudfront.net
 dfiz23mj879i2.cloudfront.net
 dgdga3.swuacktu.net
@@ -536,10 +540,13 @@ imgme.pro
 imgnxa.com
 imgnxb.com
 imgotp.thanatosmaero.com
+imgshare.iuf-cfl.cloud
+imgshare.porta-assist.com
 imgstack.net
 imgstore.io
 imgstore.org
 imgtop.io
+imgtrust.top
 imgumk.online
 imgzm.com
 immortalseo.1b2u.asia
@@ -558,7 +565,7 @@ is3.cloudhost.id
 istana2000.nsp2d.com
 it-cg.group # all subdom list in dead_judol_domains.txt
 it.com # all subdom *.it.com move to dead_judol_domains.txt
-j8t62rp7.com
+j8t62rp7.com # subdom : g4-ms-asia01.j8t62rp7.com g4-ta-asia01.j8t62rp7.com
 j9hdbjg.com # many subdom
 jagoangadget.com # scam # seo # landing
 jamepix.com
@@ -695,12 +702,13 @@ mpc2-prod-27-is5qnl632q-uk.a.run.app
 mplay-live-2-default-rtdb.firebaseio.com
 mplay-live-4-default-rtdb.firebaseio.com
 mplay-live-5-default-rtdb.firebaseio.com
+ms.askcas23ssksd.co
 mutami845.wordpress.com
 mutliple.com
 mybluehost.me
 myimage.ink
 myimg.site
-n2mobilesvc.site # subdom : apkapi-jws.n2mobilesvc.site
+n2mobilesvc.site # subdom : apkapi-jws.n2mobilesvc.site apkapi-cmi.n2mobilesvc.site
 nagavip88resmi.notion.site
 nakamauploader.com # file cdn
 namakami.com
@@ -734,6 +742,7 @@ onix-live-2-default-rtdb.firebaseio.com
 onix-live-5-default-rtdb.firebaseio.com
 onokabeh.id # malicous backlink # probe scam
 orangejelly.info
+ota-svr.lopjprd62sxa.com
 oxplay.api-oplbo.com
 ozzogame.com
 p3i.unimen.ac.id # hacked
@@ -749,6 +758,7 @@ paia.uj.ac.za # malicious backlink
 paneltki.info
 papacitan.site # scam # suspicious
 papitogel.sgp1.cdn.digitaloceanspaces.com
+parlichat.com
 pas77.sgp1.cdn.digitaloceanspaces.com
 pastisuksesterus.xyz
 patch.sdfbvsdfb44trbsts65y67xs6.xyz 
@@ -817,12 +827,12 @@ rajabandot.sgp1.cdn.digitaloceanspaces.com
 rankfaster.top # seo
 raspi.today # malicious backlink
 rbtasset.com # subdom : cdn.rbtasset.com
-rebrandy.online # subdom : apkapi-jws.rebrandy.online
+rebrandy.online # subdom : apkapi-jws.rebrandy.online apkapi-cmi.rebrandy.online
 rebrandy.site # all subdom list in dead_judol_domains.txt
-rebrandy.store # subdom : apkapi-jws.rebrandy.store
-rebrandyn2.com # subdom : apkapi-jws.rebrandyn2.com
-rebrandyn2.net # subdom : apkapi-jws.rebrandyn2.net
-rebrandyn2.org # subdom : apkapi-jws.rebrandyn2.org
+rebrandy.store # subdom : apkapi-jws.rebrandy.store apkapi-cmi.rebrandy.store
+rebrandyn2.com # subdom : apkapi-jws.rebrandyn2.com apkapi-cmi.rebrandyn2.com
+rebrandyn2.net # subdom : apkapi-jws.rebrandyn2.net apkapi-cmi.rebrandyn2.net
+rebrandyn2.org # subdom : apkapi-jws.rebrandyn2.org apkapi-cmi.rebrandyn2.org
 recamweek.com # subdom : olx.recamweek.com
 regalez-vous.farm
 renaimall.com
@@ -918,6 +928,7 @@ spaces-ptg.sgp1.cdn.digitaloceanspaces.com
 spaces-ptg.sgp1.digitaloceanspaces.com
 spaces-slg.sgp1.cdn.digitaloceanspaces.com
 sphinxbio.com # hacked web
+splg.site
 sports-cdn.world-media.cn
 spribe.co
 spribe.com
@@ -955,6 +966,7 @@ suka-staging.s3.ap-southeast-1.amazonaws.com
 sukakopi.xyz
 suksesidrbo1.com
 sultanbnajamudin.com # hacked web : https://sultanbnajamudin.com/profile/
+superbandar-gas-15cc85.gitlab.io
 superqris.com
 supremewellness.co # hacked web : supremewellness.co/locations
 sydneylotto-livedraw.tumblr.com
@@ -964,6 +976,7 @@ t4.ftcdn.net
 takenupload.com
 tamansejahtra.com
 tambangmu.com
+tango99bro.github.io
 tasya51.wordpress.com
 tawk.to # may create false positive
 tbgroup.vip # subdom : cdn.tbgroup.vip tool.tbgroup.vip
@@ -1007,12 +1020,12 @@ ucarecdn.com
 ug-meoh-pub.cloudassets.online
 umeng.com
 unitedhost.top # subdom : kinggaruda138.unitedhost.top
-untidy-robin-production.up.railway.app
 uoaeiz3recbrojp76imxpthfemovjaxecjudzg8wytc.bithe.net
 updatechecker3-14ecc.firebaseio.com
 upload.ee
 upload.wikimedia.org
 uploadgambar.lat
+uploads-ssl.webflow.com
 user-upload.aws-s3-r1r2str0bjx.sg-sin1.upcloudobjects.com
 usglobalasset.com
 veldrive.com # may create false positive
