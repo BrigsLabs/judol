@@ -947,6 +947,8 @@ apkapi-sbu.datasvc.site
 apkapi-sbr.datasvc.site
 apkapi-jw8.datasvc.site
 apkapi-brp.datasvc.site
+apkapi-pst.datasvc.site
+apkapi-jks.datasvc.site
 
 # from *.it.com
 11uu.it.com
@@ -1959,6 +1961,7 @@ apkapi-jws.rebrandy.site
 apkapi-rk8.rebrandy.site
 apkapi-lon.rebrandy.site
 apkapi-cmi.rebrandy.site
+apkapi-md3.rebrandy.site
 
 #from ltn7.com # subdom : 
 promosi.ltn7.com 

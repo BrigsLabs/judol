@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 33298
+# Number of entries: 33299
 #
 #
 #
@@ -2526,6 +2526,7 @@ ampu4c.playalbaslot.one
 ampumum.store
 ampvalidgg.com
 ampvegas.one
+ampverse.net
 ampvviptopanwin.com
 ampz-page.site
 ampzaki.online # landing
