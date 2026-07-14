@@ -12,6 +12,7 @@ imagedelivery.net # whitelist
 medium.com # whitelist
 
 # from judol_domains_wildcard
+a2fcbecc7b7634c9484099978824a668-d99627c9b1d1dedd.elb.us-east-1.amazonaws.com
 adobsi.id
 alb-m3m9qq73l36xxs2bso.eu-central-1.alb.aliyuncsslbintl.com
 amp-account.itunes.apple.com
@@ -43,6 +44,7 @@ e28622.api7.akamaiedge.net
 e28622.api9.akamaiedge.net
 e28622.b.akamaiedge.net
 gecko16-normal-alisg.tiktokv.com
+groups.social.ea.com
 hotapi16-normal-alisg.tiktokv.com
 libra16-normal-useast5.tiktokv.us
 libra32-normal-alisg.tiktokv.com
@@ -62,6 +64,7 @@ storeedgefd.dsx.mp.microsoft.com
 storeedgefd.xbetservices.akadns.net
 tms2.palmplaystore.com
 vcs-sg.tiktokv.com
+webcast16-normal-c-alisg.tiktokv.com
 webcast16-ws-alisg.tiktokv.com
 widget-sg.tiktokv.com
 
