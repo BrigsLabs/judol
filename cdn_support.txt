@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2616
+# Number of entries: 2620
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -357,6 +357,7 @@ diqv0ct81hsy8.cloudfront.net
 djbf5ang3nrpv.cloudfront.net
 djctha7hqvwmk.cloudfront.net
 djgroup-dev.com # subdom : s3.djgroup-dev.com
+dk4jo88env94i.cloudfront.net
 dkexc23x457ak.cloudfront.net
 dkzd8du6wd13r.cloudfront.net
 dl.erlangyao.com
@@ -407,6 +408,7 @@ entry.nuanmokeji.com
 eq37fu2xth.com
 esports.heracles.nl # malicious backlink
 estate77media.com
+evolution.com
 exp.boobsbymassage.com
 f88518a.gogoslam.com
 fastqrisbb.com
@@ -726,6 +728,7 @@ netlify.app # all subdom list in dead_judol_domains.txt
 nexiangaming.com
 nextgen.sg-sin1.upcloudobjects.com
 nghia-architect.com # scam fake
+niflheim.sgp1.cdn.digitaloceanspaces.com
 nobhilltower.com # hacked web : https://www.nobhilltower.com/slot-gacor-rajapanen/
 northdeodar.com # hacked web : https://northdeodar.com/tours-treks-and-adventure-activities-in-and-around-kullu-valley
 notif.trycodes.cloud
@@ -779,6 +782,7 @@ pict1.sgp1.cdn.digitaloceanspaces.com
 pictday.org
 pictstage.digital
 pixel.genzimg.io
+pixelprismstudio.com # subdom : assets.pixelprismstudio.com
 platforms3-yzw03img-0ejj3sb721.s3.ap-northeast-1.amazonaws.com
 playstarevent.com
 playtech-event.cross-ss.com 

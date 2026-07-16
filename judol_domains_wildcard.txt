@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1891
+# Number of entries: 1892
 # 
 # 
 # 
@@ -363,6 +363,7 @@
 *gawangtoto*
 *gayo[0-9]*
 *gbo[0-9]*
+*gbosky*
 *gc57*
 *gelora[0-9]*
 *gen69*

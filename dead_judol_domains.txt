@@ -781,6 +781,7 @@ wika.pages.dev
 winjitu-rtp-slot-gacor.pages.dev
 winrtp88.pages.dev
 wow991jimdo.pages.dev
+wowhoki-com.pages.dev
 writingiscakepapua.pages.dev
 ws4d-wilsonvillepainters-cuan.pages.dev
 wwokwincom.pages.dev
@@ -1008,6 +1009,7 @@ esdice.it.com
 event.dewahoki88.it.com
 examove.it.com
 falkon4d.it.com
+fals4d.it.com
 ff96kh.it.com
 fun88asia.it.com
 funapril.it.com
@@ -1150,6 +1152,7 @@ tarungbebas.it.com
 tenarjitu.it.com
 tentaco.it.com
 tokeslot88.it.com
+tomslot88.it.com
 toto7788.it.com
 tovelmanufacturingequipment.it.com
 tupaiwinwin.it.com
@@ -1424,6 +1427,7 @@ rtp87.polalexis.pro
 rtp86.polalexis.pro 
 rtp41.polalexis.pro
 rtp130.polalexis.pro
+rtp131.polalexis.pro
 
 #from posototo.club # subdom : 
 lhqt.posototo.club 
@@ -1828,6 +1832,7 @@ rtphanabi88go8.netlify.app
 rusa-ayo-aku-dimarahin-nih.netlify.app
 toto188-slot-casino.netlify.app
 1ladangqq.netlify.app
+fals4d-services.netlify.app
 
 #from airgunungmyoboku.com # subdom : 
 airsuci.airgunungmyoboku.com 
@@ -2161,6 +2166,12 @@ pilartoto.dataklmsad903.site
 prediksi60.angka-alexis.pro 
 prediksi58.angka-alexis.pro 
 prediksi98.angka-alexis.pro
+prediksi99.angka-alexis.pro
+
+#from jpalexis.pro # subdom : 
+bukti35.jpalexis.pro 
+bukti32.jpalexis.pro 
+bukti64.jpalexis.pro
 
 #from complainalexis.com # subdom : 
 report4.complainalexis.com 
