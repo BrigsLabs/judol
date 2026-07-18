@@ -1078,6 +1078,7 @@ mm88.it.com
 mobile.batamhoki.it.com
 mposlotonline.it.com
 mulia77keren.it.com
+n188.it.com
 n888.it.com
 naga5000.it.com
 new.pahlawanpembukatutupbotol.it.com
@@ -1102,6 +1103,7 @@ penulis4d.it.com
 perkasa-jitu.it.com
 pesona805.it.com
 petir-jitu.it.com
+pg99.it.com
 pintutogelone.it.com
 pohon169.it.com
 pola7.bintang5toto-rtp.it.com
@@ -1115,6 +1117,7 @@ rajajagolink.it.com
 rajajagotop.it.com
 rajangamen.it.com
 rajangamensuper.it.com
+rezllive.it.com
 rtp.arenadagelan4d.it.com
 rtp546.bgkt458.it.com
 rtpislot99.it.com
@@ -1171,17 +1174,19 @@ akai123.de.com
 axio.de.com
 exago.de.com
 fba.de.com
+golfe.de.com
 goverment.de.com
 hagel-shop.de.com
 hb88.de.com
 mare.de.com
+official.xin77.de.com
 ojo.de.com
+only.de.com
 qq88.de.com
 rajabandot15.de.com
 thabett.de.com
 tws.de.com
 xin77.de.com 
-official.xin77.de.com
 
 # from cdn *.gifyu.com
 s10.gifyu.com
@@ -2155,12 +2160,14 @@ rtp.krtnbet.site
 
 #from dataklmsad902.site # subdom : 
 kaya787.dataklmsad902.site 
-onelive.dataklmsad902.site 
+onelive.dataklmsad902.site
 pilartoto.dataklmsad902.site
+rajakadal.dataklmsad902.site
 
 #from dataklmsad903.site # subdom : 
 kaya787.dataklmsad903.site 
 pilartoto.dataklmsad903.site
+rajakadal.dataklmsad903.site
 
 #from angka-alexis.pro # subdom : 
 prediksi60.angka-alexis.pro 
@@ -2204,3 +2211,8 @@ rtp5.gtrgacor.xyz
 game003.gwen189a.site 
 app.gwen189a.store 
 rtp.gwen189a.site
+
+#from qqkwbase.net # subdom : 
+config.qqkwbase.net 
+setprod.qqkwbase.net 
+res.qqkwbase.net

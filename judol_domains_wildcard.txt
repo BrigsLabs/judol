@@ -6,8 +6,8 @@
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
 # Number of entries: 1892
 # 
-# 
-# 
+#*asialive[0-9]*
+#*lglive[0-9]*
 *11wbet*
 *168gg*
 *1playau*
@@ -92,7 +92,6 @@
 *asia[0-9]*
 *asiabet*
 *asiajp[0-9]*
-*asialive[0-9]*
 *asianslot[0-9]*
 *astra[0-9]*
 *asupantoto*
@@ -538,6 +537,7 @@
 *jpyuk[0-9]*
 *jrgn69*
 *juara[0-9]*
+*juaraslot*
 *juaraspin*
 *judi*
 *judol*
@@ -658,7 +658,6 @@
 *lentera4d*
 *leo[0-9]*
 *lexus[0-9]*
-*lglive[0-9]*
 *lgopro[0-9]*
 *libra[0-9]*
 *liga[0-9]*
@@ -672,6 +671,7 @@
 *link-*
 *link4d*
 *lisatoto*
+*live[0-9]*
 *livedraw*
 *loginsamudera*
 *london[0-9]*
