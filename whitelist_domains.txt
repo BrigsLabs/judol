@@ -46,6 +46,7 @@ e28622.b.akamaiedge.net
 gecko16-normal-alisg.tiktokv.com
 groups.social.ea.com
 hotapi16-normal-alisg.tiktokv.com
+kikocosmetics.com
 libra16-normal-useast5.tiktokv.us
 libra32-normal-alisg.tiktokv.com
 mcs-sg.tiktokv.com
@@ -92,6 +93,8 @@ s3-tradingview.b-cdn.net
 s3.tradingview.com
 tradingview-static.b-cdn.net
 static.tradingview.com
+images.dmca.com
+dmca-images.b-cdn.net
 
 # from https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/spam-tlds-allow-onlydomains.txt
 nation.africa

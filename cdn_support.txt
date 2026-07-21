@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2620
+# Number of entries: 2657
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -15,6 +15,7 @@
 18ea70d2d9a945cfb97d818ba71817dc.pacloudflare.com
 21assetmanagement.com
 2354db541df20c20.edgeone.dev.pages.dnsoe6.com
+24dgame.com # subdom : message.png777.24dgame.com
 2acdb9b66bb242618283aadb21ede6c1.pacloudflare.com
 2fr4me-my4web.site
 3400efa8-fd32-44eb-b743-12ffd5b0fb26.seals.dlagglobal.com
@@ -22,12 +23,12 @@
 4n76bph80j.gbgfstie.biz
 66555.xyz
 67864891qp14api.238968.com
+6b05bda.gogoslam.com
 777tech.cloud
 77group.sgp1.cdn.digitaloceanspaces.com
 7c7b02d4bc3d48dd81a7c7738d4de1ab.pacloudflare.com
 818webhost.com
 824c2um0kf1l9kxb.aliyunddos0015.com
-8327771864.kggamingapi.com
 87h0gp2tfu.ipkdwipf.net
 888rpaa.com
 888rpab.com
@@ -36,6 +37,7 @@
 88ksr.wordpress.com
 8r0h54-553-ppp.oss-accelerate.aliyuncs.com
 a1211.dscr.akamai.net
+a1400.dscb.akamai.net
 a1570.dscb.akamai.net
 a5cdn.com
 ab.da31889.com
@@ -91,7 +93,9 @@ api-royal-live-1-default-rtdb.firebaseio.com
 api-royal-ns2-1-default-rtdb.firebaseio.com
 api-seo-1354997367.ap-southeast-1.elb.amazonaws.com
 api-sports.io # may create false positive
+api.7skytech.top
 api.aqzbouatv2.com
+api.cdnsport.xyz
 api.cloud.mime.services
 api.freshapp.top
 api.noproky.net
@@ -186,6 +190,7 @@ blazzpay-b7pktst.gamma.site
 blazzpay.com
 bloonk.com
 bluecreekdenver.com # hacked web : bluecreekdenver.com/contact
+bmw777.sgp1.cdn.digitaloceanspaces.com
 bo.gacha.business
 bonanzastatic.com # subdom : images-bucket.bonanzastatic.com
 buktiedctoto.sgp1.digitaloceanspaces.com
@@ -200,6 +205,7 @@ cd537.wordpress.com
 cdn-content.ampproject.org
 cdn-host.proxy188.com
 cdn-proxy.globalcontentcloud.com
+cdn-ptthoki.sgp1.cdn.digitaloceanspaces.com
 cdn-seamless.m40c7v9i.com
 cdn-services.dev
 cdn.ably.com
@@ -209,7 +215,9 @@ cdn.asstlnk.com
 cdn.embed.ly
 cdn.globalcontentcloud.com
 cdn.hub88.io
+cdn.imgchest.com
 cdn.imgpile.com
+cdn.livechat-files.com
 cdn.mixlink.top
 cdn.passwordless.dev
 cdn.pn.tc
@@ -265,6 +273,7 @@ d145yfon394ak6.cloudfront.net
 d17if134pyeemt.cloudfront.net
 d1ayxb9ooonjts.cloudfront.net
 d1bnhxh1olb98c.cloudfront.net
+d1cq301dpr7fww.cloudfront.net
 d1j3dnvd81uy9o.cloudfront.net
 d1lrs95zs5ox0o.cloudfront.net
 d1mxxk684qj8r3.cloudfront.net
@@ -276,9 +285,11 @@ d24m60q82dzu8y.cloudfront.net
 d2543yds26m4tl.cloudfront.net
 d28h3jm4r3crf8.cloudfront.net
 d290ny10omyv12.cloudfront.net
+d2dgys6tg64hrs.cloudfront.net
 d2f3dnusg0rbp7.cloudfront.net
 d2fdcuev2flsum.cloudfront.net
 d2g2ks6h98pvqo.cloudfront.net
+d2gwr1f4p1smxg.cloudfront.net
 d2lcoivv20vty7.cloudfront.net
 d2m14m4no0dk43.cloudfront.net
 d2mpatx37cqexb.cloudfront.net
@@ -294,6 +305,7 @@ d2vl8r1wf4ayem.cloudfront.net
 d2ww6n6zilcrhv.cloudfront.net
 d30uvy2l9rv94q.cloudfront.net
 d30xzloyu3qfm5.cloudfront.net
+d32j6o160xr4gf.cloudfront.net
 d32jers.com
 d33egg70nrp50s.cloudfront.net
 d346e5v8wxznq7.cloudfront.net
@@ -331,6 +343,7 @@ datasvc.xyz # all subdom list in dead_judol_domains.txt
 db351sg6odjv.cloudfront.net
 dbb7b81tozwbs.cloudfront.net
 dbxmjjzl5pc1g.cloudfront.net
+dcdzg16lgrz6n.cloudfront.net
 dd8p0622bwh41.cloudfront.net
 de.com # all subdom list in dead_judol_domains.txt
 demielpe.sgp1.digitaloceanspaces.com
@@ -370,11 +383,13 @@ dmwl0ca1bvnm.cloudfront.net
 dnserv.net
 domain7264.wordpress.com
 dominateapp.com
+dotcfod.click # subdom : sfb.dotcfod.click
 downinfo.com
 download.gg-global-cdn.com # apk
 downloads.blissroms.org # malicious
 dpw3m2v9dxyrl.cloudfront.net
 dr71dvn7kc6me.cloudfront.net
+drift-pay.com # subdom : dashboard.drift-pay.com
 drivehud.com
 dsbmedia.s3.ap-southeast-1.amazonaws.com
 dsuown9evwz4y.cloudfront.net
@@ -387,6 +402,7 @@ dxqm4i1swgb5o.cloudfront.net
 dz5xbhxy6sjp4.cloudfront.net
 dztwieyphe62d.cloudfront.net
 e2915.dscx.akamaiedge.net
+e35058.api14.akamaiedge.net
 e35058.api15.akamaiedge.net
 e39296.b.akamaiedge.net
 e39296.dscb.akamaiedge.net # may create false positive
@@ -399,6 +415,7 @@ egame.pkvn.mobi
 eghsuc4vt3.execute-api.us-east-1.amazonaws.com
 egt-digital.com
 eijkman.go.id # malicious backlink
+elite-lb-1146767745.ap-southeast-1.elb.amazonaws.com
 enak.la
 enderocean.com
 endofamerica.com.cdn.cloudflare.net
@@ -512,6 +529,7 @@ images.linkcdn.cloud
 images.mixlink.top
 images.squarespace-cdn.com
 images.wlsf.link
+images321.com
 images4.imagebam.com
 imageshare.click
 imagestaticcontent.com
@@ -519,6 +537,7 @@ imagestechnics.com
 imageupload.online
 imagme.com
 img-cdngames.s3.amazonaws.com 
+img-journal.link
 img.atomgaming88images.com
 img.cupr.us
 img.gb18030.com
@@ -547,12 +566,14 @@ imgotp.thanatosmaero.com
 imgshare.iuf-cfl.cloud
 imgshare.porta-assist.com
 imgstack.net
+imgstore.cloud
 imgstore.io
 imgstore.org
 imgtop.io
 imgtrust.top
 imgumk.online
 imgzm.com
+imkefu.cfd # subdom : chat.imkefu.cfd
 immortalseo.1b2u.asia
 incap-dw.ipcapsula.com
 indomita.net.cdn.cloudflare.net
@@ -572,9 +593,12 @@ it.com # all subdom *.it.com move to dead_judol_domains.txt
 j8t62rp7.com # subdom : g4-ms-asia01.j8t62rp7.com g4-ta-asia01.j8t62rp7.com
 j9hdbjg.com # many subdom
 jagoangadget.com # scam # seo # landing
+jambudangs.xyz
 jamepix.com
 jandamuda.cfd
 jasj.us
+jbgaming.net # subdom : hidden-area.jbgaming.net # payment
+jbpush.com # subdom : ks7.jbpush.com
 jefcmhs3.gaofangz.com
 jet-77.sgp1.cdn.digitaloceanspaces.com
 jivo.chat # may create false positive
@@ -603,9 +627,11 @@ kenzototo.nyc3.cdn.digitaloceanspaces.com
 keodinh.net
 kerenbanget7.wordpress.com
 kesembilan.online
+kggamingapi.com # subdom : 8722204275.kggamingapi.com 8327771864.kggamingapi.com
 khusus.nyc3.cdn.digitaloceanspaces.com
 kick.com
 kokobread.com
+kontak-kita.id # scam
 konversiart.top # seo
 kumpulanfile.sgp1.digitaloceanspaces.com
 l0bs-tterr.k0llpst3r.net
@@ -634,6 +660,7 @@ livechat.design
 livechat88.chat
 livehelpnow.net # might be false positif
 livenobar.org
+liveplugins.com # subdom : gls.liveplugins.com
 lkdfvx-pub-aws-sss.nxtengine.id
 lkdfvx-pub-aws-sss.sgp1.digitaloceanspaces.com
 loader-1.duniadigital.site
@@ -641,11 +668,12 @@ lobbygambar.com
 lobbyplay.com
 localcloudhost.biz
 lordsexch.info
-lovable.app # subdom : penilaianmauslot.lovable.app penilaianceriabet.lovable.app
+lovable.app # all subdom list in dead_judol_domains.txt
 love-kyoto.net # hacked web
 lp4d.nyc3.cdn.digitaloceanspaces.com
 lpip209.sgp1.cdn.digitaloceanspaces.com
 lpnyabatak.sgp1.digitaloceanspaces.com
+luang.in # subdom : apk.luang.in
 lucidfood.com # hacked web
 lumpiagoreng.xyz
 lxapk.s3.ap-southeast-1.amazonaws.com
@@ -653,6 +681,7 @@ m-g.io
 m.happypenguin99.com.whecloud.com
 m.ozzogame.com
 m1cdn.com
+mahasuhu.sgp1.digitaloceanspaces.com
 malsup.github.io
 manadobisnis.com # backlink
 mantratt.sgp1.cdn.digitaloceanspaces.com
@@ -682,6 +711,7 @@ miegacoan.sirv.com
 mikatoto.sgp1.digitaloceanspaces.com
 militia-watchdog.org
 mjitincorp.club
+mkp-prod.nyc3.cdn.digitaloceanspaces.com
 mlp3vptao30s.i.optimole.com
 mm3wrcjtz2ctcker.sgp1.cdn.digitaloceanspaces.com
 mobile-api.5k2an3or4q209.xyz
@@ -748,6 +778,7 @@ onix-live-5-default-rtdb.firebaseio.com
 onokabeh.id # malicous backlink # probe scam
 orangejelly.info
 ota-svr.lopjprd62sxa.com
+ov-1d104299d2a447049cdc73700c9309f7.ecs.us-west-2.on.aws
 oxplay.api-oplbo.com
 ozzogame.com
 p3i.unimen.ac.id # hacked
@@ -789,6 +820,7 @@ playtech-event.cross-ss.com
 plcl.me
 pmk.ac.id # scam
 png999.com
+png999.com # subdom : png-res.png999.com
 pngusdt.com
 pnimg.asgard-bifrost.com
 pokerace-bb5be.firebaseio.com
@@ -807,6 +839,7 @@ prod-api-ug6v2.ns1-prototype.org
 projectcarsgame.com # hacked web
 projectgalery.xyz
 projectkzgroup.com # suspicious
+prosportslive.net # subdom : ws12.prosportslive.net
 protecer.org # hacked web
 pub-54c35cbb1f8a429096797defb3a61ef3.r2.dev
 pub-bb78216b6f0b40a5882d1473c51d7abd.r2.dev
@@ -818,7 +851,7 @@ pxuoou8.x.incapdns.net
 qaoncloud.com # suspicious
 qdalplaylive.com
 qoopic.co
-qqkwbase.net # subdom : config.qqkwbase.net setprod.qqkwbase.net
+qqkwbase.net # subdom : config.qqkwbase.net setprod.qqkwbase.net res.qqkwbase.net # apk
 qrfy.io # may create false positive
 qriselite.com
 qrishoki.com # subdom : launcher.qrishoki.com
@@ -845,7 +878,6 @@ regalez-vous.farm
 renaimall.com
 res-odx.op-mobile.opera.com
 res-odx.op-mobile.opera.com.cdn.cloudflare.net
-res.qqkwbase.net # apk
 resistancemanual.org # backlink
 ress.sgp1.cdn.digitaloceanspaces.com
 revistamqr.com
@@ -855,9 +887,9 @@ robootassets.com # subdom : cdn.robootassets.com
 robotaset.com # all subdom list in dead_judol_domains.txt
 robotassets.com
 robotcheap.com
+rocketbyte.org # subdom : cdn.rocketbyte.org
 rog-toto.tor1.cdn.digitaloceanspaces.com
 roket1.sgp1.cdn.digitaloceanspaces.com
-ropuntada.com # subdom : admin-enggine.ropuntada.com be-qris-socket-redis.ropuntada.com
 royaleapi.sealintg.net
 rp888aabb.com
 rtp.sgp1.cdn.digitaloceanspaces.com
@@ -894,6 +926,7 @@ senyumterus.xyz
 seo268.vip
 seoaceng.xyz # suspicious
 seobangjago.sgp1.cdn.digitaloceanspaces.com
+seoclerk.com
 serubet.s3.ap-southeast-2.amazonaws.com
 serunyaberbag.com
 server-image.sgp1.cdn.digitaloceanspaces.com
@@ -905,6 +938,7 @@ sgacdn.azureedge.net
 sgalabel.blob.core.windows.net
 sgw.stape.au
 shadowhunter.best # subdom : wears.shadowhunter.best
+sharemedsplash.xyz
 shareservice.net
 shishkarestaurant.com # hacked web
 shj918.com
@@ -951,8 +985,10 @@ static.aptaptkaisjds.com
 static.augipt.com
 static.cuanterus.net
 static.geevisit.com
+static.goolec.com # cdn
 static.gwvkyk.com
 static.klaviyo.com
+static.laz-cdn.com
 static.marsul.xyz
 static.nukeasset.com
 static.sameorigin.net
@@ -1089,6 +1125,7 @@ yellowbirdcoffeehouse.com # hacked web
 yogaretreatguatemala.com # hacked web
 yrsbali.org # cloaking 
 yuk-wd.com
+z3r7bfer5vcq.sgalivechat.com
 zakw1rog.drhk.loveota.com
 zakw1rog.dshk.loveota.com
 zalopay.vn

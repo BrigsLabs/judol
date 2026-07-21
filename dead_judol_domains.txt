@@ -53,6 +53,7 @@ alximg.b-cdn.net
 amdone.b-cdn.net
 amp-html.b-cdn.net
 amp-oct.b-cdn.net
+angkaku.b-cdn.net
 api-3m2b.seamlesss-hptech.com
 api-3m4.seamlesss-hptech.com
 api-3mplay2-ns2-v2.seamless-hptech.com
@@ -82,6 +83,7 @@ api-skygaming2.seamlesss-hptech.com
 api3m.seamlesss-hptech.com
 apiace-v2.seamlesss-hptech.com
 apionix3b.seamlesss-hptech.com
+asset-jko.b-cdn.net
 bandotwd.b-cdn.net
 bang-jago.b-cdn.net
 batamsakti.b-cdn.net
@@ -95,8 +97,10 @@ cellceutix.b-cdn.net
 cindo.b-cdn.net
 dagelan4d-publisher.b-cdn.net
 dan-jika.b-cdn.net
+dd365daebd43dc6f0255.b-cdn.net
 deepfreeze.b-cdn.net
 dexnet.b-cdn.net
+digital-planet.b-cdn.net
 dikembalikan-sendiri-oleh-google.b-cdn.net
 dkwl.b-cdn.net
 dmca-images.b-cdn.net
@@ -120,6 +124,7 @@ hmmm-hmmm.b-cdn.net
 hp-slot-1.b-cdn.net
 hss303.b-cdn.net
 humboldt101.b-cdn.net
+hypersonictv.b-cdn.net
 idb77.b-cdn.net
 imagebank.b-cdn.net
 img-899.b-cdn.net
@@ -135,6 +140,7 @@ kangen-lagi.b-cdn.net
 kaos-bangkit-lagi.b-cdn.net
 kaos-lai-liaw.b-cdn.net
 kaos-terbang.b-cdn.net
+kartu.b-cdn.net
 kaya-dek-biar-ga-ditinggal-nikah.b-cdn.net
 kepanasan-yah-bang.b-cdn.net
 kgames.b-cdn.net
@@ -187,6 +193,7 @@ rtpbiola-v1.b-cdn.net
 rtpcici4d12.b-cdn.net
 rupiah222.b-cdn.net
 sab-oke.b-cdn.net
+satuan4d-mo.b-cdn.net
 sayangkurtpnyani.b-cdn.net
 seo-ltl.b-cdn.net
 seo-prime.b-cdn.net
@@ -197,6 +204,7 @@ situs-nama-baik-slot-gacor.b-cdn.net
 skyx.b-cdn.net
 slots777.b-cdn.net
 sto-rage.b-cdn.net
+subur.b-cdn.net
 sukses-detected.b-cdn.net
 sweetimage.b-cdn.net
 terbang-dulu-lahhh.b-cdn.net
@@ -227,6 +235,7 @@ apkapi-pd7.bitly.sbs
 apkapi-jns.bitly.sbs
 
 # from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
+010fda53-f68d.pages.dev
 02dd4d78.dewagacor138rtp.pages.dev
 23win-nohu.pages.dev
 3dhoki-boyercellars.pages.dev
@@ -245,6 +254,8 @@ agentotoplay.pages.dev
 akses-cepat-pelangi99.pages.dev
 akses-pola900.pages.dev
 alakadarnya.pages.dev
+alexisrift.pages.dev
+alexisvpn.pages.dev
 all-images-game.pages.dev
 alternativ-musimtogel-etactics-org.pages.dev
 americanlightworks.pages.dev
@@ -279,14 +290,18 @@ amppohon.pages.dev
 amprjs138login.pages.dev
 amprsma.pages.dev
 ampstar.pages.dev
+ampvalid1.pages.dev
 anoboygroup.pages.dev
 anoboytoto-gacor.pages.dev
 anoboytoto.pages.dev
+ans-3e7.pages.dev
 antivirus88.pages.dev
 api66-jackpot.pages.dev
+aquinasshs.pages.dev
 arcanism.pages.dev
 arena-gendut188.pages.dev
 arya88slot.pages.dev
+ascenthealthclinic.pages.dev
 assets998.pages.dev
 assetsnatal.pages.dev
 asuusg-safety.pages.dev
@@ -338,8 +353,10 @@ carbon-source.pages.dev
 catleblanc.pages.dev
 cdn-pelangi.pages.dev
 cdn-robot-assets.pages.dev
+cdnjs-cloudflare.pages.dev
 cekrtpbokaptoto.pages.dev
 cerofilas.pages.dev
+cheatslot-pakhoki.pages.dev
 chi-cham-si.pages.dev
 choubochoubo-bad.pages.dev
 claude-4u.pages.dev
@@ -369,6 +386,7 @@ dinos-baltimore.pages.dev
 disinianesong.pages.dev
 dor-aah.pages.dev
 dora77-rtp.pages.dev
+drinkmoshineofc.pages.dev
 drpatrickweightloss.pages.dev
 dunia-rtp.pages.dev
 elsa78.pages.dev
@@ -379,6 +397,7 @@ espaciocreativoelche.pages.dev
 ethiobusiness.pages.dev
 euphoria-percentage.pages.dev
 ex-seo-gembira-ria.pages.dev
+exa-artificialgreentrees.pages.dev
 excelacademychristiandc-book-contacts.pages.dev
 exotica.pages.dev
 exshin.pages.dev
@@ -394,6 +413,7 @@ floatbutton.pages.dev
 formula-tmu.pages.dev
 fullkeerestaurants.pages.dev
 fungacore.pages.dev
+gakberesberes-ampun.pages.dev
 gamatogel.pages.dev
 ganas33-salon.pages.dev
 garuda999.pages.dev
@@ -406,6 +426,7 @@ gk88a.pages.dev
 goldenoneventurees.pages.dev
 grd-super.pages.dev
 gudang138ofc.pages.dev
+gx-1oz.pages.dev
 haikai.pages.dev
 hantam-rejeki-kamu.pages.dev
 harta-simpati.pages.dev
@@ -426,8 +447,10 @@ ibu4d-rtp.pages.dev
 icccibfim.pages.dev
 idealis-core.pages.dev
 idw168rtpgame.pages.dev
+ilmudebus.pages.dev
 imagesfyp.pages.dev
 imagesku.pages.dev
+imagesword.pages.dev
 img-mega.pages.dev
 immortal-hunters.pages.dev
 inchofcreativity.pages.dev
@@ -480,6 +503,7 @@ lc88.pages.dev
 lead-wichert-juara.pages.dev
 learn-stalms-rajazeus.pages.dev
 ler-leicesterstudent.pages.dev
+link-mix-parlay-provider-sbobet.pages.dev
 link-slot-gacor-11-kabayan55.pages.dev
 linkgresiktotoaman.pages.dev
 linkinfortpcsowin.pages.dev
@@ -510,6 +534,7 @@ malangtogel.pages.dev
 mantep-ormas188.pages.dev
 markas-gendut188.pages.dev
 marok-amp.pages.dev
+masak-gk-naik-lagi.pages.dev
 mashoki.pages.dev
 masih-pemula-saya-ptg.pages.dev
 mastronetlpo88.pages.dev
@@ -520,6 +545,7 @@ maycokhi.pages.dev
 mclarenvale.pages.dev
 mcr-goes-to-indo.pages.dev
 mdgolden.pages.dev
+media-share3d.pages.dev
 medit899.pages.dev
 megakitaplik.pages.dev
 meme4d-rtpslotgacor.pages.dev
@@ -669,6 +695,7 @@ rtpmikitotonewone.pages.dev
 rtpms8.pages.dev
 rtppropintuplay.pages.dev
 rtpptasligacor.pages.dev
+rtps88ak.pages.dev
 rtpscmantul.pages.dev
 rtpsihijaunyai.pages.dev
 rtpslotgacormedali.pages.dev
@@ -734,6 +761,7 @@ supalonely.pages.dev
 super-hadess.pages.dev
 surgadewa188.pages.dev
 svobodnoe-propovedi.pages.dev
+t4d-kampunginggrisbekasi.pages.dev
 taiappgk88.pages.dev
 takipcintr.pages.dev
 talon-kikir.pages.dev
@@ -743,6 +771,7 @@ target4duhuy.pages.dev
 teenchallengeuc-kodack.pages.dev
 teeviso.pages.dev
 telegrambot-998.pages.dev
+televisilin.pages.dev
 tertuliafest.pages.dev
 testmyquizccl88.pages.dev
 thecellarwinebarkitchen-qwer.pages.dev
@@ -795,6 +824,7 @@ yesmovies-4uj.pages.dev
 zoom-d89.pages.dev
 
 # from cdn : *.r2.dev
+pub-01c7a4baf4b743cbb2969e877d4146a2.r2.dev
 pub-01daae9cfed641489a104989d6c91115.r2.dev
 pub-030bf10fe1a0403cb36d73c3e2e2b903.r2.dev
 pub-06f6a1761e7e47edaa63a07446d5dda9.r2.dev
@@ -833,6 +863,7 @@ pub-56fddca6d9364d3daea6dda86f9cb226.r2.dev
 pub-5790736c854842c889298b4f6a8691ea.r2.dev
 pub-5a9db6e770a34346af628507f632d126.r2.dev
 pub-5aefe5b9063e4c45869d74a6562c0a9b.r2.dev
+pub-5b80e90583624687810a6c4a30051903.r2.dev
 pub-5baf076623b641729bf27ad88e7a26f9.r2.dev
 pub-5cc63bd2696f43b9884a881addfd153a.r2.dev
 pub-5f522cdb68e746c9b5a9ef78a71b91cb.r2.dev
@@ -841,6 +872,7 @@ pub-609ed79ad73a45f6a3f93fd77dbfc4a6.r2.dev
 pub-61adfb4568d94aaea721503fa0df9f5a.r2.dev
 pub-63ef8a83684343d788bc4e2196ba7dbe.r2.dev
 pub-6667608f0e5a467697ee61610950a063.r2.dev
+pub-6956b2f01e7a4888bb56dcdf7131466b.r2.dev
 pub-6de05fd8a9f5478ebaaf615c1e697720.r2.dev
 pub-6ff7e30e22464f96947ce2aa0e3171db.r2.dev
 pub-74364a6978354ed487f58b7b61e7eabc.r2.dev
@@ -899,6 +931,7 @@ pub-e7779c29cf914271befd85a90d4dc9a2.r2.dev
 pub-eb34239f2ca34419b87aeede03f4d192.r2.dev
 pub-eb56614beba6415c8ac276bfd0437e01.r2.dev
 pub-eca00f27c0544dbfa967993f427253f6.r2.dev
+pub-ecdbed90f5c143c7bfac800f5e6e1c5b.r2.dev
 pub-ee8bc42fcaa94552af960b71fb20e6be.r2.dev
 pub-ef90194c58694130bb7a03b0e7096ef5.r2.dev
 pub-f02d5c5aa29e4d489f6c0a961f787e8b.r2.dev
@@ -935,6 +968,7 @@ apkapi-ov2.datasvc.xyz
 apkapi-pjo.datasvc.xyz
 apkapi-s2k.datasvc.xyz
 apkapi-zed.datasvc.xyz
+apkapi-ts8.datasvc.xyz
 
 # from datasvc.site # subdom : 
 apkapi-kgb.datasvc.site 
@@ -1018,6 +1052,7 @@ gacoan99.it.com
 gajah138.it.com
 galxe.it.com
 gamatogel.it.com
+garuda138link.it.com
 garuda69situs.it.com
 gelasgacor.it.com
 gelastogelnyata.it.com
@@ -1040,6 +1075,7 @@ jogjatototogel.it.com
 jpdewa.gacor.it.com
 kabayan55.it.com
 kabayan55slot.it.com
+kaisar303.it.com
 kakaktogel.it.com
 kastoto.it.com
 kembarjitu.it.com
@@ -1061,6 +1097,7 @@ legendaqq.it.com
 link4.tenbrand.it.com
 linktoto88.it.com
 lisatoto.it.com
+livebolaid.it.com
 london69main.it.com
 m1toto-4d.it.com
 macau303.it.com
@@ -1120,6 +1157,7 @@ rajangamensuper.it.com
 rezllive.it.com
 rtp.arenadagelan4d.it.com
 rtp546.bgkt458.it.com
+rtpgacor-panentogel.it.com
 rtpislot99.it.com
 rtpmahongbet2.it.com
 rtpslothariini.it.com
@@ -1134,6 +1172,7 @@ sicepatjaya.it.com
 situs.bambuhk88.it.com
 situspkv.it.com
 slot-gacor-16.koko5000.it.com
+slot.simba69a.it.com
 slotgacorhariini.it.com
 smscity8.it.comspartan.it.com
 sriwijaya33.spinwheel33.it.com
@@ -1165,6 +1204,7 @@ vnloto1.it.com
 vua99.it.com
 vvip1.gampangmasuk.it.com
 wakbayartuntas.it.com
+warungtampan.it.com
 wow33.it.com
 yeu88.it.com
 yupitoto.it.com
@@ -1184,6 +1224,7 @@ ojo.de.com
 only.de.com
 qq88.de.com
 rajabandot15.de.com
+sate777.de.com
 thabett.de.com
 tws.de.com
 xin77.de.com 
@@ -1639,12 +1680,15 @@ web22.trikagenolx.info
 web20.trikagenolx.info 
 web12.trikagenolx.info
 web50.trikagenolx.info
+web63.trikagenolx.info
 
 #from winwinwin168.net # subdom : 
 924900.winwinwin168.net 
 lbstatic.winwinwin168.net 
 lotteryfoapi.winwinwin168.net 
 lstatic.winwinwin168.net
+app.winwinwin168.net
+lapp.winwinwin168.net
 
 #from zona-hijautoto.com # subdom : 
 rtp2.zona-hijautoto.com 
@@ -1693,12 +1737,14 @@ rx011.rajaxslotvip.store
 agen15.buktiagenolx.info 
 agen13.buktiagenolx.info 
 agen28.buktiagenolx.info
+agen32.buktiagenolx.info
 
 #from cdn_support workers.dev
 abc8page.public-f1c.workers.dev
 amanahtotogacor3.pastimemberi.workers.dev
 asia99.jawirr.workers.dev
 attopuma.sub-puma33.workers.dev
+billionaire-hoki.digital-oceaan.workers.dev
 buenagranja-tw88.rjpl-group.workers.dev
 burger-king-drink-menu.pacinozxzey.workers.dev
 cupolitics-bgasc-reviews-2023.slotqris.workers.dev
@@ -1764,6 +1810,8 @@ rtp.tw88a.site
 api.idnsp.net 
 global.idnsp.net 
 singaasia-image.idnsp.net
+padi8-image.idnsp.net
+socket.idnsp.net
 
 #from it-cg.group # subdom : 
 cdn-master.it-cg.group 
@@ -1775,6 +1823,7 @@ cdn.robotaset.com
 lb.robotaset.com 
 widget.robotaset.com 
 dwn.robotaset.com
+p4.robotaset.com
 
 #from tianxiadiyiapps.com # subdom : 
 fastspinapp.tianxiadiyiapps.com 
@@ -1818,11 +1867,15 @@ sky77.infini88.network
 kilat77.infini88.network
 
 #from netlify.app # subdom :
+1ladangqq.netlify.app
 catontavern.netlify.app
 dateherbase.netlify.app
 diatas-langit-ada-langit33.netlify.app
+exa303-listmusic.netlify.app
+fals4d-services.netlify.app
 gamepalinggacor.netlify.app
 getafealdia.netlify.app
+initogel-skip-this-step.netlify.app
 inquisitive-sherbet-acafee.netlify.app
 kilat77-gandalf.netlify.app
 kuningtotodanmasbc.netlify.app
@@ -1836,8 +1889,6 @@ rtp-pttgroup.netlify.app
 rtphanabi88go8.netlify.app
 rusa-ayo-aku-dimarahin-nih.netlify.app
 toto188-slot-casino.netlify.app
-1ladangqq.netlify.app
-fals4d-services.netlify.app
 
 #from airgunungmyoboku.com # subdom : 
 airsuci.airgunungmyoboku.com 
@@ -1972,6 +2023,7 @@ apkapi-rk8.rebrandy.site
 apkapi-lon.rebrandy.site
 apkapi-cmi.rebrandy.site
 apkapi-md3.rebrandy.site
+apkapi-odg.rebrandy.site
 
 #from ltn7.com # subdom : 
 promosi.ltn7.com 
@@ -2003,6 +2055,7 @@ gacor3.zona-emasputihtoto.com
 olx37.ramalan.info 
 olx60.ramalan.info 
 olx65.ramalan.info
+olx69.ramalan.info
 
 #from selalu-maxwin.com # subdom : 
 pola.selalu-maxwin.com 
@@ -2037,6 +2090,7 @@ kudajituuk.web.app
 kudajituus.web.app
 mvia88-bf140.web.app
 my-gun-f658d.web.app
+subur88-fd515.web.app
 superbandar-amp.web.app
 tombol-daftar.web.app
 
@@ -2163,11 +2217,15 @@ kaya787.dataklmsad902.site
 onelive.dataklmsad902.site
 pilartoto.dataklmsad902.site
 rajakadal.dataklmsad902.site
+pakhoki.dataklmsad902.site
+yokaislot.dataklmsad902.site
 
 #from dataklmsad903.site # subdom : 
 kaya787.dataklmsad903.site 
 pilartoto.dataklmsad903.site
 rajakadal.dataklmsad903.site
+pakhoki.dataklmsad903.site
+yokaislot.dataklmsad903.site
 
 #from angka-alexis.pro # subdom : 
 prediksi60.angka-alexis.pro 
@@ -2216,3 +2274,69 @@ rtp.gwen189a.site
 config.qqkwbase.net 
 setprod.qqkwbase.net 
 res.qqkwbase.net
+
+#from caracuan.info # subdom : 
+olx20.caracuan.info 
+olx21.caracuan.info 
+olx22.caracuan.info
+
+#from testimoni.info # subdom : 
+olx34.testimoni.info 
+olx35.testimoni.info 
+olx38.testimoni.info
+
+#from agenolxman.com # subdom : 
+great28.agenolxman.com 
+great16.agenolxman.com 
+great27.agenolxman.com
+
+#from ropuntada.com # subdom : 
+admin-enggine.ropuntada.com 
+be-qris-socket-redis.ropuntada.com 
+os-api.ropuntada.com
+
+#from lovable.app # subdom : 
+penilaianmauslot.lovable.app 
+penilaianceriabet.lovable.app 
+prediksibolamahjongjp88.lovable.app
+
+#from carisab.xyz # subdom : 
+4cbi84ak.carisab.xyz 
+cf89hggf.carisab.xyz 
+klwp2q6m.carisab.xyz
+
+#from carisabgroup.xyz # subdom : 
+72a6gdbj.carisabgroup.xyz 
+85ec419v.carisabgroup.xyz 
+tipiwv8m.carisabgroup.xyz
+
+#from luckyspinprd.com # subdom : 
+bentuk4d-1.luckyspinprd.com 
+presidenslot.luckyspinprd.com 
+satuan4d.luckyspinprd.com
+
+#from f5gz177v.com # subdom : 
+102bvuf.f5gz177v.com 
+g3xohmw.f5gz177v.com 
+ljoeyhqm.f5gz177v.com
+
+#from tokopadi8.pro # subdom : 
+jwkcr29592.tokopadi8.pro 
+nbhzb29592.tokopadi8.pro 
+oqtfy37819.tokopadi8.pro
+
+#from slotasiabetviral.com # subdom : 
+kcqxm10402.slotasiabetviral.com 
+ktpjo13445.slotasiabetviral.com 
+lqpba10132.slotasiabetviral.com
+
+#from pakhoki.live # subdom : 
+sikit.pakhoki.live 
+ruang.pakhoki.live 
+pasti.pakhoki.live 
+situs2.pakhoki.live
+
+#from punyaemon77.com # subdom : 
+asset.punyaemon77.com 
+cdn.punyaemon77.com 
+amp.punyaemon77.com
