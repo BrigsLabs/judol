@@ -95,6 +95,8 @@ cdndir.b-cdn.net
 cekrtpliveqqpkr.b-cdn.net
 cellceutix.b-cdn.net
 cindo.b-cdn.net
+comotto-img.b-cdn.net
+daftar-bola-liga335.b-cdn.net
 dagelan4d-publisher.b-cdn.net
 dan-jika.b-cdn.net
 dd365daebd43dc6f0255.b-cdn.net
@@ -109,6 +111,7 @@ dont-play-play-with-sese.b-cdn.net
 duha.b-cdn.net
 e-e-a-t.b-cdn.net
 enderocean-centre.b-cdn.net
+fast-to.b-cdn.net
 fastads.b-cdn.net
 feicim-naikyah.b-cdn.net
 fotogroup.b-cdn.net
@@ -117,7 +120,9 @@ gambar-lp.b-cdn.net
 garuda-force.b-cdn.net
 gemini-master.b-cdn.net
 godhatesfigs.b-cdn.net
+google-no1.b-cdn.net
 group2000.b-cdn.net
+guards.b-cdn.net
 hasonangan.b-cdn.net
 herwellnessstudio.b-cdn.net
 hmmm-hmmm.b-cdn.net
@@ -133,8 +138,10 @@ img-source.b-cdn.net
 imgkit.b-cdn.net
 indulgemaldivescom.b-cdn.net
 iya-dech.b-cdn.net
+jagoku.b-cdn.net
 jangan-report-bro.b-cdn.net
 janjitoto.b-cdn.net
+joko4d-official.b-cdn.net
 kaliiniuntukmusim.b-cdn.net
 kangen-lagi.b-cdn.net
 kaos-bangkit-lagi.b-cdn.net
@@ -168,9 +175,11 @@ olx-adl.b-cdn.net
 omt-gambar.b-cdn.net
 p-info-bang.b-cdn.net
 pak-de.b-cdn.net
+pandaseo.b-cdn.net
 panjatrank1.b-cdn.net
 pasti-khi-liau-nih.b-cdn.net
 percayalah.b-cdn.net
+planettalks.b-cdn.net
 ply288.b-cdn.net
 polamaryan.b-cdn.net
 poso.b-cdn.net
@@ -203,6 +212,7 @@ sip777.b-cdn.net
 situs-nama-baik-slot-gacor.b-cdn.net
 skyx.b-cdn.net
 slots777.b-cdn.net
+stgcloud.seamless-hptech.com
 sto-rage.b-cdn.net
 subur.b-cdn.net
 sukses-detected.b-cdn.net
@@ -226,6 +236,7 @@ wis77usorg.b-cdn.net
 wong87-css.b-cdn.net
 xidbsxnexus.b-cdn.net
 xt30sf.b-cdn.net
+yda4d-img.b-cdn.net
 
 #from bitly.sbs
 apkapi-rk8.bitly.sbs
@@ -237,6 +248,7 @@ apkapi-jns.bitly.sbs
 # from cdn_support.txt + new from crawler engine , all subdom *.pages.dev
 010fda53-f68d.pages.dev
 02dd4d78.dewagacor138rtp.pages.dev
+0c3056e1.rtp-an3ka4d.pages.dev
 23win-nohu.pages.dev
 3dhoki-boyercellars.pages.dev
 3dhoki-sahara.pages.dev
@@ -322,9 +334,11 @@ beko.pages.dev
 bekonang-valohoki.pages.dev
 bellekay.pages.dev
 bersyukur-its-a-key.pages.dev
+bertahan-seminggu.pages.dev
 berusaha-muncak.pages.dev
 beton138amp2-ecp.pages.dev
 bierviltjes.pages.dev
+big-mouth-an-geeke-amp.pages.dev
 bisaloginya.pages.dev
 bisamain.pages.dev
 blitzbaru.pages.dev
@@ -388,6 +402,7 @@ dor-aah.pages.dev
 dora77-rtp.pages.dev
 drinkmoshineofc.pages.dev
 drpatrickweightloss.pages.dev
+duasayapnaga.pages.dev
 dunia-rtp.pages.dev
 elsa78.pages.dev
 enough-is-enough.pages.dev
@@ -518,6 +533,7 @@ login-togel900.pages.dev
 logingacoremperor33.pages.dev
 london69-main.pages.dev
 lovya.pages.dev
+lumen-tol-tol.pages.dev
 lupa-nama-ingat-alexistogel.pages.dev
 luxentra-primeora.pages.dev
 m-angelicsignature-com.pages.dev
@@ -532,6 +548,7 @@ mai-ane-hin-brother.pages.dev
 mailthehorsee.pages.dev
 malangtogel.pages.dev
 mantep-ormas188.pages.dev
+manyao-remix.pages.dev
 markas-gendut188.pages.dev
 marok-amp.pages.dev
 masak-gk-naik-lagi.pages.dev
@@ -639,6 +656,7 @@ ramadhan-99.pages.dev
 rawontotortp.pages.dev
 raximhai.pages.dev
 rdjb.pages.dev
+rekaphk-theonesalon.pages.dev
 republiktoto-rtp.pages.dev
 resavskipostonosa.pages.dev
 resultsgp.pages.dev
@@ -704,11 +722,13 @@ rtpslottanggawin.pages.dev
 rtpsoju88-1.pages.dev
 rtptanggagacorjp.pages.dev
 rtptempo-bonanza.pages.dev
+rtputama4d2.pages.dev
 rtpwaktogelplay.pages.dev
 rtpwinb88.pages.dev
 rtpzb.pages.dev
 rumahduit-site.pages.dev
 s-mgo777.pages.dev
+s8com.pages.dev
 sakti-kalselprov.pages.dev
 sakti123-us.pages.dev
 sakurawin.linkofgod.pages.dev
@@ -733,6 +753,7 @@ showdownfree.pages.dev
 si-ladusing.pages.dev
 siak-sdy.pages.dev
 sieuthiquatanghi88.pages.dev
+sikat88-dan-amp-01.pages.dev
 silent-please.pages.dev
 simulator-slotdemo.pages.dev
 sisil4dop.pages.dev
@@ -795,6 +816,7 @@ univ-ikopin.pages.dev
 unlocksamsungonline.pages.dev
 unsur138.pages.dev
 upcristo.pages.dev
+utama-spawnner-rtp.pages.dev
 violet-top-one.pages.dev
 violetslot-go.pages.dev
 visabet88rtp.pages.dev
@@ -934,6 +956,7 @@ pub-eca00f27c0544dbfa967993f427253f6.r2.dev
 pub-ecdbed90f5c143c7bfac800f5e6e1c5b.r2.dev
 pub-ee8bc42fcaa94552af960b71fb20e6be.r2.dev
 pub-ef90194c58694130bb7a03b0e7096ef5.r2.dev
+pub-efe6febf0e6c4dcd8cdf3d0ad0f2b4c6.r2.dev # apk
 pub-f02d5c5aa29e4d489f6c0a961f787e8b.r2.dev
 pub-f27764a9ee4048ca9f905eb054d606f8.r2.dev
 pub-f60bd858425e49cb9949aa6ea0b94e86.r2.dev
@@ -958,6 +981,7 @@ nadi76lp.short.gy
 pelangi-link.short.gy
 sniperkill.short.gy 
 weblinked.short.gy
+sky688.short.gy/
 
 # from *.datasvc.xyz
 apkapi-3in.datasvc.xyz
@@ -969,6 +993,7 @@ apkapi-pjo.datasvc.xyz
 apkapi-s2k.datasvc.xyz
 apkapi-zed.datasvc.xyz
 apkapi-ts8.datasvc.xyz
+apkapi-mx8.datasvc.xyz
 
 # from datasvc.site # subdom : 
 apkapi-kgb.datasvc.site 
@@ -984,6 +1009,7 @@ apkapi-jw8.datasvc.site
 apkapi-brp.datasvc.site
 apkapi-pst.datasvc.site
 apkapi-jks.datasvc.site
+apkapi-ldb.datasvc.site
 
 # from *.it.com
 11uu.it.com
@@ -991,6 +1017,7 @@ apkapi-jks.datasvc.site
 23wincom.it.com
 777-bet.it.com
 789f.it.com
+838win.it.com
 98winn.it.com
 acgwin.it.com
 akses.rupiah222.it.com
@@ -1094,12 +1121,15 @@ lampupion.it.com
 lawak4d.it.com
 lc88.it.com
 legendaqq.it.com
+lekjpe.it.com
 link4.tenbrand.it.com
 linktoto88.it.com
 lisatoto.it.com
 livebolaid.it.com
 london69main.it.com
+london69vip.it.com
 m1toto-4d.it.com
+mabosplaydaftar.it.com
 macau303.it.com
 mahajitu.it.com
 mahong4d.it.com
@@ -1140,7 +1170,9 @@ penulis4d.it.com
 perkasa-jitu.it.com
 pesona805.it.com
 petir-jitu.it.com
+petir188.it.com
 pg99.it.com
+phjoy.it.com
 pintutogelone.it.com
 pohon169.it.com
 pola7.bintang5toto-rtp.it.com
@@ -1157,6 +1189,7 @@ rajangamensuper.it.com
 rezllive.it.com
 rtp.arenadagelan4d.it.com
 rtp546.bgkt458.it.com
+rtpcancer.imgclck.it.com
 rtpgacor-panentogel.it.com
 rtpislot99.it.com
 rtpmahongbet2.it.com
@@ -1212,12 +1245,14 @@ yupitoto.it.com
 # from de.com # subdom :
 akai123.de.com
 axio.de.com
+cam-de.com
 exago.de.com
 fba.de.com
 golfe.de.com
 goverment.de.com
 hagel-shop.de.com
 hb88.de.com
+lui.de.com
 mare.de.com
 official.xin77.de.com
 ojo.de.com
@@ -1371,6 +1406,7 @@ slot88.hkwn7.com
 daftar.hkwn7.com 
 real2.hkwn7.com 
 real1.hkwn7.com
+wkwk.hkwn7.com
 
 #from inatips.com # subdom : 
 blog7.inatips.com 
@@ -1436,6 +1472,10 @@ promosiku1.omtogel-prediksi.com
 rtp5.omtogel-prediksi.com 
 panduan.omtogel-prediksi.com 
 buktijp.omtogel-prediksi.com
+rtp17.omtogel-prediksi.com
+ramalan17.omtogel-prediksi.com
+rtp16.omtogel-prediksi.com
+buktijp4.omtogel-prediksi.com
 
 #from p0ker88wins.org # subdom : 
 gencu56570.p0ker88wins.org 
@@ -1888,6 +1928,7 @@ rtp-indoagent188-002.netlify.app
 rtp-pttgroup.netlify.app
 rtphanabi88go8.netlify.app
 rusa-ayo-aku-dimarahin-nih.netlify.app
+scintillating-stroopwafel-b7dc16.netlify.app
 toto188-slot-casino.netlify.app
 
 #from airgunungmyoboku.com # subdom : 
@@ -2024,6 +2065,9 @@ apkapi-lon.rebrandy.site
 apkapi-cmi.rebrandy.site
 apkapi-md3.rebrandy.site
 apkapi-odg.rebrandy.site
+apkapi-oc8.rebrandy.site
+apkapi-hrs.rebrandy.site
+apkapi-sa5.rebrandy.site
 
 #from ltn7.com # subdom : 
 promosi.ltn7.com 
@@ -2093,6 +2137,7 @@ my-gun-f658d.web.app
 subur88-fd515.web.app
 superbandar-amp.web.app
 tombol-daftar.web.app
+juniorbola-idcom.web.app
 
 #from streamid.app # subdom :
 303vip.streamid.app
@@ -2219,6 +2264,7 @@ pilartoto.dataklmsad902.site
 rajakadal.dataklmsad902.site
 pakhoki.dataklmsad902.site
 yokaislot.dataklmsad902.site
+gojo117.dataklmsad902.site
 
 #from dataklmsad903.site # subdom : 
 kaya787.dataklmsad903.site 
@@ -2226,6 +2272,7 @@ pilartoto.dataklmsad903.site
 rajakadal.dataklmsad903.site
 pakhoki.dataklmsad903.site
 yokaislot.dataklmsad903.site
+gojo117.dataklmsad903.site
 
 #from angka-alexis.pro # subdom : 
 prediksi60.angka-alexis.pro 
@@ -2248,6 +2295,7 @@ akses.complainalexis.com
 alexis.simplyworks.xyz 
 cola.simplyworks.xyz 
 rjb.simplyworks.xyz
+kiko.simplyworks.xyz
 
 #from satset189x.live : subdom :
 cs001.satset189x.live
@@ -2314,6 +2362,7 @@ tipiwv8m.carisabgroup.xyz
 bentuk4d-1.luckyspinprd.com 
 presidenslot.luckyspinprd.com 
 satuan4d.luckyspinprd.com
+joko4d-1.luckyspinprd.com
 
 #from f5gz177v.com # subdom : 
 102bvuf.f5gz177v.com 
@@ -2340,3 +2389,36 @@ situs2.pakhoki.live
 asset.punyaemon77.com 
 cdn.punyaemon77.com 
 amp.punyaemon77.com
+
+#from brojp-stayfun.com # subdom : 
+dualima18.brojp-stayfun.com 
+duasatu12.brojp-stayfun.com 
+duatujuh10.brojp-stayfun.com
+
+#from mobileservices.sbs # subdom : 
+apkapi-sc8.mobileservices.sbs 
+apkapi-ju8.mobileservices.sbs 
+apkapi-na1.mobileservices.sbs
+apkapi-hkw.mobileservices.sbs
+
+#from kggamingapi.com # subdom : 
+8722204275.kggamingapi.com 
+8327771864.kggamingapi.com 
+8800210953.kggamingapi.com
+
+#from bbq4dking.xyz # subdom : 
+aman1.bbq4dking.xyz
+petasan060.bbq4dking.xyz
+petasan60.bbq4dking.xyz
+petasan6000.bbq4dking.xyz
+petasan77.bbq4dking.xyz
+petasan80.bbq4dking.xyz
+petasan90.bbq4dking.xyz
+petasan999.bbq4dking.xyz
+hoki4.bbq4dking.xyz
+
+#from buktiwdjoko4d.com # subdom : 
+satu.buktiwdjoko4d.com 
+bukti.buktiwdjoko4d.com 
+jadwal.buktiwdjoko4d.com 
+promosi.buktiwdjoko4d.com

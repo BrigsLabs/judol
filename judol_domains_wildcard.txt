@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1903
+# Number of entries: 1917
 # 
 #
 #
@@ -67,8 +67,10 @@
 *amavi[0-9]*
 *amdbet*
 *amerikatoto*
+*aneka[0-9]*
 *angkabet*
 *angkanet4d*
+*angkaraja*
 *angkasa[0-9]*
 *angkot88*
 *angpao[0-9]*
@@ -83,6 +85,7 @@
 *api88*
 *apitoto*
 *aquartp*
+*arena[0-9]*
 *ares[0-9]*
 *arjuna4d*
 *arya[0-9]*
@@ -105,6 +108,7 @@
 *audgaming*
 *audplay*
 *awan1[0-9]*
+*aye4d*
 *ayobet*
 *ayu89*
 *azkabet*
@@ -121,6 +125,7 @@
 *bagong[0-9]*
 *bahagia777*
 *balaksix*
+*bali[0-9]*
 *balon4d*
 *bambu[0-9]*
 *bambumas[0-9]*
@@ -135,6 +140,7 @@
 *batmantoto*
 *bayam[0-9]*
 *bb855*
+*bbq4d*
 *bd89*
 *bdk[0-9]*
 *beluga*
@@ -365,6 +371,7 @@
 *gayo[0-9]*
 *gbo[0-9]*
 *gbosky*
+*gboslot*
 *gc57*
 *gelora[0-9]*
 *gen69*
@@ -396,6 +403,7 @@
 *grandau*
 *grda999*
 *group[0-9]*
+*gsc108*
 *gudang[0-9]*
 *guetoto*
 *gurita4d*
@@ -501,6 +509,7 @@
 *jackpot[0-9]*
 *jagat[0-9]*
 *jagoan[0-9]*
+*jagobet*
 *jagungbet*
 *jagungtoto*
 *jakartaslot*
@@ -512,6 +521,7 @@
 *japanslot*
 *jaringbet*
 *jasacuan*
+*javaslot*
 *jawara88x*
 *jawaraslot*
 *jaya[0-9]*
@@ -660,6 +670,7 @@
 *legendaqq*
 *legendtoto*
 *lemacau*
+*lembagatoto*
 *lentera4d*
 *leo[0-9]*
 *lexus[0-9]*
@@ -703,6 +714,7 @@
 *m1toto*
 *m69ku*
 *mabar[0-9]*
+*mabos*
 *macan[0-9]*
 *macau[0-9]*
 *maco4d*
@@ -711,6 +723,7 @@
 *mahoni[0-9]*
 *mainslot*
 *majalah4d*
+*makmur[0-9]*
 *malang4d*
 *maluku4d*
 *mamabet*
@@ -792,6 +805,7 @@
 *motoslot
 *mpo[0-9]*
 *mpoxl*
+*ms-gp[0-9]*
 *mudah[0-9]*
 *mulia[0-9]*
 *muliatoto*
@@ -1232,6 +1246,7 @@
 *ttk777*
 *ttt4d*
 *tujuhribu[0-9]*
+*tuna[0-9]*
 *tupaiwin*
 *turbo1[0-9]*
 *uban4d*
@@ -1418,7 +1433,6 @@ red88*
 rg[0-9]*
 rr88*
 sin88*
-sky88*
 sodo.*
 sodo[0-9]*
 ss88* 

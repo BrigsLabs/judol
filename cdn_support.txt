@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2657
+# Number of entries: 2679
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -53,6 +53,7 @@ aix-asset.s3.ap-southeast-1.amazonaws.com
 ajaibcloud.sgp1.cdn.digitaloceanspaces.com
 ajennings.net.cdn.cloudflare.net
 akamai-assets.squarespace.com
+akgrouplink.sgp1.digitaloceanspaces.com
 akucloud.com
 akundewaa.site
 alb-ipppw0c8ujq4ywp6eq.ap-southeast-1.alb.aliyuncs.com
@@ -64,6 +65,7 @@ ambengine.com
 amp-escobar.sgp1.cdn.digitaloceanspaces.com
 ampabadi.com # suspicious
 ampmajalah4d.s3.ap-southeast-2.amazonaws.com
+anda.sgp1.digitaloceanspaces.com
 anehoo.com
 angkasaputra.id # backlink
 anhuidingyue.com
@@ -92,6 +94,7 @@ api-onix7-2-default-rtdb.firebaseio.com
 api-royal-live-1-default-rtdb.firebaseio.com
 api-royal-ns2-1-default-rtdb.firebaseio.com
 api-seo-1354997367.ap-southeast-1.elb.amazonaws.com
+api-skygaming-ns2-1-default-rtdb.firebaseio.com
 api-sports.io # may create false positive
 api.7skytech.top
 api.aqzbouatv2.com
@@ -99,8 +102,10 @@ api.cdnsport.xyz
 api.cloud.mime.services
 api.freshapp.top
 api.noproky.net
+api.prerelease-env.biz
 api.pwa-marketing.com
 api.qrserver.com
+api.sapakita.net
 api.scorebat.com
 api.shorebird.dev
 api.signalbit.io
@@ -124,6 +129,7 @@ apkapi-3in.mobilesvc.xyz
 apkapi-3in.rebrandurl.cc
 apkapi-smb.bitely.xyz
 apkapi-smb.mobilesvc.xyz
+apkstaticcontent.com # subdom : image.apkstaticcontent.com
 app-a.cdnlogic.net
 app-a.gm-ldr-82r2tndnuha5.com
 app-a.ply-ldr-rfo6v4aqd6cqw84z.com
@@ -154,6 +160,7 @@ assets-vip.sfo2.cdn.digitaloceanspaces.com
 assets.288cdn.asia
 assetsbanner.sgp1.cdn.digitaloceanspaces.com
 assetsgame.sgp1.cdn.digitaloceanspaces.com
+astro-cdn.net
 atg88.atomgaming88images.com
 atom4d.sgp1.cdn.digitaloceanspaces.com
 atomgaming88.sgp1.cdn.digitaloceanspaces.com
@@ -162,12 +169,14 @@ awan.pw
 aws-learning-kit.bitslovers.com.cdn.cloudflare.net
 b-cdn.net # all subdom list in dead_judol_domains.txt
 b1speed.info
+b729j88.com # subdom : img.b729j88.com
 bacan4dblog.wordpress.com
 bacan4dofficial.wordpress.com
 bacan7.wordpress.com
 baccdn.com
 backend.gameswhitelabel.com
 baduitoto.sgp1.cdn.digitaloceanspaces.com
+bafkreignh3uifop5atdcl6rwd5klh2yanekiofphpsriz4vuf6gnrfwdha.ipfs.inbrowser.link
 bajwapharma.com # hacked web : https://bajwapharma.com/antiepileptics/
 bakso-kojek-5k.sfo3.cdn.digitaloceanspaces.com
 bangaset.s3.ap-southeast-1.amazonaws.com
@@ -218,6 +227,7 @@ cdn.hub88.io
 cdn.imgchest.com
 cdn.imgpile.com
 cdn.livechat-files.com
+cdn.livechatinc.com
 cdn.mixlink.top
 cdn.passwordless.dev
 cdn.pn.tc
@@ -226,6 +236,7 @@ cdn.rawgit.com
 cdn.robotsatelit.net
 cdn.shorebird.cloud
 cdn.snowmobiletrader.com.cdn.cloudflare.net
+cdn.specialcdn.com
 cdn.sportnanoapi.com
 cdn.sportnanoapi.com.eo.dnse1.com
 cdn.store-assets.com
@@ -245,6 +256,7 @@ cdnsimple.top
 cfilvs.i3457.com
 chaport.com
 chat-socket.onechat.dev
+chat.cs-system-006.cxgenie.app
 chat.onechat.dev
 chiolink.xyz
 chlink.skystarbiru.com
@@ -265,6 +277,7 @@ cloudinary.com
 cloudstoragesigma02.com
 common-static.ppgames.net
 computerhope.com
+contact-scraper.app.wtggggg.com
 contentranking.top # seo
 cool-assets.sgp1.cdn.digitaloceanspaces.com
 crisp.chat
@@ -332,6 +345,7 @@ d3v8lwhw9579ec.cloudfront.net
 d5jmkjjpb7yfg.cloudfront.net
 d6ve0grjeaee7.cloudfront.net
 d84ify71m0ivu.cloudfront.net
+daedallus.com # subdom : a.daedallus.com
 data-288.sgp1.cdn.digitaloceanspaces.com
 data.alwayswinpp.com
 dataconnect.sbs
@@ -416,6 +430,7 @@ eghsuc4vt3.execute-api.us-east-1.amazonaws.com
 egt-digital.com
 eijkman.go.id # malicious backlink
 elite-lb-1146767745.ap-southeast-1.elb.amazonaws.com
+emailmeform.com # may create false positive
 enak.la
 enderocean.com
 endofamerica.com.cdn.cloudflare.net
@@ -485,6 +500,7 @@ gobel.ink
 gpa2glsjhw.xyz
 growfasts.top # seo
 grup168.sgp1.digitaloceanspaces.com
+gsc108.sgp1.cdn.digitaloceanspaces.com
 gso.kommo.com
 h85cndf2moxnwjz.com
 harimauterbang.sgp1.cdn.digitaloceanspaces.com
@@ -503,6 +519,7 @@ i.ibb.co
 i.ibb.co.com
 i.magecdn.com
 iaibali.org # suspicious
+icxglobal.ai # subdom : be-cs006.icxglobal.ai widget.cs-system-006.icxglobal.ai storage-cs006.icxglobal.ai
 idb.imghostfree.com
 idl-cdn.rika.online
 idl-socket.rika.online
@@ -521,7 +538,6 @@ iframe1.qrizz.id
 igamingontario.ca
 iili.io
 image-cdn.link
-image.apkstaticcontent.com
 image777.sgp1.cdn.digitaloceanspaces.com
 imageforwork.sgp1.cdn.digitaloceanspaces.com
 images.7281581.com
@@ -562,7 +578,6 @@ imghwgroup.com
 imgme.pro
 imgnxa.com
 imgnxb.com
-imgotp.thanatosmaero.com
 imgshare.iuf-cfl.cloud
 imgshare.porta-assist.com
 imgstack.net
@@ -577,11 +592,11 @@ imkefu.cfd # subdom : chat.imkefu.cfd
 immortalseo.1b2u.asia
 incap-dw.ipcapsula.com
 indomita.net.cdn.cloudflare.net
+indonesianembassy.de # suspicious
 inds.sgp1.digitaloceanspaces.com
 infini88.network # all subdom list in dead_judol_domains.txt
 infinityteam.sgp1.cdn.digitaloceanspaces.com
 ingest.ingtracer.com
-inlight-zn.firebaseapp.com
 ios88app.com
 ip104.sgp1.cdn.digitaloceanspaces.com
 ip188baru.sgp1.cdn.digitaloceanspaces.com
@@ -627,9 +642,10 @@ kenzototo.nyc3.cdn.digitaloceanspaces.com
 keodinh.net
 kerenbanget7.wordpress.com
 kesembilan.online
-kggamingapi.com # subdom : 8722204275.kggamingapi.com 8327771864.kggamingapi.com
+kggamingapi.com # all subdom list in dead_judol_domains.txt
 khusus.nyc3.cdn.digitaloceanspaces.com
 kick.com
+kitapay.co # subdom : embed.kitapay.co
 kokobread.com
 kontak-kita.id # scam
 konversiart.top # seo
@@ -721,7 +737,7 @@ mobile-server-s7n7536nxa-as.a.run.app
 mobile-server-xovczxfxsq-as.a.run.app
 mobile-server-zqsdy7qyda-as.a.run.app
 mobileapp.web-sample.live
-mobileservices.sbs # subdom : apkapi-sc8.mobileservices.sbs apkapi-ju8.mobileservices.sbs
+mobileservices.sbs # all subdom list in dead_judol_domains.txt
 modelkit1.com
 moho.sgp1.cdn.digitaloceanspaces.com
 mpc-prod-1-1053047382554.us-central1.run.app
@@ -772,6 +788,7 @@ object-d001-cloud.cloudstoragesharingservice.com
 objek-d001-cloud-akucloud-valid.sukagambarku.com
 ol1-maribermain8899-com.evonetworks.net
 olxjaya168.com
+omnitrend.biz # subdom : collector-cps-live.omnitrend.biz
 omutgl.sgp1.digitaloceanspaces.com
 onix-live-2-default-rtdb.firebaseio.com
 onix-live-5-default-rtdb.firebaseio.com
@@ -779,6 +796,7 @@ onokabeh.id # malicous backlink # probe scam
 orangejelly.info
 ota-svr.lopjprd62sxa.com
 ov-1d104299d2a447049cdc73700c9309f7.ecs.us-west-2.on.aws
+ovxyftbkmb.net # subdom : 1rm81qva4t.ovxyftbkmb.net
 oxplay.api-oplbo.com
 ozzogame.com
 p3i.unimen.ac.id # hacked
@@ -841,6 +859,8 @@ projectgalery.xyz
 projectkzgroup.com # suspicious
 prosportslive.net # subdom : ws12.prosportslive.net
 protecer.org # hacked web
+ptk.sgp1.cdn.digitaloceanspaces.com
+ptk.sgp1.digitaloceanspaces.com
 pub-54c35cbb1f8a429096797defb3a61ef3.r2.dev
 pub-bb78216b6f0b40a5882d1473c51d7abd.r2.dev
 public.pg-demo.com.wcdnga.com
@@ -909,7 +929,6 @@ s3-ap-southeast-1.amazonaws.com
 s3-r-w.ap-northeast-1.amazonaws.com
 s31.aconvert.com
 samuelkigelman.com # hacked web
-sand77-net.firebaseapp.com
 savegambar.com
 sayursawi.xyz
 script386.cloud
@@ -927,6 +946,7 @@ seo268.vip
 seoaceng.xyz # suspicious
 seobangjago.sgp1.cdn.digitaloceanspaces.com
 seoclerk.com
+seomrc.com # subdom : cdn.seomrc.com
 serubet.s3.ap-southeast-2.amazonaws.com
 serunyaberbag.com
 server-image.sgp1.cdn.digitaloceanspaces.com
@@ -961,6 +981,7 @@ smksdb1jambi.sch.id # scam
 snapy.photo
 sobajimakmur.com
 socket.io # subdom : cdn.socket.io
+sockjs-ap1.pusher.com
 sohogroupblog.wordpress.com
 spacedigital-online.sgp1.cdn.digitaloceanspaces.com
 spacerbucket.com
@@ -975,7 +996,6 @@ spribe.co
 spribe.com
 srv1648-files.hstgr.io
 ssl.gg-global-cdn.com
-staging-9a793.firebaseapp.com
 starkmaxwin.sgp1.cdn.digitaloceanspaces.com
 starlink4d.sgp1.cdn.digitaloceanspaces.com
 static-content.pro
@@ -1033,6 +1053,7 @@ test-drive-10-s6uit34pua-uc.a.run.app
 test-drive-20-1053047382554.us-central1.run.app
 test-drive-3-s6uit34pua-wl.a.run.app
 testdriver.site
+thanatosmaero.com # subdom : imgotp.thanatosmaero.com
 thelocalcatch.com # hacked web : thelocalcatch.com/john-dory
 themerchantkitchen.com # hacked web : themerchantkitchen.com/menu
 thomasbakri877-prog.github.io
@@ -1043,7 +1064,7 @@ tinypic.host
 tk.mowell.tech
 tko77game.pro # scam
 tmc-group.photos
-tmgaming.asia
+tmgaming.asia # subdom : https://lapp.tmgaming.asia
 toto188official.taplink.ws
 toxiclibs.org # landing
 tr8ngames.com
@@ -1112,6 +1133,7 @@ wonderfulnextapi.com
 workers.dev # all subdomain move to dead_judol_domains
 wow77.sgp1.cdn.digitaloceanspaces.com
 wral.com
+ws-ap1.pusher.com
 wss.823868.com
 wtgplay.xyz # subdom : apk.wtgplay.xyz media.wtgplay.xyz
 xasia.me
@@ -1130,7 +1152,7 @@ zakw1rog.drhk.loveota.com
 zakw1rog.dshk.loveota.com
 zalopay.vn
 zdataconnect.us
-zdataservices.us
+zdataservices.us # subdom : apkapi-mds.zdataservices.us apkapi-vg1.zdataservices.us
 zeronaught.com
 zfrmz.com
 zkt.mb.cdn-dysxb.com
