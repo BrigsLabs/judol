@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 35472
+# Number of entries: 35497
 #
 #
 #
@@ -789,6 +789,7 @@
 789pc.icu
 789pny.com
 789w41.com
+789w51.com
 789win.cl
 789win.ru.com
 789win.run
@@ -799,8 +800,10 @@
 789win1.bar
 789win9.uk.com
 789winbetting.biz
+789winbl.com
 789wincom.tax
 789wincom.town
+789winf.com
 789wingg.com
 789winn.best
 789winn.co
@@ -1159,6 +1162,7 @@
 98win.golf
 98win.locker
 98win.markets
+98win33.top
 98win8.sale
 98win8v.com
 98win9.bid
@@ -1232,8 +1236,6 @@
 9nagapools.shop
 9nagaspin.com
 9nagaz.vip
-9ph.org
-9ph.ph
 9ph9.ph
 9reno.my
 9tembus777.com
@@ -2109,6 +2111,7 @@ agreencoconut.nl
 agregoals-thorights.icu
 agrencogroup.com
 agricultureinhindi.com
+agrifreshmarket.com
 agroschurch.com
 ags9.wiki
 ags9a.store # all subdom move to dead_judol_domains list
@@ -2855,6 +2858,7 @@ angkapaito.net
 angkapakhoki.info
 angkaprediksi-mulan.info
 angkaprize.com
+angkaraja1.com
 angkarajaeropa.online
 angkarajaevent.xyz
 angkarajanih.net
@@ -3110,7 +3114,7 @@ apkslot.asia
 apkslotgacor.org
 apkslotsgg.us
 apkstore.vip
-apkstore888.com
+apkstore888.com # subdom : css.apkstore888.com
 apksule.site
 apksumo777.site
 apksusun4d.com
@@ -12155,6 +12159,7 @@ gilerkentang.com
 gingerheadbakery.com
 ginkgopune.com
 gionlineshop.com
+giordanobros.com
 giovang.cv
 giovang.cx
 giovang.moe
@@ -12501,6 +12506,7 @@ gpigames.com # apk
 gplaystore.id # scam # apk
 gplaystore.org
 gpmtded.org
+gpointestonia.com
 gpshof.org
 gpstracking.us.com
 gpt-2402.com
@@ -14107,6 +14113,7 @@ impactministry.id
 impactmodels.com.mx
 impactomedia.com.mx
 impactsigns.org
+impactxoft.com
 impian2.fun
 impian2istana.xyz
 implantedente.com
@@ -14849,6 +14856,7 @@ jababeka.co.id
 jabwemetthefilm.com
 jack.com
 jack.marontoto.help
+jack998win.com
 jackfishsurvival.com
 jackinkhakis.com
 jacknathanmedspa.com
@@ -15442,6 +15450,7 @@ jokisemut.xyz
 jokislot.space
 joko-4d.us.com # subdom : link-alternatif-utama.joko-4d.us.com
 joko4d.com.mx
+joko4d.ru.com # subdom : apk.joko4d.ru.com
 joko4d5g.com
 joko4d8g.com
 joko4drtpmaxwin.vip # subdom : rtpsuper.joko4drtpmaxwin.vip win.joko4drtpmaxwin.vip
@@ -17116,11 +17125,13 @@ kuwincom.net
 kuwinfi.com
 kuwinn.living
 kuwinpro.com
+kuwinss.com
 kuwinvn.info
 kuwinvn.vip
 kuwinw.com
 kuwinzhz.com
 kuwn37.com
+kuwn51.com
 kuxin.es
 kuy4d1.link
 kuy4d1.pro
@@ -17422,6 +17433,7 @@ laporojoltogel.info
 laquarantenaire.ca
 larefraction.net
 larisamartinez.com
+larissaslife.com
 larosamexicanrestaurant.com
 larryleeband.com
 las3puertas.com
@@ -20339,6 +20351,7 @@ metals539.com
 metalsite.net
 metalslot.org
 metaspinscasino.live
+metaspots.io
 meteorbintang.net
 meteorbintang.space
 metodegawang.shop
@@ -20873,6 +20886,7 @@ motorservukcars.com
 motoslot.com
 motoslotgroup.com
 motoslotid.com
+motoslotjaya.online
 motoslotteam.com
 mototrans.com
 mountainfallsgolfclub.com
@@ -21785,6 +21799,7 @@ nix77-agent.net
 nix77b.biz
 niyeedep.org
 njikoka.an.gov.ng
+njs.uk.com
 nk88.bio
 nk88.boo
 nk88.center
@@ -23784,6 +23799,7 @@ pensionvysker.com
 pensiunankerang.info
 pensiveblogs.com
 penskewynnferrari.com
+pentagoneducation.com
 pentas4d.info
 pentastogelinfo.com
 pentatoken.io
@@ -24735,6 +24751,7 @@ prasannacreates.in.net
 pravos.org
 praydenver.net
 prayer.us.org
+prd-short.com # subdom : joko4d.prd-short.com
 prdbookie.com # subdom : market.prdbookie.com
 prdscore.org # subdom : hasil.prdscore.org
 precisiongageinc.com
@@ -25129,6 +25146,7 @@ ptslotjp.pro
 ptslotsuper.vip
 ptspkemenagbanyumas.com
 pttogel.com
+pttogelbest.vip
 pttogelhk.org
 pttogelnasa.site
 pttogelnewyear.com
@@ -28254,6 +28272,7 @@ schwing-stetter.com
 sci-wetre.com
 sciencesinsight.org
 scillsgrill.com
+scipe.org
 scissorhandzthemusical.com
 sclcgkc.org
 scmb.untan.ac.id
@@ -30840,6 +30859,7 @@ taipeilotto.net
 taipeipools.com
 taipelottery.shop
 taipolottery.com
+taisunwin.deals
 taisunwin.pro
 taiwan-lotto.com
 taiwan4d.pro
@@ -31230,6 +31250,7 @@ testing.findmf-ctcl.com
 testing.flmcloud.net
 testing.txvma.org
 testlibrary.infogridpacific.com
+testosteroneau.com
 tetapayamjago.com
 tetapsemagats.space
 tetapsemangat.store
@@ -31588,6 +31609,7 @@ theunlikelydeveloper.com
 thevbcoffee.com
 theveganhoodchefs.com
 theveteranscoalition.org
+theview.tlehs.com
 thevirtualteamcoach.com
 thewaylanders.com
 thewebagency.io
@@ -34411,6 +34433,7 @@ willhsucafe.com
 williamhudsonattorney.com
 williamsburgfarm.net
 williamsstore.uk.com
+willingcott.co.uk
 willinkcuanvip.com
 willsellquick.com
 wilottery.com
@@ -34769,6 +34792,8 @@ ww88lap.com
 ww88vn.cc
 ww88win.live
 wwe77.store
+www-9ph.org
+www-9ph.ph
 www-dev.mustoutdoor.com
 www-old.rendle.com
 www2.perceptolab.com

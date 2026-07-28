@@ -119,6 +119,7 @@ pansci.asia
 rainviewer.asia
 shopdisney.asia
 flying-circus.band
+bestell.bar
 bolero.bar
 brexx.bar
 einhorn.bar
@@ -173,8 +174,10 @@ wiz.biz
 wspay.biz
 wyborcza.biz
 yoox.biz
+yougame.biz
 niim.blue
 spook.boo
+mintlify.builders
 sideb.buzz
 scalable.capital
 commonspirit.careers
@@ -193,6 +196,7 @@ crcon.cc
 datapump.cc
 dhilosnetworks.cc
 dict.cc
+dns36.cc
 fiedler.cc
 fito.cc
 forestapp.cc
@@ -238,6 +242,7 @@ life.church
 online.church
 bypass.city
 ops.city
+sem.city
 technical.city
 am-videos.click
 buybox.click
@@ -334,10 +339,11 @@ lyyti.events
 ticketco.events
 infosec.exchange
 ioc.exchange
+item.exchange
 bahn.expert
 booking.expert
 malware.expert
-lemmy.fan
+ktr.fan
 os.fan
 haal.fashion
 raster.finance
@@ -367,6 +373,7 @@ crypt.fyi
 genderdysphoria.fyi
 iusearchlinux.fyi
 laelaps.fyi
+layoffs.fyi
 levels.fyi
 lunar.fyi
 notbyai.fyi
@@ -382,6 +389,7 @@ embark.games
 eneba.games
 erkul.games
 gxcorner.games
+mycafe.games
 skystone.games
 cst.gdn
 stad.gent
@@ -438,11 +446,9 @@ mon.icu
 filepress.ink
 next.ink
 rdl.ink
-shrinkme.ink
 simple.ink
 spaceforce.ink
 sumerian.ink
-work.ink
 returns.international
 doctolib.legal
 wbs.legal
@@ -485,7 +491,6 @@ status.lol
 techaro.lol
 vcloud.lol
 weblog.lol
-wpp.lol
 football.london
 digitalize.ltd
 homebrew.ltd
@@ -683,6 +688,7 @@ terminal.sexy
 30grad.shop
 4id.shop
 aloedent.shop
+appchance.shop
 axisms.shop
 brothersinarms.shop
 buergerspital.shop
@@ -729,6 +735,7 @@ seyffer.shop
 swedish-supplements.shop
 terminal.shop
 urlbluemedia.shop
+vector3d.shop
 waldhaus.shop
 weinbibliothek.shop
 weinwunder.shop
@@ -755,6 +762,7 @@ notion.site
 onrocket.site
 platformsh.site
 privacy-test-pages.site
+saily.site
 shopapps.site
 silvatica.site
 srht.site
@@ -801,11 +809,13 @@ truepeople.space
 uexcorp.space
 dyn.sport
 adidashardware.store
+benz.store
 beyondagency.store
 bigtimerush.store
 bigtimerushuk.store
 cleanmasters.store
 cnckitchen.store
+ergomech.store
 ettoresoftware.store
 fbits.store
 g-h.store
@@ -835,13 +845,14 @@ ai.studio
 firebase.studio
 flourish.studio
 starapps.studio
+tivio.studio
 woodsea.studio
 zenn.studio
+nebula.style
 primer.style
 shiki.style
 encode.su
 jpg4.su
-jpg6.su
 promportal.su
 saint2.su
 ada.support
@@ -873,6 +884,7 @@ som.today
 type.today
 ambr.top
 chillx.top
+cldev.top
 corriente.top
 cpolar.top
 dinsden.top
@@ -902,9 +914,11 @@ kite.trade
 neat.tube
 platform.uno
 liberta.vip
+nabzclan.vip
 oldskool.vip
 posh.vip
 ryde.vip
+sidelix.vip
 stream.vip
 trdiziizle.vip
 vidstream.vip
@@ -920,6 +934,7 @@ thatsup.website
 tilde.website
 tiny.tilde.website
 uphold.website
+x2o.website
 avid.wiki
 bakugan.wiki
 bg3.wiki
@@ -937,6 +952,7 @@ falcom.wiki
 fallout.wiki
 gbf.wiki
 getindie.wiki
+gta.wiki
 hacktricks.wiki
 hollowknight.wiki
 hololive.wiki
@@ -985,8 +1001,8 @@ patriots.win
 vaultcord.win
 nostr.wine
 doesmycode.work
-elphago.work
 frame.work
+funtuan.work
 koding.work
 mirror.work
 schueller.work

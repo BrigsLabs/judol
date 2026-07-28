@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2679
+# Number of entries: 2680
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -691,6 +691,7 @@ lpip209.sgp1.cdn.digitaloceanspaces.com
 lpnyabatak.sgp1.digitaloceanspaces.com
 luang.in # subdom : apk.luang.in
 lucidfood.com # hacked web
+luckyapi.xyz
 lumpiagoreng.xyz
 lxapk.s3.ap-southeast-1.amazonaws.com
 m-g.io

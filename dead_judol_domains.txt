@@ -211,6 +211,7 @@ sg1wg.b-cdn.net
 sip777.b-cdn.net
 situs-nama-baik-slot-gacor.b-cdn.net
 skyx.b-cdn.net
+slot88-resmi-joko4d.b-cdn.net
 slots777.b-cdn.net
 stgcloud.seamless-hptech.com
 sto-rage.b-cdn.net
@@ -364,6 +365,7 @@ candu123-sing-scatter5000.pages.dev
 cara-deposit-qris-pola900.pages.dev
 caradepositqris.pages.dev
 carbon-source.pages.dev
+cari-rezeky.pages.dev
 catleblanc.pages.dev
 cdn-pelangi.pages.dev
 cdn-robot-assets.pages.dev
@@ -598,6 +600,7 @@ nny-web01-danicholls.pages.dev
 nolasstudios.pages.dev
 nopfa-org.pages.dev
 numbersneverdie.pages.dev
+numpang-naikk-bang.pages.dev
 nusabet88kicau-home.pages.dev
 obatkuatoto88.pages.dev
 offside-deff.pages.dev
@@ -622,6 +625,7 @@ pasar123-it.pages.dev
 pasti-naik-bukan-turun.pages.dev
 pasticuanbosku.pages.dev
 pedangtogel-cq0.pages.dev
+pendatang-baru.pages.dev
 penyembah-sapi-paling-suci.pages.dev
 perbanyakcuan.pages.dev
 perkasajituit.pages.dev
@@ -780,6 +784,7 @@ sumberpanengcr.pages.dev
 sumselcantik.pages.dev
 supalonely.pages.dev
 super-hadess.pages.dev
+supplier-agrifreshmarket.pages.dev
 surgadewa188.pages.dev
 svobodnoe-propovedi.pages.dev
 t4d-kampunginggrisbekasi.pages.dev
@@ -1449,6 +1454,7 @@ panel.lucky-dhx.live
 nasa4d.lucky-panel.xyz 
 aloha4d.lucky-panel.xyz 
 januaritoto.lucky-panel.xyz
+parada4d.lucky-panel.xyz
 
 #from mc303center.site # subdom : 
 xtracuan.mc303center.site 
@@ -2130,6 +2136,7 @@ stream.promointeractive.xyz
 amp-version.web.app
 bettogel-asia.web.app
 cau-nimale.web.app
+juniorbola-idcom.web.app
 kudajituuk.web.app
 kudajituus.web.app
 mvia88-bf140.web.app
@@ -2137,7 +2144,6 @@ my-gun-f658d.web.app
 subur88-fd515.web.app
 superbandar-amp.web.app
 tombol-daftar.web.app
-juniorbola-idcom.web.app
 
 #from streamid.app # subdom :
 303vip.streamid.app
@@ -2400,6 +2406,7 @@ apkapi-sc8.mobileservices.sbs
 apkapi-ju8.mobileservices.sbs 
 apkapi-na1.mobileservices.sbs
 apkapi-hkw.mobileservices.sbs
+apkapi-jas.mobileservices.sbs
 
 #from kggamingapi.com # subdom : 
 8722204275.kggamingapi.com 
