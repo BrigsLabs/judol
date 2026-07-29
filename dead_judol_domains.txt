@@ -1015,6 +1015,7 @@ apkapi-brp.datasvc.site
 apkapi-pst.datasvc.site
 apkapi-jks.datasvc.site
 apkapi-ldb.datasvc.site
+apkapi-yod.datasvc.site
 
 # from *.it.com
 11uu.it.com
@@ -1455,6 +1456,7 @@ nasa4d.lucky-panel.xyz
 aloha4d.lucky-panel.xyz 
 januaritoto.lucky-panel.xyz
 parada4d.lucky-panel.xyz
+yoda4d.lucky-panel.xyz
 
 #from mc303center.site # subdom : 
 xtracuan.mc303center.site 
