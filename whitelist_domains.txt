@@ -68,19 +68,23 @@ vcs-sg.tiktokv.com
 webcast16-normal-c-alisg.tiktokv.com
 webcast16-ws-alisg.tiktokv.com
 widget-sg.tiktokv.com
+alb-0301hm7gl8ul7sgo8o.eu-central-1.alb.aliyuncsslbintl.com
+launcher-h3.shalltry.com
+hermes2.grabtaxi.com
 
 # from cdn
-i.pinimg.com # whitelist
-img.freepik.com # whitelist
-static.vecteezy.com # whitelist
-cdn.digitaloceanspaces.com # whitelist
-images.ctfassets.net # whitelist
-i.scdn.co # whitelist
+a1211.dscr.akamai.net # whitelist 
 cdn.datatables.net # whitelist
-sgp1.digitaloceanspaces.com # whitelist
-s3.us-east-1.amazonaws.com # whitelist
+cdn.digitaloceanspaces.com # whitelist
+i.pinimg.com # whitelist
+i.scdn.co # whitelist
+images.ctfassets.net # whitelist
+img.freepik.com # whitelist
 incapdns.net # whitelist 
 s3-r-w.ap-southeast-1.amazonaws.com # whitelist
+s3.us-east-1.amazonaws.com # whitelist
+sgp1.digitaloceanspaces.com # whitelist
+static.vecteezy.com # whitelist
 
 # trusted pages.dev
 malware-filter.pages.dev

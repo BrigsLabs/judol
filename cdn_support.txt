@@ -4,10 +4,10 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2680
+# Number of entries: 2679
 # CDNs supporting site (may contains false positive)
 #
-#
+# a1211.dscr.akamai.net # i.pinimg.com # whitelist
 1004834818.rsc.cdn77.org
 10322apk.deliber.net
 10fr4ame-b3stweeb.xyz
@@ -36,7 +36,6 @@
 888rpae.com
 88ksr.wordpress.com
 8r0h54-553-ppp.oss-accelerate.aliyuncs.com
-a1211.dscr.akamai.net
 a1400.dscb.akamai.net
 a1570.dscb.akamai.net
 a5cdn.com
