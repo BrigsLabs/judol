@@ -13,8 +13,12 @@ medium.com # whitelist
 
 # from judol_domains_wildcard
 a2fcbecc7b7634c9484099978824a668-d99627c9b1d1dedd.elb.us-east-1.amazonaws.com
+aa7d4fa25597cad0f.awsglobalaccelerator.com
 adobsi.id
+ahoebn1bh2pos6t7glwb5n8pu6qsw8zq.aliyunwaf4.com
+alb-0301hm7gl8ul7sgo8o.eu-central-1.alb.aliyuncsslbintl.com
 alb-m3m9qq73l36xxs2bso.eu-central-1.alb.aliyuncsslbintl.com
+alb-wbnew578dqq8tqp4sa.ap-southeast-1.alb.aliyuncsslbintl.com
 amp-account.itunes.apple.com
 amp-api-edge.apps.apple.com 
 amp-api-search-edge.apps.apple.com
@@ -30,7 +34,10 @@ api16-normal-c-alisg.tiktokv.com
 api16-normal-c-useast1a.tiktokv.com
 asia2.ocws1.live.com.akadns.net
 bsync-sg.tiktokv.com
+cdf2ce9b60bb46d1800b07cd7fcdff4f.vip1.huaweicloudwaf.com
 cdn.awsusor1.fds.api.mi-img.com
+chatapp-admin.line-scdn.net
+connect.detik.com
 e28142.dscg.akamaiedge.net
 e28622.a.akamaiedge.net
 e28622.api1.akamaiedge.net
@@ -43,23 +50,35 @@ e28622.api3.akamaiedge.net
 e28622.api7.akamaiedge.net
 e28622.api9.akamaiedge.net
 e28622.b.akamaiedge.net
+ec-api.akulaku.com
+fcm23.prod.eacn.ea.com
 gecko16-normal-alisg.tiktokv.com
 groups.social.ea.com
+hermes2.grabtaxi.com
 hotapi16-normal-alisg.tiktokv.com
 kikocosmetics.com
+launcher-h3.shalltry.com
+libra16-normal-alisg.tiktokv.com
 libra16-normal-useast5.tiktokv.us
 libra32-normal-alisg.tiktokv.com
+line8-code-push-prod.oss-ap-southeast-5.aliyuncs.com
 mcs-sg.tiktokv.com
 mon16-normal-alisg.tiktokv.com
 mssdk16-normal-alisg.tiktokv.com
 ocws.officeapps.live.com
+prd-real.lisa2.verda2.akadns.net
+prod-spo01-107-nam-eastus2-api.cosmic.1drv.com
+pull-flv-l11-sg01.tiktokcdn.com
 recent.svc.cloud.microsoft
 restart-api.palmplaystore.com
 search16-normal-c-alisg.tiktokv.com
 sfds-geo.xbetservices.akadns.net
+sg-o-api-server.allsaints.tv
+sg01.tt-freeflow.lego3.tdnsliveovs2.com
 starling-sg.tiktokv.com
 starling-va.tiktokv.com
 static.nvidiagrid.net
+storage.live.com
 storeedge.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 storeedgefd.xbetservices.akadns.net
@@ -68,9 +87,6 @@ vcs-sg.tiktokv.com
 webcast16-normal-c-alisg.tiktokv.com
 webcast16-ws-alisg.tiktokv.com
 widget-sg.tiktokv.com
-alb-0301hm7gl8ul7sgo8o.eu-central-1.alb.aliyuncsslbintl.com
-launcher-h3.shalltry.com
-hermes2.grabtaxi.com
 
 # from cdn
 a1211.dscr.akamai.net # whitelist 
@@ -206,7 +222,6 @@ fito.cc
 forestapp.cc
 frontrow.cc
 godoflove.cc
-imgus.cc
 is.cc
 itead.cc
 kktix.cc
@@ -244,7 +259,6 @@ google.cf
 host.church
 life.church
 online.church
-bypass.city
 ops.city
 sem.city
 technical.city
@@ -254,9 +268,7 @@ fibra.click
 popcat.click
 popdog.click
 porsche.click
-qr-code.click
 ravelin.click
-wmg.click
 1kb.club
 1mb.club
 250kb.club
@@ -408,7 +420,6 @@ cfw.guide
 discordjs.guide
 goodtravel.guide
 hacks.guide
-homebrew.guide
 opensource.guide
 ripped.guide
 site.guide
@@ -562,7 +573,6 @@ bolt.new
 doc.new
 drawing.new
 form.new
-git.new
 lecture.new
 postgres.new
 sheet.new
@@ -1054,3 +1064,4 @@ makea.zip
 transfer.zip
 uploaded-files.zip
 voron.zip
+
