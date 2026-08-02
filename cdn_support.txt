@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2679
+# Number of entries: 2691
 # CDNs supporting site (may contains false positive)
 #
 # a1211.dscr.akamai.net # i.pinimg.com # whitelist
@@ -21,9 +21,9 @@
 3400efa8-fd32-44eb-b743-12ffd5b0fb26.seals.dlagglobal.com
 3j3ap99cfwu6.7281581.com.eo.dnse3.com
 4n76bph80j.gbgfstie.biz
+51.la
 66555.xyz
 67864891qp14api.238968.com
-6b05bda.gogoslam.com
 777tech.cloud
 77group.sgp1.cdn.digitaloceanspaces.com
 7c7b02d4bc3d48dd81a7c7738d4de1ab.pacloudflare.com
@@ -110,6 +110,7 @@ api.shorebird.dev
 api.signalbit.io
 api.wortise.com
 api214.cloud.mime.services
+api3.q-t-p-9.com
 apionix-7-default-rtdb.firebaseio.com
 apionix3-3-default-rtdb.asia-southeast1.firebasedatabase.app
 apionix4-3-default-rtdb.firebaseio.com
@@ -274,6 +275,7 @@ cloudhostapk.com # apk
 cloudicdn.com
 cloudinary.com
 cloudstoragesigma02.com
+collect.duckducktech.site
 common-static.ppgames.net
 computerhope.com
 contact-scraper.app.wtggggg.com
@@ -303,6 +305,7 @@ d2fdcuev2flsum.cloudfront.net
 d2g2ks6h98pvqo.cloudfront.net
 d2gwr1f4p1smxg.cloudfront.net
 d2lcoivv20vty7.cloudfront.net
+d2m02fawjf9t6e.cloudfront.net
 d2m14m4no0dk43.cloudfront.net
 d2mpatx37cqexb.cloudfront.net
 d2po8s8685fal.cloudfront.net
@@ -337,6 +340,7 @@ d3h2cjocy0dp0y.cloudfront.net
 d3ljt8kkw6mx40.cloudfront.net
 d3mqo97n0n0k7d.cloudfront.net
 d3nglpcg1mlj3k.cloudfront.net
+d3olnu823s0cv1.cloudfront.net
 d3pjq3rrv5sdh6.cloudfront.net
 d3pr994l7txgml.cloudfront.net
 d3pvfi6m7bxu71.cloudfront.net
@@ -441,7 +445,6 @@ esports.heracles.nl # malicious backlink
 estate77media.com
 evolution.com
 exp.boobsbymassage.com
-f88518a.gogoslam.com
 fastqrisbb.com
 felixhospitals.com
 feritogel.sgp1.cdn.digitaloceanspaces.com
@@ -471,6 +474,7 @@ gambar1.sgp1.cdn.digitaloceanspaces.com
 gambarcuy.online
 gambarku.art
 game-apk.s3.ap-northeast-1.amazonaws.com
+game-logo.c-d-e-0.com
 game.gp2play.com
 game.sfo2.digitaloceanspaces.com
 gameplayint.com
@@ -496,6 +500,7 @@ global-configs-default-rtdb.asia-southeast1.firebasedatabase.app
 global-gateways.space # subdom : apigm.global-gateways.space static.gm.global-gateways.space
 global-server.net
 gobel.ink
+gogoslam.com # all subdom list in dead_judol_domains.txt
 gpa2glsjhw.xyz
 growfasts.top # seo
 grup168.sgp1.digitaloceanspaces.com
@@ -518,7 +523,7 @@ i.ibb.co
 i.ibb.co.com
 i.magecdn.com
 iaibali.org # suspicious
-icxglobal.ai # subdom : be-cs006.icxglobal.ai widget.cs-system-006.icxglobal.ai storage-cs006.icxglobal.ai
+icxglobal.ai # subdom : all subdom list in dead_judol_domains.txt
 idb.imghostfree.com
 idl-cdn.rika.online
 idl-socket.rika.online
@@ -745,6 +750,7 @@ mpc-prod-17-s6uit34pua-wl.a.run.app
 mpc-prod-18-s6uit34pua-uc.a.run.app
 mpc-prod-21-1053047382554.us-central1.run.app
 mpc-prod-25-s6uit34pua-wl.a.run.app
+mpc-prod-27-s6uit34pua-uk.a.run.app
 mpc-prod-28-1053047382554.us-central1.run.app
 mpc-prod-4-1053047382554.us-central1.run.app
 mpc2-prod-1-is5qnl632q-uc.a.run.app
@@ -871,7 +877,7 @@ pxuoou8.x.incapdns.net
 qaoncloud.com # suspicious
 qdalplaylive.com
 qoopic.co
-qqkwbase.net # subdom : config.qqkwbase.net setprod.qqkwbase.net res.qqkwbase.net # apk
+qqkwbase.net # all subdom list in dead_judol_domains.txt
 qrfy.io # may create false positive
 qriselite.com
 qrishoki.com # subdom : launcher.qrishoki.com
@@ -880,6 +886,7 @@ qrispapitogel.sgp1.cdn.digitaloceanspaces.com
 r1zendigistr.com
 r1zengrp.link
 r2.dev # all subdom list in dead_judol_domains.txt
+r2.thesportsdb.com
 rabanimage.io
 radartulungagung.co.id # malicious backlink
 radheexchid.com
@@ -927,7 +934,10 @@ s21-def.ap4r.com
 s21-def.ks-la.net
 s3-ap-southeast-1.amazonaws.com
 s3-r-w.ap-northeast-1.amazonaws.com
+s3.assets-storage.info
+s3.cdnppp889.com
 s31.aconvert.com
+salesmartly.com # all subdom list in dead_judol_domains.txt # may create false positive
 samuelkigelman.com # hacked web
 savegambar.com
 sayursawi.xyz
@@ -1007,6 +1017,7 @@ static.cuanterus.net
 static.geevisit.com
 static.goolec.com # cdn
 static.gwvkyk.com
+static.heibao.bet
 static.klaviyo.com
 static.laz-cdn.com
 static.marsul.xyz
@@ -1087,6 +1098,7 @@ unitedhost.top # subdom : kinggaruda138.unitedhost.top
 uoaeiz3recbrojp76imxpthfemovjaxecjudzg8wytc.bithe.net
 updatechecker3-14ecc.firebaseio.com
 upload.ee
+upload.r-s-t-5.com
 upload.wikimedia.org
 uploadgambar.lat
 uploads-ssl.webflow.com

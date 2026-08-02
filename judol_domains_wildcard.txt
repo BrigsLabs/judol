@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1917
+# Number of entries: 1963
 # 
 #
 #
@@ -124,6 +124,7 @@
 *baginda[0-9]*
 *bagong[0-9]*
 *bahagia777*
+*balak[0-9]*
 *balaksix*
 *bali[0-9]*
 *balon4d*
@@ -234,7 +235,7 @@
 *cerutuviral*
 *cici4d*
 *cihuy[0-9]*
-*cika303*
+*cika[0-9]*
 *cina[0-9]*
 *cipit[0-9]*
 *ciputratoto*
@@ -321,6 +322,7 @@
 *endut[0-9]*
 *enterslots*
 *episode[0-9]*
+*erigo[0-9]*
 *ertepe*
 *estabet*
 *ewi4d*
@@ -506,7 +508,7 @@
 *iustoto*
 *iustott*
 *iwallet*
-*jackpot[0-9]*
+*jackpot*
 *jagat[0-9]*
 *jagoan[0-9]*
 *jagobet*
@@ -575,6 +577,7 @@
 *kaki[0-9]*
 *kamarhoki*
 *kampungtoto*
+*kangbet*
 *kangslot*
 *kangtoto*
 *kantorbola*
@@ -759,6 +762,7 @@
 *maximtoto*
 *maxistoto*
 *maxwin*
+*mazdabet*
 *mbterbang*
 *mcdtoto*
 *mcmtoto*
@@ -1020,6 +1024,7 @@
 *rawit1[0-9]*
 *rejeki[0-9]*
 *republik365*
+*resmi[0-9]*
 *rezeki[0-9]*
 *rezekispin*
 *ria4d*
@@ -1036,12 +1041,14 @@
 *rokokbet*
 *rokokslot*
 *rolex[0-9]*
+*roma[0-9]*
 *romawibet*
 *rongtoto*
 *ronin86*
 *roratoto*
 *royal[0-9]*
 *royalslot*
+*rp55*
 *rp888*
 *rtp*
 *rudaltoto*
@@ -1051,6 +1058,7 @@
 *rupabet*
 *rupiah[0-9]*
 *rupiahtoto*
+*sabangbet*
 *sabangjitu*
 *sabi4d*
 *sableng[0-9]*
@@ -1183,6 +1191,7 @@
 *taxi[0-9]*
 *taxis[0-9]*
 *tayang4d*
+*taysen*
 *teamwish[0-9]*
 *tekun4d*
 *telurtoto*
@@ -1192,6 +1201,7 @@
 *tentoto*
 *tera4d*
 *terminalbet*
+*ternatetoto*
 *teslatoto*
 *texas88*
 *tgel*
@@ -1215,6 +1225,7 @@
 *tokoslot[0-9]*
 *tokototo*
 *tokyo[0-9]*
+*tokyojitu*
 *tombak[0-9]*
 *tomitoto*
 *toogeel*
@@ -1347,8 +1358,17 @@
 *zodiak[0-9]*
 *zoom[0-9]*
 4dsuper.*
+55rp*
+666j*
+77rp*
+888r*
+8g8g*
+8ii*
 990k-[0-9]*
 99kl.*
+99sl*
+9n9n*
+9sl*
 [0-9]-win*
 [0-9].cn.com
 [0-9]grd*
@@ -1357,6 +1377,7 @@
 aa[0-9]*
 adobsi*.id
 adobsi*.org
+afaf*
 alexavegas*
 amp*
 angkasetan.*
@@ -1368,6 +1389,7 @@ bn77*
 bos[0-9]*
 bu88*
 co88*
+cu888*
 cuankelas.*
 cuanmewah.*
 da88*
@@ -1385,6 +1407,7 @@ evo[0-9]*
 fc[0-9]*
 five[0-9]*
 fly[0-9]*
+fw66*
 gamespool*
 gem88*
 grd[0-9]*
@@ -1395,6 +1418,7 @@ ijp88*
 ixp88*
 j88*
 jkt[0-9]*
+jp67*
 k86*
 kendi*
 kkwin*
@@ -1412,6 +1436,7 @@ lv88*
 may88*
 mb88*
 mbi[0-9]*
+mc888*
 mm88*
 mw68*
 nitroplay*
@@ -1428,13 +1453,31 @@ pk88*
 pu88*
 pub88*
 puli[0-9]*
+qqrp*
 qs88*
+r6r6*
 red88*
 rg[0-9]*
+rk55*
+rk77*
+rk88*
+rp55*
+rp67*
+rp8*
+rp99*
+rprr*
+rpzz*
 rr88*
+rrrrr.*
+rt99*
+s9s9*
 sin88*
+sl88*
+sl99*
 sodo.*
 sodo[0-9]*
+sp66*
+spn88*
 ss88* 
 sungai*.com
 sungai*.in
@@ -1458,6 +1501,8 @@ up[0-9]*
 uu88*
 va88*
 vb88*
+vc55*
+vg123*
 vin88*
 vk88*
 vsa88bos.*
@@ -1469,6 +1514,7 @@ xo88*
 xx88*
 ypci*.id
 ypci*.org
+yyrr*
 zona[0-9].guru
 zx88*
 # [a-z0-9\-_]*.example.com # block all sub *.example.com but pass top domain example.com
