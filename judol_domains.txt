@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 36137
+# Number of entries: 36150
 #
 #
 #
@@ -6988,6 +6988,7 @@ chatcici4d.com
 chateauclosluce.com
 chateaurousseau.farmstand46.com
 chatpoker88.org
+chatsaja.net
 chatvirt.com
 chatyour.net
 chcarehealthcare.com
@@ -7693,8 +7694,10 @@ crownedestinationweddings.com
 crowngreen.com
 crownlah126.crowntogelgacor.net
 crowntogelgacor.com
+crs99.biz # subdom : lgn.crs99.biz
 crs99.net # subdom : live.crs99.net yuk.crs99.net
 crs99.online # subdom : lgn.crs99.online
+crs99.xyz # subdom : coin.crs99.xyz
 crs999.com
 crstgrrl.com # subdom : selalu-amp.crstgrrl.com
 cruiselinetips.com
@@ -8034,6 +8037,7 @@ dalianforex.com
 dalitfoundation.net
 dallasboulevardier.com
 dallaslottery.com
+dallasppcfirm.com
 dam-878.com
 dam88slot.com
 damacai-lottery.com
@@ -11326,6 +11330,7 @@ for4dtiga.com
 for88.beer
 forbes88.net
 forbes88vip.live
+forbidden-pet.vercel.app
 forbidden.w88in.com
 fordassumsel.org
 fordawin.info # subdom : afeoy.fordawin.info
@@ -11767,6 +11772,7 @@ gacorzbusa.com
 gacrcakra777rtp.help
 gadgeterbaru.com
 gadikfir.com
+gadingmedia.com
 gadmunicipalelchaco.gob.ec
 gadun55.com
 gadunslot-winner.site
@@ -15384,7 +15390,7 @@ jasacuan88.xyz
 jasacuanbuka.store
 jasacuann.xyz
 jasawordpress.shop
-jasmineforport.com
+jasj.usjasmineforport.com
 jasnadayton.org
 jasonoh.site
 jasonscoupons.com
@@ -15817,6 +15823,7 @@ jpdspin.xyz
 jpdul.online
 jpecgroup.com
 jpeg.ly # cloaking
+jpgsatset.com # cdn
 jpiamerica.com
 jpjati.info
 jpkoki.pro
@@ -16456,6 +16463,7 @@ kbo.bet
 kbobet-18757549.springbuilder.org
 kbodr.com
 kbokix1.com
+kby55-ori6a9ulmdzkwij8ohml3mmh.vercel.app
 kc-365.com
 kc168.net
 kclub.fm
@@ -18996,6 +19004,7 @@ louisianalottery.com
 louisvillesellmyhousefast.com
 loumaurork.xyz
 lovaprojects.xyz
+love-kyoto.net #
 love2teach.love
 love678.store
 loveatfirstbitecakes.co.uk
@@ -19084,6 +19093,7 @@ luanncarra.com
 lubavitchbrighton.com
 lubritzandnasri.com
 lucernepools.com
+lucidfood.com # hacked web
 luciferwg77.com
 luck777.online
 luck8.enterprises
@@ -27492,7 +27502,7 @@ rtpcipit88naga.xyz
 rtpcipit88sweet.online
 rtpcmr123.services
 rtpcrowntogel1.mikecarey.net
-rtpcrs99.com # subdom : jurus.rtpcrs99.com jam.rtpcrs99.com
+rtpcrs99.com # all subdom list in dead_judol_domains.txt
 rtpcuanbet88terpercaya.net-services.site
 rtpcuanwin77.ink
 rtpcukongbet1.xyz
@@ -29298,6 +29308,7 @@ shoei33.site
 shoei33.store
 shoesgala.com
 shoesuedeblues.com
+shoorthener.com 
 shootingthebull.net
 shootryl.click
 shop.autoconfig.mobiledevteam.com
@@ -29372,6 +29383,7 @@ shredmom.com
 shreeassociates.shop # cloaking
 shrimpfestfl.com
 shrmitfcbook.sa.com
+shrt.men # cloaking
 shrtbhk88.in # cloaking
 shrtkit.org # cloaking
 shrtlink.vip # cloaking
@@ -33695,6 +33707,7 @@ urbanmatter.xyz
 urbanrealtyservices.com
 urchinfest.com
 urlfact.com
+urlfree.cc # cloaking
 urlkub.co
 urlmsshorten.com # cloaking
 urlpsjshorten.com

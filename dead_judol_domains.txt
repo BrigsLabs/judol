@@ -2487,3 +2487,8 @@ res.qqkwbase.net
 client.salesmartly.com 
 widget.salesmartly.com 
 assets-cdn.salesmartly.com
+
+#from rtpcrs99.com # subdom : 
+jurus.rtpcrs99.com 
+jam.rtpcrs99.com 
+game.rtpcrs99.com

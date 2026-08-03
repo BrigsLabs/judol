@@ -115,6 +115,8 @@ tradingview-static.b-cdn.net
 static.tradingview.com
 images.dmca.com
 dmca-images.b-cdn.net
+impressions-img-eu.b-cdn.net
+image.eu.atmndx.com
 
 # from https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/spam-tlds-allow-onlydomains.txt
 nation.africa

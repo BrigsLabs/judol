@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2691
+# Number of entries: 2678
 # CDNs supporting site (may contains false positive)
 #
 # a1211.dscr.akamai.net # i.pinimg.com # whitelist
@@ -97,7 +97,6 @@ api-skygaming-ns2-1-default-rtdb.firebaseio.com
 api-sports.io # may create false positive
 api.7skytech.top
 api.aqzbouatv2.com
-api.cdnsport.xyz
 api.cloud.mime.services
 api.freshapp.top
 api.noproky.net
@@ -454,7 +453,6 @@ file001.nxtengine.net
 firebase-settings.crashlytics.com
 florensia-gacor.lon1.cdn.digitaloceanspaces.com
 fonts.cdnfonts.com
-forbidden-pet.vercel.app
 form.6mbr.com
 form.jotform.com # may create false positive
 former.tax.gov.kh # malicious backlink
@@ -464,7 +462,6 @@ freeimage.host
 frm88.pro
 gachaengine.com
 gacor300.sgp1.cdn.digitaloceanspaces.com
-gadingmedia.com
 galeri.cloud
 galerybanner.site
 gama69.sgp1.cdn.digitaloceanspaces.com
@@ -517,7 +514,6 @@ hokijp168.mediamsg2.com
 hostassets.online
 hosting-ampgsjp.site
 hostingblues.com.cdn.cloudflare.net
-hotelvillaveneta.com
 hslmantap.sgp1.cdn.digitaloceanspaces.com
 i.ibb.co
 i.ibb.co.com
@@ -539,7 +535,6 @@ iframe.oasisidn.com
 iframe.qrisflyer.com
 iframe.stwopay.com # may create false positive
 iframe1.qrizz.id
-igamingontario.ca
 iili.io
 image-cdn.link
 image777.sgp1.cdn.digitaloceanspaces.com
@@ -615,7 +610,6 @@ jagoangadget.com # scam # seo # landing
 jambudangs.xyz
 jamepix.com
 jandamuda.cfd
-jasj.us
 jbgaming.net # subdom : hidden-area.jbgaming.net # payment
 jbpush.com # subdom : ks7.jbpush.com
 jefcmhs3.gaofangz.com
@@ -628,7 +622,6 @@ jp-api.wlcas999.com
 jp-api.zoomwlb.com
 jp-api2.namesvr.dev
 jp-api2.namesvr.devl43fnw-1198-ppp.oss-accelerate.aliyuncs.com
-jpgsatset.com
 js.signalbit.io
 jstakecloud.link
 jurnal.univpgri-palembang.ac.id # hacked web
@@ -641,7 +634,6 @@ karep.pro
 kari-nih-ges.sgp1.digitaloceanspaces.com
 kaucengkia.atl1.cdn.digitaloceanspaces.com
 kauri.gallery.cdn.cloudflare.net
-kby55-ori6a9ulmdzkwij8ohml3mmh.vercel.app
 kenzototo.nyc3.cdn.digitaloceanspaces.com
 keodinh.net
 kerenbanget7.wordpress.com
@@ -651,7 +643,6 @@ khusus.nyc3.cdn.digitaloceanspaces.com
 kick.com
 kitapay.co # subdom : embed.kitapay.co
 kokobread.com
-kontak-kita.id # scam
 konversiart.top # seo
 kumpulanfile.sgp1.digitaloceanspaces.com
 l0bs-tterr.k0llpst3r.net
@@ -679,7 +670,6 @@ livechat-pro.preview.emergentagent.com # may create false positive
 livechat.design
 livechat88.chat
 livehelpnow.net # might be false positif
-livenobar.org
 liveplugins.com # subdom : gls.liveplugins.com
 lkdfvx-pub-aws-sss.nxtengine.id
 lkdfvx-pub-aws-sss.sgp1.digitaloceanspaces.com
@@ -689,12 +679,10 @@ lobbyplay.com
 localcloudhost.biz
 lordsexch.info
 lovable.app # all subdom list in dead_judol_domains.txt
-love-kyoto.net # hacked web
 lp4d.nyc3.cdn.digitaloceanspaces.com
 lpip209.sgp1.cdn.digitaloceanspaces.com
 lpnyabatak.sgp1.digitaloceanspaces.com
 luang.in # subdom : apk.luang.in
-lucidfood.com # hacked web
 luckyapi.xyz
 lumpiagoreng.xyz
 lxapk.s3.ap-southeast-1.amazonaws.com
@@ -935,7 +923,6 @@ s21-def.ks-la.net
 s3-ap-southeast-1.amazonaws.com
 s3-r-w.ap-northeast-1.amazonaws.com
 s3.assets-storage.info
-s3.cdnppp889.com
 s31.aconvert.com
 salesmartly.com # all subdom list in dead_judol_domains.txt # may create false positive
 samuelkigelman.com # hacked web
