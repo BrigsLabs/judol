@@ -53,6 +53,7 @@ alximg.b-cdn.net
 amdone.b-cdn.net
 amp-html.b-cdn.net
 amp-oct.b-cdn.net
+amp-rogtoto.b-cdn.net
 angkaku.b-cdn.net
 api-3m2b.seamlesss-hptech.com
 api-3m4.seamlesss-hptech.com
@@ -375,6 +376,7 @@ cekrtpbokaptoto.pages.dev
 cerofilas.pages.dev
 cheatslot-pakhoki.pages.dev
 chi-cham-si.pages.dev
+chip12-official.pages.dev
 choubochoubo-bad.pages.dev
 claude-4u.pages.dev
 cobacobajeeee.pages.dev
@@ -413,6 +415,7 @@ enough-is-enough.pages.dev
 ephysicsvn.pages.dev
 esgconsultingservicexkillyuwaaa.pages.dev
 espaciocreativoelche.pages.dev
+estoto-4d.pages.dev
 ethiobusiness.pages.dev
 euphoria-percentage.pages.dev
 ex-seo-gembira-ria.pages.dev
@@ -705,6 +708,7 @@ rtpasliindoslot303.pages.dev
 rtpbantuan2-rokok.pages.dev
 rtpbantuan3-online.pages.dev
 rtpberastogel-akurat3.pages.dev
+rtpestotoiceblue.pages.dev
 rtpfijislota.pages.dev
 rtpformasi4d.pages.dev
 rtpgacorjawabarat4d.pages.dev
@@ -732,6 +736,7 @@ rtpslotgacormedali.pages.dev
 rtpslotnew-rtibuntogel.pages.dev
 rtpslottanggawin.pages.dev
 rtpsoju88-1.pages.dev
+rtptanggaforyou.pages.dev
 rtptanggagacorjp.pages.dev
 rtptempo-bonanza.pages.dev
 rtputama4d2.pages.dev
@@ -758,6 +763,7 @@ seojojoo.pages.dev
 seomama969.pages.dev
 seoreff.pages.dev
 serenitycorner-amp.pages.dev
+serverthailand-8ts.pages.dev
 shadowmafiaoperationsnetwork.pages.dev
 short-omutogel-resmi.pages.dev
 shortlink-hotjitu-login.pages.dev
@@ -800,6 +806,10 @@ taiappgk88.pages.dev
 takipcintr.pages.dev
 talon-kikir.pages.dev
 tamaaaatt-google-core.pages.dev
+tanggatogel-an0.pages.dev
+tanggatogel-fire.pages.dev
+tanggatogel-gasketua.pages.dev
+tanggatogel-liveslot.pages.dev
 target4d-seo.pages.dev
 target4duhuy.pages.dev
 teenchallengeuc-kodack.pages.dev
@@ -909,6 +919,7 @@ pub-5f8ae9405353495b8fe4778bd785c128.r2.dev
 pub-609ed79ad73a45f6a3f93fd77dbfc4a6.r2.dev
 pub-61adfb4568d94aaea721503fa0df9f5a.r2.dev
 pub-63ef8a83684343d788bc4e2196ba7dbe.r2.dev
+pub-65759e4fd0324f7680a0a3913203d631.r2.dev
 pub-6667608f0e5a467697ee61610950a063.r2.dev
 pub-6956b2f01e7a4888bb56dcdf7131466b.r2.dev
 pub-6de05fd8a9f5478ebaaf615c1e697720.r2.dev
@@ -1089,6 +1100,7 @@ enterbyzantia.it.com
 erzurumspor.it.com
 esblue.it.com
 esdice.it.com
+estotoqq.it.com
 event.dewahoki88.it.com
 examove.it.com
 falkon4d.it.com
@@ -1248,6 +1260,7 @@ sumbartoto-online.it.com
 t0t0g4lsriwijaya.it.com
 taca.it.com
 tafsir-mimpi.it.com
+tanggabet.it.com
 tanggamonas.it.com
 tanggaqq.it.com
 tanggasurga.it.com
@@ -1833,6 +1846,7 @@ jentoto-anorange.gasukagelay.workers.dev
 jogoluck.app-b17.workers.dev
 kejurtps.master-138group.workers.dev
 live-punya2.puhseo.workers.dev
+live-punyatoto12.totoduabelas12.workers.dev
 phapac.hafeiniamilan.workers.dev
 puhseo.workers.dev
 rashakai.sijago88.workers.dev
@@ -1950,6 +1964,7 @@ gamepalinggacor.netlify.app
 getafealdia.netlify.app
 initogel-skip-this-step.netlify.app
 inquisitive-sherbet-acafee.netlify.app
+journal-akin.netlify.app
 kilat77-gandalf.netlify.app
 kuningtotodanmasbc.netlify.app
 mawar500-atememlakgazetesi.netlify.app
@@ -1964,6 +1979,7 @@ rusa-ayo-aku-dimarahin-nih.netlify.app
 scintillating-stroopwafel-b7dc16.netlify.app
 toto188-slot-casino.netlify.app
 watermen.netlify.app
+zippy-crispy-bedaky.netlify.app
 
 #from airgunungmyoboku.com # subdom : 
 airsuci.airgunungmyoboku.com 
@@ -2103,6 +2119,7 @@ apkapi-oc8.rebrandy.site
 apkapi-hrs.rebrandy.site
 apkapi-sa5.rebrandy.site
 apkapi-gs7.rebrandy.site
+apkapi-sor.rebrandy.site
 
 #from ltn7.com # subdom : 
 promosi.ltn7.com 
@@ -2333,6 +2350,8 @@ alexis.simplyworks.xyz
 cola.simplyworks.xyz 
 rjb.simplyworks.xyz
 kiko.simplyworks.xyz
+to12.simplyworks.xyz
+rog.simplyworks.xyz
 
 #from satset189x.live : subdom :
 cs001.satset189x.live
@@ -2492,3 +2511,24 @@ assets-cdn.salesmartly.com
 jurus.rtpcrs99.com 
 jam.rtpcrs99.com 
 game.rtpcrs99.com
+
+#from rogburst.com # subdom : 
+rtp0028.rogburst.com 
+wa0005.rogburst.com 
+prediksi0020.rogburst.com 
+buktijp0012.rogburst.com 
+panduan0003.rogburst.com 
+promo0011.rogburst.com 
+week0001.rogburst.com 
+lomba0001.rogburst.com 
+luckyspin0003.rogburst.com
+
+#from bejospin.com # subdom : 
+totonusa.bejospin.com 
+totobeta.bejospin.com 
+totobarong.bejospin.com
+
+#from aduantoto12super.pro # subdom : 
+37.aduantoto12super.pro 
+1.aduantoto12super.pro 
+16.prediksitoto12stars.pro

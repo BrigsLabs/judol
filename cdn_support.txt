@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2678
+# Number of entries: 2853
 # CDNs supporting site (may contains false positive)
 #
 # a1211.dscr.akamai.net # i.pinimg.com # whitelist
@@ -57,6 +57,7 @@ akucloud.com
 akundewaa.site
 alb-ipppw0c8ujq4ywp6eq.ap-southeast-1.alb.aliyuncs.com
 alcopay.com
+alimosho.lg.gov.ng # backlink
 all-carousel.xyz # apk
 alphabod.org
 amatic.com
@@ -169,6 +170,7 @@ aws-learning-kit.bitslovers.com.cdn.cloudflare.net
 b-cdn.net # all subdom list in dead_judol_domains.txt
 b1speed.info
 b729j88.com # subdom : img.b729j88.com
+babakan.desa.id
 bacan4dblog.wordpress.com
 bacan4dofficial.wordpress.com
 bacan7.wordpress.com
@@ -183,9 +185,11 @@ bannerfoto.shop
 barangtupunyokito.sgp1.cdn.digitaloceanspaces.com
 bas3data.xyz
 batesvilleclinicms.com # hacked web : https://www.batesvilleclinicms.com/our-staff
+bcaa.gov.bs # backlink
 behh-skuy-lah.s3.eu-north-1.amazonaws.com
 bestlink.ly
 bgdn.eu # hacked web
+billyjack.com # backlink
 binder-nx1.namesvr.xyz
 binder-nx2.bindname2.site
 binder-nx2.bindserv2.site
@@ -201,23 +205,23 @@ bluecreekdenver.com # hacked web : bluecreekdenver.com/contact
 bmw777.sgp1.cdn.digitaloceanspaces.com
 bo.gacha.business
 bonanzastatic.com # subdom : images-bucket.bonanzastatic.com
+bturn.com # backlink
 buktiedctoto.sgp1.digitaloceanspaces.com
 by437ocd.ovslegodl.sched.ovscdns.com
 c23f1bb1b6d0420a94d3aeebea36c4c1.pacloudflare.com
 ca-f295d788950d4cb6af5274e37505bd9b.ecs.ap-southeast-2.on.aws
 cafe-69-moneysite-default-rtdb.firebaseio.com
+call-center.my.id # backlink
 cashier.onetoauto.com
 castotoapk.sgp1.digitaloceanspaces.com
 cbdbanner.sgp1.cdn.digitaloceanspaces.com
 cd537.wordpress.com
-cdn-content.ampproject.org
 cdn-host.proxy188.com
 cdn-proxy.globalcontentcloud.com
 cdn-ptthoki.sgp1.cdn.digitaloceanspaces.com
 cdn-seamless.m40c7v9i.com
 cdn-services.dev
 cdn.ably.com
-cdn.ampproject.org
 cdn.apple-mapkit.com
 cdn.asstlnk.com
 cdn.embed.ly
@@ -252,6 +256,7 @@ cdndeliver.xyz
 cdnmonster.net
 cdnres.yidaiyiluclub.com
 cdnsimple.top
+cfeps.org # backlink
 cfilvs.i3457.com
 chaport.com
 chat-socket.onechat.dev
@@ -262,6 +267,7 @@ chlink.skystarbiru.com
 cialisrtl.com # seo backlink
 cici4d.s3.wasabisys.com
 cikatech.sgp1.digitaloceanspaces.com
+cityofgapan.gov.ph # backlink
 clanker-events.squarespace.com
 click.heylink.me
 clickdrive.tech
@@ -484,8 +490,10 @@ gasnow.site # subdom : newapi.gasnow.site static.guard.gasnow.site
 gate.continue.group
 gate.networkappcomm.com
 gd88.app
+gearjib.com # backlink
 getairank.top # seo
 ghoulfire.pro
+gifrogtoto.sgp1.digitaloceanspaces.com
 gifyu.com
 giga-live-1-default-rtdb.asia-southeast1.firebasedatabase.app
 giga-live-2-default-rtdb.asia-southeast1.firebasedatabase.app
@@ -634,6 +642,7 @@ karep.pro
 kari-nih-ges.sgp1.digitaloceanspaces.com
 kaucengkia.atl1.cdn.digitaloceanspaces.com
 kauri.gallery.cdn.cloudflare.net
+kemenagkabjombang.com # backlink
 kenzototo.nyc3.cdn.digitaloceanspaces.com
 keodinh.net
 kerenbanget7.wordpress.com
@@ -719,6 +728,7 @@ midme.xyz
 miegacoan.sirv.com
 mikatoto.sgp1.digitaloceanspaces.com
 militia-watchdog.org
+miracle-backlink.space 
 mjitincorp.club
 mkp-prod.nyc3.cdn.digitaloceanspaces.com
 mlp3vptao30s.i.optimole.com
@@ -781,7 +791,6 @@ nyanpasu.click
 object-d001-cloud.cloudstoragesharingservice.com
 objek-d001-cloud-akucloud-valid.sukagambarku.com
 ol1-maribermain8899-com.evonetworks.net
-olxjaya168.com
 omnitrend.biz # subdom : collector-cps-live.omnitrend.biz
 omutgl.sgp1.digitaloceanspaces.com
 onix-live-2-default-rtdb.firebaseio.com
@@ -924,6 +933,7 @@ s3-ap-southeast-1.amazonaws.com
 s3-r-w.ap-northeast-1.amazonaws.com
 s3.assets-storage.info
 s31.aconvert.com
+sales-cantik.my.id # backlink
 salesmartly.com # all subdom list in dead_judol_domains.txt # may create false positive
 samuelkigelman.com # hacked web
 savegambar.com
@@ -1037,6 +1047,8 @@ t4.ftcdn.net
 takenupload.com
 tamansejahtra.com
 tambangmu.com
+tanggagokil.github.io
+tanggajaya.github.io
 tango99bro.github.io
 tasya51.wordpress.com
 tawk.to # may create false positive
@@ -1071,6 +1083,7 @@ tracegilton.com.cdn.cloudflare.net
 traff-poland.net
 tranfertous.com
 transcend-cdn.com
+travelsofsura.com # backlink
 trinetraeyecare.com # hacked web
 trustx.id # qris payment 
 tulumlatingastropubmke.com # hacked web : https://www.tulumlatingastropubmke.com/menus
@@ -1136,6 +1149,7 @@ ws-ap1.pusher.com
 wss.823868.com
 wtgplay.xyz # subdom : apk.wtgplay.xyz media.wtgplay.xyz
 xasia.me
+xehd2o.com # subdom : cdn-agent.xehd2o.com
 xemtinhay.com
 xenopay.id
 xjkknx.sgp1.cdn.digitaloceanspaces.com
@@ -2589,6 +2603,83 @@ sukamulia.id
 sumberjosari.id
 surveydisdikaceh.com
 sustainabilitygenomeproject.org
+suzuki-ambon.my.id 
+suzuki-balikpapan.my.id 
+suzuki-bandaaceh.my.id 
+suzuki-bandengan.my.id 
+suzuki-banjar.my.id 
+suzuki-batu.my.id 
+suzuki-baubau.my.id 
+suzuki-bengkulu.my.id 
+suzuki-bima.my.id 
+suzuki-binjai.my.id 
+suzuki-bitung.my.id 
+suzuki-bontang.my.id 
+suzuki-bukittinggi.my.id 
+suzuki-cikarang.my.id 
+suzuki-cilegon.my.id 
+suzuki-cimahi.my.id 
+suzuki-cirebon.my.id 
+suzuki-denpasar.my.id 
+suzuki-depok.my.id 
+suzuki-dumai.my.id 
+suzuki-gunungsitoli.my.id
+suzuki-jakbar.my.id
+suzuki-jakpus.my.id
+suzuki-jaksel.my.id
+suzuki-jaktim.my.id
+suzuki-jakut.my.id
+suzuki-jambi.my.id
+suzuki-jayapura.my.id
+suzuki-kendari.my.id
+suzuki-kupang.my.id
+suzuki-langsa.my.id
+suzuki-lhokseumawe.my.id
+suzuki-lubuklinggau.my.id
+suzuki-manado.my.id
+suzuki-mataram.my.id
+suzuki-metro.my.id
+suzuki-mobagu.my.id
+suzuki-padang.my.id
+suzuki-padangpanjang.my.id
+suzuki-pagaralam.my.id
+suzuki-palangkaraya.my.id
+suzuki-palembang.my.id
+suzuki-palopo.my.id
+suzuki-pangkalpinang.my.id
+suzuki-parepare.my.id
+suzuki-pariaman.my.id
+suzuki-payakumbuh.my.id
+suzuki-pekanbaru.my.id
+suzuki-pematangsiantar.my.id
+suzuki-pontianak.my.id
+suzuki-prabumulih.my.id
+suzuki-pulogadung.my.id
+suzuki-puriindah.my.id
+suzuki-riau.my.id
+suzuki-sabang.my.id
+suzuki-salatiga.my.id
+suzuki-samarinda.my.id
+suzuki-sawahlunto.my.id
+suzuki-sibolga.my.id
+suzuki-solok.my.id
+suzuki-sorong.my.id
+suzuki-subulussalam.my.id
+suzuki-sukabumi.my.id
+suzuki-sungaipenuh.my.id
+suzuki-surabaya.my.id
+suzuki-surakarta.my.id
+suzuki-tangsel.my.id
+suzuki-tanjungbalai.my.id
+suzuki-tanjungpinang.my.id
+suzuki-tarakan.my.id
+suzuki-tasikmalaya.my.id
+suzuki-tebingtinggi.my.id
+suzuki-ternate.my.id
+suzuki-tidorekepulauan.my.id
+suzuki-tomohon.my.id
+suzuki-tual.my.id
+suzuki-yogyakarta.my.id
 svarchery.org
 svccchurch.org
 svhistorical.org
@@ -2634,6 +2725,90 @@ tnfather.org
 tocafrica.org
 tocic-nal.org
 tomchain.org
+toyota-ambon.my.id
+toyota-bandaaceh.my.id
+toyota-banjar.my.id
+toyota-banyuwangi.my.id
+toyota-batam.my.id
+toyota-batu.my.id
+toyota-baubau.my.id
+toyota-bengkulu.my.id
+toyota-bima.my.id
+toyota-binjai.my.id
+toyota-bitung.my.id
+toyota-bojonegoro.my.id
+toyota-bontang.my.id
+toyota-bukittinggi.my.id
+toyota-cilegon.my.id
+toyota-cimahi.my.id
+toyota-denpasar.my.id
+toyota-depok.my.id
+toyota-dumai.my.id
+toyota-gresik.my.id
+toyota-gunungsitoli.my.id
+toyota-jakbar.my.id
+toyota-jakpus.my.id
+toyota-jaksel.my.id
+toyota-jaktim.my.id
+toyota-jakut.my.id
+toyota-jambi.my.id
+toyota-jayapura.my.id
+toyota-jember.my.id
+toyota-jombang.my.id
+toyota-kediri.my.id
+toyota-kendari.my.id
+toyota-kupang.my.id
+toyota-langsa.my.id
+toyota-lhokseumawe.my.id
+toyota-lubuklinggau.my.id
+toyota-madiun.my.id
+toyota-magelang.my.id
+toyota-malang.my.id
+toyota-manado.my.id
+toyota-mataram.my.id
+toyota-metro.my.id
+toyota-mobagu.my.id
+toyota-padangpanjang.my.id
+toyota-pagaralam.my.id
+toyota-palangkaraya.my.id
+toyota-palembang.my.id
+toyota-palopo.my.id
+toyota-palu.my.id
+toyota-pamekasan.my.id
+toyota-pangkalpinang.my.id
+toyota-parepare.my.id
+toyota-pariaman.my.id
+toyota-payakumbuh.my.id
+toyota-pekalongan.my.id
+toyota-pematangsiantar.my.id
+toyota-prabumulih.my.id
+toyota-probolinggo.my.id
+toyota-sabang.my.id
+toyota-salatiga.my.id
+toyota-samarinda.my.id
+toyota-sawahlunto.my.id
+toyota-serang.my.id
+toyota-sibolga.my.id
+toyota-singkawang.my.id
+toyota-solok.my.id
+toyota-sorong.my.id
+toyota-subulussalam.my.id
+toyota-sungaipenuh.my.id
+toyota-surabaya.my.id
+toyota-surakarta.my.id
+toyota-tangsel.my.id
+toyota-tanjungbalai.my.id
+toyota-tanjungpinang.my.id
+toyota-tarakan.my.id
+toyota-tasikmalaya.my.id
+toyota-tebingtinggi.my.id
+toyota-ternate.my.id
+toyota-tidorekepulauan.my.id
+toyota-tomohon.my.id
+toyota-tual.my.id
+toyota-tulungagung.my.id
+toyota-waru.my.id
+toyota-yogyakarta.my.id
 toysplanet.org
 tozard.org
 transformarts.org
