@@ -1154,6 +1154,7 @@ xehd2o.com # subdom : cdn-agent.xehd2o.com
 xemtinhay.com
 xenopay.id
 xjkknx.sgp1.cdn.digitaloceanspaces.com
+xn--22cd0gb3at8cva6a.today
 xn--u9jvhkcug1b2130h86sa.com
 xx1toto4.wordpress.com
 y2cdn.com
@@ -1173,7 +1174,6 @@ zkt.mb.cdn-dysxb.com
 zm-cdn.zoomwl.com
 zmobileservices.com
 zmobileservices.us
-มีความสุข.today
 ##############################
 # suspicious scam & backlink #
 ##############################
