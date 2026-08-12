@@ -229,9 +229,11 @@ apkapi-jns.bitly.sbs
 3dhoki-sahara.pages.dev
 6899e41a.rtplawak4d.pages.dev
 79k.pages.dev
+88clb06.pages.dev
 8fb4a7e9.rtpkingslot96.pages.dev
 999ok.pages.dev
 99kl.pages.dev
+abc806.pages.dev
 abutogel-newrtpslot.pages.dev
 acuitykit.pages.dev
 additivebiomanufacturing.pages.dev
@@ -462,6 +464,7 @@ istanaimpian3-rtp.pages.dev
 istanaimpian4-rtp.pages.dev
 it-bagong4d.pages.dev
 izinnnn-ngerankk-yakk.pages.dev
+j806.pages.dev
 jablay123-bet-777.pages.dev
 jacknathanmedspa-amp.pages.dev
 jackpot-api88.pages.dev
@@ -807,6 +810,7 @@ togelhitam.pages.dev
 top1toto-superkeren.pages.dev
 topanhokimantapterus.pages.dev
 tupaiwin11-trunorthlabs.pages.dev
+u806.pages.dev
 ucpbgen.pages.dev
 udah-lama-gakjumpa.pages.dev
 univ-ikopin.pages.dev
@@ -1021,10 +1025,12 @@ apkapi-ked.datasvc.site
 188v.it.com
 23wincom.it.com
 310726.ternate.it.com
+68win.it.com
 777-bet.it.com
 789f.it.com
 838win.it.com
 98winn.it.com
+999e.it.com
 acgwin.it.com
 akses.rupiah222.it.com
 aksesahk77.it.com
@@ -1137,6 +1143,7 @@ lisatoto.it.com
 livebolaid.it.com
 london69main.it.com
 london69vip.it.com
+lumbung138gacor.it.com
 m1toto-4d.it.com
 mabosplaydaftar.it.com
 macau303.it.com
@@ -1811,6 +1818,7 @@ dorahokiland.king168.workers.dev
 dsuown9evwz4y.cloudfont.workers.dev
 eselgradnja-brutal77.proplayer-esport046.workers.dev
 fragrant-base-9dda.idebet88.workers.dev
+google-abcvip-ph.public-f1c.workers.dev
 hantam88-anti-zonk.rjpl-group.workers.dev
 hotelinternationalrhodes.amanbos.workers.dev
 idnpoker.mjitcorporationltd.workers.dev
@@ -1950,6 +1958,7 @@ rtp-pttgroup.netlify.app
 rtphanabi88go8.netlify.app
 rusa-ayo-aku-dimarahin-nih.netlify.app
 scintillating-stroopwafel-b7dc16.netlify.app
+totalcareremovals.netlify.app
 toto188-slot-casino.netlify.app
 watermen.netlify.app
 zippy-crispy-bedaky.netlify.app
@@ -2093,6 +2102,7 @@ apkapi-hrs.rebrandy.site
 apkapi-sa5.rebrandy.site
 apkapi-gs7.rebrandy.site
 apkapi-sor.rebrandy.site
+apkapi-sh7.rebrandy.site
 
 #from ltn7.com # subdom : 
 promosi.ltn7.com 
@@ -2505,3 +2515,9 @@ totobarong.bejospin.com
 37.aduantoto12super.pro 
 1.aduantoto12super.pro 
 16.prediksitoto12stars.pro
+
+#from lbg38.com # subdom : 
+daftar1.lbg38.com 
+daftar2.lbg38.com 
+server1.lbg38.com 
+wkwk.lbg38.com

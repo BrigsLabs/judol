@@ -38,6 +38,7 @@ cdf2ce9b60bb46d1800b07cd7fcdff4f.vip1.huaweicloudwaf.com
 cdn.awsusor1.fds.api.mi-img.com
 chatapp-admin.line-scdn.net
 connect.detik.com
+d1uge9fya48pu3.cloudfront.net
 e28142.dscg.akamaiedge.net
 e28622.a.akamaiedge.net
 e28622.api1.akamaiedge.net
@@ -52,12 +53,14 @@ e28622.api9.akamaiedge.net
 e28622.b.akamaiedge.net
 ec-api.akulaku.com
 fcm23.prod.eacn.ea.com
+firefly.adobe.io
 gecko16-normal-alisg.tiktokv.com
 groups.social.ea.com
 hermes2.grabtaxi.com
 hotapi16-normal-alisg.tiktokv.com
 kikocosmetics.com
 launcher-h3.shalltry.com
+libra-sg.tiktokv.com
 libra16-normal-alisg.tiktokv.com
 libra16-normal-useast5.tiktokv.us
 libra32-normal-alisg.tiktokv.com
@@ -72,7 +75,9 @@ pull-flv-l11-sg01.tiktokcdn.com
 recent.svc.cloud.microsoft
 restart-api.palmplaystore.com
 search16-normal-c-alisg.tiktokv.com
+search16-normal.tiktokv.com
 sfds-geo.xbetservices.akadns.net
+sg-mi-api-server.allsaints.tv
 sg-o-api-server.allsaints.tv
 sg01.tt-freeflow.lego3.tdnsliveovs2.com
 starling-sg.tiktokv.com
@@ -205,6 +210,7 @@ scalable.capital
 commonspirit.careers
 keys.casa
 nabu.casa
+cake.cash
 doe.cash
 redtiger.cash
 vitunleija.cash
@@ -582,6 +588,7 @@ site.new
 slide.new
 google.com.ng
 clash.ninja
+flashscore.ninja
 giveaway.ninja
 poe.ninja
 protomedia.ninja
@@ -758,6 +765,7 @@ weinwunder.shop
 wielrenner.shop
 winefactory.shop
 xn--dnemark-5wa.shop
+zonwering.shop
 camz.show
 j.show
 additive-apps.site
@@ -1066,4 +1074,3 @@ makea.zip
 transfer.zip
 uploaded-files.zip
 voron.zip
-
