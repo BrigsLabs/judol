@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 2853
+# Number of entries: 2854
 # CDNs supporting site (may contains false positive)
 #
 # a1211.dscr.akamai.net # i.pinimg.com # whitelist
@@ -1031,6 +1031,7 @@ style.mixlink.top
 stylesheet.site
 subdo.asia
 subimage.xyz
+sublinexpears.com
 sugarmochi-official.com # hacked web : https://www.sugarmochi-official.com/order
 suhu-amavi.s-ed1.cloud.gcore.lu
 suka-staging.s3.ap-southeast-1.amazonaws.com

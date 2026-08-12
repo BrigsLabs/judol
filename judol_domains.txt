@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 36290
+# Number of entries: 36342
 #
 #
 #
@@ -2566,6 +2566,7 @@ alloascend.vip
 allpetmagazine.com
 allsavage.store
 allsavvy.net
+allscores.co.uk
 allsejati.com
 allsindhjobz.com
 allslot-pg.com
@@ -2931,6 +2932,7 @@ andrewcatdancer.me
 andrewlevino.com
 andrewsantinowife.com
 androloka.com
+andromedasino21.com
 andychrisman.net
 andygarcia.us.com
 andynarell.com
@@ -4854,6 +4856,7 @@ bermaindarigotopublicinter.xyz
 bermudaelectricboatrentals.com
 bermuka.com
 berninasewingetc.com
+bernypack.fr
 bersama.temanrezeki.com
 bersamaelevens.com
 bersamaibet.site
@@ -6058,6 +6061,7 @@ buaya138spin.click
 buaya138spin.sbs
 buaya188.net
 bubbaddresort.com
+bubbagumpshrimp.co.uk
 bubbleonic.space
 bubbleurl.com # cloaking
 bubet.com
@@ -7369,11 +7373,13 @@ cmxindustrial.com
 cn-welly.com
 cna.cotatrack.com
 cncbet.site
+cncp-feuillette.fr
 cnfabian.com
 cnfortaleza.com.br # malicious backlink
 cnicdz.com
 cnjiufang.com
 cnps.cn.com
+cnrm-game.fr
 cnsglobaladvisors.com
 cnwpg.org
 co2olclean.com
@@ -8079,6 +8085,10 @@ dam-878.com
 dam88slot.com
 damacai-lottery.com
 damanclub.life
+damangame.ltd
+damangame.site
+damangamelog.in.net
+damanlogin.in.net
 damansuperstar1.com
 damanworld.world
 damaskuslottery.com
@@ -8753,6 +8763,7 @@ digitalfodder.com
 digitalisierungstour-bw.org
 digitalmarketing.ru.com
 digitalmarketingchamps.com
+digitalplace.fr
 digitalrythm.org
 digitaltalentagents.com
 digitalwaypro.com 
@@ -9680,6 +9691,7 @@ dmctechnologies.uk.com
 dmodernart.com
 dmsales.net
 dmssultan.com
+dmwinin.in.net
 dn88.bio
 dn88.onl
 dn88b.com
@@ -11649,6 +11661,7 @@ fullberkah.xyz
 fullcircleteam.com
 fullhdpictures.net
 fullhoki.me
+fullhousecrypto.com
 fullkeerestaurant.com
 fullrangebeats.com
 fullsenyum.cc
@@ -11979,6 +11992,7 @@ gandacuan.shop
 ganesa189.biz
 ganesa189.store # all subdom move to dead_judol_domains list
 ganesa189x.com
+ganga.games
 gangan.biz
 gangbet88.vip
 gangcuci.fun
@@ -13197,6 +13211,7 @@ harborcas.com
 harborlightsgrilleonthelake.com
 harbour-records.co.uk
 hardinscientific.com
+hareact.eu
 hargadecu.com
 hargalaptop.id
 hargamerek.com
@@ -13836,6 +13851,7 @@ hospitalmedicalcare.com
 hospitalsaoluiz.org
 hospitalshub.com
 hospitalshubham.com
+hostariaducale.it
 hosting.pic2go.com
 hostinganddomainreviews.com
 hostinggambar.com # cdn
@@ -15253,6 +15269,7 @@ jagoan.bio
 jagoan88.org
 jagoan88daftar.cfd # subdom : server14.jagoan88daftar.cfd
 jagoansatutujuhdelapan.xyz
+jagoansenang.live
 jagobet19.com
 jagobet19.net
 jagobet19.online
@@ -15272,6 +15289,8 @@ jagungman.com
 jagungtoto.com
 jahilkingtop.com
 jahitbaju.cc
+jaiclub.games
+jaiclub04.com
 jaidemaville.fr
 jaihanumanchalisa.com
 jaipurlottery.com
@@ -15336,8 +15355,10 @@ jalwa.org
 jalwa.vip
 jalwaa.game
 jalwaai.com
+jalwagam.games
 jalwagamee.co.in
 jalwar.com
+jalwaz.in.net
 jamahal.net
 jamaica-lotto.com
 jamaicasuperlotto.com
@@ -16347,6 +16368,7 @@ kanopys.com
 kansascitydj.net
 kanslottery.com
 kantarbridge.com
+kantinjago368.com
 kantorbolagg.rest
 kantorbolajaya.rest
 kantorbolajaya.world
@@ -19131,6 +19153,7 @@ lpsekemenkes.com
 lptechlog.com
 lptqkabupatenbengkalis.org
 lql.us.com
+lr94--lizaro.com
 lroxsqud.com
 lrschool.com
 lrtnbbhpqtypxxj.net
@@ -19181,6 +19204,7 @@ luck99pro.site
 luck99utama.xyz
 luckau2.com
 luckgaming138.net
+luckleopard21.io
 lucky-api.xyz
 lucky-dhx.live # all subdom move to dead_judol_domains list
 lucky-panel.xyz # all subdom move to dead_judol_domains list
@@ -21554,6 +21578,7 @@ musimtogel2d.org
 musimtogelcs.org
 musingsofamariominion.com
 musisi.org # landing
+muskanclub.game
 muskelschwund.net
 mustafasaifee.com
 mustikajimat69.com
@@ -22359,6 +22384,7 @@ nona88diadem.xyz
 nona88javelin.xyz
 nonamerestaurantwm.com
 nondenominationalweddings.com
+nongamstopukcasino.uk
 nongkrongasik.lol
 nonnacialda.com
 nono4damai.com
@@ -23529,6 +23555,7 @@ pages.printcolorcraft.com
 pageturnreviews.com
 pageupgroup.com.au
 pagliarino.net
+paglu-game.co
 pagosatrails.net
 pahala4d-login.weebly.com
 pahala4d-olise.com
@@ -23938,6 +23965,7 @@ pasarantogel2.cloud
 pasarantogel2.xn--6frz82g
 pasarantogelhijau.xyz
 pasarantogeljp.xyz
+pasarjagoanku.live
 pasarjw.com # subdom : diskon.pasarjw.com
 pasarkedai69new.com
 pasaylottery.com
@@ -24109,6 +24137,7 @@ peakau.com
 peaklandbaptistchurch.org
 peakmemissme.site
 peakstartup.org
+pearl-fp7.eu
 pearlandelectric.com # subdom : services.pearlandelectric.com
 pearlpoint.info
 pec9.com
@@ -24667,6 +24696,7 @@ pitler.xyz
 piton99fun.com
 pittabun.com
 pixiubetplay.net
+pixter.co
 pizza-agogo.com
 pizzaalgiulia.com
 pizzachefguyton.com
@@ -25429,6 +25459,7 @@ premudraja.net
 prensa.org.mx
 preprod.solarbotics.net
 preranahospital.com
+prescriforme.fr
 presentedbyp.com
 presidensloot.net # subdom : hoki777.presidensloot.net presidenslotwin.presidensloot.net
 presidenslotapk.com
@@ -25779,6 +25810,7 @@ pusatrtp-topwin.cfd
 pusatwaktogel.org
 pusdiknas.id
 push2extreme.com
+pushpaclubgame.games
 pusingkalibosku.store
 puskesmaskotaagung.org
 pussy888.mobi
@@ -26172,6 +26204,7 @@ rajafade.com
 rajagacorai.com
 rajagacorgoks.com
 rajagacorhere.com
+rajagames.game
 rajagelap.xyz
 rajagelas.online
 rajaguntur.site
@@ -26232,6 +26265,7 @@ rajakkslot777.co
 rajalangit77jepe.com # subdom : jepe5.rajalangit77jepe.com
 rajalangit77official.com
 rajalangit77rtp.com
+rajaluck.net
 rajamacau.link
 rajamahjong.site # cloaking
 rajamahjonglink.site # cloaking
@@ -26528,6 +26562,7 @@ regalau777b.com
 regalvanlines.com
 regem.bet
 regenerativeagroforestry.org
+regionalnetworks.org.uk
 regis.knpimasamba.org # cloaking
 registdisini.xyz
 register.918kiss.game
@@ -26974,6 +27009,7 @@ rodarodaonline.club
 rodasingaslt.com
 rodatiket.com
 roddyra.dev
+rodipet.co.uk
 rodmckinneylaw.com
 rogburst.com # all subdom list in dead_judol_domains.txt
 rogcuanbanyak2.site
@@ -29333,6 +29369,7 @@ sha-256.io
 shacmanfactory.com
 shadesnaturalcolor.com
 shadowcore.one # subdom : 5berries.shadowcore.one
+shaggychiquekokomo.com
 shahtaxti.com
 shainotshy.org
 shakasho.za.com
@@ -29375,6 +29412,7 @@ shebuyshebuilds.com
 sheetvegas6d.com
 shekicks.net
 shelbylimited.org
+shelbywin.casino
 shell777.one
 shell99.me
 shellbournehospitality.org
@@ -32117,6 +32155,7 @@ thecitycentre.london
 thecitymedclinic.com
 thecleverbackpacker.com
 theclevershoppher.com
+thecoalmancafeandbar.com
 thecollectivetribe.com
 thecommodoredc.com
 thecookierack.com
@@ -32494,6 +32533,7 @@ tipspragmaticplay.com
 tirachinasprofesionales.com
 tirai77.bid
 tiraimenyala.biz
+tirangagam.net
 tirangalogin.net
 tirassport.org
 tireabout.com
@@ -33200,6 +33240,7 @@ tribuntogel3d.com
 tribuntogeljitu.com
 tricityfoods.com # subdom : join.tricityfoods.com
 trickslot.online
+trickz13.com
 trideltasc.com # subdom : amp.trideltasc.com
 tridentgroup.sa.com
 trijssenaar.nl
@@ -33421,6 +33462,7 @@ tuvalulottery.com
 tuyulku-vegas138.site
 tuzzrecords.com
 tv-preview.massiveaxis.com
+tv-sevreetmaine.fr
 tv88.ae.org
 tv88.autos
 tv88.br.com
@@ -34290,6 +34332,7 @@ vin99.blue
 vinaslot111.com
 vinbettt.com
 vinegainesville.com
+vinescout.eu
 vineyardharvest.finance
 vinospizzabaymeadows.com
 vintagejack.net
@@ -34673,6 +34716,7 @@ waderder.com # subdom : buku.waderder.com prediksi.waderder.com tutorial.waderde
 waec2025.com
 waevpn.com
 wager.tw
+wagerland347.com
 wahana-toto2.blog
 wahana1jackpot.online
 wahanaslot17.vip
@@ -34804,6 +34848,7 @@ warung168.net
 warungcash189-mahjong.com
 warungdanajos.com
 warungindo.live
+warungjago368.com
 warungjazz.xyz
 warungmaxwin.quest
 warungpk.cc
@@ -35197,6 +35242,7 @@ wildthymerestaurant.co.uk
 wildtokyo50.com
 wildtokyo64.com
 wildtokyo65.com
+wildzy.io
 will-be-ok.info
 willardnu.com
 willhsucafe.com
@@ -35828,6 +35874,8 @@ y3.co.com
 ya-3114.com
 ya-4881.com
 ya-7723.com
+yaarwin.game
+yaarwinvip.com
 yabo-tw.com
 yachadmaccabi.org
 yachtchartersinmiami.com
@@ -35857,6 +35905,9 @@ yb-0715.com
 yb-4015.com
 yb-8355.com
 ydybwx.vip
+yearwin.app
+yearwin.games
+yearwin.in.net
 yedzi.com
 yehaa.link
 yellowbintang4dp.com

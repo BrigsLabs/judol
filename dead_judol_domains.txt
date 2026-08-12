@@ -9,35 +9,8 @@
 #
 #
 # azurewebsite.net
-berita-indonesia-engtgvgwd0edffbv.uksouth-01.azurewebsites.net
-cnbc-indonesia-hpgybngwhhdkh3e7.uksouth-01.azurewebsites.net
-evokingnews-hwcqhrh9b3ewdnag.uksouth-01.azurewebsites.net
-game-online-bnfpb3gahggbc9g7.uksouth-01.azurewebsites.net
-geforcextrup-bxe5gaa6b8fgdpek.uksouth-01.azurewebsites.net
-intelup-cacvdeh9fwhee0c9.uksouth-01.azurewebsites.net
-jpu-viral-eya8bjbwh9gacqg6.uksouth-01.azurewebsites.net
-jurnal-indonesia-hhhfbzexhjbpb6aj.uksouth-01.azurewebsites.net
-kumparan-bhcqhdhea6bzases.uksouth-01.azurewebsites.net
-telkomsel-id-a7e9czaddcc7fbcq.uksouth-01.azurewebsites.net
 
 # Github.io
-andreasiregar20.github.io 
-beritasiang.github.io 
-detikinet.github.io 
-kokosekay55.github.io 
-liputanviral.github.io 
-monsterhunter-news.github.io 
-pekannews.github.io 
-portal-viral.github.io 
-radarsulawesi.github.io 
-rodanews.github.io 
-samudra-news.github.io 
-seputarterkini.github.io 
-siscaaw24.github.io 
-sonpramui.github.io 
-sumeknews.github.io 
-theotrisna83.github.io 
-wgberitajaya.github.io 
 
 # from cdn_support list, b-cdn.net seamless-hptech.com seamlesss-hptech.com
 1000-karma-baik.b-cdn.net
