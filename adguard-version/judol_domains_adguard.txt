@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 36581
+# Number of entries: 36688
 #
 #
 #
@@ -1710,13 +1710,16 @@
 ||adobsibandungbarat.org^
 ||adobsibangka.org^
 ||adobsibangkabarat.org^
+||adobsibangkalan.com^
 ||adobsibangkaselatan.org^
 ||adobsibangkatengah.org^
 ||adobsibangkokota.org^
+||adobsibangli.com^
 ||adobsibangli.org^
 ||adobsibanjar.org^
 ||adobsibanjarnegara.org^
 ||adobsibanjarnegarakota.org^
+||adobsibanten.com^
 ||adobsibanten.org^
 ||adobsibantul.com^
 ||adobsibantul.org^
@@ -1729,6 +1732,7 @@
 ||adobsibatanghari.org^
 ||adobsibatu.com^
 ||adobsibatu.org^
+||adobsibekasi.com^
 ||adobsibekasi.org^
 ||adobsibekasikab.org^
 ||adobsibelitung.org^
@@ -1758,6 +1762,7 @@
 ||adobsibontang.org^
 ||adobsibovendigoel.org^
 ||adobsiboyolali.org^
+||adobsiboyolalikota.com^
 ||adobsiboyolalikota.org^
 ||adobsibrebes.org^
 ||adobsibuleleng.org^
@@ -1778,6 +1783,7 @@
 ||adobsiende.org^
 ||adobsifakfak.org^
 ||adobsiflorestimur.org^
+||adobsigayolues.com^
 ||adobsigayolues.org^
 ||adobsigorontalobarat.org^
 ||adobsigorontaloselatan.org^
@@ -1786,6 +1792,7 @@
 ||adobsihalmaheraselatan.org^
 ||adobsihalmaheratengah.org^
 ||adobsihalmaherautara.org^
+||adobsijabar.com^
 ||adobsijakarta.org^
 ||adobsijakartabarat.org^
 ||adobsijakartaselatan.org^
@@ -2252,6 +2259,7 @@
 ||agensurya123.site^
 ||agenterbesar.vip^
 ||agentmlovestacos.com^
+||agentogelresmi.org^
 ||agentoto88.media^
 ||agentototogel.com^
 ||agentpokerterbaik.com^
@@ -2841,6 +2849,7 @@
 ||amp7clagi.site^
 ||amp936.online^
 ||ampahlawan4d.com^
+||ampaiesmarjana.org^
 ||amparab.lol^
 ||ampathena168.online^
 ||ampbadak.site^
@@ -2995,6 +3004,7 @@
 ||anemeltorta.com^
 ||anesiaolong.shop^
 ||anesiau.com^
+||anewgovernance.org^
 ||angelapparels.in^
 ||angelbots.site^
 ||angelcsn.com^
@@ -3054,6 +3064,7 @@
 ||angkatentoto.com^
 ||angkatogeljitu.org^
 ||angkatogelkamboja.com^
+||angkatogelprize.org^
 ||angkatogelsingapore.org^
 ||angkawahana.pics^
 ||angkaweb.net^
@@ -4374,6 +4385,7 @@
 ||bandardaratplus.live^
 ||bandarfoods.com^
 ||bandargamingpay.pro^
+||bandarhongkongtogel.com^
 ||bandarjayagacor.net^
 ||bandarjayaku999.com^
 ||bandarjudi33.io^
@@ -4382,7 +4394,9 @@
 ||bandarnusantara.lol^
 ||bandarok855.com^
 ||bandarpgsoft855.com^
+||bandarsingaporetogel.com^
 ||bandartogel77-2.click^
+||bandartogelhkg.org^
 ||bandartogelslot4d.com^
 ||bandartoto.com^
 ||bandartotomacau.com^
@@ -9982,7 +9996,9 @@
 ||drakbrew.com^
 ||dramandmorsel.com^
 ||dranitasands.com^
+||drawhklive.com^
 ||drawingmanager.co.uk^
+||drawsdylive.com^
 ||drbennettlewis.com^
 ||drbrueggen.com^
 ||drclaudiamiller.com^
@@ -10082,11 +10098,31 @@
 ||dsoskecsedayu.org^
 ||dsoskecsrandakan.org^
 ||dsoskerincibarat.org^
+||dsoskotabandung.org^
+||dsoskotabatu.org^
+||dsoskotacilegon.org^
+||dsoskotadepok.org^
+||dsoskotapadang.org^
+||dsoskotasungaipenuh.org^
+||dsoskupang.org^
 ||dsosmakassar.org^
 ||dsosmalang.org^
 ||dsosmaros.org^
 ||dsosmetro.org^
+||dsosmuaralabuh.org^
+||dsospalembang.org^
+||dsospasamanbarat.org^
+||dsospontianak.org^
 ||dsossamarinda.org^
+||dsossemarang.org^
+||dsossingkawang.org^
+||dsossofifi.org^
+||dsossumedangutara.org^
+||dsossurabaya.org^
+||dsostanjungpinang.org^
+||dsostegal.org^
+||dsostolitoli.org^
+||dsosyogyakarta.org^
 ||dspequineservices.co.uk^
 ||dsysg.net^
 ||dt138-17.store^
@@ -11511,6 +11547,7 @@
 ||forumdiskusi.vip^
 ||forumfreek.com^
 ||forumkeralam.com^
+||forummekan.org^
 ||forumonlawcultureandsociety.org^
 ||forumprediksi.org^
 ||forums.milnet.ca^
@@ -13313,6 +13350,7 @@
 ||hariangkanet4d.com^
 ||hariangkanet4d.net^
 ||hariantrust.id^
+||hariinitogel.com^
 ||harikae.net^
 ||hariku.site^
 ||harimau868trap.com^
@@ -13372,6 +13410,7 @@
 ||hasiljackpot.com^
 ||hasilmenang.shop^
 ||hasilptbola.com^
+||hasiltogelinihari.com^
 ||hasilviral4dp.net^
 ||hatduoiuoi.org^
 ||hatejp.vip^
@@ -13643,6 +13682,7 @@
 ||hirtp.com^
 ||histal.ca^
 ||historiademelilla.com^
+||historicaltimes.org^
 ||historichemettheatre.com^
 ||historicunioncemetery.com^
 ||historyofgreekfood.org^
@@ -13705,6 +13745,7 @@
 ||hk69g.vip^
 ||hk6d.bar^
 ||hk6d.blog^
+||hkdemo.com^
 ||hkhoedown.com^
 ||hkiking.com^
 ||hkliveresult.xyz^
@@ -14211,6 +14252,7 @@
 ||ibfimonline.com^
 ||ibiiacehbesar.org^
 ||ibiiacehselatan.org^
+||ibiikaur.org^
 ||ibiipasaman.org^
 ||ibikes.shop^
 ||ibir.bas.bg^
@@ -14821,6 +14863,7 @@
 ||infortpspace588.xyz^
 ||inforumirapuato.com^
 ||infosapi.id^
+||infosdytogel.com^
 ||infosgp.com^
 ||infoshibatotoo.xyz^
 ||infoslot.asia^
@@ -14860,6 +14903,7 @@
 ||inidarat.com^
 ||inigacor88.top^
 ||inihari88.sbs^
+||iniharitogel.com^
 ||inihigh.xyz^
 ||iniii-asptibisa.info^
 ||iniinfobagus.com^
@@ -14883,6 +14927,7 @@
 ||initogel-top1.store^
 ||initogel.click^
 ||initogel.com^
+||initogelhari.com^
 ||initogeljaya.com^
 ||initogelsni.store^
 ||iniulti300.xyz^
@@ -16740,10 +16785,12 @@
 ||keluaran.id^
 ||keluaran4d.id^
 ||keluaranhk.blog^
+||keluaranhk.hk^
 ||keluaranhk.id^
 ||keluaranhk.now^
 ||keluaranhk.one^
 ||keluaranhk.vip^
+||keluaranhkprize.org^
 ||keluaransdy4dpools.com^
 ||keluaransgppools.id^
 ||keluaransydney.live^
@@ -16935,6 +16982,7 @@
 ||kids-land.org^
 ||kidscovidsurvey.com^
 ||kidsforabetterfuture.org^
+||kidshavenmontessori.org^
 ||kidshearticu.com^
 ||kidunil.pro^
 ||kieletwarowski.com^
@@ -18854,6 +18902,7 @@
 ||livedisini.xyz^
 ||livedrawcambodia.buzz^
 ||livedrawcanadia.com^
+||livedrawhk.hk^
 ||livedrawhk1.com^
 ||livedrawhk4dp.com^
 ||livedrawhktercepat.site^
@@ -19973,6 +20022,7 @@
 ||maintenance.asean-accesstrade.net^
 ||maintenance.grammy.com^
 ||maintexas77.store^
+||maintogelhariini.com^
 ||maintopwin138.net^
 ||mainunyil.co^
 ||mainyok.com^
@@ -22488,6 +22538,7 @@
 ||noelfilms.com^
 ||noelleswangilbert.com^
 ||nohk6d.com^
+||nohkg.com^
 ||nohu.com.mx^
 ||nohu.locker^
 ||nohu.mn^
@@ -22531,6 +22582,7 @@
 ||nomorkeluarsgp.com^
 ||nomormimpiweng.pro^
 ||nomortogelhariini.com^
+||nomortogeljitu.com^
 ||non-gamstop-betting.com^
 ||nona88-geneva.icu^
 ||nona88advent.xyz^
@@ -24197,6 +24249,7 @@
 ||paten33.link^
 ||paten33h.com^
 ||patenkeren777.xyz^
+||pateo2025.com^
 ||patersonforny.com^
 ||pathlabeducation.com^
 ||pathwaydevelopmentconsortium.org^
@@ -24257,7 +24310,10 @@
 ||pbn.vsswin.com^
 ||pbpasi.id^
 ||pbpasibangka.co.id^
+||pbpasikabrokanhilir.org^
 ||pbpasipalu.co.id^
+||pbpasisampit.org^
+||pbpasitasikmalaya.org^
 ||pbpaten.com^
 ||pbreview.org^
 ||pbtaurus.com^
@@ -25994,13 +26050,16 @@
 ||putar78gratis.xyz^
 ||putaranbarong.site^
 ||putaranhariini.site^
+||putaranhk.com^
 ||putaranhoki.click^
 ||putaranj99.shop^
 ||putarankeuntungan.life^
 ||putarankeuntungan.link^
 ||putarankeuntungan.org^
 ||putarankp.xyz^
+||putaranlivedrawhk.com^
 ||putaranluckywheells.lol^
+||putarantogel.com^
 ||putarantribun.com^
 ||putardarat.space^
 ||putarhokipanen.com^
@@ -26534,6 +26593,7 @@
 ||randomprecisionbrewing.com^
 ||randrsoulfood.com^
 ||rangewatch.org^
+||rangkumantogel.com^
 ||raniganjparamedicalcollege.com^
 ||rankik.com^
 ||rankpays.com^
@@ -26751,6 +26811,7 @@
 ||rejeki808vip.live^
 ||rejeki808vip.me^
 ||rejekipawang.com^
+||rekaptogel.org^
 ||rekeningmerah.site^
 ||rekon88.com^
 ||rekor.bet^
@@ -29539,6 +29600,7 @@
 ||sgngovtcollegemau.org^
 ||sgotov.com^
 ||sgp777.pro^
+||sgphktogel.com^
 ||sgplayfun.com^
 ||sgpliveresult.xyz^
 ||sh777v1.com^
@@ -29557,6 +29619,7 @@
 ||shandaken-ny.com^
 ||shandean.org^
 ||shanebartonmd.com^
+||shanesimaginenation.org^
 ||shanghaidailyphoto.com^
 ||shanghaidiandimsum.com^
 ||shanghailottery.co^
@@ -29758,6 +29821,7 @@
 ||siapbos.me^
 ||siappkk.tanahdatar.go.id^
 ||siaptempur.net^
+||siaranlivehk.com^
 ||siasatnaga.fun^
 ||siasatolx02.info^
 ||sibayakjitu.com^
@@ -29772,6 +29836,7 @@
 ||siddhaquest.com^
 ||sidedoorjazzclub.com^
 ||sidestreetrecords.com^
+||sidney-togel.com^
 ||sidneyharper.com^
 ||siemreaplottery.com^
 ||siena-pools.com^
@@ -29931,6 +29996,7 @@
 ||singapore25.com^
 ||singaporecbl.com^
 ||singaporedesigndecor.com^
+||singaporehongkongtogel.com^
 ||singaporenight4d.com^
 ||singaporenightpools.com^
 ||singaporepools.com.sg^
@@ -30774,6 +30840,7 @@
 ||spice77.space^
 ||spicesofpunjab.com^
 ||spider-web581.xyz^
+||spiltrans.org^
 ||spin-2-candu777.site^
 ||spin-berhadiahrakyatslt.click^
 ||spin-bobo77.com^
@@ -31149,6 +31216,7 @@
 ||stratocaster.site^
 ||strawberrycosmetics.net^
 ||strawberrysoup.co.uk^
+||stray-cat-advice.com^
 ||stream-vip.online^
 ||stream.dorplay.tv^
 ||stream2.nobarwarna.vip^
@@ -31749,6 +31817,8 @@
 ||tab968.co^
 ||tab968.store^
 ||tabarjalnews.com^
+||tabel303.com^
+||tabelhkprize.com^
 ||tabelpakde.com^
 ||tabelshioular2025.com^
 ||tabelupdate.online^
@@ -32381,6 +32451,7 @@
 ||thefallkc.com^
 ||thefarmersdaughtercupcakes.com^
 ||thefatradish.com^
+||theferbers2025.com^
 ||thefilmsinmylife.com^
 ||thefirearmexperts.com^
 ||theflamboyante.com^
@@ -32792,6 +32863,7 @@
 ||togel-is-back.com^
 ||togel-kamboja.id^
 ||togel-mitra-is-back.com^
+||togel-sgp-hk.com^
 ||togel-singapore-hongkong.site^
 ||togel-singapore.site^
 ||togel-togel.com^
@@ -32812,15 +32884,22 @@
 ||togel88chartzona.icu^
 ||togel88webrtp.autos^
 ||togel900hoki.com^
+||togelacak.com^
+||togelagen.org^
 ||togelaja.id^
+||togelaku.org^
 ||togelalienku.com^
 ||togelasiabetzonamain2.com^
 ||togelcambodia4d.com^
 ||togeldaftar.id^
+||togeldata.org^
+||togeldatahariini.com^
 ||togelgengtoto.id^
 ||togelhariiniresmi.com^
+||togelhasil.org^
 ||togelhk.biz^
 ||togelhk.cc^
+||togelhongkong.hk^
 ||togelhongkong.today^
 ||togelhongkongpools.net^
 ||togelhongkongpools.org^
@@ -32828,11 +32907,15 @@
 ||togelindonesia2026.com^
 ||togeljitumahir.shop^
 ||togelmugen.com^
+||togelmurah.com^
+||togelno.com^
+||togelnomor.org^
 ||togelon72.com^
 ||togelonlen.info^
 ||togelonline88.com^
 ||togelonline88apk.com^
 ||togelonline88casino.com^
+||togelpengeluaranhariini.com^
 ||togelplusmid.vip^
 ||togelplusron.vip^
 ||togelplussky.xyz^
@@ -32849,7 +32932,9 @@
 ||togeltaiwan.online^
 ||togeltaiwan4d.com^
 ||togeltaiwanhariini.com^
+||togeltercepat.com^
 ||togeltogel.id^
+||togeltotoprize.com^
 ||togelup74.com^
 ||togelup788.life^
 ||togelwin.id^
@@ -33221,6 +33306,7 @@
 ||totobeta39.com^
 ||totobeta40.com^
 ||totobeta41.com^
+||totobettogel.com^
 ||totobosku.info^
 ||totocambodialive.com^
 ||totocc.co^
@@ -33240,6 +33326,7 @@
 ||totogg88.tips^
 ||totogg88onlinertp.shop^
 ||totogrup.net^
+||totohk.hk^
 ||totohok.com^
 ||totohok.one^
 ||totohok11.com^
@@ -34076,6 +34163,7 @@
 ||updatebatmandaily.com^
 ||updatedisini.xyz^
 ||updateforworld.com^
+||updatetogel.org^
 ||upethnom.com^
 ||upgambar.com^
 ||uphiminang.com^
@@ -36250,7 +36338,9 @@
 ||yowestogel70.com^
 ||ypcibadung.org^
 ||ypcibanjarbaru.id^
+||ypcibanjarnegara.org^
 ||ypcibanten.org^
+||ypcibantul.org^
 ||ypcibaubau.org^
 ||ypciboalemo.id^
 ||ypcicilegon.org^
@@ -36259,7 +36349,10 @@
 ||ypcidkijakarta.org^
 ||ypcigunungmas.id^
 ||ypcijabar.org^
+||ypcijakartabarat.org^
 ||ypcijambi.org^
+||ypcijember.org^
+||ypcikabbangkaselatan.org^
 ||ypcikabbekasi.org^
 ||ypcikabblora.org^
 ||ypcikabboyolali.org^
@@ -36270,13 +36363,26 @@
 ||ypcikabkotabaru.id^
 ||ypcikabkuningan.org^
 ||ypcikabmagelang.org^
+||ypcikabmerangi.org^
+||ypcikabpacitan.org^
 ||ypcikabpati.org^
+||ypcikabpuncak.org^
 ||ypcikabpuwakarta.org^
+||ypcikabsukoharjo.org^
 ||ypcikabtasikmalaya.org^
+||ypcikabtegal.org^
 ||ypcikalbar.org^
+||ypcikaltara.id^
 ||ypcikapuas.id^
+||ypcikotabanjar.org^
+||ypcikotabekasi.org^
 ||ypcikotabengkulu.org^
 ||ypcikotacimahi.org^
+||ypcikotadepok.org^
+||ypcikotamadiun.org^
+||ypcikotasemarang.org^
+||ypcikotasurakarta.org^
+||ypcikotategal.org^
 ||ypcikutaitimur.id^
 ||ypcilamandau.id^
 ||ypcilampungtimur.org^
@@ -36284,8 +36390,9 @@
 ||ypcimalaka.org^
 ||ypcingada.org^
 ||ypcipalangkaraya.id^
+||ypcipaniai.org^
 ||ypcisarolangun.org^
-||ypciseluma.org^
+||ypciseluma.orgypciseluma.org^
 ||ypciserang.org^
 ||ypcisiak.org^
 ||ypcisikka.org^

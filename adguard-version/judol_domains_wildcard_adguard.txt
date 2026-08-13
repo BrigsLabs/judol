@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain
-# Number of entries: 1519
+# Number of entries: 1521
 # 
 #
 #
@@ -1376,6 +1376,7 @@
 /[0-9]lc88\.com/
 /[0-9]win.*/
 /aa[0-9].*/
+/adobsi.*\.com/
 /adobsi.*\.id/
 /adobsi.*\.org/
 /afaf.*/
@@ -1450,6 +1451,7 @@
 /p138.*\.xyz/
 /pafi.*\.org/
 /paki.*\.org/
+/pbpasi.*\.org/
 /pk88.*/
 /pu88.*/
 /pub88.*/
