@@ -110,6 +110,7 @@ static.vecteezy.com # whitelist
 # trusted pages.dev
 malware-filter.pages.dev
 ublockorigin.pages.dev
+phishing-filter.pages.dev
 
 # trusted b-cdn.net subdom
 s3-symbol-logo.b-cdn.net
