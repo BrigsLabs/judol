@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 36688
+# Number of entries: 36974
 #
 #
 #
@@ -1703,6 +1703,7 @@ adobsibabel.org
 adobsibadung.org
 adobsibali.org
 adobsibalikpapan.org
+adobsibanawa.com
 adobsibanawa.org
 adobsibandaaceh.org
 adobsibandarlampung.org
@@ -2039,6 +2040,7 @@ adobsimerauke.org
 adobsimesuji.org
 adobsimetro.org
 adobsimimika.org
+adobsimojokerto.com
 adobsinatuna.org
 adobsingada.org
 adobsinunukan.org
@@ -2073,6 +2075,7 @@ adobsitanjungpinang.org
 adobsitarakan.org
 adobsitelukbintuni.org
 adobsitelukwondama.org
+adobsitemanggung.com
 adobsitidorekepulauan.org
 adobsitual.org
 adobsitulangbawang.org
@@ -2735,6 +2738,7 @@ alytocg.sa.com
 alyusrlandscape.com
 alzheimerstennessee.org
 ama.restaurant
+amacindia2025.com
 amadeuslab.co.kr
 amaistudio.cl
 aman117.live
@@ -3022,6 +3026,7 @@ angkabet39928.com
 angkabet788.life # subdom : one.angkabet788.life
 angkabet80240.com
 angkabet90.com
+angkahk.org
 angkahkhariini.org
 angkaiwantogel.com
 angkajentoto.rest
@@ -5986,6 +5991,7 @@ branzinoseattle.com
 brasillottery.com
 braveshaper.sa.com
 bravevoicesmagazine.org
+bravica.org
 bravoplay.bet
 brawijaya-desa.id
 brawlnulls.net
@@ -6074,6 +6080,7 @@ brucebet-greece.com
 brucejingles.com
 bruceparris.com
 brucesayre.net
+brunaeguilherme2025.com
 brunchharlem.com
 brunei4d.com
 bruneidarussalamlottery.com
@@ -6110,6 +6117,7 @@ btcasiaaja.xyz
 btcidn.club
 btcidr.club
 btcomputing.com
+btechdistribuidora.org
 btmclc.org
 btmtnbet.com
 btpshark.com
@@ -6280,6 +6288,7 @@ buktijpmg.pro
 buktijpmikitoto.com
 buktijpmothonda.com
 buktijpmulia77.store
+buktijpmwr.com # subdom : pamos.buktijpmwr.com
 buktijpmzb.com
 buktijpnanagroup.cc
 buktijpnanagroup.me
@@ -7585,6 +7594,7 @@ comme-vous-voulez.com
 commerciallycleanservices.com
 committeeforabetterohio.com
 commongoodfoundation.org
+commonpathways.org
 communitybehavioralhealth.org
 communityenergycenter.org
 como-franquear-minha-empresa.com
@@ -8099,6 +8109,7 @@ daftardadu.net
 daftardepoxito.com
 daftargameseru.com
 daftarjuli4d.com
+daftarjuli4d.org
 daftarkanjeng69.com
 daftarmaenyuk.cyou
 daftarmas.com
@@ -10596,6 +10607,7 @@ emu668.site
 emu668.store
 emu668.vip
 emu668.win
+emvl2025.org
 en-cdn.net # cloaking
 en-medellin.com # subdom : gimnasios.en-medellin.com moteles.en-medellin.com
 en.benchmarkdotnet.org
@@ -14450,6 +14462,7 @@ ii89d.xyz
 ii89kh.jp.net
 iiai.bid
 iicorp.com
+iifa2025.com
 iig-international.com
 iilohas.com
 iindowin88.fit # subdom : wokwok.iindowin88.fit
@@ -15115,6 +15128,7 @@ iroyal88.com
 iroyal88a.com
 iroyal88b.com
 iroyal88c.com
+irphotography.org
 irsslegacy.com
 isabelwangpontoppidan.site
 isalbi.com
@@ -15250,6 +15264,7 @@ it-9129.com
 it-9906.com
 it.vandendoolstudio.com
 it353.com
+itac-ilca.org
 itadoriyuji.xyz
 italiamiafestival.com
 italian-art.org
@@ -15406,6 +15421,7 @@ jacksonfarmsdairy.com
 jackthe.one
 jacobsreservetx.org
 jacpotkangtoto.com # subdom : new.jacpotkangtoto.com
+jacresult2026.com
 jacsfamily.com
 jadeassetmgmt.com
 jadevictoria.co
@@ -16220,6 +16236,7 @@ juguetes.galopsco.com
 jujutop.com
 juli4d.art
 juli4d.live
+juli4d16.org
 juli4d30.com # all subdom list in dead_judol_domains.txt
 juli4dcutt.link # cloaking
 juli4dslott.online
@@ -16784,6 +16801,7 @@ kellerford.net
 kelolaapp.com
 keluaran.id
 keluaran4d.id
+keluaranhariinitogel.com
 keluaranhk.blog # subdom : togel.keluaranhk.blog
 keluaranhk.hk
 keluaranhk.id
@@ -18095,6 +18113,7 @@ lawu88slotapp.com
 lawyersforassange.org
 layanan-big77.arg2019.net
 layanan.gocap-4d.one
+layanan24jam.click
 layanan24jam.vip
 layanan9.csalexistogel.vip
 layanancsomtogel.live
@@ -19099,6 +19118,7 @@ loginkzgroup.net
 loginmeriah4d.com
 loginmiabet88k.com
 loginmitra77.biz
+loginmitratogel.com
 loginmitratogel.org
 loginpelangi99.weebly.com
 loginpulsa777.com
@@ -19133,6 +19153,7 @@ lollytrolley.com
 lomba-neng4d.site
 lomba.turnoveragen.com
 lombaolx.info # subdom : turnover.lombaolx.info
+lombatomawar.click
 lombaturnover.com
 lombaturnoverkoi.com # subdom : event.lombaturnoverkoi.com
 lombok-lotto.com
@@ -20181,6 +20202,7 @@ mangoindiancuisineli.com
 manhattan4d.com
 manhattanrecipe.com
 maniabolaku.com
+maniacsport.com # subdom : live.maniacsport.com
 maniakslot-rtp.site
 maniakslot.me
 maniakslotmaxwin.icu
@@ -20518,6 +20540,8 @@ mawar500.cc # cloaking
 mawarbesi.online
 mawarlink.cc # cloaking
 mawarmode.shop
+mawartoto.com
+mawartotoconverse.com
 mawlamyinepools.com
 max.rtpnagahoki88.live
 max1000.top
@@ -21247,11 +21271,13 @@ mitra77mantap.lol
 mitraatoogel.live
 mitraatoogel.me
 mitraidrslot138.com
+mitraindonesia.net
 mitrajp4.bid
 mitrajp7.pics
 mitranasa.com
 mitrarjs138.com
 mitraslot5.icu
+mitratogel-4d.com
 mitratogel-is-back.com # subdom : wap.mitratogel-is-back.com
 mitratogel-singapore-hongkong.site # subdom : link.mitratogel-singapore-hongkong.site
 mitratogel.biz.id
@@ -21260,6 +21286,8 @@ mitratogel.id
 mitratogel.my
 mitratogel.online
 mitratogel.web.id
+mitratogel01.com
+mitratogel11.com
 mitratogel14.com
 mitratogel3d.com
 mitratogel40.com # all subdom list in dead_judol_domains.txt
@@ -21267,6 +21295,8 @@ mitratogel4d.com
 mitratogel4d.org
 mitratogelasia.com # subdom : asia-togel.mitratogelasia.com
 mitratogelhk.org
+mitratogellogin.com
+mitratogelonline.com
 mitratogelsgp.org
 mitsubishimedan.org # malicious backlink
 mitsuwadai-clinic.com
@@ -21342,6 +21372,7 @@ mmdpartnernet.com
 mmesco7215.com
 mmgarciniacambogia.com
 mmgroup.id
+mmitratogel.com
 mmlgh.com
 mmoo.gb.net
 mmoo.green
@@ -22539,6 +22570,7 @@ noelfilms.com
 noelleswangilbert.com
 nohk6d.com
 nohkg.com
+nohkprize.com
 nohu.com.mx
 nohu.locker
 nohu.mn
@@ -22583,6 +22615,7 @@ nomorkeluarsgp.com # subdom : portugal.nomorkeluarsgp.com
 nomormimpiweng.pro
 nomortogelhariini.com # subdom : skit-ae.nomortogelhariini.com
 nomortogeljitu.com
+nomorupdate.org
 non-gamstop-betting.com # subdom : uk-gb.non-gamstop-betting.com
 nona88-geneva.icu
 nona88advent.xyz
@@ -22611,6 +22644,7 @@ noormofid.com
 nopfa.org
 nopowergrabnyc.org
 noppa.com
+nopresidente2024.com
 nopw.org
 noriagolfclub.com
 norm.id
@@ -22652,6 +22686,7 @@ noticiast.com
 notizieintv.com
 notoday.lol
 notogelhariini.com
+notogelsydney.com
 notoneocons.com
 nottingham-pools.com
 nourishayurveda.org
@@ -23371,6 +23406,7 @@ orgikotamarisa.org
 orgikotamukomuko.org
 orgikotamukomuko.pages.dev
 orgikotapacitan.org
+orgikotapasartais.org
 orgikotapasarwajo.org
 orgikotapurwodadi.org
 orgikotarenggalek.org
@@ -24309,11 +24345,37 @@ pbjepe.com
 pbk.co.id
 pbn.vsswin.com
 pbpasi.id
+pbpasibalikpapan.org
 pbpasibangka.co.id
+pbpasibantul.org
+pbpasibaubau.org
+pbpasibitung.org
+pbpasiblora.org
+pbpasibogor.org
+pbpasibone.org
+pbpasicianjur.org
+pbpasijakarta.org
 pbpasikabrokanhilir.org
+pbpasikediri.org
+pbpasikendal.org
+pbpasikolaka.org
+pbpasilumajang.org
+pbpasimadiun.org
+pbpasimaros.org
+pbpasimojokerto.org
 pbpasipalu.co.id
+pbpasipalu.org
+pbpasipekalongan.org
+pbpasipontianak.org
+pbpasirembang.org
 pbpasisampit.org
+pbpasiserang.org
+pbpasisleman.org
+pbpasisolo.org
+pbpasisurabaya.org
+pbpasitarakan.org
 pbpasitasikmalaya.org
+pbpasitual.org
 pbpaten.com
 pbreview.org
 pbtaurus.com
@@ -26811,6 +26873,7 @@ rejeki.lembagatooto.co
 rejeki808vip.live
 rejeki808vip.me
 rejekipawang.com
+rekapdatahk.org
 rekaptogel.org
 rekeningmerah.site
 rekon88.com
@@ -27109,6 +27172,7 @@ rimbacore.xyz
 rimbapro.com
 rimbaslot.com
 rimbaslotjp2.com
+rimender.me # cloaking
 rinabugarbali.com
 rinakingdom.com
 rincikisaran4d.info
@@ -29231,6 +29295,8 @@ scrplay2.com
 scrplay7788.com
 scrplay7788.net
 scrplay888.net
+scsibogor.org
+scsicianjur.org
 scthriftshoppe.com
 scubainternational.net
 scwabby.com
@@ -30141,6 +30207,7 @@ situssvip2.com
 situstertinggi.com
 situsthor138.com
 situstogel.co
+situstogelterbaru.com
 situstokyo88.pro
 situstoto.info
 situstoto90.com
@@ -31818,6 +31885,7 @@ tab968.co
 tab968.store
 tabarjalnews.com
 tabel303.com
+tabelhk.org
 tabelhkprize.com
 tabelpakde.com
 tabelshioular2025.com
@@ -32860,6 +32928,7 @@ toge123rtp.top
 togel-158.com
 togel-deposit-5000.morrodagarca.cam.mg.gov.br
 togel-hongkong.site
+togel-hongkong1.com
 togel-is-back.com
 togel-kamboja.id
 togel-mitra-is-back.com
@@ -32929,6 +32998,8 @@ togelshiowla.com
 togelsingaporehongkong.com
 togelsydney.asia
 togelsydney.top
+togelsydneyhariini.org
+togelsydneylotto.com
 togeltaiwan.online # subdom : page.togeltaiwan.online
 togeltaiwan4d.com # subdom : monday.togeltaiwan4d.com
 togeltaiwanhariini.com
@@ -33375,6 +33446,7 @@ totoproplay88.com
 totosajaapk.com
 totosajalaju.store
 totosajatogel.com
+totosdylotto.org
 totosemar.net
 totoshanghaipools.asia
 totosinga.com
@@ -34240,6 +34312,7 @@ usbet.work
 usbingo862.bingotogelgacor.net
 useclix.com
 used-car-finder.uk.com
+useme.me # cloaking
 userboard.net
 userfotoimg.com # cdn
 usergacorgreat.com
@@ -35027,6 +35100,7 @@ wacem2025.org
 wadahmaya.com
 waderder.com # subdom : buku.waderder.com prediksi.waderder.com tutorial.waderder.com
 waec2025.com
+waegp2024.org
 waevpn.com
 wager.tw
 wagerland347.com
@@ -36336,71 +36410,283 @@ youtiao18.xyz
 youwet.com
 yowesblog160.com
 yowestogel70.com
+ypci.id
+ypcialor.org
+ypcianambas.org
+ypciarfak.id
 ypcibadung.org
+ypcibali.org
+ypcibalikpapan.org
+ypcibandarlampung.org
+ypcibandung.org
+ypcibandungbarat.org
 ypcibanjarbaru.id
+ypcibanjarmasin.org
 ypcibanjarnegara.org
 ypcibanten.org
 ypcibantul.org
+ypcibanyuwangi.org
+ypcibaritokuala.id
+ypcibaritoselatan.id
+ypcibaritotimur.id
+ypcibatanghari.org
 ypcibaubau.org # subdom : mitra-togel.ypcibaubau.org
+ypcibelitung.org
+ypcibelitungtimur.org
+ypcibengkayang.org
+ypcibengkulu.org
+ypcibengkuluselatan.org
+ypcibengkulutengah.org
+ypcibengkuluutara.org
+ypcibintan.org
+ypcibitung.org
+ypciblitar.id
 ypciboalemo.id
+ypcibontang.org
+ypcibulungan.id
+ypciciamis.org
+ypcicibinong.org
 ypcicilegon.org
+ypcicirebon.id
 ypcidairi.org
+ypcideliserdang.org
 ypcidepok.org
+ypcidiy.org
 ypcidkijakarta.org
+ypcidumai.org
+ypciende.org
+ypcigianyar.org
+ypcigorontalo.id
+ypcigrobogan.org
 ypcigunungmas.id
+ypcihulusungaiselatan.id
+ypcihulusungaitengah.id
+ypcihulusungaiutara.id
 ypcijabar.org
+ypcijakarta-pusat.org # cloaking
 ypcijakartabarat.org
+ypcijakartatimur.org
+ypcijakartautara.org
+ypcijakbar.org
 ypcijambi.org
+ypcijawatengah.org
+ypcijawatimur.org
 ypcijember.org
+ypcijepara.org
+ypcijombang.org
+ypcikabbandung.org
+ypcikabbangka.org
+ypcikabbangkabarat.org
 ypcikabbangkaselatan.org
+ypcikabbangkatengah.org
+ypcikabbanjar.org
+ypcikabbanyumas.org
+ypcikabbatang.org
 ypcikabbekasi.org
+ypcikabbelitung.org
+ypcikabblitar.org
 ypcikabblora.org
+ypcikabbogor.org
+ypcikabbondowoso.org
 ypcikabboyolali.org
+ypcikabbrebes.org
+ypcikabbungo.org
 ypcikabcianjur.org
 ypcikabcilacap.org # subdom : program.ypcikabcilacap.org
+ypcikabcirebon.org
+ypcikabdemak.org
 ypcikabgarut.org
 ypcikabgresik.org
+ypcikabindramayu.org
+ypcikabkarawang.org
+ypcikabkarimun.org
+ypcikabkebumen.org
+ypcikabkediri.org
+ypcikabklaten.org
 ypcikabkotabaru.id
+ypcikabkudus.org
 ypcikabkuningan.org # subdom : daftar-mitratogel.ypcikabkuningan.org
+ypcikablebak.org
+ypcikablumajang.org
+ypcikabmadiun.org
 ypcikabmagelang.org # subdom : link-cepat.ypcikabmagelang.org
+ypcikabmagetan.org
+ypcikabmajalengka.org
 ypcikabmerangi.org
+ypcikabnatuna.org
+ypcikabnganjuk.org
+ypcikabngawi.org
 ypcikabpacitan.org
+ypcikabpamekasan.org
+ypcikabpandeglang.org
+ypcikabpangandaran.org
+ypcikabpasuruan.org
 ypcikabpati.org
+ypcikabpekalongan.org
+ypcikabpemalang.org
+ypcikabprobolinggo.org
 ypcikabpuncak.org
+ypcikabpurworejo.org
 ypcikabpuwakarta.org
+ypcikabrembang.org
+ypcikabsampang.org
+ypcikabsemarang.org
+ypcikabserang.org
+ypcikabsidoarjo.org
+ypcikabsitubondo.org
+ypcikabsubang.org
+ypcikabsukabumi.org
 ypcikabsukoharjo.org
+ypcikabsumedang.org
+ypcikabsumenep.org
+ypcikabtangerang.org
 ypcikabtasikmalaya.org
 ypcikabtegal.org
+ypcikabtemanggung.org
+ypcikabtrenggalek.org
+ypcikabwonogiri.org
+ypcikabwonosobo.org
 ypcikalbar.org
 ypcikaltara.id
+ypcikalteng.id
 ypcikapuas.id
+ypcikapuashulu.org
+ypcikarangasem.org
+ypcikatingan.id
+ypcikaur.org
+ypcikayongutara.org
+ypcikediri.id
+ypcikepahiang.org
+ypcikepri.org
+ypcikerinci.org
+ypciketapang.org
 ypcikotabanjar.org
+ypcikotabatam.org
 ypcikotabekasi.org
 ypcikotabengkulu.org
+ypcikotabima.org
+ypcikotablitar.org
+ypcikotacilegon.org
 ypcikotacimahi.org
+ypcikotacirebon.org
 ypcikotadepok.org
+ypcikotajambi.org
+ypcikotakendal.org
+ypcikotakumpang.org
 ypcikotamadiun.org
+ypcikotamagelang.org
+ypcikotamalang.org
+ypcikotamataram.org
+ypcikotamobagu.org
+ypcikotapasuruan.org
 ypcikotasemarang.org
+ypcikotaserang.org
+ypcikotasukabumi.org
 ypcikotasurakarta.org
+ypcikotatasikmalaya.org
 ypcikotategal.org
+ypcikotawaringintimur.id
+ypcikuburaya.org
+ypcikukar.id
+ypcikulonprogo.id
+ypcikulonprogo.org
+ypcikupang.org
+ypcikutaibarat.id
 ypcikutaitimur.id
+ypcilabuanbajo.org
 ypcilamandau.id
+ypcilampung.org
+ypcilampungbarat.org
+ypcilampungselatan.org
+ypcilampungtengah.org
 ypcilampungtimur.org
+ypcilampungutara.org
+ypcilandak.org
+ypcilannyjaya.org
+ypcilebong.org
+ypcilembang.org
+ypcilingga.org
+ypcilombok.org
+ypcilomboktimur.org
+ypcimadiun.id
 ypcimahakamhulu.id
 ypcimalaka.org
+ypcimalang.id
+ypcimamberamoraya.org
+ypcimappi.org
+ypcimaumere.org
+ypcimaybrat.org
+ypcimelawi.org
+ypcimempawah.org
+ypcimerauke.org
+ypcimesuji.org
+ypcimetro.org
+ypcimimika.org
+ypcimojokerto.id
+ypcimojokerto.org
+ypcimuarojambi.org
+ypcimukomuko.org
+ypcinagekeo.org
 ypcingada.org
 ypcipalangkaraya.id
+ypcipalopo.org
+ypcipandeglang.org
+ypcipangkalpinang.org
 ypcipaniai.org
+ypciparepare.org
+ypcipasuruan.id
+ypcipekalongan.id
+ypcipekalongan.org
+ypcipekanbaru.org
+ypcipesawaran.org
+ypcipesisirbarat.org
+ypciponorogo.org
+ypcipontianak.org
+ypcipringsewu.org
+ypcipurbalingan.org
+ypcirajaampat.id
+ypcirejanglebong.org
+ypcisamarinda.id
+ypcisambas.org
 ypcisarolangun.org # subdom : sepakat.ypcisarolangun.org
-ypciseluma.orgypciseluma.org
+ypcisekadau.org
+ypciseluma.org
+ypcisemarang.id
 ypciserang.org
 ypcisiak.org
 ypcisikka.org
+ypcisingkawang.org
+ypcisintang.org
+ypcisragen.org
 ypcisukamara.id
+ypcisumbatengah.org
+ypcisumbawa.org
+ypcisumbawabarat.org
+ypcisungaipenuh.org
+ypcisungguminasa.org
+ypcisupiori.org
 ypcisurakarta.id
 ypcitangerang.org
+ypcitanggamus.org
+ypcitanjungjabungbarat.org
+ypcitanjungjabungtimur.org
+ypcitanjungpinang.org
+ypcitebo.org
+ypcitelukwondama.org
+ypciternate.org
+ypcitidorekepulauan.org
+ypcitimottengahselatan.org
 ypcitimottengahutara.org # subdom : jalur-prioritas.ypcitimottengahutara.org
-ypmdsangatta.id
+ypcitomohon.org
+ypcitual.org
+ypcitulangbawang.org
+ypcitulangbawangbarat.org
+ypciwaingapu.org
+ypciwaykanan.org
+ypciyahukimo.org
+ypciyalimo.org
+ypciyapen.org
+ypciyogyakarta.orgypmdsangatta.id
 ypvets.net
 ypwcministries.org
 yqd.uk.com

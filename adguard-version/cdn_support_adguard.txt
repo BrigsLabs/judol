@@ -3,11 +3,11 @@
 # Issues: https://github.com/BrigsLabs/judol/issues
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
-# Syntax: Domains (including possible subdomains)
-# Number of entries: 3215
+# Syntax: Adguard Domains (including possible subdomains)
+# Number of entries: 3290
 # CDNs supporting site (may contains false positive)
 #
-# a1211.dscr.akamai.net # i.pinimg.com # whitelist
+#
 ||1004834818.rsc.cdn77.org^
 ||10322apk.deliber.net^
 ||10fr4ame-b3stweeb.xyz^
@@ -229,6 +229,7 @@
 ||cdn.hub88.io^
 ||cdn.imgchest.com^
 ||cdn.imgpile.com^
+||cdn.librarylocal.site^
 ||cdn.livechat-files.com^
 ||cdn.livechatinc.com^
 ||cdn.mixlink.top^
@@ -3225,4 +3226,78 @@
 ||yotech.org^
 ||youngdistrictlandcare.org^
 ||yourauraglow.org^
+||ypcibalangan.org^
+||ypcibangkalan.org^
+||ypcibangli.org^
+||ypcibaritoutara.id^
+||ypcibelu.org^
+||ypcibima.org^
+||ypcibintang.org^
+||ypcibojonegoro.org^
+||ypcibonebolango.id^
+||ypcicimahi.org^
+||ypciciwidey.org^
+||ypcidenpasar.org^
+||ypcidompu.org^
+||ypciflorestimur.org^
+||ypcihumbanghasundutan.org^
+||ypcijakartaselatan.org^
+||ypcijaksel.org^
+||ypcijembrana.org^
+||ypcikabgunungkidul.org^
+||ypcikabkaranganyar.org^
+||ypcikablamongan.org^
+||ypcikabmalang.org^
+||ypcikabnabire.org^
+||ypcikabpuncakjaya.org^
+||ypcikabsleman.org^
+||ypcikediri.org^
+||ypcikepseribu.org^
+||ypciklungkung.org^
+||ypcikotabatu.org^
+||ypcikotabogor.org^
+||ypcikotamojokerto.org^
+||ypcikotaprobolinggo.org^
+||ypcikotasalatiga.org^
+||ypcikotasingkawang.org^
+||ypcikotasurabaya.org^
+||ypcikotawaringinbarat.id^
+||ypcilembata.org^
+||ypcilombokbarat.org^
+||ypcilomboktengah.org^
+||ypcimaggaraibarat.org^
+||ypcimalinau.id^
+||ypcimamberamotengah.org^
+||ypcimanggarai.org^
+||ypcimanggaraitimur.org^
+||ypcimanokwariselatan.org^
+||ypcimurungraya.id^
+||ypcinduga.org^
+||ypcintb.org^
+||ypcipenajampaserutara.id^
+||ypcipulangpisau.id^
+||ypcirotendao.org^
+||ypcisaburaijua.org^
+||ypcisalatiga.id^
+||ypcisanggau.org^
+||ypcisarmi.org^
+||ypcisorongselatan.id^
+||ypcisubang.org^
+||ypcisukabumi.org^
+||ypcisumbabarat.org^
+||ypcisumbabaratdaya.org^
+||ypcisumbatimur.org^
+||ypcisumedang.org^
+||ypcitabalong.id^
+||ypcitabanan.org^
+||ypcitambrauw.id^
+||ypcitanatidung.id^
+||ypcitangerangselatan.org^
+||ypcitarakan.org^
+||ypcitelukbintuni.org^
+||ypcitolikara.org^
+||ypcituban.org^
+||ypciwaropen.org^
+||ypciwatampone.org^
+||ypciyogyakartakota.org^
 ||zinaricoin.org^
