@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 36974
+# Number of entries: 36973
 #
 #
 #
@@ -2905,7 +2905,6 @@
 ||amponicselalu.site^
 ||ampp138.xn--6frz82g^
 ||amppele4dterbaik.com^
-||ampproject.org^
 ||amppuncaktoto.xyz^
 ||ampqueen.com^
 ||amprajacovid.org^

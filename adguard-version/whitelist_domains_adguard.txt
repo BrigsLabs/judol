@@ -19,8 +19,10 @@
 ||alb-0301hm7gl8ul7sgo8o.eu-central-1.alb.aliyuncsslbintl.com^
 ||alb-m3m9qq73l36xxs2bso.eu-central-1.alb.aliyuncsslbintl.com^
 ||alb-wbnew578dqq8tqp4sa.ap-southeast-1.alb.aliyuncsslbintl.com^
+||amp-account.itunes-apple.com.akadns.net^
 ||amp-account.itunes.apple.com^
 ||amp-api-edge.apps.apple.com^
+||amp-api-edge.media.apple.com^
 ||amp-api-search-edge.apps.apple.com^
 ||amp-api-updates.apps.apple.com^
 ||amp-api.apps.apple.com^

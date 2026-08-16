@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 3290
+# Number of entries: 3292
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -216,12 +216,14 @@
 ||castotoapk.sgp1.digitaloceanspaces.com^
 ||cbdbanner.sgp1.cdn.digitaloceanspaces.com^
 ||cd537.wordpress.com^
+||cdn-content.ampproject.org^
 ||cdn-host.proxy188.com^
 ||cdn-proxy.globalcontentcloud.com^
 ||cdn-ptthoki.sgp1.cdn.digitaloceanspaces.com^
 ||cdn-seamless.m40c7v9i.com^
 ||cdn-services.dev^
 ||cdn.ably.com^
+||cdn.ampproject.org^
 ||cdn.apple-mapkit.com^
 ||cdn.asstlnk.com^
 ||cdn.embed.ly^
