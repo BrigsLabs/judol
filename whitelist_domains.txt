@@ -228,6 +228,7 @@ datapump.cc
 dhilosnetworks.cc
 dict.cc
 dns36.cc
+eay.cc
 fiedler.cc
 fito.cc
 forestapp.cc
@@ -334,7 +335,6 @@ return-my.delivery
 wedos.delivery
 ze.delivery
 clear.dental
-xhamster46.desi
 2fa.directory
 cursor.directory
 fedi.directory
@@ -362,6 +362,7 @@ eonnext-kraken.energy
 homewizard.energy
 octopus.energy
 biqu.equipment
+dandelion.events
 lyyti.events
 ticketco.events
 infosec.exchange
@@ -407,6 +408,7 @@ notbyai.fyi
 ost2.fyi
 poyoanon.fyi
 recollect.fyi
+seized.fyi
 vercel.fyi
 wpt.fyi
 google.ga
@@ -565,7 +567,6 @@ super.money
 unstoppable.money
 usual.money
 vivid.money
-cloudcdn.monster
 fedi.monster
 mortgage.monster
 rollenspiel.monster
@@ -754,6 +755,7 @@ papaplatte.shop
 prohibited.shop
 redbrain.shop
 scayle.shop
+schneckenpost.shop
 schweden.shop
 scorpions.shop
 sentry.shop
@@ -880,6 +882,7 @@ primer.style
 shiki.style
 encode.su
 jpg4.su
+jpg6.su
 promportal.su
 saint2.su
 ada.support

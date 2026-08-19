@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain
-# Number of entries: 1521
+# Number of entries: 1525
 # 
 #
 #
@@ -160,6 +160,7 @@
 /.*beton[0-9].*/
 /.*betwin.*/
 /.*bgn168.*/
+/.*bidik[0-9].*/
 /.*big365.*/
 /.*big77.*/
 /.*bigballer.*/
@@ -228,6 +229,7 @@
 /.*cashnet[0-9].*/
 /.*casino.*/
 /.*castoto.*/
+/.*cawan[0-9].*/
 /.*cb88.*/
 /.*celtabet.*/
 /.*cemara[0-9].*/
@@ -629,6 +631,7 @@
 /.*kongtoto.*/
 /.*kopi[0-9].*/
 /.*korbet.*/
+/.*kota[0-9].*/
 /.*kpi4d.*/
 /.*kpktoto.*/
 /.*kpot108.*/
@@ -912,7 +915,6 @@
 /.*paramanalo.*/
 /.*paris[0-9].*/
 /.*partner[0-9].*/
-/.*pas77.*/
 /.*pasir4d.*/
 /.*pastibet.*/
 /.*patihtoto.*/
@@ -1195,6 +1197,7 @@
 /.*taysen.*/
 /.*teamwish[0-9].*/
 /.*tekun4d.*/
+/.*telaga[0-9].*/
 /.*telurtoto.*/
 /.*tempur[0-9].*/
 /.*ten69.*/
@@ -1451,6 +1454,7 @@
 /p138.*\.xyz/
 /pafi.*\.org/
 /paki.*\.org/
+/pas[0-9].*/
 /pbpasi.*\.org/
 /pk88.*/
 /pu88.*/
@@ -1477,8 +1481,8 @@
 /sin88.*/
 /sl88.*/
 /sl99.*/
-/sodo\..*/
 /sodo[0-9].*/
+/sodo\..*/
 /sp66.*/
 /spn88.*/
 /ss88.*/

@@ -4,9 +4,9 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3292
+# Number of entries: 3298
 # CDNs supporting site (may contains false positive)
-# ampproject.org #
+# 
 # a1211.dscr.akamai.net # i.pinimg.com # whitelist
 1004834818.rsc.cdn77.org
 10322apk.deliber.net
@@ -105,6 +105,7 @@ api.prerelease-env.biz
 api.pwa-marketing.com
 api.qrserver.com
 api.sapakita.net
+api.sapakita.net # may create false positive
 api.scorebat.com
 api.shorebird.dev
 api.signalbit.io
@@ -292,6 +293,7 @@ cool-assets.sgp1.cdn.digitaloceanspaces.com
 crisp.chat
 customer-eq7kiuol0tk9chox.cloudflarestream.com
 d145yfon394ak6.cloudfront.net
+d16011ogut57ed.cloudfront.net
 d17if134pyeemt.cloudfront.net
 d1ayxb9ooonjts.cloudfront.net
 d1bnhxh1olb98c.cloudfront.net
@@ -340,7 +342,6 @@ d39ezjiev2gct0.cloudfront.net
 d39r7a227pxlxu.cloudfront.net
 d39xq0g0jylmqw.cloudfront.net
 d3ci3nnu1jeurw.cloudfront.net
-d3dy5gmtp8yhk7.cloudfront.net
 d3e54v103j8qbb.cloudfront.net
 d3ejb2l5e3bvmc.cloudfront.net
 d3h1yom8coubmj.cloudfront.net
@@ -716,6 +717,7 @@ me-qr.com # may create false positive
 media.api-sports.io
 media.giphy.com
 media.mediatelekomunikasisejahtera.com
+media.spvmedapk.com
 media.tenor.com
 media4.giphy.com
 mediainternal.com
@@ -879,6 +881,7 @@ qdalplaylive.com
 qoopic.co
 qqkwbase.net # all subdom list in dead_judol_domains.txt
 qrfy.io # may create false positive
+qris.blazingupp.com
 qriselite.com
 qrishoki.com # subdom : launcher.qrishoki.com
 qrismvp.com
@@ -901,6 +904,7 @@ rebrandyn2.com # subdom : apkapi-jws.rebrandyn2.com apkapi-cmi.rebrandyn2.com
 rebrandyn2.net # subdom : apkapi-jws.rebrandyn2.net apkapi-cmi.rebrandyn2.net
 rebrandyn2.org # subdom : apkapi-jws.rebrandyn2.org apkapi-cmi.rebrandyn2.org
 recamweek.com # subdom : olx.recamweek.com
+record.hodl.partners
 regalez-vous.farm
 renaimall.com
 res-odx.op-mobile.opera.com
@@ -1161,6 +1165,8 @@ xn--22cd0gb3at8cva6a.today
 xn--u9jvhkcug1b2130h86sa.com
 xx1toto4.wordpress.com
 y2cdn.com
+ycai-v2-pro-default-rtdb.asia-southeast1.firebasedatabase.app
+ycai.s3.ap-southeast-1.amazonaws.com
 yellowbirdcoffeehouse.com # hacked web
 yogaretreatguatemala.com # hacked web
 yrsbali.org # cloaking 

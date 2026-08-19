@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 3292
+# Number of entries: 3296
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -243,8 +243,8 @@
 ||cdn.shorebird.cloud^
 ||cdn.snowmobiletrader.com.cdn.cloudflare.net^
 ||cdn.specialcdn.com^
-||cdn.sportnanoapi.com^
 ||cdn.sportnanoapi.com.eo.dnse1.com^
+||cdn.sportnanoapi.com^
 ||cdn.store-assets.com^
 ||cdn.susu-na-khap.com^
 ||cdn.vefrop.com^
@@ -292,6 +292,7 @@
 ||crisp.chat^
 ||customer-eq7kiuol0tk9chox.cloudflarestream.com^
 ||d145yfon394ak6.cloudfront.net^
+||d16011ogut57ed.cloudfront.net^
 ||d17if134pyeemt.cloudfront.net^
 ||d1ayxb9ooonjts.cloudfront.net^
 ||d1bnhxh1olb98c.cloudfront.net^
@@ -340,7 +341,6 @@
 ||d39r7a227pxlxu.cloudfront.net^
 ||d39xq0g0jylmqw.cloudfront.net^
 ||d3ci3nnu1jeurw.cloudfront.net^
-||d3dy5gmtp8yhk7.cloudfront.net^
 ||d3e54v103j8qbb.cloudfront.net^
 ||d3ejb2l5e3bvmc.cloudfront.net^
 ||d3h1yom8coubmj.cloudfront.net^
@@ -526,8 +526,8 @@
 ||hosting-ampgsjp.site^
 ||hostingblues.com.cdn.cloudflare.net^
 ||hslmantap.sgp1.cdn.digitaloceanspaces.com^
-||i.ibb.co^
 ||i.ibb.co.com^
+||i.ibb.co^
 ||i.magecdn.com^
 ||iaibali.org^
 ||icxglobal.ai^
@@ -716,6 +716,7 @@
 ||media.api-sports.io^
 ||media.giphy.com^
 ||media.mediatelekomunikasisejahtera.com^
+||media.spvmedapk.com^
 ||media.tenor.com^
 ||media4.giphy.com^
 ||mediainternal.com^
@@ -844,7 +845,6 @@
 ||plcl.me^
 ||pmk.ac.id^
 ||png999.com^
-||png999.com^
 ||pngusdt.com^
 ||pnimg.asgard-bifrost.com^
 ||pokerace-bb5be.firebaseio.com^
@@ -879,6 +879,7 @@
 ||qoopic.co^
 ||qqkwbase.net^
 ||qrfy.io^
+||qris.blazingupp.com^
 ||qriselite.com^
 ||qrishoki.com^
 ||qrismvp.com^
@@ -901,10 +902,11 @@
 ||rebrandyn2.net^
 ||rebrandyn2.org^
 ||recamweek.com^
+||record.hodl.partners^
 ||regalez-vous.farm^
 ||renaimall.com^
-||res-odx.op-mobile.opera.com^
 ||res-odx.op-mobile.opera.com.cdn.cloudflare.net^
+||res-odx.op-mobile.opera.com^
 ||resistancemanual.org^
 ||ress.sgp1.cdn.digitaloceanspaces.com^
 ||revistamqr.com^
@@ -926,8 +928,8 @@
 ||rtpseru.s3.ap-southeast-2.amazonaws.com^
 ||ruangkomunikasilc.com^
 ||rujak.cc^
-||s1.kwai.net^
 ||s1.kwai.net.cdn.dnsv1.com^
+||s1.kwai.net^
 ||s15-def.ap4r.com^
 ||s16-11187.ap4r.com^
 ||s21-def.ap4r.com^
@@ -1161,6 +1163,8 @@
 ||xn--u9jvhkcug1b2130h86sa.com^
 ||xx1toto4.wordpress.com^
 ||y2cdn.com^
+||ycai-v2-pro-default-rtdb.asia-southeast1.firebasedatabase.app^
+||ycai.s3.ap-southeast-1.amazonaws.com^
 ||yellowbirdcoffeehouse.com^
 ||yogaretreatguatemala.com^
 ||yrsbali.org^
