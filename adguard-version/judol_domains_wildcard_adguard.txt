@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain
-# Number of entries: 1525
+# Number of entries: 1526
 # 
 #
 #
@@ -1130,6 +1130,7 @@
 /.*slotindo.*/
 /.*slotjp.*/
 /.*slots[0-9].*/
+/.*slotsgem.*/
 /.*slotsgg.*/
 /.*slotter[0-9].*/
 /.*sm4d.*/
@@ -1481,8 +1482,8 @@
 /sin88.*/
 /sl88.*/
 /sl99.*/
-/sodo[0-9].*/
 /sodo\..*/
+/sodo[0-9].*/
 /sp66.*/
 /spn88.*/
 /ss88.*/

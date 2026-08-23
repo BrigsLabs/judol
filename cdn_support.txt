@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3298
+# Number of entries: 3299
 # CDNs supporting site (may contains false positive)
 # 
 # a1211.dscr.akamai.net # i.pinimg.com # whitelist
@@ -379,6 +379,7 @@ designku.io
 detikslot.clouderbase.com
 devsuperteam.com
 dewab2b.s3.amazonaws.com
+dewapush.com
 dewipicai-production.up.railway.app
 dfdo5rwtdmzk0.cloudfront.net
 dfiz23mj879i2.cloudfront.net

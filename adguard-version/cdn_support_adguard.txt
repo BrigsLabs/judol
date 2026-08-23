@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 3296
+# Number of entries: 3299
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -104,6 +104,7 @@
 ||api.prerelease-env.biz^
 ||api.pwa-marketing.com^
 ||api.qrserver.com^
+||api.sapakita.net^
 ||api.sapakita.net^
 ||api.scorebat.com^
 ||api.shorebird.dev^
@@ -243,8 +244,8 @@
 ||cdn.shorebird.cloud^
 ||cdn.snowmobiletrader.com.cdn.cloudflare.net^
 ||cdn.specialcdn.com^
-||cdn.sportnanoapi.com.eo.dnse1.com^
 ||cdn.sportnanoapi.com^
+||cdn.sportnanoapi.com.eo.dnse1.com^
 ||cdn.store-assets.com^
 ||cdn.susu-na-khap.com^
 ||cdn.vefrop.com^
@@ -378,6 +379,7 @@
 ||detikslot.clouderbase.com^
 ||devsuperteam.com^
 ||dewab2b.s3.amazonaws.com^
+||dewapush.com^
 ||dewipicai-production.up.railway.app^
 ||dfdo5rwtdmzk0.cloudfront.net^
 ||dfiz23mj879i2.cloudfront.net^
@@ -526,8 +528,8 @@
 ||hosting-ampgsjp.site^
 ||hostingblues.com.cdn.cloudflare.net^
 ||hslmantap.sgp1.cdn.digitaloceanspaces.com^
-||i.ibb.co.com^
 ||i.ibb.co^
+||i.ibb.co.com^
 ||i.magecdn.com^
 ||iaibali.org^
 ||icxglobal.ai^
@@ -845,6 +847,7 @@
 ||plcl.me^
 ||pmk.ac.id^
 ||png999.com^
+||png999.com^
 ||pngusdt.com^
 ||pnimg.asgard-bifrost.com^
 ||pokerace-bb5be.firebaseio.com^
@@ -905,8 +908,8 @@
 ||record.hodl.partners^
 ||regalez-vous.farm^
 ||renaimall.com^
-||res-odx.op-mobile.opera.com.cdn.cloudflare.net^
 ||res-odx.op-mobile.opera.com^
+||res-odx.op-mobile.opera.com.cdn.cloudflare.net^
 ||resistancemanual.org^
 ||ress.sgp1.cdn.digitaloceanspaces.com^
 ||revistamqr.com^
@@ -928,8 +931,8 @@
 ||rtpseru.s3.ap-southeast-2.amazonaws.com^
 ||ruangkomunikasilc.com^
 ||rujak.cc^
-||s1.kwai.net.cdn.dnsv1.com^
 ||s1.kwai.net^
+||s1.kwai.net.cdn.dnsv1.com^
 ||s15-def.ap4r.com^
 ||s16-11187.ap4r.com^
 ||s21-def.ap4r.com^
