@@ -224,9 +224,11 @@ apkapi-jns.bitly.sbs
 010fda53-f68d.pages.dev
 02dd4d78.dewagacor138rtp.pages.dev
 0c3056e1.rtp-an3ka4d.pages.dev
+12-gallo-cafemenus.pages.dev
 23win-nohu.pages.dev
 3dhoki-boyercellars.pages.dev
 3dhoki-sahara.pages.dev
+3xrtpdrama.pages.dev
 6899e41a.rtplawak4d.pages.dev
 79k.pages.dev
 88clb06.pages.dev
@@ -476,6 +478,7 @@ janjitoto-bandar-togel-terbaik.pages.dev
 janjitoto-bermain-dengan-bijak.pages.dev
 jaringan-news.pages.dev
 javabet99vpn.pages.dev
+jebakan-batman-9xa.pages.dev
 jeuxflashgratuits.pages.dev
 jiitubagibagiduit.pages.dev
 jornadaseconomicas-uccuyosl-edu-ar.pages.dev
@@ -625,6 +628,7 @@ polakumbang.pages.dev
 pondasi-awal.pages.dev
 posgradoupea-edu-bo.pages.dev
 powbristol.pages.dev
+prediksidramatogel.pages.dev
 privatepageone.pages.dev
 prodigycoursedesignbest.pages.dev
 project-lembagatoto-mobile.pages.dev
@@ -690,6 +694,7 @@ rtpformasi4d.pages.dev
 rtpgacorjawabarat4d.pages.dev
 rtpgacortoto168.pages.dev
 rtpgelaspetirmerah.pages.dev
+rtpgerbang.pages.dev
 rtphoki88.pages.dev
 rtpindos-303.pages.dev
 rtpjp99new.pages.dev
@@ -871,12 +876,15 @@ pub-3192c1833b424aaf9e6000b0677f65ad.r2.dev
 pub-31cfa9339ebc4afba516a186992fa41b.r2.dev
 pub-31f6c9cab2c244cbad32f861511db5f8.r2.dev
 pub-33f79e4933584e76ac497eed3b0b39c5.r2.dev
+pub-3593b2aaba164729b0bf45d0481ea6c5.r2.dev
+pub-39313fdc5f8b4cc5b6d579eccce57f5d.r2.dev
 pub-3a497eec89554a7087393a495285cca8.r2.dev
 pub-423755b7060d41bd991640eb44ea574c.r2.dev
 pub-434259f7298942e39387d59f922d4cb6.r2.dev
 pub-4342a8a4bc4e4ea6a1ae05c91296684a.r2.dev
 pub-44ac757bad544219a2b828e1adb3df1d.r2.dev
 pub-467e2bfe3f1348dbadcbda78bc834b20.r2.dev
+pub-4a672bb7878b431ba62e183e5e169e61.r2.dev
 pub-4d167d231b1e441db42fc94681994c45.r2.dev
 pub-4dab336953a44439993e62117ab2003c.r2.dev
 pub-4f4300019636497197d5b0bff8012507.r2.dev
@@ -901,6 +909,7 @@ pub-6667608f0e5a467697ee61610950a063.r2.dev
 pub-6956b2f01e7a4888bb56dcdf7131466b.r2.dev
 pub-6de05fd8a9f5478ebaaf615c1e697720.r2.dev
 pub-6ff7e30e22464f96947ce2aa0e3171db.r2.dev
+pub-738aa3cfe2944b57bd92328a6bc61082.r2.dev
 pub-74364a6978354ed487f58b7b61e7eabc.r2.dev
 pub-7a0e94009e8a47869ca0456d09c14727.r2.dev
 pub-7c0d840b179d47749c3f9eeb88ae1f0a.r2.dev
@@ -913,6 +922,7 @@ pub-8b23969a255c4173816091bcb72b03c7.r2.dev
 pub-8b55f6b3152f449eb2adee51596073e1.r2.dev
 pub-8b7d6144a9c74a41a866be14066dbcc9.r2.dev
 pub-8d55a7dd0428441ea6689ed05bdc3b62.r2.dev
+pub-8de066a0d5db4a37a746f519f6ed3d31.r2.dev
 pub-8ead12854d79423e94901ec103ffa2dd.r2.dev
 pub-90667e378db5436daf52be55a8d447d7.r2.dev
 pub-93f9ca09def24762be5ffeed338b6638.r2.dev
@@ -987,6 +997,7 @@ pelangi-link.short.gy
 sky688.short.gy
 sniperkill.short.gy 
 weblinked.short.gy
+vk3qr1.short.gy
 
 # from *.datasvc.xyz
 apkapi-3in.datasvc.xyz
@@ -1028,6 +1039,7 @@ apkapi-ked.datasvc.site
 68win.it.com
 777-bet.it.com
 789f.it.com
+82vn.it.com
 838win.it.com
 98winn.it.com
 999e.it.com
@@ -1050,6 +1062,7 @@ bagong4d.it.com
 baksosolo.it.com
 bandartogelonline.it.com
 bangka11.spinwheel11.it.com
+beinternet.it.com
 belijitu.it.com
 bettogel.it.com
 bintang5toto.it.com
@@ -1284,6 +1297,7 @@ rajabandot15.de.com
 sate777.de.com
 thabett.de.com
 tws.de.com
+ufa.de.com
 xin77.de.com 
 
 # from cdn *.gifyu.com
@@ -1928,12 +1942,15 @@ d7ijwz74fl.wifi818.com
 f42cjpa850.wifi818.com
 
 #from infini88.network # subdom : 
-setan69.infini88.network 
 jet77.infini88.network 
-max77.infini88.network
-pas77.infini88.network
-sky77.infini88.network
 kilat77.infini88.network
+max77.infini88.network
+omg138.infini88.network
+pas77.infini88.network
+roma77.infini88.network
+setan69.infini88.network 
+sky77.infini88.network
+surya88.infini88.network
 
 #from netlify.app # subdom :
 1ladangqq.netlify.app
@@ -2525,3 +2542,14 @@ daftar1.lbg38.com
 daftar2.lbg38.com 
 server1.lbg38.com 
 wkwk.lbg38.com
+
+#from dayfornightproductions.com # subdom : 
+projects.dayfornightproductions.com 
+music.dayfornightproductions.com 
+read.dayfornightproductions.com 
+studio.dayfornightproductions.com
+
+#from vegazr.site # subdom : 
+go.vegazr.site 
+cap.vegazr.site 
+cit.vegazr.site

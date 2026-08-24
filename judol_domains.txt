@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 37357
+# Number of entries: 37366
 #
 #
 #
@@ -1472,7 +1472,7 @@ aarnasoft.com
 aaronmhale.com
 aatoto.com
 aatotoasli.xyz # subdom : link2.aatotoasli.xyz
-aatotobisa.site
+aatotobisa.site # subdom : link3.aatotobisa.site
 aatotobro.com
 aatotogas.com
 aatotogroup.com
@@ -2612,6 +2612,7 @@ alffa3857.mytalents.com.br
 alfonsosbb.com
 alfredleroy.com
 alfredosristorante.com
+algae-island.com
 algorithmos.net
 algues.info # subdom : multi.algues.info
 alhijazindowisatagroup.id
@@ -3168,6 +3169,7 @@ antiblokir.vip
 antibocor.xyz
 antidcma.com # cloaking
 antiguabarbudaradio.com
+antiguosastronautas.com
 antiloyosob.pro
 antimo.click
 antinawala.aresgacorjackpot.com
@@ -10170,6 +10172,7 @@ dragonsbest.com
 dragonslot.bid
 dragonslot99.love
 dragonslot99g-186.com
+dragoooon.com
 dragslotbeast.com
 drak1.com
 drakbrew.com
@@ -12187,6 +12190,7 @@ galikubur.lol
 gall.sa.com
 galleries.tribapps.com
 gallery.corysilken.com
+gallocaffe.com
 galls.in
 galottery.com
 gama69-vipi.cyou
@@ -20296,6 +20300,7 @@ majum9win.com
 majupantangmundur.pro # cloaking
 maka-hiki.com
 makanabu.com
+makanankhasroma.com
 makannasipedes.com
 makanrotimanis.com
 makansiangbergizi.com
@@ -23426,7 +23431,6 @@ omesa.io
 omg138-vip.info
 omg138.engineer
 omg138.green
-omg138.infini88.network
 omgbet88.rtplivepragmatic.com
 omindiangroceries.net
 omissionbeer.com
@@ -24280,6 +24284,7 @@ panen138natal.com # subdom : mantap.panen138natal.com
 panen138sphere.vip
 panen338.shop
 panen338hh.com
+panen88joss.com
 panen99ab.xyz
 panen99e.xyz
 panen99id.vip
@@ -24845,6 +24850,7 @@ penjelajahportalrtpjiwaku88.site
 penjuruhan.my.id # cloaking
 penmedia.org
 pennjerseyrail.org
+pennsicwp.org
 pensilkayu.com
 pensionvysker.com
 pensiunankerang.info
@@ -27683,6 +27689,7 @@ roomakang.site
 roomall.sa.com
 roomangkakembar.blogspot.com
 roomnetworks.com
+rooms-restaurant.com
 roomvip2bingo89.pro
 roomvip4dp.com
 roonnin86.org
@@ -30507,6 +30514,7 @@ situspokerbola.com
 situsrajagacor.net
 situsresmi-thor138.baby
 situsresmi-thor138.lat
+situsroma77.com
 situsrpvip5.com
 situsrtpapii66.sbs
 situsrtpgajah138.rest
@@ -30944,6 +30952,7 @@ smkn13jkt.net
 smkn49.info
 smkn7bandung.com
 smokeandumami.com
+smokeshackgrill.com
 smokewoodeats.com
 smoovebikelube.com
 smpcambon.com
@@ -32044,7 +32053,6 @@ surkale.vip
 surrogacybabypodcast.com
 suruhkami.com
 surya123asli.site
-surya88.infini88.network
 surya88bos.online
 surya88gokil.pics
 surya88good.online
@@ -34888,7 +34896,7 @@ vegasslotya.com
 vegastogel.com
 vegastoto.live
 vegaswinner06.com
-vegazr.site # subdom : go.vegazr.site cap.vegazr.site
+vegazr.site # all subdom list in dead_judol_domains.txt
 vegetotherapy.org
 velo88.link
 velrai-ps.com
@@ -36781,6 +36789,7 @@ yourflowerlady.com
 yourmkitchen.com
 yourmortgagefinder.co.uk
 youronlinechoices.eu
+yoursecurespace.net
 yourwillingpartners.com
 youthalivez.com
 youthministryideas.net
