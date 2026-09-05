@@ -159,7 +159,6 @@ herz.bar
 mavie.bar
 metro.bar
 reit.bar
-strem.bar
 voi.bar
 amphi.beer
 catboy.best
@@ -194,6 +193,7 @@ movabletype.biz
 mysubwaytoolbox.biz
 netcetera.biz
 notebookcheck.biz
+oe24cdn.biz
 ooshahwa.biz
 panasonic.biz
 slussen.biz
@@ -291,7 +291,6 @@ chinaq.club
 ctrl-c.club
 debian.club
 digipres.club
-hack.club
 hd-olimpo.club
 hopium.club
 j-novel.club
@@ -379,7 +378,6 @@ xynth.finance
 appetit.fit
 clubb.fit
 justget.fit
-pridegym.fit
 union.fit
 johnreed.fitness
 leaphealth.fitness
@@ -420,11 +418,11 @@ erkul.games
 gxcorner.games
 mycafe.games
 skystone.games
+file.garden
 cst.gdn
 stad.gent
 discord.gift
 domain.glass
-inege.gq
 mastodon.green
 tilde.green
 treebal.green
@@ -506,6 +504,7 @@ io.lol
 kizuki.lol
 lemy.lol
 library.lol
+mainos.lol
 nexdrive.lol
 nos.lol
 noted.lol
@@ -519,6 +518,7 @@ status.lol
 techaro.lol
 vcloud.lol
 weblog.lol
+wpp.lol
 football.london
 digitalize.ltd
 homebrew.ltd
@@ -576,6 +576,7 @@ david.mov
 peerflix.mov
 pstream.mov
 chris.boyle.name
+crt.name
 davidwalsh.name
 hostaan.name
 keenetic.name
@@ -701,7 +702,6 @@ moyos.restaurant
 swipein.restaurant
 vecchioamore.restaurant
 highquality.rip
-medium.rip
 nest.rip
 scribe.rip
 goflix.sbs
@@ -777,6 +777,7 @@ additive-apps.site
 aftermath.site
 anonimayzer.site
 canva.site
+chatgpt.site
 claude.site
 edgeone.site
 fbsmarthome.site
@@ -834,6 +835,7 @@ roguecorp.space
 slashtw.space
 takeb1nzyto.space
 tapframe.space
+telegram.space
 truepeople.space
 uexcorp.space
 dyn.sport
@@ -900,7 +902,6 @@ goshujin.tk
 kabi.tk
 sironi.tk
 tokelau-info.tk
-xn--qubec-csa.tk
 zete.tk
 addtocart.today
 applefans.today
@@ -986,6 +987,7 @@ gta.wiki
 hacktricks.wiki
 hollowknight.wiki
 hololive.wiki
+js.wiki
 klingon.wiki
 kodi.wiki
 koeitecmo.wiki
@@ -1031,6 +1033,7 @@ patriots.win
 vaultcord.win
 nostr.wine
 doesmycode.work
+elphago.work
 frame.work
 funtuan.work
 koding.work

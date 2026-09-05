@@ -972,7 +972,7 @@
 *pos[0-9]*
 *pososlot*
 *posototo*
-*prada55*
+*prada[0-9]*
 *pragmatic*
 *prediksi*
 *preman*

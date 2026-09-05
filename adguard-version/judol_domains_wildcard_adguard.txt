@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain
-# Number of entries: 1526
+# Number of entries: 1527
 # 
 #
 #
@@ -972,7 +972,7 @@
 /.*pos[0-9].*/
 /.*pososlot.*/
 /.*posototo.*/
-/.*prada55.*/
+/.*prada[0-9].*/
 /.*pragmatic.*/
 /.*prediksi.*/
 /.*preman.*/

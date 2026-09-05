@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 37357
+# Number of entries: 37404
 #
 #
 #
@@ -352,6 +352,7 @@
 ||25slogas.site^
 ||26889853.xyz^
 ||26nk88.com^
+||26rtpdolar138.com^
 ||26thannual.org^
 ||27nk88.com^
 ||27stars01.kampungvip.com^
@@ -559,6 +560,7 @@
 ||4jasontour.com.tw^
 ||4ks3s.com^
 ||4lf8twr.com^
+||4rajabola22.com^
 ||4rooms.shop^
 ||4summitchallenge.com^
 ||4thavenue-goregaon.in.net^
@@ -802,6 +804,7 @@
 ||77rabbitq.vip^
 ||77rp.io^
 ||77rp.net^
+||77rp.org^
 ||77rp9k.com^
 ||77rpabc123.com^
 ||77rpabc456.com^
@@ -1274,6 +1277,7 @@
 ||92i.uk.com^
 ||92jeeto.game^
 ||92jeeto.vip^
+||933237.com^
 ||934bahisnow.com^
 ||9371.cn.com^
 ||939919.com^
@@ -3575,6 +3579,7 @@
 ||armadakapal.site^
 ||armandobacotjr.com^
 ||armanikeai.com^
+||armanionic.com^
 ||armenia-lotto.com^
 ||armeniancommunitycentre.org^
 ||armeriabeolchini.com^
@@ -5084,6 +5089,7 @@
 ||betberrysepuh.com^
 ||betberryultra.com^
 ||betbigotr.com^
+||betbluff10.io^
 ||betcoin88.space^
 ||betcoinasia.top^
 ||betcoinwin.me^
@@ -5538,6 +5544,7 @@
 ||blalang.com^
 ||blammo.site^
 ||blangkon69.co^
+||blangkon69site.com^
 ||blanketboutique.shop^
 ||blankusluxurylounge.com^
 ||blasterastina333.blog^
@@ -6898,6 +6905,7 @@
 ||casimogo.net^
 ||casina.com^
 ||casino-amunra.gr^
+||casino-bao.com^
 ||casino-bonsai.com^
 ||casino-bonuses.ru^
 ||casino-games1.com^
@@ -6943,6 +6951,7 @@
 ||casinoterbaik.id^
 ||casinotest2.com^
 ||casinotime.net^
+||casinoturks.com^
 ||casinovegas88.win^
 ||casinoviggoslotsfr.com^
 ||casinowin.id^
@@ -7191,8 +7200,10 @@
 ||ceylanbodrumkorsan.com^
 ||cfais.org^
 ||cfc4d-hello.com^
+||cfc4d.co^
 ||cfc4d.live^
 ||cfc4dapk.com^
+||cfc4dgacor.com^
 ||cfc4djoin.com^
 ||cfcnigeria.org^
 ||cfid.dev^
@@ -11165,6 +11176,7 @@
 ||ezwin.click^
 ||ezwin.mobi^
 ||ezwinurl.com^
+||ezykasino-terdepan.com^
 ||f1686s.com^
 ||f16878vip.vip^
 ||f1688.sa.com^
@@ -12217,6 +12229,7 @@
 ||gambarstatus.com^
 ||gambarweb.com^
 ||gambleaware.co.uk^
+||gamblegorilla10.io^
 ||gamblersgrin.com^
 ||gamblineers.com^
 ||gambling1000.com^
@@ -12894,6 +12907,7 @@
 ||go.wla.world^
 ||go288.id^
 ||go2lakeoftheozarks.com^
+||go2zombillion.com^
 ||go3spinpolo.com^
 ||go4lnk.com^
 ||go500d.jamgachor.vip^
@@ -14390,6 +14404,7 @@
 ||hws77.id^
 ||hws77gg.com^
 ||hwy41antiqueemporium.com^
+||hxdbet34.com^
 ||hybridacumen.eu^
 ||hybwv45uzv.sesetoto04.com^
 ||hyderabad.indusschool.com^
@@ -14591,6 +14606,7 @@
 ||idngoalzonamain.bond^
 ||idnplay.com^
 ||idns889.net^
+||idnslot.dev^
 ||idnsport.com^
 ||idnsports.app^
 ||idnsports889.com^
@@ -15672,6 +15688,7 @@
 ||jagobet19.org^
 ||jagobet19kita.online^
 ||jagobet19ku.store^
+||jagocuy.com^
 ||jagopost.co.id^
 ||jagorich.xyz^
 ||jagosuper.online^
@@ -16248,6 +16265,7 @@
 ||jos77h.com^
 ||josecintra.com^
 ||josephnantomah.com^
+||josiesky.com^
 ||josueandshanice.com^
 ||jotv.tv^
 ||journal-mandiracendikia.com^
@@ -16466,6 +16484,7 @@
 ||jumppp1122.com^
 ||jun88.co.com^
 ||jun88.courses^
+||jun88247.com^
 ||jun888.app^
 ||jun88casino.top^
 ||jun88king.com^
@@ -16506,6 +16525,7 @@
 ||juragangaming55.com^
 ||juragangamingrtp.xyz^
 ||juraganhoki.my.id^
+||juraganmain3.com^
 ||jurasieye.com^
 ||jurasilight.com^
 ||jurasinice.com^
@@ -16631,6 +16651,7 @@
 ||kaisar.pro^
 ||kaisar328cuan.online^
 ||kaisar328cuan.vip^
+||kaisar328gacor.com^
 ||kaisar328play.ink^
 ||kaisar328play.vip^
 ||kaisar328vip.site^
@@ -17597,6 +17618,7 @@
 ||kokaneecafe.com^
 ||koko138.us.com^
 ||koko138n.org^
+||koko303-aj.com^
 ||koko33-tg.com^
 ||koko33-zf.com^
 ||kokopelliwinery.net^
@@ -20570,6 +20592,7 @@
 ||mariposayosemiteairport.com^
 ||marisstellacollegenegombo.com^
 ||mariterbang.io^
+||marjolybeachresort.com^
 ||marjoramandroux.com^
 ||marjorierwilliams.com^
 ||markascolatogel.com^
@@ -21092,6 +21115,7 @@
 ||megapari.com.tr^
 ||megaparifk.com^
 ||megapayaman.co^
+||megapulsa88moon.com^
 ||megared.lat^
 ||megaroulette.net^
 ||megashiocreative8.xyz^
@@ -21806,6 +21830,7 @@
 ||mostbet-live.kz^
 ||mostbet-online.in^
 ||mostbet-pro.com^
+||mostbet-russia.com^
 ||mostbet-slot.kz^
 ||mostbet-story.com^
 ||motchillhot.org^
@@ -22151,6 +22176,7 @@
 ||myfruittree.org^
 ||myfti.biz^
 ||myhealthpeak.com^
+||myidnslot.com^
 ||myimagehost.me^
 ||myindicabeauty.com^
 ||myiwin88.com^
@@ -23515,6 +23541,7 @@
 ||ong7778.com^
 ||ong7778.net^
 ||ongjason.com^
+||onicgenerations.com^
 ||onicplay.dev^
 ||onicplay.info^
 ||onictoto-pro.vip^
@@ -24700,6 +24727,7 @@
 ||pecahmerata.xyz^
 ||pecahselayar88.site^
 ||pecahviral.xyz^
+||pecahx5000.com^
 ||pecanpointbrewing.com^
 ||pecatushootingclub.com^
 ||pecelbet.live^
@@ -25814,6 +25842,9 @@
 ||pqr-situsslot777.site^
 ||prabuvip.pro^
 ||prada4dakses.com^
+||prada4dgo.com^
+||prada4dresmi.online^
+||prada4dresmi.xyz^
 ||prada4dweb.com^
 ||prada555admin.store^
 ||pradabet.club^
@@ -26868,6 +26899,7 @@
 ||rajaperang.art^
 ||rajapg21.vip^
 ||rajapilih.lol^
+||rajapokersgp.org^
 ||rajapolabre.site^
 ||rajapremium.shop^
 ||rajapurabandot.lol^
@@ -27489,6 +27521,7 @@
 ||riversideyouththeatre.co.uk^
 ||rivertrek88.net^
 ||rivervalleysuperhero5k.org^
+||rivo.casino^
 ||rixscafe.com^
 ||riyadhjobstoday.com^
 ||riyadhpools.com^
@@ -29450,6 +29483,8 @@
 ||satu38gacor.net^
 ||satu38j.shop^
 ||satuan4d-i.com^
+||satuan4d.co.im^
+||satuan4dlive.com^
 ||satuan4dwd.net^
 ||satuduatujuh.site^
 ||satugol.camaradeguarara.cam.mg.gov.br^
@@ -33048,6 +33083,7 @@
 ||thesustainabilitycouncil.org^
 ||thesymproject.org^
 ||thetastebook.com^
+||thetenthknot.net^
 ||thetestofalifetime.org^
 ||thetestofalifetime.org^
 ||thethaoso365.com^
@@ -33909,6 +33945,7 @@
 ||trans4dhore.com^
 ||transforminglives.uk.com^
 ||transformingtrucks.com^
+||transition-one.fr^
 ||transitionmanager.humanconcepts.com^
 ||transitionstreetsgeelong.org^
 ||trantens.com^
@@ -34190,6 +34227,7 @@
 ||tvfanclub.net^
 ||tvnassets.mediaprima.com.my^
 ||tvnobar.online^
+||tvnobar.space^
 ||tvtogel007.com^
 ||tvtogel89.eu.com^
 ||tvtogelgeng.eu.com^
