@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 3389
+# Number of entries: 3396
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -167,6 +167,7 @@
 ||atomgaming88.sgp1.cdn.digitaloceanspaces.com^
 ||autoredirectjack.me^
 ||awan.pw^
+||awcchat.com^
 ||aws-learning-kit.bitslovers.com.cdn.cloudflare.net^
 ||b-cdn.net^
 ||b1speed.info^
@@ -336,6 +337,7 @@
 ||d346e5v8wxznq7.cloudfront.net^
 ||d34r1ocksf8dx3.cloudfront.net^
 ||d35uxhjf90umnp.cloudfront.net^
+||d36aegmaztmo3n.cloudfront.net^
 ||d36deirv5kp4uh.cloudfront.net^
 ||d37kf7rs4g1hyv.cloudfront.net^
 ||d39ezjiev2gct0.cloudfront.net^
@@ -543,6 +545,7 @@
 ||ifr.absolutepay.app^
 ||ifr.ascentpay.net^
 ||iframe.archopay.com^
+||iframe.artadana.com^
 ||iframe.oasisid.com^
 ||iframe.oasisidn.com^
 ||iframe.qrisflyer.com^
@@ -786,6 +789,7 @@
 ||nghia-architect.com^
 ||niflheim.sgp1.cdn.digitaloceanspaces.com^
 ||nobhilltower.com^
+||nonstopqris.com^
 ||northdeodar.com^
 ||notif.trycodes.cloud^
 ||ns-server-ge.com^
@@ -839,6 +843,7 @@
 ||pict1.sgp1.cdn.digitaloceanspaces.com^
 ||pictday.org^
 ||pictstage.digital^
+||pika77.sgp1.cdn.digitaloceanspaces.com^
 ||pixel.genzimg.io^
 ||pixelprismstudio.com^
 ||platforms3-yzw03img-0ejj3sb721.s3.ap-northeast-1.amazonaws.com^
@@ -916,7 +921,9 @@
 ||riskct.geetest.com^
 ||rj7na3gx.cndns.digicentre.com^
 ||robootassets.com^
+||robotaset.cloud^
 ||robotaset.com^
+||robotassets.cloud^
 ||robotassets.com^
 ||robotcheap.com^
 ||rocketbyte.org^

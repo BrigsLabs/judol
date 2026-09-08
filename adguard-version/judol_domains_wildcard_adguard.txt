@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain
-# Number of entries: 1527
+# Number of entries: 1528
 # 
 #
 #
@@ -50,6 +50,7 @@
 /.*ahha4d.*/
 /.*airbet.*/
 /.*ajo89.*/
+/.*ajoslot.*/
 /.*ajp99.*/
 /.*ajudan88.*/
 /.*ak4d.*/
@@ -1138,6 +1139,7 @@
 /.*sniperslot.*/
 /.*sohib4d.*/
 /.*soju[0-9].*/
+/.*solo[0-9].*/
 /.*sonic4d.*/
 /.*sonitoto.*/
 /.*sor[0-9].*/

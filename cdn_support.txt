@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3389
+# Number of entries: 3396
 # CDNs supporting site (may contains false positive)
 # 
 # a1211.dscr.akamai.net # i.pinimg.com # whitelist
@@ -167,6 +167,7 @@ atom4d.sgp1.cdn.digitaloceanspaces.com
 atomgaming88.sgp1.cdn.digitaloceanspaces.com
 autoredirectjack.me
 awan.pw
+awcchat.com
 aws-learning-kit.bitslovers.com.cdn.cloudflare.net
 b-cdn.net # all subdom list in dead_judol_domains.txt
 b1speed.info
@@ -336,6 +337,7 @@ d33egg70nrp50s.cloudfront.net
 d346e5v8wxznq7.cloudfront.net
 d34r1ocksf8dx3.cloudfront.net
 d35uxhjf90umnp.cloudfront.net
+d36aegmaztmo3n.cloudfront.net
 d36deirv5kp4uh.cloudfront.net
 d37kf7rs4g1hyv.cloudfront.net
 d39ezjiev2gct0.cloudfront.net
@@ -543,6 +545,7 @@ idr-ong-huat.s-ed1.cloud.gcore.lu
 ifr.absolutepay.app
 ifr.ascentpay.net
 iframe.archopay.com
+iframe.artadana.com
 iframe.oasisid.com
 iframe.oasisidn.com
 iframe.qrisflyer.com
@@ -786,6 +789,7 @@ nextgen.sg-sin1.upcloudobjects.com
 nghia-architect.com # scam fake
 niflheim.sgp1.cdn.digitaloceanspaces.com
 nobhilltower.com # hacked web : https://www.nobhilltower.com/slot-gacor-rajapanen/
+nonstopqris.com
 northdeodar.com # hacked web : https://northdeodar.com/tours-treks-and-adventure-activities-in-and-around-kullu-valley
 notif.trycodes.cloud
 ns-server-ge.com
@@ -839,6 +843,7 @@ photosme.site
 pict1.sgp1.cdn.digitaloceanspaces.com
 pictday.org
 pictstage.digital
+pika77.sgp1.cdn.digitaloceanspaces.com
 pixel.genzimg.io
 pixelprismstudio.com # subdom : assets.pixelprismstudio.com
 platforms3-yzw03img-0ejj3sb721.s3.ap-northeast-1.amazonaws.com
@@ -916,7 +921,9 @@ revistamqr.com
 riskct.geetest.com
 rj7na3gx.cndns.digicentre.com
 robootassets.com # subdom : cdn.robootassets.com
+robotaset.cloud # subdom : cdn.robotaset.cloud
 robotaset.com # all subdom list in dead_judol_domains.txt
+robotassets.cloud # subdom : asset.robotassets.cloud
 robotassets.com
 robotcheap.com
 rocketbyte.org # subdom : cdn.rocketbyte.org
