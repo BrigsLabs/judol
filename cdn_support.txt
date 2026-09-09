@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3396
+# Number of entries: 3408
 # CDNs supporting site (may contains false positive)
 # 
 # a1211.dscr.akamai.net # i.pinimg.com # whitelist
@@ -200,11 +200,13 @@ biolabet.nyc3.cdn.digitaloceanspaces.com
 birototo.sgp1.cdn.digitaloceanspaces.com
 bitly.sbs # all subdom list in dead_judol_domains.txt
 bkid.sgp1.cdn.digitaloceanspaces.com
+bkliao.com
 blazzpay-b7pktst.gamma.site
 blazzpay.com
 bloonk.com
 bluecreekdenver.com # hacked web : bluecreekdenver.com/contact
 bmw777.sgp1.cdn.digitaloceanspaces.com
+bo-qqa.nexus2bo.com
 bo.gacha.business
 bonanzastatic.com # subdom : images-bucket.bonanzastatic.com
 bturn.com # backlink
@@ -261,6 +263,7 @@ cdndeliver.xyz
 cdnmonster.net
 cdnres.yidaiyiluclub.com
 cdnsimple.top
+cecmslak.t27unwhc.com
 cfeps.org # backlink
 cfilvs.i3457.com
 chaport.com
@@ -279,12 +282,14 @@ clickdrive.tech
 cliply.co
 clk.sgp1.cdn.digitaloceanspaces.com
 cloud-assets.sgp1.cdn.digitaloceanspaces.com
+cloud77.online
 cloudcdnetw.com
 clouddrive.digital
 cloudhostapk.com # apk
 cloudicdn.com
 cloudinary.com
 cloudstoragesigma02.com
+cmbi.laner220.com
 collect.duckducktech.site
 common-static.ppgames.net
 computerhope.com
@@ -311,6 +316,7 @@ d2543yds26m4tl.cloudfront.net
 d28h3jm4r3crf8.cloudfront.net
 d290ny10omyv12.cloudfront.net
 d2dgys6tg64hrs.cloudfront.net
+d2dok6bogbbd48.cloudfront.net
 d2f3dnusg0rbp7.cloudfront.net
 d2fdcuev2flsum.cloudfront.net
 d2g2ks6h98pvqo.cloudfront.net
@@ -518,6 +524,7 @@ growfasts.top # seo
 grup168.sgp1.digitaloceanspaces.com
 gsc108.sgp1.cdn.digitaloceanspaces.com
 gso.kommo.com
+guesswhozoo.sale
 h85cndf2moxnwjz.com
 harimauterbang.sgp1.cdn.digitaloceanspaces.com
 here-we-go.top
@@ -674,6 +681,7 @@ lego77.sgp1.cdn.digitaloceanspaces.com
 les.sgp1.digitaloceanspaces.com
 lfiles.s3.eu-west-2.amazonaws.com
 lh3-dz.googleusercontent.com
+lic.alotcdn.com
 license.gonative.io
 lido-white-label.firebaseio.com
 ligasumut.com # subdom : img.ligasumut.com source.ligasumut.com
@@ -938,6 +946,7 @@ rtpmantap.sgp1.cdn.digitaloceanspaces.com
 rtpseru.s3.ap-southeast-2.amazonaws.com
 ruangkomunikasilc.com
 rujak.cc
+s-gke-usc1-nssi1-2.firebaseio.com
 s1.kwai.net
 s1.kwai.net.cdn.dnsv1.com
 s15-def.ap4r.com
@@ -1018,6 +1027,7 @@ spribe.co
 spribe.com
 srv1648-files.hstgr.io
 ssl.gg-global-cdn.com
+star.licimg.com.cdn2.mlycdn.com
 starkmaxwin.sgp1.cdn.digitaloceanspaces.com
 starlink4d.sgp1.cdn.digitaloceanspaces.com
 static-content.pro
@@ -1078,6 +1088,7 @@ terla.lu
 test-drive-10-s6uit34pua-uc.a.run.app
 test-drive-20-1053047382554.us-central1.run.app
 test-drive-3-s6uit34pua-wl.a.run.app
+test-drive-5-1053047382554.us-west2.run.app
 testdriver.site
 thanatosmaero.com # subdom : imgotp.thanatosmaero.com
 thelocalcatch.com # hacked web : thelocalcatch.com/john-dory
@@ -1120,6 +1131,7 @@ uploadgambar.lat
 uploads-ssl.webflow.com
 user-upload.aws-s3-r1r2str0bjx.sg-sin1.upcloudobjects.com
 usglobalasset.com
+v.embed-cdn.com
 veldrive.com # may create false positive
 velo.vip
 verifyfrydextracts.com # hacked web

@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1973
+# Number of entries: 1976
 # 
 #
 #
@@ -35,6 +35,7 @@
 *aaa4d*
 *aat4d*
 *aatoto*
+*abcslot*
 *abcslt*
 *ace[0-9]*
 *acgwin*
@@ -124,6 +125,7 @@
 *baginda-[0-9]*
 *baginda[0-9]*
 *bagong[0-9]*
+*bagus[0-9]*
 *bahagia777*
 *balak[0-9]*
 *balaksix*
@@ -990,6 +992,7 @@
 *pulsa[0-9]*
 *puma[0-9]*
 *puncaktoto*
+*punyaabc*
 *pusaka[0-9]*
 *pusat-koin*
 *pusat[0-9]*
