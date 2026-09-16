@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 3408
+# Number of entries: 3409
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -143,6 +143,7 @@
 ||ardeobardeo.com^
 ||areahoki.com^
 ||aryagames.com^
+||aryauat.s3.ap-southeast-1.amazonaws.com^
 ||ascendercorp.com^
 ||asdfcasa.com^
 ||asetkadek.s3.ap-southeast-2.amazonaws.com^

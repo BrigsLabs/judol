@@ -13,6 +13,7 @@
 # Github.io
 
 # from cdn_support list, b-cdn.net 
+rtp-royal138a.b-cdn.net
 1000-karma-baik.b-cdn.net
 1site.b-cdn.net
 3cb846e8b88f43a75848.b-cdn.net
@@ -636,6 +637,7 @@ project-ptg-xml.pages.dev
 projekdadakan.pages.dev
 promomantraslot.pages.dev
 promosi-fiftoto.pages.dev
+psg77-dembele.pages.dev
 ptr19.pages.dev
 ptsp-papacitan-777.pages.dev
 pub-888fdgjsdgujhoihdsff26ee4.pages.dev
@@ -731,6 +733,7 @@ sakti-kalselprov.pages.dev
 sakti123-us.pages.dev
 sakurawin.linkofgod.pages.dev
 satset-gaskan-depoinboskuhh.pages.dev
+savage-dior.pages.dev
 saya-kembali-pucuk4d.pages.dev
 scatterjackpot.pages.dev
 sdnbre.pages.dev
@@ -755,6 +758,9 @@ sieuthiquatanghi88.pages.dev
 sikat88-dan-amp-01.pages.dev
 silent-please.pages.dev
 simulator-slotdemo.pages.dev
+sirkuit4d-selalu.pages.dev
+sirkuit4dbill-ad3.pages.dev
+sirkuit4dql.pages.dev
 sisil4dop.pages.dev
 situsbemo88.pages.dev
 situsgamatogel.pages.dev
@@ -826,6 +832,7 @@ utama-spawnner-rtp.pages.dev
 violet-top-one.pages.dev
 violetslot-go.pages.dev
 visabet88rtp.pages.dev
+wa-siauw.pages.dev
 wargalokal62-menangbanyak.pages.dev
 warung-depan-shreeassociates.pages.dev
 wdbosku-naik.pages.dev
@@ -1044,6 +1051,7 @@ apkapi-8id.datasvc.site
 apkapi-rdp.datasvc.site
 apkapi-ked.datasvc.site
 apkapi-tun.datasvc.site
+apkapi-77g.datasvc.site
 
 # from *.it.com
 11uu.it.com
@@ -1081,6 +1089,7 @@ beinternet.it.com
 belijitu.it.com
 bettogel.it.com
 bintang5toto.it.com
+birototo.it.com
 bmw4d.it.com
 bmx4d.it.com
 bola16.it.com
@@ -1107,6 +1116,7 @@ enterbyzantia.it.com
 erzurumspor.it.com
 esblue.it.com
 esdice.it.com
+essewin.it.com
 estotoqq.it.com
 event.dewahoki88.it.com
 examove.it.com
@@ -1251,6 +1261,7 @@ searchdolar.it.com
 sensa88.it.com
 siaptarung.it.com
 sicepatjaya.it.com
+sikitaja.it.com
 situs.bambuhk88.it.com
 situspkv.it.com
 slot-gacor-16.koko5000.it.com
@@ -1840,6 +1851,7 @@ agen28.buktiagenolx.info
 agen32.buktiagenolx.info
 
 #from cdn_support workers.dev
+sirkuit4dy-gasakcuy.seo-projectbuzz.workers.dev
 abc8page.public-f1c.workers.dev
 amanahtotogacor3.pastimemberi.workers.dev
 asia99.jawirr.workers.dev
@@ -1915,6 +1927,7 @@ global.idnsp.net
 singaasia-image.idnsp.net
 padi8-image.idnsp.net
 socket.idnsp.net
+dif8am-image.idnsp.net
 
 #from it-cg.group # subdom : 
 cdn-master.it-cg.group 
@@ -2539,6 +2552,7 @@ assets-cdn.salesmartly.com
 jurus.rtpcrs99.com 
 jam.rtpcrs99.com 
 game.rtpcrs99.com
+menu.rtpcrs99.com
 
 #from rogburst.com # subdom : 
 rtp0028.rogburst.com 

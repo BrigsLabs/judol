@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3408
+# Number of entries: 3409
 # CDNs supporting site (may contains false positive)
 # 
 # a1211.dscr.akamai.net # i.pinimg.com # whitelist
@@ -143,6 +143,7 @@ appsgeyser.com
 ardeobardeo.com # seo backlink
 areahoki.com
 aryagames.com # subdom : internal.aryagames.com member.aryagames.com
+aryauat.s3.ap-southeast-1.amazonaws.com
 ascendercorp.com
 asdfcasa.com
 asetkadek.s3.ap-southeast-2.amazonaws.com

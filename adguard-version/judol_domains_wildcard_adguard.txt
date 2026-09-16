@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain
-# Number of entries: 1531
+# Number of entries: 1536
 # 
 #
 #
@@ -251,6 +251,7 @@
 /.*cogil[0-9].*/
 /.*comototo.*/
 /.*comtoto.*/
+/.*coop4d.*/
 /.*cpo333.*/
 /.*crs[0-9].*/
 /.*cuan[0-9].*/
@@ -595,6 +596,7 @@
 /.*katsu[0-9].*/
 /.*kawahtoto.*/
 /.*kdg789.*/
+/.*kebaya[0-9].*/
 /.*kekar4d.*/
 /.*kelas4d.*/
 /.*keluaranhk.*/
@@ -1119,6 +1121,7 @@
 /.*sintoto.*/
 /.*sip[0-9].*/
 /.*siputri[0-9].*/
+/.*sirkuit[0-9].*/
 /.*sis4d.*/
 /.*sisil[0-9].*/
 /.*situstoto.*/
@@ -1463,6 +1466,7 @@
 /pas[0-9].*/
 /pbpasi.*\.org/
 /pk88.*/
+/psg77.*/
 /pu88.*/
 /pub88.*/
 /puli[0-9].*/
@@ -1485,6 +1489,7 @@
 /rt99.*/
 /s9s9.*/
 /sin88.*/
+/skc4d.*/
 /sl88.*/
 /sl99.*/
 /sodo\..*/

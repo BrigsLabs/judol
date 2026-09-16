@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 37676
+# Number of entries: 37755
 #
 #
 #
@@ -2185,6 +2185,7 @@
 ||aeroluxehub.com^
 ||aespadakota.social^
 ||aestheticbodycenter.com.co^
+||aetransportservices.info^
 ||aeuin.in.net^
 ||af88.live^
 ||af88.tech^
@@ -3411,6 +3412,7 @@
 ||aplikasibandung.com^
 ||aplikasibun.com^
 ||aplikasisakau.com^
+||aplusextractions.com^
 ||apollocarpetandupholstery.com^
 ||apolloplay88.biz^
 ||apolloplay88.co^
@@ -3683,6 +3685,8 @@
 ||arya88bolaku.xyz^
 ||arya88btn.xyz^
 ||arya88indoo.com^
+||arya88pink.online^
+||arya88pro.com^
 ||arznei-online.com^
 ||arznlottery.net^
 ||arznlottery.store^
@@ -5487,6 +5491,7 @@
 ||birksgabish.com^
 ||birmingham-pools.com^
 ||birminghampools.co^
+||birosuperkencang.com^
 ||birototopasticuan.com^
 ||birstimages.apexsupplychain.com^
 ||birthinfocus.com^
@@ -6791,6 +6796,7 @@
 ||candologistics.in^
 ||candukaskus.com^
 ||candy916.vip^
+||candybarviviencake.ro^
 ||canelayclavo.com^
 ||cangacor.com^
 ||canilstaffrio.com^
@@ -6853,6 +6859,7 @@
 ||carbondalewoodshop.com^
 ||carbonenissanyorkville.com^
 ||carbono-zero.com^
+||carbricks.net^
 ||carbyart.net^
 ||carchip.me.uk^
 ||carchip.net^
@@ -6880,6 +6887,7 @@
 ||cariberita.id^
 ||caribwn.com^
 ||caricinta.us^
+||caricoop4d.com^
 ||carictr.com^
 ||caricuanmadu.space^
 ||caricvtogel.pro^
@@ -6897,6 +6905,7 @@
 ||carijakartaslot88.com^
 ||carikami.vip^
 ||carikan.id^
+||carikebaya4d.com^
 ||carikita.id^
 ||carilbs.com^
 ||cariliga335.com^
@@ -6913,6 +6922,7 @@
 ||carisabgroup.xyz^
 ||carisimba69.com^
 ||carisini.co^
+||carisirkuit4d.com^
 ||carisitus.id^
 ||carisitus.info^
 ||carislo.com^
@@ -6964,6 +6974,7 @@
 ||casasandessur.cl^
 ||casasruralesennavarra.net^
 ||casasyterrenos.sa.com^
+||casatlaquepaquevegas.com^
 ||cashaud.co^
 ||cashback-aktion.com^
 ||cashewbert.com^
@@ -7435,6 +7446,7 @@
 ||chipteam.org^
 ||chiringuitolasflores.es^
 ||chiroatlas.com^
+||chirolakeland.com^
 ||chitoselottery.com^
 ||chitownpizzabar.com^
 ||chjcontractors.com^
@@ -7684,6 +7696,7 @@
 ||clubhouseba.com^
 ||clubjudikeren.com^
 ||clubmeadowvale.com^
+||clubpsg.com^
 ||clubtikihut.com^
 ||cmars4d.com^
 ||cmdpublish.com^
@@ -7911,6 +7924,9 @@
 ||coolwawxfs.ru.com^
 ||coolwearable.com^
 ||coolwearable.shop^
+||coop4dcat.com^
+||coop4dzee.com^
+||coopsenja.com^
 ||copadelrey-aguabrava.com^
 ||coparmexsinaloa.org^
 ||copenhagen4d.com^
@@ -8077,11 +8093,14 @@
 ||crowngreen.com^
 ||crownlah126.crowntogelgacor.net^
 ||crowntogelgacor.com^
+||crs-99.biz^
 ||crs99.biz^
+||crs99.com^
 ||crs99.net^
 ||crs99.online^
 ||crs99.xyz^
 ||crs999.com^
+||crsbolar9.com^
 ||crstgrrl.com^
 ||cruiselinetips.com^
 ||cruxworldwide.org^
@@ -8620,6 +8639,7 @@
 ||dbltoto.com^
 ||dbltoto17.com^
 ||dbqpbvms.org^
+||dbrunique.com^
 ||dc9.sa.com^
 ||dchealthpsychology.com^
 ||dchomeprices.com^
@@ -8781,6 +8801,7 @@
 ||dentistbellville.com^
 ||dentistsuae.com^
 ||dentoto-resmi.id^
+||dentoto018.io^
 ||dentoto222.id^
 ||dentoto333.id^
 ||dentotobtn.com^
@@ -8830,6 +8851,7 @@
 ||derryrestaurantandpizza.com^
 ||derudo.ru.com^
 ||desa-angin.pro^
+||desa-babakanasem.id^
 ||desa-sinuian.com^
 ||desaangsana.id^
 ||desabangka.com^
@@ -10127,6 +10149,7 @@
 ||dom88.at^
 ||dom88.io^
 ||dom88.vc^
+||domainelegarrigon.com^
 ||domainelesbeliers.com^
 ||domainmega338.com^
 ||domainstory77.xyz^
@@ -10242,6 +10265,7 @@
 ||dpp-4616.com^
 ||dpp-9381.com^
 ||dpp-pkb.or.id^
+||dppgmni.org^
 ||dprdkotamakassar.id^
 ||dprdkotamanado.com^
 ||dpyg3.xyz^
@@ -10289,6 +10313,7 @@
 ||drbrueggen.com^
 ||drclaudiamiller.com^
 ||drcousensonlinestore.com^
+||drdisabled.com^
 ||drdo.org^
 ||dreamgreen.earth^
 ||dreamincode.net^
@@ -10440,6 +10465,7 @@
 ||duaantikendor.com^
 ||duagalery.com^
 ||duakale.me^
+||duasatuplus.com^
 ||duatoto.com^
 ||duatoto.tech^
 ||duatotoapk.com^
@@ -10477,6 +10503,7 @@
 ||dumontgroup.com^
 ||dumpcabletv.com^
 ||dumpr.net^
+||duncanvilleathletics.com^
 ||dundaslondon.com^
 ||dunent.com^
 ||dunia.pkrratingtab.com^
@@ -10603,6 +10630,7 @@
 ||earthartswi.org^
 ||earthjoysmarket.com^
 ||earthscallfoundation.org^
+||earthsg.com^
 ||earthyogaclothing.com^
 ||easf2022.org^
 ||eastafrica-ca.org^
@@ -10630,6 +10658,7 @@
 ||eatwithava.com^
 ||ebookwritinghub.com^
 ||ecair-78.top^
+||ecanpunya.wiki^
 ||ecclestoneartagency.com^
 ||eccoshoessalecheap.com^
 ||echas.vnu.edu.ua^
@@ -11031,6 +11060,7 @@
 ||erp.goel.edu.in^
 ||erp.pittsgomia.org^
 ||erpcoin.io^
+||erphelpdesk.com^
 ||errayhealing.com^
 ||errorslot.xyz^
 ||ertepe333.website^
@@ -11084,6 +11114,7 @@
 ||essayontime.co.uk^
 ||essaysharp.com^
 ||essaytiger.co.uk^
+||esse-win.xyz^
 ||essenzo.co.id^
 ||esshub.com^
 ||esspayroll.co.za^
@@ -11094,6 +11125,7 @@
 ||estehpanas.vip^
 ||estellegj.ru.com^
 ||estherdelange.nl^
+||estheticbrilliance.com^
 ||estilistasalon.com^
 ||estockatlas.com^
 ||estonia-4d.com^
@@ -12100,6 +12132,7 @@
 ||funcampcanada.com^
 ||fundacioninquietudes.org^
 ||fundacionlorenaramirez.org^
+||funerariaolmos.net^
 ||funexchange.info^
 ||fungame777depo.net^
 ||fungame777hub.org^
@@ -12397,6 +12430,7 @@
 ||gaminglabs.com^
 ||gamingmicrtg88.net^
 ||gamingplay.co^
+||gamingtheworld.com^
 ||gampangbanget.vip^
 ||gampangmenang.in^
 ||gampangmenang.lat^
@@ -14644,6 +14678,7 @@
 ||icevilla.site^
 ||icfmna2024.com^
 ||icg2024.org^
+||ichibanelectronic.com^
 ||ichingreading.net^
 ||ichironodaira.com^
 ||ichs2024.org^
@@ -14712,6 +14747,7 @@
 ||idn96main.shop^
 ||idnaga99vip.me^
 ||idnaga99vìp.com^
+||idndemo.com^
 ||idnduniabet.com^
 ||idnfy.me^
 ||idngoalbola.xyz^
@@ -15158,6 +15194,7 @@
 ||info.livesgp.day^
 ||info.vecc.org.cn^
 ||info1.rtp-toko56slot.shop^
+||info24jamskc.site^
 ||infoapekslot.com^
 ||infobetid.com^
 ||infobetid2.com^
@@ -17118,6 +17155,9 @@
 ||ke-harumslot36.lat^
 ||ke-rtpharum4d26.online^
 ||kebabsevilla.com^
+||kebaya4djago.com^
+||kebaya4dkicau.com^
+||kebayapaten.com^
 ||keberuntanganapelgroup.xyz^
 ||kebonpines.id^
 ||kebuena105.com^
@@ -17726,6 +17766,10 @@
 ||koin33aman.com^
 ||koin33gas.top^
 ||koin55jos.xyz^
+||koinaga88goks.com^
+||koinaga88naik.com^
+||koinaga88rtponline.net^
+||koinaga88yy.com^
 ||koinaman.vip^
 ||koinhoki88.net^
 ||koinhokislot.com^
@@ -18517,6 +18561,7 @@
 ||lbtujuhpendekar.com^
 ||lc-premium.vip^
 ||lc.rptra-id.site^
+||lc1001ai.com^
 ||lc88.bar^
 ||lc88.bio^
 ||lc88.blue^
@@ -19139,6 +19184,7 @@
 ||linkqqvio.store^
 ||linkr.com^
 ||linkreincarnate.com^
+||linkresmi.my^
 ||linkresmibatmantoto.com^
 ||linkresmigr303.digital^
 ||linkrimbaslot.net^
@@ -20623,6 +20669,7 @@
 ||manggatoto.com^
 ||mangkalyuk.store^
 ||mangkokemas.vip^
+||mango47.net^
 ||mangobet.pro^
 ||mangoindiancuisineli.com^
 ||manhattan4d.com^
@@ -20962,6 +21009,7 @@
 ||mattkowalsky.com^
 ||mattwardman.com^
 ||mattwillhite.com^
+||mauceria.org^
 ||maucuci.club^
 ||maumpaloalto.com^
 ||mauotodep.vip^
@@ -21214,6 +21262,7 @@
 ||mediatuak.cyou^
 ||medicdocs.com^
 ||medicinainternapanama.com^
+||medicine20congress.com^
 ||medicinelab.net^
 ||medit899.cc^
 ||medit899.com^
@@ -23178,6 +23227,7 @@
 ||nowskor.cam^
 ||nowskor.xyz^
 ||noxiousadvocate.id^
+||npai.shop^
 ||npbelarus.info^
 ||npselalu.net^
 ||nptfilms.org^
@@ -24368,6 +24418,7 @@
 ||pakde-slot.pro^
 ||pakdeamanahjp1.site^
 ||pakdeslot9.net^
+||pakduldulu.xyz^
 ||pakekcepek.digital^
 ||paket4dasli2.top^
 ||paket4dplay.top^
@@ -25906,6 +25957,7 @@
 ||polsektambun.com^
 ||poltekkesmerangin.org^
 ||poltekkesternate.net^
+||polynion.com^
 ||pomadesblog.com^
 ||pomb.org^
 ||pomeraneo.com^
@@ -26464,7 +26516,11 @@
 ||prwillisllp.com^
 ||ps7bumi.com^
 ||pscmagazine.nl^
+||psg77.casino^
 ||psg77.icu^
+||psg77global.com^
+||psg77page.com^
+||psgluckywheel.shop^
 ||psgspinwheel.site^
 ||pshd.org^
 ||psisiemens.com^
@@ -27139,6 +27195,7 @@
 ||rajatogel900.com^
 ||rajatogelidr.com^
 ||rajatoto88generator.com^
+||rajatraffic.co.uk^
 ||rajaxslot.art^
 ||rajaxslotvip.store^
 ||rajaxvigornew.live^
@@ -27988,6 +28045,7 @@
 ||royal1000.cc^
 ||royal1000.com^
 ||royal1000.org^
+||royal138py.com^
 ||royal188ek.com^
 ||royal188ha.com^
 ||royal22-apk.com^
@@ -29055,6 +29113,7 @@
 ||rtpsjoker88.xyz^
 ||rtpsjp1.com^
 ||rtpskt55.info^
+||rtpsky123almon.xyz^
 ||rtpsky123salak.xyz^
 ||rtpsky123wd.xyz^
 ||rtpsky77gacor.baby^
@@ -29850,6 +29909,7 @@
 ||scorebungaslot.site^
 ||scored.com^
 ||scoreidn.io^
+||scoresgoal.co^
 ||scoresgoal.com^
 ||scoresultan618q.site^
 ||scorpiopools.site^
@@ -30251,6 +30311,7 @@
 ||shahtaxti.com^
 ||shainotshy.org^
 ||shakasho.za.com^
+||shakasurfschool-vendee.fr^
 ||shalilsa.sa.com^
 ||shamelesstruths.com^
 ||shamrocktruckingllc.com^
@@ -30407,6 +30468,7 @@
 ||shortq.xyz^
 ||shortstoriesnj.com^
 ||shorturl.at^
+||shorturlonline.com^
 ||shorturlonline.com^
 ||shortvpn.com^
 ||shortwarna.xyz^
@@ -30697,6 +30759,15 @@
 ||siritogellux.com^
 ||siritogelmore.com^
 ||siritogeloregon.com^
+||sirkuit4dbill.com^
+||sirkuit4dgoks.com^
+||sirkuit4dkola.com^
+||sirkuit4dql.com^
+||sirkuit4drtponline.net^
+||sirkuit4dsin.com^
+||sirkuit4dsin.fun^
+||sirkuit4dy.com^
+||sirkuitpro.com^
 ||sis4d.poker^
 ||sis4dmudah.net^
 ||sisi-tokekwin.vip^
@@ -30809,6 +30880,9 @@
 ||sk88prediksi.dev^
 ||skachat-winline.space^
 ||skapolgroup.com^
+||skc4dfast.com^
+||skc4dgank.com^
+||skc4dgas.com^
 ||skde.tech^
 ||skechersoutletcheap.us.com^
 ||skenaabis.xyz^
@@ -30842,6 +30916,7 @@
 ||sky123.partners^
 ||sky123.stream^
 ||sky123powerfull.xyz^
+||sky123premium.xyz^
 ||sky2.jaditoto01.com^
 ||sky77daftar.club^
 ||sky77gacor.bond^
@@ -32976,6 +33051,7 @@
 ||texas88register.com^
 ||texas88up.info^
 ||texasbohmans.com^
+||texascustominteriors.com^
 ||texasdoge4.com^
 ||texaseclipseattraditions.com^
 ||texaslive.xyz^
@@ -33218,6 +33294,7 @@
 ||themasonjarcafefl.com^
 ||themassivecollective.co.nz^
 ||themasterthatcher.net^
+||themathworksite.com^
 ||thematingpress.com^
 ||themegagym.com^
 ||themenuu.com^
@@ -36122,6 +36199,7 @@
 ||webzt.beauty^
 ||wecaretrans.com^
 ||wedding-favor-bookmarks.com^
+||weddingcrashersmovie.com^
 ||weddingphotographyselect.co.uk^
 ||wedebolaku.skin^
 ||wedebolapt.info^
@@ -37087,6 +37165,7 @@
 ||yourmortgagefinder.co.uk^
 ||youronlinechoices.eu^
 ||yoursecurespace.net^
+||yourshoppi.com^
 ||yourwillingpartners.com^
 ||youthalivez.com^
 ||youthministryideas.net^
