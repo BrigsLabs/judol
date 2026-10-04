@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 37755
+# Number of entries: 37754
 #
 #
 #
@@ -4535,7 +4535,6 @@
 ||bandarzonagacor.xyz^
 ||bandejabar.se^
 ||banderita.com.co^
-||bandlab.com^
 ||bandot.ink^
 ||bandot88register.xyz^
 ||bandotbacktoyou.com^

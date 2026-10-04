@@ -10,6 +10,7 @@
 # 
 imagedelivery.net # whitelist
 medium.com # whitelist
+bandlab.com # whitelist
 
 # from judol_domains_wildcard
 a2fcbecc7b7634c9484099978824a668-d99627c9b1d1dedd.elb.us-east-1.amazonaws.com
