@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 3409
+# Number of entries: 3416
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -303,6 +303,7 @@
 ||d16011ogut57ed.cloudfront.net^
 ||d17if134pyeemt.cloudfront.net^
 ||d1ayxb9ooonjts.cloudfront.net^
+||d1bg3h75551782.cloudfront.net^
 ||d1bnhxh1olb98c.cloudfront.net^
 ||d1cq301dpr7fww.cloudfront.net^
 ||d1j3dnvd81uy9o.cloudfront.net^
@@ -366,6 +367,8 @@
 ||d5jmkjjpb7yfg.cloudfront.net^
 ||d6ve0grjeaee7.cloudfront.net^
 ||d84ify71m0ivu.cloudfront.net^
+||d9qj2d9ngy.vuprppwldvo.com^
+||d9qj2d9ngy.vuprppwldvo.com.queniuaa.com^
 ||daedallus.com^
 ||data-288.sgp1.cdn.digitaloceanspaces.com^
 ||data.alwayswinpp.com^
@@ -523,6 +526,7 @@
 ||gpa2glsjhw.xyz^
 ||growfasts.top^
 ||grup168.sgp1.digitaloceanspaces.com^
+||grupcloud.com^
 ||gsc108.sgp1.cdn.digitaloceanspaces.com^
 ||gso.kommo.com^
 ||guesswhozoo.sale^
@@ -1177,6 +1181,7 @@
 ||ws-ap1.pusher.com^
 ||wss.823868.com^
 ||wtgplay.xyz^
+||x03k89o0jg.wgbos.com^
 ||xasia.me^
 ||xehd2o.com^
 ||xemtinhay.com^
@@ -1191,6 +1196,8 @@
 ||yellowbirdcoffeehouse.com^
 ||yogaretreatguatemala.com^
 ||yrsbali.org^
+||ytmsource-game.ihtcdn.com^
+||ytsource-api.spacespcf.com^
 ||yuk-wd.com^
 ||z3r7bfer5vcq.sgalivechat.com^
 ||zakw1rog.drhk.loveota.com^

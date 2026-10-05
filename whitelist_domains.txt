@@ -199,6 +199,7 @@ ooshahwa.biz
 panasonic.biz
 slussen.biz
 surveycake.biz
+swatchgroup.biz
 turbify.biz
 volvocars.biz
 wiz.biz
@@ -230,6 +231,7 @@ dhilosnetworks.cc
 dict.cc
 dns36.cc
 eay.cc
+fanbox.cc
 fiedler.cc
 fito.cc
 forestapp.cc
@@ -292,6 +294,7 @@ chinaq.club
 ctrl-c.club
 debian.club
 digipres.club
+hack.club
 hd-olimpo.club
 hopium.club
 j-novel.club
@@ -420,6 +423,7 @@ gxcorner.games
 mycafe.games
 skystone.games
 file.garden
+radio.garden
 cst.gdn
 stad.gent
 discord.gift
@@ -432,6 +436,7 @@ cfw.guide
 discordjs.guide
 goodtravel.guide
 hacks.guide
+homebrew.guide
 opensource.guide
 ripped.guide
 site.guide
@@ -479,6 +484,7 @@ sumerian.ink
 returns.international
 doctolib.legal
 wbs.legal
+brainworms.lgbt
 2ch.life
 billo.life
 circles.life
@@ -576,6 +582,7 @@ yts.monster
 david.mov
 peerflix.mov
 pstream.mov
+chaosfunk.name
 chris.boyle.name
 crt.name
 davidwalsh.name
@@ -593,6 +600,7 @@ sheet.new
 site.new
 slide.new
 google.com.ng
+cape.ninja
 clash.ninja
 flashscore.ninja
 giveaway.ninja
@@ -632,6 +640,7 @@ radarpayment.online
 randemretail.online
 ravendawn.online
 shueisha.online
+volla.online
 zander.online
 term.ooo
 toast.ooo
@@ -658,6 +667,7 @@ slow.pics
 twic.pics
 cleanup.pictures
 comick.pictures
+pornhoarder.pictures
 tux.pizza
 gamedev.place
 mstdn.plus
@@ -665,6 +675,7 @@ pahe.plus
 rcti.plus
 saepay.plus
 cypruspost.post
+postnl.post
 casey.prof
 arc.pub
 bierbaum.pub
@@ -763,6 +774,7 @@ sentry.shop
 seyffer.shop
 swedish-supplements.shop
 terminal.shop
+thechurch.shop
 urlbluemedia.shop
 vector3d.shop
 waldhaus.shop
@@ -885,6 +897,7 @@ primer.style
 shiki.style
 encode.su
 jpg4.su
+jpg5.su
 jpg6.su
 promportal.su
 saint2.su
@@ -907,6 +920,7 @@ zete.tk
 addtocart.today
 applefans.today
 archive.today
+currencyrate.today
 eventz.today
 futurology.today
 lemmy.today
@@ -958,6 +972,7 @@ wetv.vip
 swing.vision
 arizona.vote
 esc.vote
+opn.vote
 acro.website
 bestmotherfucking.website
 eddie.website
@@ -1029,8 +1044,10 @@ zeppelin.wiki
 activated.win
 communities.win
 debloat.win
+gametoolkit.win
 ios-countdown.win
 patriots.win
+realdeals.win
 vaultcord.win
 nostr.wine
 doesmycode.work

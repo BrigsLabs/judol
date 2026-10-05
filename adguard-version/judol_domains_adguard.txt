@@ -4,12 +4,16 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 37754
+# Number of entries: 37830
 #
 #
 #
+||001gb777.com^
+||002gb777.com^
+||005gb777.com^
 ||00789f.com^
 ||007win.dev^
+||008gb777.com^
 ||009casinoz.com^
 ||01.datacuan.info^
 ||01.panduanakong.info^
@@ -352,6 +356,7 @@
 ||25pekantoto.com^
 ||25slogas.site^
 ||26889853.xyz^
+||26beton138.net^
 ||26nk88.com^
 ||26rtpdolar138.com^
 ||26thannual.org^
@@ -383,6 +388,7 @@
 ||2cd679d7e91441ebacc7a8fee9222307.com^
 ||2daga.store^
 ||2ez-4.me^
+||2gb777.com^
 ||2halubet76.co^
 ||2idrslot138.com^
 ||2iso777.com^
@@ -493,11 +499,13 @@
 ||3dtotalgames.com^
 ||3dtower.org^
 ||3fb88.com^
+||3gb777.com^
 ||3hawai99.shop^
 ||3ihp.us.com^
 ||3istana.xyz^
 ||3kauto.guru^
 ||3legal4d.info^
+||3mega303.com^
 ||3meoh789.cyou^
 ||3nsm892ggwp.com^
 ||3open.icu^
@@ -3158,6 +3166,7 @@
 ||angkot88trust.org^
 ||angpao.net^
 ||angpaojp.com^
+||angpaomg303.com^
 ||angryslerf.io^
 ||angsawariko.com^
 ||anguillaproperties-sothebysrealty.ai^
@@ -4117,6 +4126,7 @@
 ||aw8thv1.com^
 ||aw8v3.com^
 ||aw8v4.com^
+||aw8vqmm.com^
 ||awael.edu.om^
 ||awakendane.org^
 ||awal-perahu.xyz^
@@ -4226,6 +4236,7 @@
 ||azy.cn.com^
 ||b-dash.com^
 ||b-pride.com^
+||b-r-c.ca^
 ||b-wiz.com^
 ||b.cruelcoding.com^
 ||b.prediksibolavipp.com^
@@ -5211,6 +5222,7 @@
 ||betogel.shop^
 ||betogel.space^
 ||betogel.website^
+||beton138baja.com^
 ||beton138jaya.com^
 ||betoonga1.com^
 ||betoovis.com^
@@ -6528,6 +6540,7 @@
 ||bungtoto25.xyz^
 ||bungtotortp09.xyz^
 ||bungtotovipuser.com^
+||bunguistore.com^
 ||bunn.uk.com^
 ||bunnytheme.com^
 ||bunsiap.com^
@@ -6846,6 +6859,7 @@
 ||capuletcompany.com^
 ||car-detailing-douglasville.com^
 ||car.sagooo.com^
+||car777.art^
 ||cara-main.com^
 ||carabermain-kaskus.com^
 ||carabermainsuptogel.com^
@@ -8779,6 +8793,7 @@
 ||demoslotbalaksix7.xyz^
 ||demoslotbaru.com^
 ||demoslotgacor.id^
+||demoslotgratis.org^
 ||demoslotosg888.futbol^
 ||demototonew.com^
 ||denemebonusu.com^
@@ -11649,6 +11664,7 @@
 ||firmanbetgg.xyz^
 ||first-faq.com^
 ||firstboatracing.com^
+||firstfridaypk.com^
 ||firsthandnewsletter.com^
 ||firsthomehealthcare.org^
 ||firstlightwebdesign.com^
@@ -11669,6 +11685,7 @@
 ||fitlumina.com^
 ||fitnesscoachmarketing.com^
 ||fitnessnrg.com^
+||fitziespub.com^
 ||five-pro.com^
 ||five.alexistogel.world^
 ||five88.bike^
@@ -11816,6 +11833,7 @@
 ||foodgallerynyc.com^
 ||foodmany.com^
 ||foodpandatw.com^
+||foodrecipes.club^
 ||foodsdatabase.com^
 ||foodtechservice.com^
 ||foodtrucklevittown.com^
@@ -12233,6 +12251,7 @@
 ||gacor123in.com^
 ||gacor168jpas.shop^
 ||gacor168jpnih.com^
+||gacor2030.vip^
 ||gacor25.co.uk^
 ||gacor300.id^
 ||gacor300login.cyou^
@@ -12247,6 +12266,7 @@
 ||gacor77ultraz.one^
 ||gacor88panda.icu^
 ||gacorbos.me^
+||gacorbos.one^
 ||gacorbos88gh.pro^
 ||gacorbos88rain.xyz^
 ||gacorbospro.com^
@@ -12334,6 +12354,7 @@
 ||gall.sa.com^
 ||galleries.tribapps.com^
 ||gallery.corysilken.com^
+||galleryell.com^
 ||gallocaffe.com^
 ||galls.in^
 ||galottery.com^
@@ -12472,6 +12493,7 @@
 ||garamcina.com^
 ||garangpelitatoto.info^
 ||garasislot35.com^
+||garcellexrb.com^
 ||garchando.com^
 ||gardasayang.com^
 ||gardasila.xyz^
@@ -12549,6 +12571,7 @@
 ||gasmain.me^
 ||gasmasuk.link^
 ||gasmetropol.sbs^
+||gaspol168.help^
 ||gaspol189.live^
 ||gaspol189.pro^
 ||gaspol189vip.online^
@@ -12620,7 +12643,18 @@
 ||gazmyas-3m.ru.com^
 ||gazmyas-5m.ru.com^
 ||gazmyas-6m.ru.com^
+||gb777gk.com^
+||gb777info.com^
 ||gb777vip.lol^
+||gb77gacor19.vip^
+||gb77gacor22.vip^
+||gb77gacor30.vip^
+||gb77gacor31.vip^
+||gb77gacor32.vip^
+||gb77gacor34.vip^
+||gb77gacor41.vip^
+||gb77gacor49.vip^
+||gb77gacor5.vip^
 ||gb88rtp.quest^
 ||gba.uk.com^
 ||gbapp.site^
@@ -12823,6 +12857,8 @@
 ||getcomick.app^
 ||getcontentment.com^
 ||getdizzie.com^
+||getducked.com^
+||getduckedmy.com^
 ||getexsited.xyz^
 ||gethoops.com^
 ||getkolkatanews.com^
@@ -13229,6 +13265,7 @@
 ||good8815.cc^
 ||good88pa.com^
 ||good88us.tech^
+||goodberryfarms.com^
 ||goodhoki89.com^
 ||goodlink.click^
 ||goodmeat.org.infra.camelspit.org^
@@ -13509,6 +13546,7 @@
 ||guidospizzashopgolden.com^
 ||guidottikungfu.com^
 ||guiriexpress.com^
+||guitalife.com^
 ||guitarchordsworld.com^
 ||gulfnexus.org^
 ||gulfstreamair.com^
@@ -13773,6 +13811,7 @@
 ||harussembahyang.online^
 ||harvard2023.com^
 ||harvardpools.com^
+||harvestbrooklin.com^
 ||harvestclay.com^
 ||hasanagic.org^
 ||hasexfor.com^
@@ -14060,6 +14099,7 @@
 ||historicaltimes.org^
 ||historichemettheatre.com^
 ||historicunioncemetery.com^
+||historya.pl^
 ||historyofgreekfood.org^
 ||hit-club.city^
 ||hit-shinkan.com^
@@ -14425,6 +14465,7 @@
 ||house-of-jack.net^
 ||householdwatersystems.com^
 ||housejoygroup.com^
+||houseofbrooklyn.org^
 ||houseofcolouracademy.com^
 ||houseofdurasurabaya.com^
 ||houseofmedusasc.com^
@@ -14581,6 +14622,7 @@
 ||hz881.com^
 ||i-ris1315.com^
 ||i-sportwetten.com^
+||i-wing-88.me^
 ||i1067.com^
 ||i1bet.asia^
 ||i1cash88.com^
@@ -15167,6 +15209,7 @@
 ||industrialcoatingpaint.com^
 ||industrialdesignserved.com^
 ||indxpolikllokl66.in.net^
+||indygojunction.com^
 ||inem862.org^
 ||inetassist.com^
 ||inetcepat.info^
@@ -16144,6 +16187,7 @@
 ||jejuwla.asia^
 ||jejuwla.store^
 ||jelajahyuk.id^
+||jelas.win^
 ||jellyjoeai.buzz^
 ||jembatanindo-pools.com^
 ||jembatanindo-pools.net^
@@ -16179,6 +16223,7 @@
 ||jepemudah4d-3.lat^
 ||jepesenior4d.online^
 ||jepeslotbiru.site^
+||jepewd.win^
 ||jepotech.dk^
 ||jeransmmpanel.com^
 ||jeremiahlloydharmon.com^
@@ -16462,6 +16507,7 @@
 ||jp6789.net^
 ||jp6789.tv^
 ||jp6789aa.com^
+||jp88z2.online^
 ||jpa.us.com^
 ||jpagenolx.com^
 ||jpalexis.pro^
@@ -17537,6 +17583,7 @@
 ||kingkongpools.id^
 ||kingmariobola.net^
 ||kingmaxwin188.com^
+||kingmidasgames.net^
 ||kingnato88.site^
 ||kingo.ink^
 ||kingofdrums.net^
@@ -17751,6 +17798,8 @@
 ||kodokberdiri.org^
 ||kodokterbang.xyz^
 ||koetshuishoogeveen.nl^
+||kofbola.info^
+||kofbola.lat^
 ||kohei55.net^
 ||kohtaoviewpoint.com^
 ||koiapril.com^
@@ -19013,6 +19062,7 @@
 ||linkampku.com^
 ||linkampnaik.site^
 ||linkarwah.xyz^
+||linkasli.pro^
 ||linkasli.vip^
 ||linkasustoto.com^
 ||linkasustoto.info^
@@ -19321,6 +19371,7 @@
 ||littleshows.com^
 ||lituanialottery.com^
 ||lituaniapools.com^
+||live-angka-resmi-wing4d.com^
 ||live-rtp-sedayubet.online^
 ||live-rtp-update.xyz^
 ||live-rtp.strongbet88.vip^
@@ -20671,6 +20722,7 @@
 ||mango47.net^
 ||mangobet.pro^
 ||mangoindiancuisineli.com^
+||mangopop.com^
 ||manhattan4d.com^
 ||manhattanrecipe.com^
 ||maniabolaku.com^
@@ -21082,6 +21134,7 @@
 ||maxslot88.forum^
 ||maxslot88.science^
 ||maxslot88air.xyz^
+||maxslot88dewa.xyz^
 ||maxslot88silent.xyz^
 ||maxtoto.bid^
 ||maxwellsece.com^
@@ -21547,6 +21600,7 @@
 ||meyerbizlaw.com^
 ||mezencloiresauvage.com^
 ||mezink.app^
+||mezzogrill.no^
 ||mfdesignworks.com^
 ||mfoodo.com^
 ||mfrontiers.com^
@@ -21747,6 +21801,7 @@
 ||misterihadiahhigh.com^
 ||misterirupiah138.homes^
 ||misterjustintimberlake.com^
+||misterybox.app^
 ||misteryboxwarung.monster^
 ||mistryboxathena168.online^
 ||mitchellanthonysalon.com^
@@ -25774,6 +25829,7 @@
 ||pobabaa.me^
 ||pocari4dtoto.pics^
 ||pocketres.com^
+||podcastluisteren.com^
 ||podlot.net^
 ||pohon169.com^
 ||pohon169hexo.click^
@@ -28105,6 +28161,7 @@
 ||rp8abc789.com^
 ||rp8cs.com^
 ||rp8h7.com^
+||rp8n7kitth.xyz^
 ||rp8rp8.com^
 ||rp99.id^
 ||rp99.io^
@@ -28243,6 +28300,7 @@
 ||rtp-dinobet.xyz^
 ||rtp-dk77.site^
 ||rtp-drgaming.xyz^
+||rtp-gacor.app^
 ||rtp-gacor.cuan-1m.com^
 ||rtp-gacoran.pro^
 ||rtp-gacorcola.lol^
@@ -28909,6 +28967,7 @@
 ||rtpmaxafp.shop^
 ||rtpmaxbetberry.top^
 ||rtpmaxp38.fun^
+||rtpmaxslot88cermai.xyz^
 ||rtpmaxslot88kurma.xyz^
 ||rtpmaxslot88main.xyz^
 ||rtpmaxwin.site^
@@ -29072,6 +29131,7 @@
 ||rtproyalergb.shop^
 ||rtprukanpastiwd.com^
 ||rtprupiah138ntul.xyz^
+||rtprupiahslot88almon.xyz^
 ||rtprupiahslot88berhadiah.xyz^
 ||rtprupiahslot88duku.xyz^
 ||rtpruru.online^
@@ -29375,6 +29435,7 @@
 ||rupiahmember.com^
 ||rupiahslot88.college^
 ||rupiahslot88.money^
+||rupiahslot88net.xyz^
 ||rupiahtotoplay.id^
 ||rupiahtotoprediksi.com^
 ||rupiahtotoresult.id^
@@ -30026,6 +30087,7 @@
 ||selalutersakiti.com^
 ||selaluwarkop2.com^
 ||selaluwarkop3jp.com^
+||selamatdatang.vip^
 ||selangorlotto.com^
 ||selatan88.rate-up.live^
 ||selawman.quest^
@@ -31697,6 +31759,7 @@
 ||sportuna-casino.com.gr^
 ||spotui.com^
 ||spqrpizzeria.com^
+||spresent.com^
 ||springcourt.com.de^
 ||springhallhealthketo.org^
 ||springhousegrille.com^
@@ -32828,6 +32891,7 @@
 ||teamgraduate.com^
 ||teamjaya.lol^
 ||teamliga234.com^
+||teammega.vip^
 ||teampolymath.com^
 ||teampromokoitoto.com^
 ||teamscope.shop^
@@ -33034,6 +33098,7 @@
 ||testimoni-w303.com^
 ||testimoni.info^
 ||testimoni.mantra-idn.info^
+||testimoni.vip^
 ||testing.findmf-ctcl.com^
 ||testing.flmcloud.net^
 ||testing.txvma.org^
@@ -33529,8 +33594,10 @@
 ||tim88.promo^
 ||timbentuk4d.art^
 ||timberlinemotel.net^
+||timcuan.top^
 ||timeinternational.in^
 ||timezoneall.vip^
+||timmg368.com^
 ||timmoorey.info^
 ||timnasraja.com^
 ||timorleste-lotto.com^
@@ -34135,6 +34202,7 @@
 ||totolottery.id^
 ||totomacau-pools.online^
 ||totomacau4d.id^
+||totomacau5dlivedraw.com^
 ||totomacau888.com^
 ||totomacaunew.us^
 ||totomacaupools.asia^
@@ -34881,6 +34949,7 @@
 ||unfederalreserve.com^
 ||unfreezeafghanistan.org^
 ||unggulsaktijambi.sch.id^
+||ungukeren.top^
 ||uniarq.edu.mx^
 ||unibeet99.com^
 ||unibet99.com.co^
@@ -35613,6 +35682,7 @@
 ||viva99gacorterpercaya.info^
 ||vivabirria.com^
 ||vivafest.co^
+||vivaiaschuhe.at^
 ||vivaklikfifa.pro^
 ||vivamanaus.com^
 ||vivasorte.com.se^
@@ -36366,6 +36436,7 @@
 ||wikivg78.cc^
 ||wil-ait.digital^
 ||wilarenaslotvip.com^
+||wilbandartogel.com^
 ||wildballer.co^
 ||wildballercasino.com^
 ||wildballercasino.online^
@@ -36390,6 +36461,9 @@
 ||willingcott.co.uk^
 ||willinkcuanvip.com^
 ||willsellquick.com^
+||wilmegawin.xyz^
+||wilmenujupuncak.com^
+||wilonfire88.com^
 ||wilottery.com^
 ||wilrupiah.com^
 ||wilsepuh.com^
@@ -36400,6 +36474,7 @@
 ||wilsultan.com^
 ||wiltontack.com^
 ||wiltotojayajaya.com^
+||wiltotortpgames.com^
 ||wimbledonpools.net^
 ||win-25jp.space^
 ||win-boleh.com^
@@ -36449,6 +36524,7 @@
 ||winforcer.co.uk^
 ||wing4d.com^
 ||wing4daerox.com^
+||wing4dangel.com^
 ||wing4dbanjar.com^
 ||wing4dbet.id^
 ||wingameking.com^

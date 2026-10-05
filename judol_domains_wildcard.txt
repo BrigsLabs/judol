@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1981
+# Number of entries: 1984
 # 
 #
 #
@@ -20,6 +20,7 @@
 *[0-9]cuci*
 *[0-9]dewi*
 *[0-9]evenlucknew*
+*[0-9]gb*
 *[0-9]gold*
 *[0-9]gtoto*
 *[0-9]hoki*
@@ -31,6 +32,7 @@
 *[0-9]sport*
 *[0-9]starz*
 *[0-9]toto*
+*[0-9]wing*
 *[0-9]xsport*
 *aaa4d*
 *aat4d*
@@ -1423,6 +1425,7 @@ five[0-9]*
 fly[0-9]*
 fw66*
 gamespool*
+gb[0-9]*
 gem88*
 grd[0-9]*
 hadiahcuan.*

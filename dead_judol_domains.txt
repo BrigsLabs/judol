@@ -13,7 +13,6 @@
 # Github.io
 
 # from cdn_support list, b-cdn.net 
-rtp-royal138a.b-cdn.net
 1000-karma-baik.b-cdn.net
 1site.b-cdn.net
 3cb846e8b88f43a75848.b-cdn.net
@@ -34,6 +33,7 @@ asset-jko.b-cdn.net
 bandotwd.b-cdn.net
 bang-jago.b-cdn.net
 batamsakti.b-cdn.net
+blogger-content-com.b-cdn.net
 blogrr.b-cdn.net
 bulan.b-cdn.net
 cabewin.b-cdn.net
@@ -143,6 +143,7 @@ rightontoproofingsc.b-cdn.net
 royal188-hoki-poll.b-cdn.net
 rtp-biolabet-gacor.b-cdn.net
 rtp-kenzototo2-new.b-cdn.net
+rtp-royal138a.b-cdn.net
 rtp1-aatoto.b-cdn.net
 rtp2-motoslot.b-cdn.net
 rtpakuratmacau303.b-cdn.net
@@ -152,9 +153,11 @@ rupiah222.b-cdn.net
 sab-oke.b-cdn.net
 satuan4d-mo.b-cdn.net
 sayangkurtpnyani.b-cdn.net
+selaluhoki.b-cdn.net
 seo-ltl.b-cdn.net
 seo-prime.b-cdn.net
 seogemoy.b-cdn.net
+seokdk.b-cdn.net
 sg1wg.b-cdn.net
 sip777.b-cdn.net
 situs-nama-baik-slot-gacor.b-cdn.net
@@ -183,6 +186,7 @@ wis77usorg.b-cdn.net
 wong87-css.b-cdn.net
 xidbsxnexus.b-cdn.net
 xt30sf.b-cdn.net
+yakale-pasti.b-cdn.net
 yda4d-img.b-cdn.net
 
 # from *.seamless-hptech.com *.seamlesss-hptech.com
@@ -1052,6 +1056,7 @@ apkapi-rdp.datasvc.site
 apkapi-ked.datasvc.site
 apkapi-tun.datasvc.site
 apkapi-77g.datasvc.site
+apkapi-mx8.datasvc.site
 
 # from *.it.com
 11uu.it.com
@@ -2596,3 +2601,14 @@ cit.vegazr.site
 banner.monalisa66.com 
 img.monalisa66.com 
 nova88imgs.monalisa66.com
+
+#from ungukeren.top # subdom : 
+akses15.ungukeren.top
+akses16.ungukeren.top
+akses17.ungukeren.top
+akses19.ungukeren.top
+
+#from kofbola.info # subdom : 
+slider.kofbola.info 
+slidenew.kofbola.info 
+promo.kofbola.info
