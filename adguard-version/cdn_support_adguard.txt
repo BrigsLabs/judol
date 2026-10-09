@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 3416
+# Number of entries: 3420
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -396,7 +396,6 @@
 ||dfdo5rwtdmzk0.cloudfront.net^
 ||dfiz23mj879i2.cloudfront.net^
 ||dgdga3.swuacktu.net^
-||dh4oiqg45nvw7.cloudfront.net^
 ||dha92jo6cen2v.cloudfront.net^
 ||dhro5khzpwdga.cloudfront.net^
 ||dhv857qjzfs98.cloudfront.net^
@@ -530,6 +529,7 @@
 ||gsc108.sgp1.cdn.digitaloceanspaces.com^
 ||gso.kommo.com^
 ||guesswhozoo.sale^
+||gupre6rlpiph.sgalivechat.com^
 ||h85cndf2moxnwjz.com^
 ||harimauterbang.sgp1.cdn.digitaloceanspaces.com^
 ||here-we-go.top^
@@ -842,6 +842,7 @@
 ||pas77.sgp1.cdn.digitaloceanspaces.com^
 ||pastisuksesterus.xyz^
 ||patch.sdfbvsdfb44trbsts65y67xs6.xyz^
+||pay.fypay.cloud^
 ||pdv.co.id^
 ||peruinformation.org^
 ||pg888pp.com^
@@ -864,6 +865,7 @@
 ||playtech-event.cross-ss.com^
 ||plcl.me^
 ||pmk.ac.id^
+||png-res.png999.com^
 ||png999.com^
 ||png999.com^
 ||pngusdt.com^
@@ -967,6 +969,7 @@
 ||samuelkigelman.com^
 ||savegambar.com^
 ||sayursawi.xyz^
+||schatgopay777.whitepond-0b0d80e0.southeastasia.azurecontainerapps.io^
 ||script386.cloud^
 ||scriptbambu.team^
 ||scriptlexi.cloud^
@@ -1041,6 +1044,7 @@
 ||static.aptaptkaisjds.com^
 ||static.augipt.com^
 ||static.cuanterus.net^
+||static.fypay.cloud^
 ||static.geevisit.com^
 ||static.goolec.com^
 ||static.gwvkyk.com^

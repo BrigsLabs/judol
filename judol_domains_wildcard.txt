@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1984
+# Number of entries: 1992
 # 
 #
 #
@@ -90,6 +90,7 @@
 *apitoto*
 *aquartp*
 *arena[0-9]*
+*arenaqq*
 *ares[0-9]*
 *arjuna4d*
 *arya[0-9]*
@@ -100,6 +101,7 @@
 *asiabet*
 *asiajp[0-9]*
 *asianslot[0-9]*
+*asiaqq*
 *astra[0-9]*
 *asupantoto*
 *asura[0-9]*
@@ -198,6 +200,7 @@
 *borutoto*
 *bos-hoki*
 *bos138*
+*bos228*
 *bos515*
 *bosbet*
 *boshoki*
@@ -257,6 +260,7 @@
 *cpo333*
 *crs[0-9]*
 *cuan[0-9]*
+*cuanpoin*
 *cuantoto*
 *cukong[0-9]*
 *dabet*
@@ -283,6 +287,7 @@
 *dewadora*
 *dewahoki*
 *dewakakek[0-9]*
+*dewaqq*
 *dewaraja[0-9]*
 *dewascore*
 *dewasultan*
@@ -645,6 +650,7 @@
 *kraken1[0-9]*
 *kristal[0-9]*
 *kubatoto*
+*kuda[0-9]*
 *kudajitu*
 *kudaslot*
 *kumontoto*
@@ -1386,6 +1392,9 @@
 9sl*
 [0-9]-win*
 [0-9].cn.com
+[0-9]asia*
+[0-9]bola*
+[0-9]garena*
 [0-9]grd*
 [0-9]lc88.com
 [0-9]win*

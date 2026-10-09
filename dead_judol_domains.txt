@@ -29,6 +29,7 @@ amp-html.b-cdn.net
 amp-oct.b-cdn.net
 amp-rogtoto.b-cdn.net
 angkaku.b-cdn.net
+artikelgrupcs.b-cdn.net
 asset-jko.b-cdn.net
 bandotwd.b-cdn.net
 bang-jago.b-cdn.net
@@ -69,6 +70,7 @@ gemini-master.b-cdn.net
 godhatesfigs.b-cdn.net
 google-no1.b-cdn.net
 group2000.b-cdn.net
+grupcs.b-cdn.net
 guards.b-cdn.net
 hasonangan.b-cdn.net
 herwellnessstudio.b-cdn.net
@@ -113,6 +115,7 @@ mang-eak.b-cdn.net
 masbulo.b-cdn.net
 mashoki.b-cdn.net
 media8k.b-cdn.net
+mediabyte.b-cdn.net
 medytox-coretox.b-cdn.net
 mumon.b-cdn.net
 ngamenjitu.b-cdn.net
@@ -311,6 +314,7 @@ bandar388-rtp.pages.dev
 bandartogelonlinetoto.pages.dev
 bandung1.pages.dev
 bandungtoto11.pages.dev
+bbtn4d-chinacartimes.pages.dev
 bbtn4d-selalu.pages.dev
 beakecil.pages.dev
 beko.pages.dev
@@ -356,6 +360,7 @@ cekrtpbokaptoto.pages.dev
 cerofilas.pages.dev
 cheatslot-pakhoki.pages.dev
 chi-cham-si.pages.dev
+chinacartimes.pages.dev
 chip12-official.pages.dev
 choubochoubo-bad.pages.dev
 claude-4u.pages.dev
@@ -839,6 +844,7 @@ visabet88rtp.pages.dev
 wa-siauw.pages.dev
 wargalokal62-menangbanyak.pages.dev
 warung-depan-shreeassociates.pages.dev
+waterstrong-blog.pages.dev
 wdbosku-naik.pages.dev
 webbiotech.pages.dev
 weboteric.pages.dev
@@ -1002,6 +1008,7 @@ pub-fb1f2fdd2f70498aa4947ec5b6b854bf.r2.dev
 8tu7.short.gy
 akunresmi.short.gy 
 bnan.short.gy
+bqg0.short.gy
 d2f4.short.gy
 dc5f.short.gy 
 drch.short.gy 
@@ -1057,6 +1064,8 @@ apkapi-ked.datasvc.site
 apkapi-tun.datasvc.site
 apkapi-77g.datasvc.site
 apkapi-mx8.datasvc.site
+apkapi-tgd.datasvc.site
+apkapi-3db.datasvc.site
 
 # from *.it.com
 11uu.it.com
@@ -1088,6 +1097,7 @@ audgaming.it.com
 bagong-4d.it.com
 bagong4d.it.com
 baksosolo.it.com
+bandarqqpkv.it.com
 bandartogelonline.it.com
 bangka11.spinwheel11.it.com
 beinternet.it.com
@@ -1170,6 +1180,7 @@ kilopuff.it.com
 koenokatachi.it.com
 koi388.it.com
 komandohss30.it.com
+kuda55.it.com
 kudajitu.it.com
 kyoto98jitu.it.com
 kyoto98max.it.com
@@ -1968,6 +1979,7 @@ maxwin.rajapanengacor.space
 no1.rajapanengacor.space
 situs.rajapanengacor.space
 vendor.rajapanengacor.space
+slotgacor.rajapanengacor.space
 
 #from papatogeljin.xyz # subdom :
 5vwmxx79h8bv9elu9rwd.papatogeljin.xyz
@@ -2376,6 +2388,7 @@ prediksi98.angka-alexis.pro
 prediksi99.angka-alexis.pro
 prediksi102.angka-alexis.pro
 prediksi107.angka-alexis.pro
+prediksi108.angka-alexis.pro
 
 #from jpalexis.pro # subdom : 
 bukti35.jpalexis.pro 
@@ -2383,6 +2396,7 @@ bukti32.jpalexis.pro
 bukti64.jpalexis.pro
 bukti67.jpalexis.pro
 bukti69.jpalexis.pro
+bukti70.jpalexis.pro
 
 #from complainalexis.com # subdom : 
 report4.complainalexis.com 
@@ -2390,6 +2404,8 @@ messenger.complainalexis.com
 report6.complainalexis.com
 akses.complainalexis.com
 report7.complainalexis.com
+contact.complainalexis.com
+report8.complainalexis.com
 
 #from simplyworks.xyz # subdom : 
 alexis.simplyworks.xyz 
@@ -2612,3 +2628,12 @@ akses19.ungukeren.top
 slider.kofbola.info 
 slidenew.kofbola.info 
 promo.kofbola.info
+
+#from group228.com # subdom : 
+bola228.group228.com
+dewaqq.group228.com 
+dewiagen228.group228.com 
+dewidewaqq.group228.com 
+dewiimcpoker.group228.com 
+dewipoker855.group228.com
+liga88.group228.com
