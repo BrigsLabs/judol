@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain
-# Number of entries: 1548
+# Number of entries: 1547
 # 
 #
 #
@@ -13,10 +13,12 @@
 /.*1playau.*/
 /.*3rp[0-9].*/
 /.*4d\.com/
+/.*4dtoto.*/
 /.*788.*/
 /.*888rp.*/
 /.*9koi.*/
 /.*[0-9]bet.*/
+/.*[0-9]bos.*/
 /.*[0-9]cuci.*/
 /.*[0-9]dewi.*/
 /.*[0-9]evenlucknew.*/
@@ -73,9 +75,12 @@
 /.*amerikatoto.*/
 /.*aneka[0-9].*/
 /.*angkabet.*/
+/.*angkahoki.*/
+/.*angkakeramat.*/
 /.*angkanet4d.*/
 /.*angkaraja.*/
 /.*angkasa[0-9].*/
+/.*angkasetan.*/
 /.*angkot88.*/
 /.*angpao[0-9].*/
 /.*anoboy.*/
@@ -88,7 +93,6 @@
 /.*api777.*/
 /.*api88.*/
 /.*apitoto.*/
-/.*aquartp.*/
 /.*arena[0-9].*/
 /.*arenaqq.*/
 /.*ares[0-9].*/
@@ -175,7 +179,6 @@
 /.*binjaitoto.*/
 /.*bintang[0-9].*/
 /.*biru138.*/
-/.*bisabos[0-9].*/
 /.*bitkoin.*/
 /.*blackscatter.*/
 /.*blitar4d.*/
@@ -199,9 +202,7 @@
 /.*borju[0-9].*/
 /.*borutoto.*/
 /.*bos-hoki.*/
-/.*bos138.*/
-/.*bos228.*/
-/.*bos515.*/
+/.*bos[0-9].*/
 /.*bosbet.*/
 /.*boshoki.*/
 /.*boskuda.*/
@@ -280,7 +281,6 @@
 /.*demoslotbaru.*/
 /.*dentoto.*/
 /.*depo[0-9].*/
-/.*depobos[0-9].*/
 /.*depoxito.*/
 /.*detik[0-9].*/
 /.*dewa[0-9].*/
@@ -298,6 +298,7 @@
 /.*dewislot.*/
 /.*dewisri[0-9].*/
 /.*dewitoto.*/
+/.*dim88.*/
 /.*dinasti2[0-9].*/
 /.*dingdong[0-9].*/
 /.*dino[0-9].*/
@@ -453,7 +454,6 @@
 /.*hoki[0-9].*/
 /.*hokiemas.*/
 /.*hokijp[0-9].*/
-/.*hokirtp[0-9].*/
 /.*hokislot[0-9].*/
 /.*hoktoto.*/
 /.*hong[0-9].*/
@@ -559,7 +559,6 @@
 /.*joni[0-9].*/
 /.*jos2[0-9].*/
 /.*jp-mega.*/
-/.*jpbos4d.*/
 /.*jphoki.*/
 /.*jpmania.*/
 /.*jpyuk[0-9].*/
@@ -596,6 +595,7 @@
 /.*kantorbola.*/
 /.*kantortoto.*/
 /.*kapten[0-9].*/
+/.*karatetoto.*/
 /.*kari4d.*/
 /.*kasih[0-9].*/
 /.*kaskustoto.*/
@@ -689,7 +689,6 @@
 /.*lebah-4d.*/
 /.*legendaqq.*/
 /.*legendtoto.*/
-/.*lemacau.*/
 /.*lembagatoto.*/
 /.*lentera4d.*/
 /.*leo[0-9].*/
@@ -736,7 +735,7 @@
 /.*mabar[0-9].*/
 /.*mabos.*/
 /.*macan[0-9].*/
-/.*macau[0-9].*/
+/.*macau.*/
 /.*maco4d.*/
 /.*mahajitu.*/
 /.*mahjong.*/
@@ -894,6 +893,7 @@
 /.*osaka[0-9].*/
 /.*ovo[0-9].*/
 /.*ovoslot.*/
+/.*ownertoto.*/
 /.*oxbet.*/
 /.*oyo2[0-9].*/
 /.*p0k[0-9].*/
@@ -1206,6 +1206,7 @@
 /.*tan69.*/
 /.*tanduktoto.*/
 /.*taruhantoto.*/
+/.*taruma[0-9].*/
 /.*tarungtoto.*/
 /.*tasenslot.*/
 /.*taxi[0-9].*/
@@ -1240,6 +1241,7 @@
 /.*toggel.*/
 /.*togggel.*/
 /.*tok99.*/
+/.*tokektoto.*/
 /.*tokenau.*/
 /.*tokeslot.*/
 /.*toko[0-9].*/
@@ -1266,7 +1268,6 @@
 /.*totoking.*/
 /.*totokita[0-9].*/
 /.*totolink[0-9].*/
-/.*totomacau.*/
 /.*totonusa.*/
 /.*totopanen.*/
 /.*totopedia.*/
@@ -1405,13 +1406,11 @@
 /afaf.*/
 /alexavegas.*/
 /amp.*/
-/angkasetan\..*/
 /antinwl\..*/
 /apkapi-.*/
 /bayi.*\.com/
 /bj[0-9].*/
 /bn77.*/
-/bos[0-9].*/
 /bu88.*/
 /co88.*/
 /cu888.*/
@@ -1432,6 +1431,7 @@
 /fc[0-9].*/
 /five[0-9].*/
 /fly[0-9].*/
+/fobi.*\.org/
 /fw66.*/
 /gamespool.*/
 /gb[0-9].*/
@@ -1535,7 +1535,6 @@
 /vg123.*/
 /vin88.*/
 /vk88.*/
-/vsa88bos\..*/
 /vu88.*/
 /w88.*/
 /wis[0-9].*/

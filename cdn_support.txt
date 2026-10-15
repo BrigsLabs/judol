@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3420
+# Number of entries: 3445
 # CDNs supporting site (may contains false positive)
 # 
 # dh4oiqg45nvw7.cloudfront.net # public-assets.envato-static.com
@@ -53,7 +53,7 @@ ajaibcloud.sgp1.cdn.digitaloceanspaces.com
 ajennings.net.cdn.cloudflare.net
 akamai-assets.squarespace.com
 akgrouplink.sgp1.digitaloceanspaces.com
-akucloud.com
+akucloud.com # subdom : object-d001-cloud.akucloud.com
 akundewaa.site
 alb-ipppw0c8ujq4ywp6eq.ap-southeast-1.alb.aliyuncs.com
 alcopay.com
@@ -173,7 +173,6 @@ aws-learning-kit.bitslovers.com.cdn.cloudflare.net
 b-cdn.net # all subdom list in dead_judol_domains.txt
 b1speed.info
 b729j88.com # subdom : img.b729j88.com
-babakan.desa.id
 bacan4dblog.wordpress.com
 bacan4dofficial.wordpress.com
 bacan7.wordpress.com
@@ -293,16 +292,19 @@ cloudstoragesigma02.com
 cmbi.laner220.com
 collect.duckducktech.site
 common-static.ppgames.net
+common.fxcdn.xyz
 computerhope.com
 contact-scraper.app.wtggggg.com
 contentranking.top # seo
 cool-assets.sgp1.cdn.digitaloceanspaces.com
 crisp.chat
+csbot-documents.s3.ap-southeast-1.amazonaws.com
 customer-eq7kiuol0tk9chox.cloudflarestream.com
 d145yfon394ak6.cloudfront.net
 d16011ogut57ed.cloudfront.net
 d17if134pyeemt.cloudfront.net
 d1ayxb9ooonjts.cloudfront.net
+d1azm8vjpmyev4.cloudfront.net
 d1bg3h75551782.cloudfront.net
 d1bnhxh1olb98c.cloudfront.net
 d1cq301dpr7fww.cloudfront.net
@@ -351,9 +353,11 @@ d37kf7rs4g1hyv.cloudfront.net
 d39ezjiev2gct0.cloudfront.net
 d39r7a227pxlxu.cloudfront.net
 d39xq0g0jylmqw.cloudfront.net
+d3aamn95vqj49i.cloudfront.net
 d3ci3nnu1jeurw.cloudfront.net
 d3e54v103j8qbb.cloudfront.net
 d3ejb2l5e3bvmc.cloudfront.net
+d3gaovihbacxig.cloudfront.net
 d3h1yom8coubmj.cloudfront.net
 d3h2cjocy0dp0y.cloudfront.net
 d3ljt8kkw6mx40.cloudfront.net
@@ -501,6 +505,8 @@ games.evolution.com
 gameslotimage.sgp1.cdn.digitaloceanspaces.com
 gametobeta.files.wordpress.com
 gametobeta.wordpress.com
+gandiwa.sgp1.cdn.digitaloceanspaces.com
+gandiwa.sgp1.digitaloceanspaces.com
 garudagacor.t.me
 gasnow.site # subdom : newapi.gasnow.site static.guard.gasnow.site
 gate.continue.group
@@ -650,6 +656,7 @@ jp-api.wlcas999.com
 jp-api.zoomwlb.com
 jp-api2.namesvr.dev
 jp-api2.namesvr.devl43fnw-1198-ppp.oss-accelerate.aliyuncs.com
+js.analyticpro.online
 js.signalbit.io
 jstakecloud.link
 jurnal.univpgri-palembang.ac.id # hacked web
@@ -673,6 +680,7 @@ kick.com
 kitapay.co # subdom : embed.kitapay.co
 kokobread.com
 konversiart.top # seo
+kpkslot.ams3.cdn.digitaloceanspaces.com
 kumpulanfile.sgp1.digitaloceanspaces.com
 l0bs-tterr.k0llpst3r.net
 l43fnw-1198-ppp.oss-accelerate.aliyuncs.com
@@ -723,6 +731,7 @@ m1cdn.com
 mahasuhu.sgp1.digitaloceanspaces.com
 malsup.github.io
 manadobisnis.com # backlink
+manekinekos.s3.ap-southeast-1.amazonaws.com
 mantratt.sgp1.cdn.digitaloceanspaces.com
 maraset.site # CDN
 marinecorp.xyz
@@ -737,6 +746,7 @@ media.mediatelekomunikasisejahtera.com
 media.spvmedapk.com
 media.tenor.com
 media4.giphy.com
+media420team.com
 mediainternal.com
 mediamsg2.com
 members.phpmu.com
@@ -749,6 +759,7 @@ mhbos.sgp1.cdn.digitaloceanspaces.com
 midme.xyz
 miegacoan.sirv.com
 mikatoto.sgp1.digitaloceanspaces.com
+mikopay.id # subdom : api.mikopay.id # may create false positive
 militia-watchdog.org
 miracle-backlink.space 
 mjitincorp.club
@@ -779,6 +790,7 @@ mplay-live-2-default-rtdb.firebaseio.com
 mplay-live-4-default-rtdb.firebaseio.com
 mplay-live-5-default-rtdb.firebaseio.com
 ms.askcas23ssksd.co
+multi-chat.info # may create false positive
 mutami845.wordpress.com
 mutliple.com
 mybluehost.me
@@ -861,6 +873,7 @@ pika77.sgp1.cdn.digitaloceanspaces.com
 pixel.genzimg.io
 pixelprismstudio.com # subdom : assets.pixelprismstudio.com
 platforms3-yzw03img-0ejj3sb721.s3.ap-northeast-1.amazonaws.com
+play-img.store
 playstarevent.com
 playtech-event.cross-ss.com 
 plcl.me
@@ -903,6 +916,7 @@ qoopic.co
 qqkwbase.net # all subdom list in dead_judol_domains.txt
 qrfy.io # may create false positive
 qris.blazingupp.com
+qriscepatmasuk.com # may create false positive
 qriselite.com
 qrishoki.com # subdom : launcher.qrishoki.com
 qrismvp.com
@@ -1019,6 +1033,7 @@ smbstatic.sgp1.digitaloceanspaces.com
 smksdb1jambi.sch.id # scam
 snapy.photo
 sobajimakmur.com
+socket-ws.bikamyr010.xyz
 socket.io # subdom : cdn.socket.io
 sockjs-ap1.pusher.com
 sohogroupblog.wordpress.com
@@ -1057,6 +1072,7 @@ static.sameorigin.net
 static.stylecontent.xyz
 static.zdassets.com
 static1.squarespace.com
+staticjs.dev
 statis-images.s3.ap-southeast-1.amazonaws.com
 stg3mplay.web-sample.live
 storetn.in
@@ -1111,6 +1127,7 @@ tk.mowell.tech
 tko77game.pro # scam
 tmc-group.photos
 tmgaming.asia # subdom : https://lapp.tmgaming.asia
+tn051-production-public.s3.ap-southeast-1.amazonaws.com
 toto188official.taplink.ws
 toxiclibs.org # landing
 tr8ngames.com
@@ -1165,6 +1182,7 @@ wdnotif.sgp1.digitaloceanspaces.com
 web-istana2000.linkapp99.com
 web-vegas123.linkapp77.com
 web.app # all subdom list in dead_judol_domains.txt
+weblobby2.aq008.com
 website-monitor-c8444-default-rtdb.asia-southeast1.firebasedatabase.app
 websitetoapk.com
 weddingpuzzleshop.com # hacked web : weddingpuzzleshop.com/wholesale/
@@ -1208,13 +1226,14 @@ zakw1rog.drhk.loveota.com
 zakw1rog.dshk.loveota.com
 zalopay.vn
 zdataconnect.us
-zdataservices.us # subdom : apkapi-mds.zdataservices.us apkapi-vg1.zdataservices.us
+zdataservices.us # all subdom list in dead_judol_domains.txt
 zeronaught.com
 zfrmz.com
 zkt.mb.cdn-dysxb.com
 zm-cdn.zoomwl.com
 zmobileservices.com
 zmobileservices.us
+zolvachat.com # subdom : app.zolvachat.com # may create false positive
 ##############################
 # suspicious scam & backlink #
 ##############################
@@ -1453,6 +1472,7 @@ daysofpolandlondon.com
 debdevcs.org
 declansdayfoundation.org
 dempel.id
+desa.id
 desakayongutara.id
 desaku.simpatidesa.id
 designingebooks.com
@@ -2722,6 +2742,7 @@ gainbot.org
 gaopublog.com
 gapbridgersinc.org
 gcpingear.com
+gelorainfo.com # backlink seo
 georgiacats.org
 gepedu.org
 gesamtwerk.org
@@ -2833,6 +2854,7 @@ kcsnr.org
 kdshdfkjsaa.com
 kebonrejo.id
 kellyim.org
+kepoinkorea.com # backlink seo
 khanademy.org
 kiarapayung-pakuhaji-desa.id
 kiberampiramtaani.org
@@ -3001,6 +3023,7 @@ pskb-dinsosbanten.net
 puddletopia.org
 punstersclu.com
 purpleheartcruise.org
+pusatberitaid.info # backlink seo
 raalte.org
 rafaba.org
 raincareer.org
@@ -3030,6 +3053,7 @@ samedaydenturesandimplants.org
 sanggata-utara.id
 sarairohillarwa.org
 sarprasdisdikkabbogor.com
+satuberita.news # backlink seo
 saudivision2030.org
 sbihub.org
 sbmmtrust.org
@@ -3309,6 +3333,7 @@ trustica.org
 tryoutdisdikkotabekasi.com
 tuapejatdesa.id
 tumanggor.id
+tumble.digital # backlink seo
 turisoccorso.org
 turungunung.id
 ufalego.org

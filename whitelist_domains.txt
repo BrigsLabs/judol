@@ -146,6 +146,7 @@ disney.asia
 elgaucho.asia
 homelands.asia
 livwell.asia
+omp.asia
 pansci.asia
 rainviewer.asia
 shopdisney.asia
@@ -364,6 +365,7 @@ bigdig.energy
 eonnext-kraken.energy
 homewizard.energy
 octopus.energy
+oegb-kraken.energy
 biqu.equipment
 dandelion.events
 lyyti.events
@@ -374,6 +376,7 @@ item.exchange
 bahn.expert
 booking.expert
 malware.expert
+hns.family
 ktr.fan
 os.fan
 haal.fashion
@@ -542,7 +545,6 @@ virgile.men
 aire.ml
 amap.ml
 google.ml
-info-matin.ml
 lemmygrad.ml
 lemmy.ml
 lingva.ml
@@ -632,6 +634,7 @@ manuals.online
 mastodon.online
 mijnslimhuis.online
 mrprice.online
+norepiy.online
 open.online
 order.online
 owncast.online
@@ -704,6 +707,7 @@ mhn.quest
 mylegendary.quest
 prometheus.quest
 raccoon.quest
+bunkr.red
 cdprojekt.red
 platone.red
 sci-hub.red
@@ -713,6 +717,8 @@ nect.rest
 moyos.restaurant
 swipein.restaurant
 vecchioamore.restaurant
+mangrove.reviews
+computer.rip
 highquality.rip
 nest.rip
 scribe.rip
@@ -772,6 +778,7 @@ schweden.shop
 scorpions.shop
 sentry.shop
 seyffer.shop
+sparepartservice.shop
 swedish-supplements.shop
 terminal.shop
 thechurch.shop
@@ -802,6 +809,7 @@ kaylees.site
 leafbrowser.site
 miteru.site
 notion.site
+omar-thing.site
 onrocket.site
 platformsh.site
 privacy-test-pages.site

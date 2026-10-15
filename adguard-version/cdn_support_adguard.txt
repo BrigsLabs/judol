@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 3420
+# Number of entries: 3445
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -173,7 +173,6 @@
 ||b-cdn.net^
 ||b1speed.info^
 ||b729j88.com^
-||babakan.desa.id^
 ||bacan4dblog.wordpress.com^
 ||bacan4dofficial.wordpress.com^
 ||bacan7.wordpress.com^
@@ -293,16 +292,19 @@
 ||cmbi.laner220.com^
 ||collect.duckducktech.site^
 ||common-static.ppgames.net^
+||common.fxcdn.xyz^
 ||computerhope.com^
 ||contact-scraper.app.wtggggg.com^
 ||contentranking.top^
 ||cool-assets.sgp1.cdn.digitaloceanspaces.com^
 ||crisp.chat^
+||csbot-documents.s3.ap-southeast-1.amazonaws.com^
 ||customer-eq7kiuol0tk9chox.cloudflarestream.com^
 ||d145yfon394ak6.cloudfront.net^
 ||d16011ogut57ed.cloudfront.net^
 ||d17if134pyeemt.cloudfront.net^
 ||d1ayxb9ooonjts.cloudfront.net^
+||d1azm8vjpmyev4.cloudfront.net^
 ||d1bg3h75551782.cloudfront.net^
 ||d1bnhxh1olb98c.cloudfront.net^
 ||d1cq301dpr7fww.cloudfront.net^
@@ -351,9 +353,11 @@
 ||d39ezjiev2gct0.cloudfront.net^
 ||d39r7a227pxlxu.cloudfront.net^
 ||d39xq0g0jylmqw.cloudfront.net^
+||d3aamn95vqj49i.cloudfront.net^
 ||d3ci3nnu1jeurw.cloudfront.net^
 ||d3e54v103j8qbb.cloudfront.net^
 ||d3ejb2l5e3bvmc.cloudfront.net^
+||d3gaovihbacxig.cloudfront.net^
 ||d3h1yom8coubmj.cloudfront.net^
 ||d3h2cjocy0dp0y.cloudfront.net^
 ||d3ljt8kkw6mx40.cloudfront.net^
@@ -501,6 +505,8 @@
 ||gameslotimage.sgp1.cdn.digitaloceanspaces.com^
 ||gametobeta.files.wordpress.com^
 ||gametobeta.wordpress.com^
+||gandiwa.sgp1.cdn.digitaloceanspaces.com^
+||gandiwa.sgp1.digitaloceanspaces.com^
 ||garudagacor.t.me^
 ||gasnow.site^
 ||gate.continue.group^
@@ -650,6 +656,7 @@
 ||jp-api.zoomwlb.com^
 ||jp-api2.namesvr.dev^
 ||jp-api2.namesvr.devl43fnw-1198-ppp.oss-accelerate.aliyuncs.com^
+||js.analyticpro.online^
 ||js.signalbit.io^
 ||jstakecloud.link^
 ||jurnal.univpgri-palembang.ac.id^
@@ -673,6 +680,7 @@
 ||kitapay.co^
 ||kokobread.com^
 ||konversiart.top^
+||kpkslot.ams3.cdn.digitaloceanspaces.com^
 ||kumpulanfile.sgp1.digitaloceanspaces.com^
 ||l0bs-tterr.k0llpst3r.net^
 ||l43fnw-1198-ppp.oss-accelerate.aliyuncs.com^
@@ -723,6 +731,7 @@
 ||mahasuhu.sgp1.digitaloceanspaces.com^
 ||malsup.github.io^
 ||manadobisnis.com^
+||manekinekos.s3.ap-southeast-1.amazonaws.com^
 ||mantratt.sgp1.cdn.digitaloceanspaces.com^
 ||maraset.site^
 ||marinecorp.xyz^
@@ -737,6 +746,7 @@
 ||media.spvmedapk.com^
 ||media.tenor.com^
 ||media4.giphy.com^
+||media420team.com^
 ||mediainternal.com^
 ||mediamsg2.com^
 ||members.phpmu.com^
@@ -749,6 +759,7 @@
 ||midme.xyz^
 ||miegacoan.sirv.com^
 ||mikatoto.sgp1.digitaloceanspaces.com^
+||mikopay.id^
 ||militia-watchdog.org^
 ||miracle-backlink.space^
 ||mjitincorp.club^
@@ -779,6 +790,7 @@
 ||mplay-live-4-default-rtdb.firebaseio.com^
 ||mplay-live-5-default-rtdb.firebaseio.com^
 ||ms.askcas23ssksd.co^
+||multi-chat.info^
 ||mutami845.wordpress.com^
 ||mutliple.com^
 ||mybluehost.me^
@@ -861,6 +873,7 @@
 ||pixel.genzimg.io^
 ||pixelprismstudio.com^
 ||platforms3-yzw03img-0ejj3sb721.s3.ap-northeast-1.amazonaws.com^
+||play-img.store^
 ||playstarevent.com^
 ||playtech-event.cross-ss.com^
 ||plcl.me^
@@ -903,6 +916,7 @@
 ||qqkwbase.net^
 ||qrfy.io^
 ||qris.blazingupp.com^
+||qriscepatmasuk.com^
 ||qriselite.com^
 ||qrishoki.com^
 ||qrismvp.com^
@@ -1019,6 +1033,7 @@
 ||smksdb1jambi.sch.id^
 ||snapy.photo^
 ||sobajimakmur.com^
+||socket-ws.bikamyr010.xyz^
 ||socket.io^
 ||sockjs-ap1.pusher.com^
 ||sohogroupblog.wordpress.com^
@@ -1057,6 +1072,7 @@
 ||static.stylecontent.xyz^
 ||static.zdassets.com^
 ||static1.squarespace.com^
+||staticjs.dev^
 ||statis-images.s3.ap-southeast-1.amazonaws.com^
 ||stg3mplay.web-sample.live^
 ||storetn.in^
@@ -1111,6 +1127,7 @@
 ||tko77game.pro^
 ||tmc-group.photos^
 ||tmgaming.asia^
+||tn051-production-public.s3.ap-southeast-1.amazonaws.com^
 ||toto188official.taplink.ws^
 ||toxiclibs.org^
 ||tr8ngames.com^
@@ -1165,6 +1182,7 @@
 ||web-istana2000.linkapp99.com^
 ||web-vegas123.linkapp77.com^
 ||web.app^
+||weblobby2.aq008.com^
 ||website-monitor-c8444-default-rtdb.asia-southeast1.firebasedatabase.app^
 ||websitetoapk.com^
 ||weddingpuzzleshop.com^
@@ -1215,6 +1233,7 @@
 ||zm-cdn.zoomwl.com^
 ||zmobileservices.com^
 ||zmobileservices.us^
+||zolvachat.com^
 ##############################
 # suspicious scam & backlink #
 ##############################
@@ -1453,6 +1472,7 @@
 ||debdevcs.org^
 ||declansdayfoundation.org^
 ||dempel.id^
+||desa.id^
 ||desakayongutara.id^
 ||desaku.simpatidesa.id^
 ||designingebooks.com^
@@ -2722,6 +2742,7 @@
 ||gaopublog.com^
 ||gapbridgersinc.org^
 ||gcpingear.com^
+||gelorainfo.com^
 ||georgiacats.org^
 ||gepedu.org^
 ||gesamtwerk.org^
@@ -2833,6 +2854,7 @@
 ||kdshdfkjsaa.com^
 ||kebonrejo.id^
 ||kellyim.org^
+||kepoinkorea.com^
 ||khanademy.org^
 ||kiarapayung-pakuhaji-desa.id^
 ||kiberampiramtaani.org^
@@ -3001,6 +3023,7 @@
 ||puddletopia.org^
 ||punstersclu.com^
 ||purpleheartcruise.org^
+||pusatberitaid.info^
 ||raalte.org^
 ||rafaba.org^
 ||raincareer.org^
@@ -3030,6 +3053,7 @@
 ||sanggata-utara.id^
 ||sarairohillarwa.org^
 ||sarprasdisdikkabbogor.com^
+||satuberita.news^
 ||saudivision2030.org^
 ||sbihub.org^
 ||sbmmtrust.org^
@@ -3309,6 +3333,7 @@
 ||tryoutdisdikkotabekasi.com^
 ||tuapejatdesa.id^
 ||tumanggor.id^
+||tumble.digital^
 ||turisoccorso.org^
 ||turungunung.id^
 ||ufalego.org^
