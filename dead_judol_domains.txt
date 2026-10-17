@@ -2,6 +2,7 @@
 # Homepage: https://github.com/BrigsLabs/judol
 # Issues: https://github.com/BrigsLabs/judol/issues
 # Expires: forever or have been block from top domain
+
 # Syntax: Sub Domains
 # Number of entries: 0
 #
@@ -31,6 +32,7 @@ amp-rogtoto.b-cdn.net
 angkaku.b-cdn.net
 artikelgrupcs.b-cdn.net
 asset-jko.b-cdn.net
+b758577a40f99a90821c.b-cdn.net
 bandotwd.b-cdn.net
 bang-jago.b-cdn.net
 batamsakti.b-cdn.net
@@ -132,6 +134,7 @@ percayalah.b-cdn.net
 planettalks.b-cdn.net
 ply288.b-cdn.net
 polamaryan.b-cdn.net
+posmaroha.b-cdn.net
 poso.b-cdn.net
 prda4d-img.b-cdn.net
 prime-2000-dubai-clean.b-cdn.net
@@ -235,6 +238,7 @@ ugstg.seamless-hptech.com
 3dhoki-boyercellars.pages.dev
 3dhoki-sahara.pages.dev
 3xrtpdrama.pages.dev
+4xrtpdrama.pages.dev
 6899e41a.rtplawak4d.pages.dev
 79k.pages.dev
 88clb06.pages.dev
@@ -266,8 +270,10 @@ amp-grab89-ip-ong.pages.dev
 amp-hotelkhamvongsa.pages.dev
 amp-iboslot-com.pages.dev
 amp-knptechno.pages.dev
+amp-mgscv.pages.dev
 amp-nusa89-sugar.pages.dev
 amp-ohlillydesign.pages.dev
+amp-pmb-8qt.pages.dev
 amp-project-wonderboy.pages.dev
 amp-sportsjabber-net.pages.dev
 amp-spv88.pages.dev
@@ -698,6 +704,7 @@ rtpakuratinds303.pages.dev
 rtpasliindoslot303.pages.dev
 rtpbantuan2-rokok.pages.dev
 rtpbantuan3-online.pages.dev
+rtpbatmantotoselalugacor.pages.dev
 rtpberastogel-akurat3.pages.dev
 rtpestotoiceblue.pages.dev
 rtpfijislota.pages.dev
@@ -837,6 +844,7 @@ univ-ikopin.pages.dev
 unlocksamsungonline.pages.dev
 unsur138.pages.dev
 upcristo.pages.dev
+url-sink-shorterner.pages.dev
 utama-spawnner-rtp.pages.dev
 violet-top-one.pages.dev
 violetslot-go.pages.dev
@@ -849,6 +857,11 @@ wdbosku-naik.pages.dev
 webbiotech.pages.dev
 weboteric.pages.dev
 welcome-fightfight.pages.dev
+whatsapp-arab777.pages.dev
+whatsapp-cina777.pages.dev
+whatsapp-kaikoslot.pages.dev
+whatsapp-pentaslot.pages.dev
+whatsapp-rusia777.pages.dev
 whatsappofficial.pages.dev
 whatsappofficialpola900.pages.dev
 wih69-js.pages.dev
@@ -876,6 +889,7 @@ apkapi-mgc.bitly.sbs
 apkapi-pd7.bitly.sbs
 apkapi-rk8.bitly.sbs
 apkapi-rmd.bitly.sbs
+apkapi-ra8.bitly.sbs
 
 # from cdn : *.r2.dev
 pub-01c7a4baf4b743cbb2969e877d4146a2.r2.dev
@@ -1156,6 +1170,7 @@ hokiroom.totovip.it.com
 hongkongpools.it.com
 hss.spinwheel55.it.com
 hss3031122.it.com
+img-projectowner.it.com
 imgcdn.it.com
 inewsfit.com
 inibozpunyartp.it.com
@@ -1265,6 +1280,7 @@ rtpcancer.imgclck.it.com
 rtpgacor-panentogel.it.com
 rtpgudangsuper.it.com
 rtpislot99.it.com
+rtp-kita.it.com
 rtpmahongbet2.it.com
 rtpslothariini.it.com
 rtpwaktogel.it.com
@@ -1867,7 +1883,6 @@ agen28.buktiagenolx.info
 agen32.buktiagenolx.info
 
 #from cdn_support workers.dev
-sirkuit4dy-gasakcuy.seo-projectbuzz.workers.dev
 abc8page.public-f1c.workers.dev
 amanahtotogacor3.pastimemberi.workers.dev
 asia99.jawirr.workers.dev
@@ -1888,6 +1903,7 @@ idnpoker.mjitcorporationltd.workers.dev
 jangan-pada-resign-lahh-capefoot-clinic.doraahoki.workers.dev
 jentoto-anorange.gasukagelay.workers.dev
 jogoluck.app-b17.workers.dev
+jojobet.adminra.workers.dev
 kejurtps.master-138group.workers.dev
 live-punya2.puhseo.workers.dev
 live-punyatoto12.totoduabelas12.workers.dev
@@ -1897,9 +1913,12 @@ rashakai.sijago88.workers.dev
 rr88_shortlink.rr88tino.workers.dev
 safe-link-abc.public-f1c.workers.dev
 shortlink.kjcpage.workers.dev
+sirkuit4dy-gasakcuy.seo-projectbuzz.workers.dev
 situs-slot-gacor-tw88.rjpl-group.workers.dev
 solar.newmahjongways.workers.dev
 story-barbar77.proplayer-esport046.workers.dev
+twilight-mountain-98f8.derhoerit.workers.dev
+weathered-snowflake-30e3.derhoerseo88.workers.dev
 yukbisayukrank1.sub-saldo33sir.workers.dev
 
 #from arimbi89.live # subdom : 
@@ -2007,6 +2026,7 @@ surya88.infini88.network
 catontavern.netlify.app
 dateherbase.netlify.app
 diatas-langit-ada-langit33.netlify.app
+dynasty4dtoto.netlify.app
 exa303-listmusic.netlify.app
 fals4d-services.netlify.app
 gamepalinggacor.netlify.app
@@ -2014,6 +2034,7 @@ getafealdia.netlify.app
 initogel-skip-this-step.netlify.app
 inquisitive-sherbet-acafee.netlify.app
 journal-akin.netlify.app
+kaisar4dtotohebat.netlify.app
 kilat77-gandalf.netlify.app
 kuningtotodanmasbc.netlify.app
 mawar500-atememlakgazetesi.netlify.app
@@ -2130,11 +2151,13 @@ hk.mitratogel40.com
 prediksi36.prediksi-raban31.lol 
 prediksi39.prediksi-raban31.lol 
 prediksi42.prediksi-raban31.lol
+prediksi50.prediksi-raban31.lol
 
 #from rtp-raban34.lol # subdom : 
 rtp53.rtp-raban34.lol 
 rtp57.rtp-raban34.lol 
 rtp65.rtp-raban34.lol
+rtp75.rtp-raban34.lol
 
 #from menantugoogle.vip # subdom :
 3prize.menantugoogle.vip
@@ -2175,6 +2198,7 @@ apkapi-gs7.rebrandy.site
 apkapi-sor.rebrandy.site
 apkapi-sh7.rebrandy.site
 apkapi-wh6.rebrandy.site
+apkapi-ra8.rebrandy.site
 
 #from ltn7.com # subdom : 
 promosi.ltn7.com 
@@ -2207,6 +2231,7 @@ olx37.ramalan.info
 olx60.ramalan.info 
 olx65.ramalan.info
 olx69.ramalan.info
+olx79.ramalan.info
 
 #from selalu-maxwin.com # subdom : 
 pola.selalu-maxwin.com 
@@ -2372,6 +2397,7 @@ rajakadal.dataklmsad902.site
 pakhoki.dataklmsad902.site
 yokaislot.dataklmsad902.site
 gojo117.dataklmsad902.site
+wisatahoki.dataklmsad902.site
 
 #from dataklmsad903.site # subdom : 
 kaya787.dataklmsad903.site 
@@ -2380,6 +2406,7 @@ rajakadal.dataklmsad903.site
 pakhoki.dataklmsad903.site
 yokaislot.dataklmsad903.site
 gojo117.dataklmsad903.site
+wisatahoki.dataklmsad903.site
 
 #from angka-alexis.pro # subdom : 
 prediksi60.angka-alexis.pro 
@@ -2450,6 +2477,7 @@ olx22.caracuan.info
 olx34.testimoni.info 
 olx35.testimoni.info 
 olx38.testimoni.info
+olx45.testimoni.info
 
 #from agenolxman.com # subdom : 
 great28.agenolxman.com 
@@ -2521,6 +2549,7 @@ apkapi-ju8.mobileservices.sbs
 apkapi-na1.mobileservices.sbs
 apkapi-hkw.mobileservices.sbs
 apkapi-jas.mobileservices.sbs
+apkapi-kai.mobileservices.sbs
 
 #from kggamingapi.com # subdom : 
 8722204275.kggamingapi.com 
@@ -2576,15 +2605,15 @@ game.rtpcrs99.com
 menu.rtpcrs99.com
 
 #from rogburst.com # subdom : 
-rtp0028.rogburst.com 
-wa0005.rogburst.com 
-prediksi0020.rogburst.com 
 buktijp0012.rogburst.com 
-panduan0003.rogburst.com 
-promo0011.rogburst.com 
-week0001.rogburst.com 
 lomba0001.rogburst.com 
 luckyspin0003.rogburst.com
+panduan0003.rogburst.com 
+prediksi0020.rogburst.com 
+promo0011.rogburst.com 
+rtp0028.rogburst.com 
+wa0005.rogburst.com 
+week0001.rogburst.com 
 
 #from bejospin.com # subdom : 
 totonusa.bejospin.com 
@@ -2637,3 +2666,143 @@ dewidewaqq.group228.com
 dewiimcpoker.group228.com 
 dewipoker855.group228.com
 liga88.group228.com
+
+#from buktijp-raban28.lol # subdom : 
+buktijp20.buktijp-raban28.lol 
+buktijp25.buktijp-raban28.lo 
+buktijp36.buktijp-raban28.lol
+
+#from zdataservices.us # subdom : 
+apkapi-mds.zdataservices.us 
+apkapi-vg1.zdataservices.us 
+apkapi-cna.zdataservices.us
+
+#from bet365.com # subdom :
+az.bet365.com
+co.bet365.com
+dc.bet365.com
+ia.bet365.com
+il.bet365.com
+in.bet365.com
+ks.bet365.com
+ky.bet365.com
+la.bet365.com
+md.bet365.com
+mi.bet365.com
+mo.bet365.com
+nc.bet365.com
+nj.bet365.com
+oh.bet365.com
+pa.bet365.com
+tn.bet365.com
+va.bet365.com
+wv.bet365.com
+
+#from kliksini.id # subdom :
+luckyspinkijang.kliksini.id
+luckyspintokek.kliksini.id
+masterlotto.kliksini.id
+paitocs.kliksini.id
+paitocs1.kliksini.id
+paitocs2.kliksini.id
+paitocs3.kliksini.id
+rtpkijang.kliksini.id
+rtprusa.kliksini.id
+rtpsanca.kliksini.id
+rtptokek.kliksini.id
+
+#from jebolwd.org # subdom : 
+barca.jebolwd.org
+mc.jebolwd.org 
+mu.jebolwd.org 
+
+#from lilinjp.com # subdom : 
+ahay.lilinjp.com 
+ituh.lilinjp.com 
+lain.lilinjp.com 
+mouse.lilinjp.com
+
+#from crowntogelgacor.net # subdom : 
+crownlah126.crowntogelgacor.net 
+maukaya30.crowntogelgacor.net 
+supcrown99.crowntogelgacor.net
+
+#from methodistkisaran.sch.id # subdom : 
+pabs.methosdistkisaran.sch.id 
+pmb.methodistkisaran.sch.id 
+pmbsma.methosdistkisaran.sch.id
+
+#from shio4dpjp.com # subdom : 
+wap.shio4dpjp.com 
+x1.shio4dpjp.com 
+x2.shio4dpjp.com
+
+#from vvipbossza.com # subdom : 
+x1.vvipbossza.com 
+x4.vvipbossza.com 
+x5.vvipbossza.com
+
+#from oasisrtp.online # subdom : 
+x10.oasisrtp.online 
+x17.oasisrtp.online 
+x18.oasisrtp.online 
+x19.oasisrtp.online
+
+#from dim88az.com # subdom : 
+x5.dim88az.com 
+x4.dim88az.com 
+x1.dim88az.com
+
+#from desa.id # subdom : 
+aekbatulbs.desa.id
+aekgotilbs.desa.id
+aekrasolbs.desa.id
+airmerahlbs.desa.id
+asamjawalbs.desa.id
+bangailbs.desa.id
+batangnadengganlbs.desa.id
+beringinjayalbs.desa.id
+binangadualbs.desa.id
+bukittujuhlbs.desa.id
+bunutlbs.desa.id
+hadundunglbs.desa.id
+hajoranlbs.desa.id
+hutagodanglbs.desa.id
+mampanglbs.desa.id
+mandalasenalbs.desa.id
+marsonjalbs.desa.id
+pangarunganlbs.desa.id
+parimburanlbs.desa.id
+pasirtuntunglbs.desa.id
+perkbatangsaponggollbs.desa.id
+perkebunannagodanglbs.desa.id
+perkebunannomarklbs.desa.id
+perkebunantolansatudualbs.desa.id
+perkperlabianlbs.desa.id
+perkseirumbialbs.desa.id
+perktelukpanjilbs.desa.id
+perktolanlbs.desa.id
+perlabianlbs.desa.id
+pinangdamailbs.desa.id
+rasaulbs.desa.id
+rintislbs.desa.id
+sabunganlbs.desa.id
+sampeanlbs.desa.id
+seimerantilbs.desa.id
+simataharilbs.desa.id
+sisumutlb.desa.id
+sosopanlbs.desa.id
+sukadamelbs.desa.id
+tanjungmedanlbs.desa.id
+tanjungmulialbs.desa.id
+tanjungselamatlbs.desa.id
+telukpanjidualbs.desa.id
+telukpanjiempatlbs.desa.id
+telukpanjilbs.desa.id
+telukpanjisatulbs.desa.id
+telukpanjitigalbs.desa.id
+telukrampahlbs.desa.id
+torgambalbs.desa.id
+torgandalbs.desa.id
+ujunggadinglbs.desa.id
+ulumahuamlbs.desa.id

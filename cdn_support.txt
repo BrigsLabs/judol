@@ -1472,7 +1472,7 @@ daysofpolandlondon.com
 debdevcs.org
 declansdayfoundation.org
 dempel.id
-desa.id
+desa.id # all subdom list in dead_judol_domains.txt
 desakayongutara.id
 desaku.simpatidesa.id
 designingebooks.com
