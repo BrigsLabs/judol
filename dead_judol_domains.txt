@@ -22,6 +22,7 @@ active.b-cdn.net
 adakah-seratus-kawan.b-cdn.net
 afktotoamp.b-cdn.net
 agenolx06.b-cdn.net
+akses.b-cdn.net
 akun-terbaiq.b-cdn.net
 alt-img.b-cdn.net
 alximg.b-cdn.net
@@ -32,6 +33,7 @@ amp-rogtoto.b-cdn.net
 angkaku.b-cdn.net
 artikelgrupcs.b-cdn.net
 asset-jko.b-cdn.net
+assets-public.b-cdn.net
 b758577a40f99a90821c.b-cdn.net
 bandotwd.b-cdn.net
 bang-jago.b-cdn.net
@@ -241,6 +243,7 @@ ugstg.seamless-hptech.com
 4xrtpdrama.pages.dev
 6899e41a.rtplawak4d.pages.dev
 79k.pages.dev
+88cash-vip.pages.dev
 88clb06.pages.dev
 8fb4a7e9.rtpkingslot96.pages.dev
 999ok.pages.dev
@@ -270,6 +273,7 @@ amp-grab89-ip-ong.pages.dev
 amp-hotelkhamvongsa.pages.dev
 amp-iboslot-com.pages.dev
 amp-knptechno.pages.dev
+amp-koitoto-jitu.pages.dev
 amp-mgscv.pages.dev
 amp-nusa89-sugar.pages.dev
 amp-ohlillydesign.pages.dev
@@ -443,6 +447,7 @@ gudang138ofc.pages.dev
 gx-1oz.pages.dev
 haikai.pages.dev
 hallelujaheditions.pages.dev
+hamtotoslot777gacor.pages.dev
 hantam-rejeki-kamu.pages.dev
 harta-simpati.pages.dev
 healthcareaccreditationresources.pages.dev
@@ -534,6 +539,7 @@ livescorekristal777.pages.dev
 livescorem9win.pages.dev
 login-kuningtoto.pages.dev
 login-togel900.pages.dev
+login-website-terpercaya-ini-boskuuu.pages.dev
 logingacoremperor33.pages.dev
 loginkzgroup.net
 london69-main.pages.dev
@@ -546,6 +552,7 @@ m-eltoncrego-com.pages.dev
 m-hoianahotels-com.pages.dev
 m9aseet123.pages.dev
 m9partnerships.pages.dev
+mabar-kita-weeee.pages.dev
 macan238c.pages.dev
 mahajituitcom.pages.dev
 mahjongcukew.pages.dev
@@ -696,6 +703,7 @@ rtp-solidtoto.pages.dev
 rtp-superjagoku.pages.dev
 rtp-test-4sh.pages.dev
 rtp1337kemenangan.pages.dev
+rtp389s.pages.dev
 rtp389slots.pages.dev
 rtp3libra168.pages.dev
 rtpa99bet.pages.dev
@@ -706,6 +714,7 @@ rtpbantuan2-rokok.pages.dev
 rtpbantuan3-online.pages.dev
 rtpbatmantotoselalugacor.pages.dev
 rtpberastogel-akurat3.pages.dev
+rtpcolokmeraihkemenangan-besar.pages.dev
 rtpestotoiceblue.pages.dev
 rtpfijislota.pages.dev
 rtpformasi4d.pages.dev
@@ -731,6 +740,7 @@ rtpptasligacor.pages.dev
 rtps88ak.pages.dev
 rtpscmantul.pages.dev
 rtpsihijaunyai.pages.dev
+rtpslotgacor123.pages.dev
 rtpslotgacormedali.pages.dev
 rtpslotnew-rtibuntogel.pages.dev
 rtpslottanggawin.pages.dev
@@ -742,6 +752,7 @@ rtputama4d2.pages.dev
 rtpwaktogelplay.pages.dev
 rtpwinb88.pages.dev
 rtpzb.pages.dev
+rules-games-wing4d.pages.dev
 rumahduit-site.pages.dev
 s-mgo777.pages.dev
 s8com.pages.dev
@@ -796,6 +807,8 @@ southkitchenrestaurant.pages.dev
 spontan-tanpa-uhuy.pages.dev
 spqrpizzeriacom.pages.dev
 stadiumjakarta.pages.dev
+station-media.pages.dev
+stationbet-akses-seo.pages.dev
 sumbartoto-bejaye.pages.dev
 sumberpanengcr.pages.dev
 sumselcantik.pages.dev
@@ -883,6 +896,7 @@ yatanokagami.pages.dev
 yesmovies-4uj.pages.dev
 zoom-d89.pages.dev
 
+
 #from bitly.sbs
 apkapi-jns.bitly.sbs
 apkapi-mgc.bitly.sbs
@@ -959,6 +973,7 @@ pub-856f2293af19484a8368cf1ed1f80402.r2.dev
 pub-880936a030424bda8a513a41b225624d.r2.dev
 pub-88639e2cebd24f0e87a482ceaaa59fc6.r2.dev
 pub-8b23969a255c4173816091bcb72b03c7.r2.dev
+pub-8b2eded54c1e4cec8897ff52ba680547.r2.dev
 pub-8b55f6b3152f449eb2adee51596073e1.r2.dev
 pub-8b7d6144a9c74a41a866be14066dbcc9.r2.dev
 pub-8d55a7dd0428441ea6689ed05bdc3b62.r2.dev
@@ -1080,6 +1095,10 @@ apkapi-77g.datasvc.site
 apkapi-mx8.datasvc.site
 apkapi-tgd.datasvc.site
 apkapi-3db.datasvc.site
+apkapi-3ss.datasvc.site
+apkapi-ide.datasvc.site
+apkapi-88c.datasvc.site
+apkapi-kns.datasvc.site
 
 # from *.it.com
 11uu.it.com
@@ -1145,6 +1164,7 @@ enterbyzantia.it.com
 erzurumspor.it.com
 esblue.it.com
 esdice.it.com
+esse-bet.it.com
 essewin.it.com
 estotoqq.it.com
 event.dewahoki88.it.com
@@ -1170,6 +1190,7 @@ hokiroom.totovip.it.com
 hongkongpools.it.com
 hss.spinwheel55.it.com
 hss3031122.it.com
+iframe-promo.koigroup.it.com
 img-projectowner.it.com
 imgcdn.it.com
 inewsfit.com
@@ -1273,14 +1294,15 @@ rajajagolink.it.com
 rajajagotop.it.com
 rajangamen.it.com
 rajangamensuper.it.com
+resmi777.it.com
 rezllive.it.com
+rtp-kita.it.com
 rtp.arenadagelan4d.it.com
 rtp546.bgkt458.it.com
 rtpcancer.imgclck.it.com
 rtpgacor-panentogel.it.com
 rtpgudangsuper.it.com
 rtpislot99.it.com
-rtp-kita.it.com
 rtpmahongbet2.it.com
 rtpslothariini.it.com
 rtpwaktogel.it.com
@@ -1302,6 +1324,9 @@ slotgacorhariini.it.com
 smscity8.it.comspartan.it.com
 sriwijaya33.spinwheel33.it.com
 st.1.spbu.it.com
+stat-ionbet.it.com
+station-123.it.com
+station-bet.it.com
 stl22.spinwheel22.it.com
 stl2548778.it.com
 suleid.it.com
@@ -1309,6 +1334,7 @@ sulemio.it.com
 sultanlotre17.it.com
 sultanplaygokil.it.com
 sumbartoto-online.it.com
+sv-388.it.com
 t0t0g4lsriwijaya.it.com
 taca.it.com
 tafsir-mimpi.it.com
@@ -1323,6 +1349,7 @@ ternatetoto.it.com
 tokeslot88.it.com
 tomslot88.it.com
 toto7788.it.com
+toto90.it.com
 tovelmanufacturingequipment.it.com
 tupaiwinwin.it.com
 unduh4d.it.com
@@ -2199,6 +2226,8 @@ apkapi-sor.rebrandy.site
 apkapi-sh7.rebrandy.site
 apkapi-wh6.rebrandy.site
 apkapi-ra8.rebrandy.site
+apkapi-pd7.rebrandy.site
+apkapi-7ls.rebrandy.site
 
 #from ltn7.com # subdom : 
 promosi.ltn7.com 
@@ -2416,6 +2445,7 @@ prediksi99.angka-alexis.pro
 prediksi102.angka-alexis.pro
 prediksi107.angka-alexis.pro
 prediksi108.angka-alexis.pro
+prediksi112.angka-alexis.pro
 
 #from jpalexis.pro # subdom : 
 bukti35.jpalexis.pro 
@@ -2424,6 +2454,7 @@ bukti64.jpalexis.pro
 bukti67.jpalexis.pro
 bukti69.jpalexis.pro
 bukti70.jpalexis.pro
+bukti74.jpalexis.pro
 
 #from complainalexis.com # subdom : 
 report4.complainalexis.com 
@@ -2433,6 +2464,7 @@ akses.complainalexis.com
 report7.complainalexis.com
 contact.complainalexis.com
 report8.complainalexis.com
+report10.complainalexis.com
 
 #from simplyworks.xyz # subdom : 
 alexis.simplyworks.xyz 
@@ -2441,6 +2473,7 @@ rjb.simplyworks.xyz
 kiko.simplyworks.xyz
 to12.simplyworks.xyz
 rog.simplyworks.xyz
+koi.simplyworks.xyz
 
 #from satset189x.live : subdom :
 cs001.satset189x.live
@@ -2495,6 +2528,9 @@ os-api.ropuntada.com
 penilaianmauslot.lovable.app 
 penilaianceriabet.lovable.app 
 prediksibolamahjongjp88.lovable.app
+livescore-ai.lovable.app
+pointvip.lovable.app
+pengaduanpsj.lovable.app
 
 #from carisab.xyz # subdom : 
 4cbi84ak.carisab.xyz 
@@ -2806,3 +2842,23 @@ torgambalbs.desa.id
 torgandalbs.desa.id
 ujunggadinglbs.desa.id
 ulumahuamlbs.desa.id
+
+#from ai88-rtpgacor.site # subdom : 
+load1.ai88-rtpgacor.site 
+load9.ai88-rtpgacor.site 
+happy1.ai88-rtpgacor.site
+
+#from csalexistogel.vip # subdom : 
+layanan22.csalexistogel.vip 
+layanan9.csalexistogel.vip 
+layanan24.csalexistogel.vip
+
+#from turkiengine.com # subdom : 
+lbstatic.turkiengine.com 
+lotteryfoapi.turkiengine.com 
+lstatic.turkiengine.com
+
+#from galikubur.lol # subdom : 
+batman.galikubur.lol 
+colok.galikubur.lol 
+cokt.galikubur.lol

@@ -4,10 +4,10 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3445
+# Number of entries: 3453
 # CDNs supporting site (may contains false positive)
-# 
-# dh4oiqg45nvw7.cloudfront.net # public-assets.envato-static.com
+#
+#
 1004834818.rsc.cdn77.org
 10322apk.deliber.net
 10fr4ame-b3stweeb.xyz
@@ -24,6 +24,7 @@
 51.la
 66555.xyz
 67864891qp14api.238968.com
+6a7dcdf99b0e45d58b1eec96.imgix.net
 777tech.cloud
 77group.sgp1.cdn.digitaloceanspaces.com
 7c7b02d4bc3d48dd81a7c7738d4de1ab.pacloudflare.com
@@ -240,6 +241,7 @@ cdn.livechat-files.com
 cdn.livechatinc.com
 cdn.mixlink.top
 cdn.passwordless.dev
+cdn.phototourl.com
 cdn.pn.tc
 cdn.projectapp.dev
 cdn.rawgit.com
@@ -293,6 +295,7 @@ cmbi.laner220.com
 collect.duckducktech.site
 common-static.ppgames.net
 common.fxcdn.xyz
+commonsvc.com # subdom : mobileapp.commonsvc.com mobile-agentconfig.commonsvc.com
 computerhope.com
 contact-scraper.app.wtggggg.com
 contentranking.top # seo
@@ -307,7 +310,6 @@ d1ayxb9ooonjts.cloudfront.net
 d1azm8vjpmyev4.cloudfront.net
 d1bg3h75551782.cloudfront.net
 d1bnhxh1olb98c.cloudfront.net
-d1cq301dpr7fww.cloudfront.net
 d1j3dnvd81uy9o.cloudfront.net
 d1lrs95zs5ox0o.cloudfront.net
 d1mxxk684qj8r3.cloudfront.net
@@ -587,6 +589,7 @@ imageupload.online
 imagme.com
 img-cdngames.s3.amazonaws.com 
 img-journal.link
+img.addictedtodesign.live
 img.atomgaming88images.com
 img.cupr.us
 img.gb18030.com
@@ -598,6 +601,7 @@ img.pay4d.info
 img.qiangmingbao.net
 img.thesports.com
 img.zhenqinghua.com
+img1.bpgzone.com
 img1.wsimg.com
 imgalx.art
 imgbob.online
@@ -659,7 +663,6 @@ jp-api2.namesvr.devl43fnw-1198-ppp.oss-accelerate.aliyuncs.com
 js.analyticpro.online
 js.signalbit.io
 jstakecloud.link
-jurnal.univpgri-palembang.ac.id # hacked web
 kageru.site
 kaira-club.com # hacked web
 kalide.rest
@@ -706,6 +709,7 @@ linkgambar.my.id
 linktogelslot4d.fra1.cdn.digitaloceanspaces.com
 livechat-pro.preview.emergentagent.com # may create false positive
 livechat.design
+livechat.sundaystillworking.com
 livechat88.chat
 livehelpnow.net # might be false positif
 liveplugins.com # subdom : gls.liveplugins.com
@@ -915,6 +919,7 @@ qdalplaylive.com
 qoopic.co
 qqkwbase.net # all subdom list in dead_judol_domains.txt
 qrfy.io # may create false positive
+qris-mbs.com
 qris.blazingupp.com
 qriscepatmasuk.com # may create false positive
 qriselite.com
@@ -1033,6 +1038,7 @@ smbstatic.sgp1.digitaloceanspaces.com
 smksdb1jambi.sch.id # scam
 snapy.photo
 sobajimakmur.com
+soccersapi.com # subdom : ls.soccersapi.com ws.soccersapi.com
 socket-ws.bikamyr010.xyz
 socket.io # subdom : cdn.socket.io
 sockjs-ap1.pusher.com
@@ -1182,6 +1188,7 @@ wdnotif.sgp1.digitaloceanspaces.com
 web-istana2000.linkapp99.com
 web-vegas123.linkapp77.com
 web.app # all subdom list in dead_judol_domains.txt
+web1.setorqris.com
 weblobby2.aq008.com
 website-monitor-c8444-default-rtdb.asia-southeast1.firebasedatabase.app
 websitetoapk.com
@@ -1211,6 +1218,7 @@ xenopay.id
 xjkknx.sgp1.cdn.digitaloceanspaces.com
 xn--22cd0gb3at8cva6a.today
 xn--u9jvhkcug1b2130h86sa.com
+xpanelku.com
 xx1toto4.wordpress.com
 y2cdn.com
 ycai-v2-pro-default-rtdb.asia-southeast1.firebasedatabase.app
