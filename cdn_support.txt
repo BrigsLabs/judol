@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3453
+# Number of entries: 3459
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -518,6 +518,7 @@ gearjib.com # backlink
 getairank.top # seo
 ghoulfire.pro
 gifrogtoto.sgp1.digitaloceanspaces.com
+gifterbaru.sgp1.cdn.digitaloceanspaces.com
 gifyu.com
 giga-live-1-default-rtdb.asia-southeast1.firebasedatabase.app
 giga-live-2-default-rtdb.asia-southeast1.firebasedatabase.app
@@ -554,6 +555,8 @@ i.ibb.co
 i.ibb.co.com
 i.magecdn.com
 iaibali.org # suspicious
+iblbet.sgp1.cdn.digitaloceanspaces.com
+iblbetlogin.sgp1.digitaloceanspaces.com
 icxglobal.ai # subdom : all subdom list in dead_judol_domains.txt
 idb.imghostfree.com
 idl-cdn.rika.online
@@ -832,6 +835,7 @@ objek-d001-cloud-akucloud-valid.sukagambarku.com
 ol1-maribermain8899-com.evonetworks.net
 omnitrend.biz # subdom : collector-cps-live.omnitrend.biz
 omutgl.sgp1.digitaloceanspaces.com
+onescreener.com # landing
 onix-live-2-default-rtdb.firebaseio.com
 onix-live-5-default-rtdb.firebaseio.com
 onokabeh.id # malicous backlink # probe scam
@@ -889,6 +893,7 @@ pngusdt.com
 pnimg.asgard-bifrost.com
 pokerace-bb5be.firebaseio.com
 pol-ka.com # hacked web : https://pol-ka.com/bosswin/
+polototo.sgp1.cdn.digitaloceanspaces.com
 pomf2.lain.la
 poskampung.com
 postimg.cc
@@ -1152,6 +1157,7 @@ tweetymail.com.cdn.cloudflare.net
 uaim.edu.mx # hacked web
 ucarecdn.com
 ug-meoh-pub.cloudassets.online
+ulartoto.sfo3.digitaloceanspaces.com
 umeng.com
 unitedhost.top # subdom : kinggaruda138.unitedhost.top
 uoaeiz3recbrojp76imxpthfemovjaxecjudzg8wytc.bithe.net

@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 1997
+# Number of entries: 2003
 # 
 #
 #
@@ -243,6 +243,7 @@
 *celtabet*
 *cemara[0-9]*
 *cerah[0-9]*
+*ceritoto*
 *cerutuviral*
 *cici4d*
 *cihuy[0-9]*
@@ -306,12 +307,14 @@
 *dinobet*
 *direkturtoto*
 *divisi3[0-9]*
+*dnaslot*
 *dogelexus*
 *dokter[0-8]*
 *dolan[0-9]*
 *dolarslot*
 *doluslot*
 *domino*
+*domtoto*
 *dora[0-9]*
 *dorahoki*
 *dot77*
@@ -471,6 +474,7 @@
 *hubtoto*
 *hws77*
 *ibayar*
+*iblbet*
 *iboslot*
 *ibox4d*
 *ibu4d*
@@ -1348,9 +1352,11 @@
 *wazetoto*
 *wdhoki*
 *weissbet*
+*wengtoto*
 *wg77*
 *wifitoto*
 *wii4d*
+*wiltoto*
 *win[0-9]*
 *winbet*
 *wing4d*
