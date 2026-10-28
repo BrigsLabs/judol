@@ -13,6 +13,7 @@ medium.com # whitelist
 bandlab.com # whitelist
 
 # from judol_domains_wildcard
+6119403.group3.sites.hubspot.net
 a2fcbecc7b7634c9484099978824a668-d99627c9b1d1dedd.elb.us-east-1.amazonaws.com
 aa7d4fa25597cad0f.awsglobalaccelerator.com
 adobsi.id
@@ -36,6 +37,7 @@ api16-core.tiktokv.com
 api16-normal-c-alisg.tiktokv.com
 api16-normal-c-useast1a.tiktokv.com
 asia2.ocws1.live.com.akadns.net
+base44.onrender.com
 bsync-sg.tiktokv.com
 cdf2ce9b60bb46d1800b07cd7fcdff4f.vip1.huaweicloudwaf.com
 cdn.awsusor1.fds.api.mi-img.com
@@ -59,9 +61,12 @@ fcm23.prod.eacn.ea.com
 firefly.adobe.io
 gecko16-normal-alisg.tiktokv.com
 groups.social.ea.com
+hangup.palmplaystore.com
 hermes2.grabtaxi.com
 hotapi16-normal-alisg.tiktokv.com
+jsb-sg.tiktokv.com
 kikocosmetics.com
+knowledge.federalcompass.com
 launcher-h3.shalltry.com
 libra-sg.tiktokv.com
 libra16-normal-alisg.tiktokv.com
@@ -72,6 +77,8 @@ mcs-sg.tiktokv.com
 mon16-normal-alisg.tiktokv.com
 mssdk16-normal-alisg.tiktokv.com
 ocws.officeapps.live.com
+openapi-id.op-mobile.opera.com
+outspot-sg-vip1.op-mobile.opera.com
 prd-real.lisa2.verda2.akadns.net
 prod-spo01-107-nam-eastus2-api.cosmic.1drv.com
 pull-flv-l11-sg01.tiktokcdn.com
@@ -92,9 +99,11 @@ storeedgefd.dsx.mp.microsoft.com
 storeedgefd.xbetservices.akadns.net
 tms2.palmplaystore.com
 vcs-sg.tiktokv.com
+vcs-va.tiktokv.com
 webcast16-normal-c-alisg.tiktokv.com
 webcast16-ws-alisg.tiktokv.com
 widget-sg.tiktokv.com
+www.homeworklegends.com
 
 # from cdn
 a1211.dscr.akamai.net # whitelist 
@@ -126,6 +135,14 @@ images.dmca.com
 dmca-images.b-cdn.net
 impressions-img-eu.b-cdn.net
 image.eu.atmndx.com
+fonts.bunny.net
+bunnyfonts.b-cdn.net
+
+# trusted web.app
+www.albumsongandlyrics.com
+www.albumcancionyletra.com
+albumsongandlyrics.web.app
+albumcancionyletra.web.app
 
 # from https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/spam-tlds-allow-onlydomains.txt
 nation.africa
