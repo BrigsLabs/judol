@@ -41,9 +41,12 @@ base44.onrender.com
 bsync-sg.tiktokv.com
 cdf2ce9b60bb46d1800b07cd7fcdff4f.vip1.huaweicloudwaf.com
 cdn.awsusor1.fds.api.mi-img.com
+cgv.id
 chatapp-admin.line-scdn.net
 connect.detik.com
+d1dsmzt7p0k2o8.cloudfront.net
 d1uge9fya48pu3.cloudfront.net
+d37644279b6046f6917ef7ae0c863976.vip1.huaweicloudwaf.com
 e28142.dscg.akamaiedge.net
 e28622.a.akamaiedge.net
 e28622.api1.akamaiedge.net
@@ -103,6 +106,7 @@ vcs-va.tiktokv.com
 webcast16-normal-c-alisg.tiktokv.com
 webcast16-ws-alisg.tiktokv.com
 widget-sg.tiktokv.com
+www.charm.co.id
 www.homeworklegends.com
 
 # from cdn
