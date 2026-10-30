@@ -79,14 +79,20 @@ line8-code-push-prod.oss-ap-southeast-5.aliyuncs.com
 mcs-sg.tiktokv.com
 mon16-normal-alisg.tiktokv.com
 mssdk16-normal-alisg.tiktokv.com
+news-id.feednews.com
 ocws.officeapps.live.com
+op.mykonf.com
 openapi-id.op-mobile.opera.com
+outspot-ams-vip1.op-mobile.opera.com
 outspot-sg-vip1.op-mobile.opera.com
+pps-token.op-mobile.opera.com
 prd-real.lisa2.verda2.akadns.net
 prod-spo01-107-nam-eastus2-api.cosmic.1drv.com
 pull-flv-l11-sg01.tiktokcdn.com
 recent.svc.cloud.microsoft
 restart-api.palmplaystore.com
+rtc-sg.tiktokv.com
+sami-sg.tiktokv.com
 search16-normal-c-alisg.tiktokv.com
 search16-normal.tiktokv.com
 sfds-geo.xbetservices.akadns.net
@@ -103,6 +109,7 @@ storeedgefd.xbetservices.akadns.net
 tms2.palmplaystore.com
 vcs-sg.tiktokv.com
 vcs-va.tiktokv.com
+webcast-frontier16-normal-alisg.tiktokv.com
 webcast16-normal-c-alisg.tiktokv.com
 webcast16-ws-alisg.tiktokv.com
 widget-sg.tiktokv.com
@@ -293,6 +300,7 @@ oh.center
 priv.center
 relaxx.center
 google.cf
+freedium.cfd
 host.church
 life.church
 online.church
@@ -405,6 +413,7 @@ raster.finance
 xynth.finance
 appetit.fit
 clubb.fit
+entry.fit
 justget.fit
 union.fit
 johnreed.fitness
@@ -477,6 +486,7 @@ ludwig.guru
 tilde.guru
 watcher.guru
 webcal.guru
+xpeng.guru
 lunar.haus
 tri.haus
 flo.health
@@ -544,6 +554,7 @@ omg.lol
 paste.lol
 proven.lol
 sibellavia.lol
+slopmop.lol
 social.lol
 status.lol
 techaro.lol
@@ -566,6 +577,7 @@ virgile.men
 aire.ml
 amap.ml
 google.ml
+info-matin.ml
 lemmygrad.ml
 lemmy.ml
 lingva.ml
@@ -676,6 +688,8 @@ ducks.party
 mstdn.party
 ntc.party
 searchengine.party
+sukonbu.party
+thrown.party
 wmars.party
 kickthespy.pet
 kuma.pet
@@ -728,7 +742,6 @@ mhn.quest
 mylegendary.quest
 prometheus.quest
 raccoon.quest
-bunkr.red
 cdprojekt.red
 platone.red
 sci-hub.red
@@ -812,7 +825,6 @@ wielrenner.shop
 winefactory.shop
 xn--dnemark-5wa.shop
 zonwering.shop
-camz.show
 j.show
 additive-apps.site
 aftermath.site
@@ -897,7 +909,6 @@ hacksmith.store
 heavysaurus.store
 hom.store
 immich.store
-iqunix.store
 myexpresscarwash.store
 myshopline.store
 pbshop.store
@@ -1004,6 +1015,7 @@ esc.vote
 opn.vote
 acro.website
 bestmotherfucking.website
+biolink.website
 eddie.website
 noclip.website
 thatsup.website

@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 3458
+# Number of entries: 3457
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -403,7 +403,6 @@
 ||dgdga3.swuacktu.net^
 ||dha92jo6cen2v.cloudfront.net^
 ||dhro5khzpwdga.cloudfront.net^
-||dhv857qjzfs98.cloudfront.net^
 ||digitalassetpro.xyz^
 ||digitalnomadtools.top^
 ||dilip.at^
