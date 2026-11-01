@@ -47,6 +47,7 @@
 ||d1dsmzt7p0k2o8.cloudfront.net^
 ||d1uge9fya48pu3.cloudfront.net^
 ||d37644279b6046f6917ef7ae0c863976.vip1.huaweicloudwaf.com^
+||download.virtualbox.org^
 ||e28142.dscg.akamaiedge.net^
 ||e28622.a.akamaiedge.net^
 ||e28622.api1.akamaiedge.net^
@@ -59,6 +60,7 @@
 ||e28622.api7.akamaiedge.net^
 ||e28622.api9.akamaiedge.net^
 ||e28622.b.akamaiedge.net^
+||e2875.d.akamaiedge.net^
 ||ec-api.akulaku.com^
 ||fcm23.prod.eacn.ea.com^
 ||firefly.adobe.io^
