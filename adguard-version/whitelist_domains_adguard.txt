@@ -129,6 +129,8 @@
 ||s3.us-east-1.amazonaws.com^
 ||sgp1.digitaloceanspaces.com^
 ||static.vecteezy.com^
+||d28h3jm4r3crf8.cloudfront.net^
+||dhv857qjzfs98.cloudfront.net^
 
 # trusted pages.dev
 ||malware-filter.pages.dev^

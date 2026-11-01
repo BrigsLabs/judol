@@ -129,6 +129,8 @@ s3-r-w.ap-southeast-1.amazonaws.com # whitelist
 s3.us-east-1.amazonaws.com # whitelist
 sgp1.digitaloceanspaces.com # whitelist
 static.vecteezy.com # whitelist
+d28h3jm4r3crf8.cloudfront.net # ik.imagekit.io
+dhv857qjzfs98.cloudfront.net # s21-co.ap4r.com
 
 # trusted pages.dev
 malware-filter.pages.dev
