@@ -85,6 +85,7 @@
 ||ocws.officeapps.live.com^
 ||op.mykonf.com^
 ||openapi-id.op-mobile.opera.com^
+||openapi-in.op-mobile.opera.com^
 ||outspot-ams-vip1.op-mobile.opera.com^
 ||outspot-sg-vip1.op-mobile.opera.com^
 ||pps-token.op-mobile.opera.com^
@@ -140,18 +141,20 @@
 ||phishing-filter.pages.dev^
 
 # trusted b-cdn.net subdom
+||bunnyfonts.b-cdn.net^
+||cdn.finansialku.com^
+||dmca-images.b-cdn.net^
+||finansialku.b-cdn.net^
+||fonts.bunny.net^
+||image.eu.atmndx.com^
+||images.dmca.com^
+||impressions-img-eu.b-cdn.net^
 ||s3-symbol-logo.b-cdn.net^
 ||s3-symbol-logo.tradingview.com^
 ||s3-tradingview.b-cdn.net^
 ||s3.tradingview.com^
-||tradingview-static.b-cdn.net^
 ||static.tradingview.com^
-||images.dmca.com^
-||dmca-images.b-cdn.net^
-||impressions-img-eu.b-cdn.net^
-||image.eu.atmndx.com^
-||fonts.bunny.net^
-||bunnyfonts.b-cdn.net^
+||tradingview-static.b-cdn.net^
 
 # trusted web.app
 ||www.albumsongandlyrics.com^
