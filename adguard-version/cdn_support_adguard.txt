@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 3972
+# Number of entries: 3971
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -38,7 +38,6 @@
 ||88ksr.wordpress.com^
 ||8r0h54-553-ppp.oss-accelerate.aliyuncs.com^
 ||a1400.dscb.akamai.net^
-||a1570.dscb.akamai.net^
 ||a5cdn.com^
 ||ab.da31889.com^
 ||accallyhigingola.com^

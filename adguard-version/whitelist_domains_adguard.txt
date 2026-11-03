@@ -29,6 +29,7 @@
 ||amp-api-updates.apps.apple.com^
 ||amp-api.apps.apple.com^
 ||amp-api.media.apple.com^
+||api-core.tiktokv.com^
 ||api-h2.tiktokv.com^
 ||api-va.tiktokv.com^
 ||api.tiktokv.com^
@@ -36,6 +37,7 @@
 ||api16-core.tiktokv.com^
 ||api16-normal-c-alisg.tiktokv.com^
 ||api16-normal-c-useast1a.tiktokv.com^
+||as.talia.telkomsel.com^
 ||asia2.ocws1.live.com.akadns.net^
 ||base44.onrender.com^
 ||bsync-sg.tiktokv.com^
@@ -47,6 +49,7 @@
 ||d1dsmzt7p0k2o8.cloudfront.net^
 ||d1uge9fya48pu3.cloudfront.net^
 ||d37644279b6046f6917ef7ae0c863976.vip1.huaweicloudwaf.com^
+||dgs.talia.telkomsel.com^
 ||download.virtualbox.org^
 ||e28142.dscg.akamaiedge.net^
 ||e28622.a.akamaiedge.net^
@@ -96,6 +99,7 @@
 ||restart-api.palmplaystore.com^
 ||rtc-sg.tiktokv.com^
 ||sami-sg.tiktokv.com^
+||search.tiktokv.com^
 ||search16-normal-c-alisg.tiktokv.com^
 ||search16-normal.tiktokv.com^
 ||sfds-geo.xbetservices.akadns.net^
@@ -110,8 +114,11 @@
 ||storeedgefd.dsx.mp.microsoft.com^
 ||storeedgefd.xbetservices.akadns.net^
 ||tms2.palmplaystore.com^
+||ups.talia.telkomsel.com^
 ||vcs-sg.tiktokv.com^
 ||vcs-va.tiktokv.com^
+||vmax4-prod-adspot-lb-1732258817.ap-southeast-3.elb.amazonaws.com^
+||vmax4-prod-services-nlb-4e6b3397e0475bc1.elb.ap-southeast-3.amazonaws.com^
 ||webcast-frontier16-normal-alisg.tiktokv.com^
 ||webcast16-normal-c-alisg.tiktokv.com^
 ||webcast16-ws-alisg.tiktokv.com^
@@ -161,3 +168,5 @@
 ||www.albumcancionyletra.com^
 ||albumsongandlyrics.web.app^
 ||albumcancionyletra.web.app^
+||fun-fanta-barcode.web.app^
+||fun.fanta.id^
