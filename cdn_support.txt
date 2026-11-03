@@ -4,10 +4,10 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3971
+# Number of entries: 3968
 # CDNs supporting site (may contains false positive)
-#
 # a1570.dscb.akamai.net # imagizer.imageshack.com
+# postimg.cc
 1004834818.rsc.cdn77.org
 10322apk.deliber.net
 10fr4ame-b3stweeb.xyz
@@ -893,7 +893,6 @@ pol-ka.com # hacked web : https://pol-ka.com/bosswin/
 polototo.sgp1.cdn.digitaloceanspaces.com
 pomf2.lain.la
 poskampung.com
-postimg.cc
 poweroftogelonline88.sgp1.cdn.digitaloceanspaces.com
 prdstream.com # media promo
 premicloud.net
@@ -909,8 +908,6 @@ prosportslive.net # subdom : ws12.prosportslive.net
 protecer.org # hacked web
 ptk.sgp1.cdn.digitaloceanspaces.com
 ptk.sgp1.digitaloceanspaces.com
-pub-54c35cbb1f8a429096797defb3a61ef3.r2.dev
-pub-bb78216b6f0b40a5882d1473c51d7abd.r2.dev
 public.pg-demo.com.wcdnga.com
 public.pgsoft-games.com
 pulquemaniaeu.com # hacked web
