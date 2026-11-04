@@ -29,6 +29,8 @@
 ||amp-api-updates.apps.apple.com^
 ||amp-api.apps.apple.com^
 ||amp-api.media.apple.com^
+||api-boot.tiktokv.com^
+||api-core-boot.tiktokv.com^
 ||api-core.tiktokv.com^
 ||api-h2.tiktokv.com^
 ||api-va.tiktokv.com^
@@ -154,6 +156,7 @@
 ||finansialku.b-cdn.net^
 ||fonts.bunny.net^
 ||image.eu.atmndx.com^
+||image.tmdb.org^
 ||images.dmca.com^
 ||impressions-img-eu.b-cdn.net^
 ||s3-symbol-logo.b-cdn.net^
@@ -161,6 +164,7 @@
 ||s3-tradingview.b-cdn.net^
 ||s3.tradingview.com^
 ||static.tradingview.com^
+||tmdb-image-prod.b-cdn.net^
 ||tradingview-static.b-cdn.net^
 
 # trusted web.app
