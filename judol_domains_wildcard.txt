@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 2003
+# Number of entries: 2010
 # 
 #
 #
@@ -29,6 +29,7 @@
 *[0-9]kbet*
 *[0-9]naga*
 *[0-9]nk88.com
+*[0-9]play*
 *[0-9]raja*
 *[0-9]slot*
 *[0-9]sport*
@@ -442,6 +443,7 @@
 *halusbet[0-9]*
 *hamtoto*
 *hanslot*
+*harga[0-9]*
 *hari[0-9]*
 *hariangkanet4d*
 *harta[0-9]*
@@ -802,6 +804,7 @@
 *member77*
 *meme[0-9]*
 *menang[0-9]*
+*mental[0-9]*
 *mentoz4d*
 *merahhoki*
 *merahtoto*
@@ -813,6 +816,7 @@
 *mesinslot*
 *mewah[0-9]*
 *miko[0-9]*
+*milan[0-9]*
 *miliarbet*
 *miliarslot*
 *miniso[0-9]*
@@ -1010,6 +1014,7 @@
 *pulsa[0-9]*
 *puma[0-9]*
 *puncaktoto*
+*punktoto*
 *punyaabc*
 *pusaka[0-9]*
 *pusat-koin*
@@ -1166,6 +1171,7 @@
 *sonitoto*
 *sor[0-9]*
 *sortoto*
+*space[0-9]*
 *spaceman[0-9]*
 *speedau*
 *spice[0-9]*
@@ -1188,6 +1194,7 @@
 *suburwin*
 *suka[0-9]*
 *sukaslot*
+*sukitoto*
 *sukses[0-9]*
 *sultan[0-9]*
 *sultansawer*

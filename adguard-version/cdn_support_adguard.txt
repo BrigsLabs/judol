@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 3968
+# Number of entries: 3979
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -268,6 +268,7 @@
 ||cfeps.org^
 ||cfilvs.i3457.com^
 ||chaport.com^
+||chat-slg.com^
 ||chat-socket.onechat.dev^
 ||chat.cs-system-006.cxgenie.app^
 ||chat.onechat.dev^
@@ -283,6 +284,7 @@
 ||cliply.co^
 ||clk.sgp1.cdn.digitaloceanspaces.com^
 ||cloud-assets.sgp1.cdn.digitaloceanspaces.com^
+||cloud.contentdelivery.club^
 ||cloud77.online^
 ||cloudcdnetw.com^
 ||clouddrive.digital^
@@ -363,6 +365,7 @@
 ||d3ljt8kkw6mx40.cloudfront.net^
 ||d3mqo97n0n0k7d.cloudfront.net^
 ||d3nglpcg1mlj3k.cloudfront.net^
+||d3nvfkbm1261mu.cloudfront.net^
 ||d3olnu823s0cv1.cloudfront.net^
 ||d3pjq3rrv5sdh6.cloudfront.net^
 ||d3pr994l7txgml.cloudfront.net^
@@ -458,6 +461,7 @@
 ||eijkman.go.id^
 ||elite-lb-1146767745.ap-southeast-1.elb.amazonaws.com^
 ||emailmeform.com^
+||embed.qrisoke.id^
 ||enak.la^
 ||enderocean.com^
 ||endofamerica.com.cdn.cloudflare.net^
@@ -512,6 +516,7 @@
 ||gate.networkappcomm.com^
 ||gd88.app^
 ||gearjib.com^
+||gemswin.sgp1.cdn.digitaloceanspaces.com^
 ||getairank.top^
 ||ghoulfire.pro^
 ||gifrogtoto.sgp1.digitaloceanspaces.com^
@@ -600,6 +605,7 @@
 ||img.pay4d.info^
 ||img.qiangmingbao.net^
 ||img.thesports.com^
+||img.winfast.dev^
 ||img.zhenqinghua.com^
 ||img1.bpgzone.com^
 ||img1.wsimg.com^
@@ -760,6 +766,7 @@
 ||mgo777.sgp1.cdn.digitaloceanspaces.com^
 ||mgt.zhiwushui.com^
 ||mhbos.sgp1.cdn.digitaloceanspaces.com^
+||michianabmw.com^
 ||midme.xyz^
 ||miegacoan.sirv.com^
 ||mikatoto.sgp1.digitaloceanspaces.com^
@@ -860,6 +867,7 @@
 ||pastisuksesterus.xyz^
 ||patch.sdfbvsdfb44trbsts65y67xs6.xyz^
 ||pay.fypay.cloud^
+||pay.glxpay.com^
 ||pdv.co.id^
 ||peruinformation.org^
 ||pg888pp.com^
@@ -985,6 +993,7 @@
 ||sales-cantik.my.id^
 ||salesmartly.com^
 ||samuelkigelman.com^
+||sapakita.net^
 ||savegambar.com^
 ||sayursawi.xyz^
 ||schatgopay777.whitepond-0b0d80e0.southeastasia.azurecontainerapps.io^
@@ -1035,6 +1044,7 @@
 ||sky77.sgp1.cdn.digitaloceanspaces.com^
 ||smbstatic.sgp1.digitaloceanspaces.com^
 ||smksdb1jambi.sch.id^
+||smpaypro.com^
 ||snapy.photo^
 ||sobajimakmur.com^
 ||soccersapi.com^
@@ -1123,6 +1133,7 @@
 ||thanatosmaero.com^
 ||thelocalcatch.com^
 ||themerchantkitchen.com^
+||thesport-api.cdnx.tech^
 ||thomasbakri877-prog.github.io^
 ||tianlonghi.com^
 ||tiktakimage.shop^

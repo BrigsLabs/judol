@@ -33,12 +33,14 @@
 ||api-core-boot.tiktokv.com^
 ||api-core.tiktokv.com^
 ||api-h2.tiktokv.com^
+||api-normal.tiktokv.com^
 ||api-va.tiktokv.com^
 ||api.tiktokv.com^
 ||api16-core-c-alisg.tiktokv.com^
 ||api16-core.tiktokv.com^
 ||api16-normal-c-alisg.tiktokv.com^
 ||api16-normal-c-useast1a.tiktokv.com^
+||api16.tiktokv.com^
 ||as.talia.telkomsel.com^
 ||asia2.ocws1.live.com.akadns.net^
 ||base44.onrender.com^
@@ -83,6 +85,8 @@
 ||libra16-normal-useast5.tiktokv.us^
 ||libra32-normal-alisg.tiktokv.com^
 ||line8-code-push-prod.oss-ap-southeast-5.aliyuncs.com^
+||log-boot.tiktokv.com^
+||log16-normal-alisg.tiktokv.com^
 ||mcs-sg.tiktokv.com^
 ||mon16-normal-alisg.tiktokv.com^
 ||mssdk16-normal-alisg.tiktokv.com^
@@ -103,6 +107,7 @@
 ||sami-sg.tiktokv.com^
 ||search.tiktokv.com^
 ||search16-normal-c-alisg.tiktokv.com^
+||search16-normal-c-useast1a.tiktokv.com^
 ||search16-normal.tiktokv.com^
 ||sfds-geo.xbetservices.akadns.net^
 ||sg-mi-api-server.allsaints.tv^
@@ -117,10 +122,12 @@
 ||storeedgefd.xbetservices.akadns.net^
 ||tms2.palmplaystore.com^
 ||ups.talia.telkomsel.com^
+||vcs-boot.tiktokv.com^
 ||vcs-sg.tiktokv.com^
 ||vcs-va.tiktokv.com^
 ||vmax4-prod-adspot-lb-1732258817.ap-southeast-3.elb.amazonaws.com^
 ||vmax4-prod-services-nlb-4e6b3397e0475bc1.elb.ap-southeast-3.amazonaws.com^
+||webcast-boot.tiktokv.com^
 ||webcast-frontier16-normal-alisg.tiktokv.com^
 ||webcast16-normal-c-alisg.tiktokv.com^
 ||webcast16-ws-alisg.tiktokv.com^
@@ -130,19 +137,21 @@
 
 # from cdn
 ||a1211.dscr.akamai.net^
+||a1570.dscb.akamai.net^
 ||cdn.datatables.net^
 ||cdn.digitaloceanspaces.com^
+||d28h3jm4r3crf8.cloudfront.net^
+||dhv857qjzfs98.cloudfront.net^
 ||i.pinimg.com^
 ||i.scdn.co^
 ||images.ctfassets.net^
 ||img.freepik.com^
 ||incapdns.net^
+||postimg.cc^
 ||s3-r-w.ap-southeast-1.amazonaws.com^
 ||s3.us-east-1.amazonaws.com^
 ||sgp1.digitaloceanspaces.com^
 ||static.vecteezy.com^
-||d28h3jm4r3crf8.cloudfront.net^
-||dhv857qjzfs98.cloudfront.net^
 
 # trusted pages.dev
 ||malware-filter.pages.dev^

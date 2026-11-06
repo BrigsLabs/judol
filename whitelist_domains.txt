@@ -33,12 +33,14 @@ api-boot.tiktokv.com
 api-core-boot.tiktokv.com
 api-core.tiktokv.com
 api-h2.tiktokv.com
+api-normal.tiktokv.com
 api-va.tiktokv.com
 api.tiktokv.com
 api16-core-c-alisg.tiktokv.com
 api16-core.tiktokv.com
 api16-normal-c-alisg.tiktokv.com
 api16-normal-c-useast1a.tiktokv.com
+api16.tiktokv.com
 as.talia.telkomsel.com
 asia2.ocws1.live.com.akadns.net
 base44.onrender.com
@@ -83,6 +85,8 @@ libra16-normal-alisg.tiktokv.com
 libra16-normal-useast5.tiktokv.us
 libra32-normal-alisg.tiktokv.com
 line8-code-push-prod.oss-ap-southeast-5.aliyuncs.com
+log-boot.tiktokv.com
+log16-normal-alisg.tiktokv.com
 mcs-sg.tiktokv.com
 mon16-normal-alisg.tiktokv.com
 mssdk16-normal-alisg.tiktokv.com
@@ -103,6 +107,7 @@ rtc-sg.tiktokv.com
 sami-sg.tiktokv.com
 search.tiktokv.com
 search16-normal-c-alisg.tiktokv.com
+search16-normal-c-useast1a.tiktokv.com
 search16-normal.tiktokv.com
 sfds-geo.xbetservices.akadns.net
 sg-mi-api-server.allsaints.tv
@@ -117,10 +122,12 @@ storeedgefd.dsx.mp.microsoft.com
 storeedgefd.xbetservices.akadns.net
 tms2.palmplaystore.com
 ups.talia.telkomsel.com
+vcs-boot.tiktokv.com
 vcs-sg.tiktokv.com
 vcs-va.tiktokv.com
 vmax4-prod-adspot-lb-1732258817.ap-southeast-3.elb.amazonaws.com
 vmax4-prod-services-nlb-4e6b3397e0475bc1.elb.ap-southeast-3.amazonaws.com
+webcast-boot.tiktokv.com
 webcast-frontier16-normal-alisg.tiktokv.com
 webcast16-normal-c-alisg.tiktokv.com
 webcast16-ws-alisg.tiktokv.com
@@ -130,19 +137,21 @@ www.homeworklegends.com
 
 # from cdn
 a1211.dscr.akamai.net # whitelist 
+a1570.dscb.akamai.net # imagizer.imageshack.com
 cdn.datatables.net # whitelist
 cdn.digitaloceanspaces.com # whitelist
+d28h3jm4r3crf8.cloudfront.net # ik.imagekit.io
+dhv857qjzfs98.cloudfront.net # s21-co.ap4r.com
 i.pinimg.com # whitelist
 i.scdn.co # whitelist
 images.ctfassets.net # whitelist
 img.freepik.com # whitelist
 incapdns.net # whitelist 
+postimg.cc
 s3-r-w.ap-southeast-1.amazonaws.com # whitelist
 s3.us-east-1.amazonaws.com # whitelist
 sgp1.digitaloceanspaces.com # whitelist
 static.vecteezy.com # whitelist
-d28h3jm4r3crf8.cloudfront.net # ik.imagekit.io
-dhv857qjzfs98.cloudfront.net # s21-co.ap4r.com
 
 # trusted pages.dev
 malware-filter.pages.dev
@@ -539,7 +548,6 @@ returns.international
 doctolib.legal
 wbs.legal
 brainworms.lgbt
-2ch.life
 billo.life
 circles.life
 colorgame.life
@@ -730,6 +738,7 @@ tux.pizza
 gamedev.place
 mstdn.plus
 pahe.plus
+petmed.plus
 rcti.plus
 saepay.plus
 cypruspost.post
@@ -817,6 +826,7 @@ munu.shop
 music-merchant.shop
 myshopline.shop
 narpy.shop
+nautilusforge.shop
 neue.shop
 neurosama.shop
 nocut.shop
@@ -859,6 +869,7 @@ heimdall.site
 heyflow.site
 i5i.site
 kaylees.site
+langshuai.site
 leafbrowser.site
 miteru.site
 notion.site
@@ -998,6 +1009,7 @@ edgeless.top
 magefan.top
 mastodon.top
 mianbeian.top
+moonlightweb.top
 nfmirrorcdn.top
 noru.top
 passt.top
@@ -1059,6 +1071,7 @@ drawntolife.wiki
 falcom.wiki
 fallout.wiki
 gbf.wiki
+gem.wiki
 getindie.wiki
 gta.wiki
 hacktricks.wiki
