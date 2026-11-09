@@ -1090,33 +1090,34 @@ apkapi-ts8.datasvc.xyz
 apkapi-mx8.datasvc.xyz
 
 # from datasvc.site # subdom : 
-apkapi-kgb.datasvc.site 
-apkapi-spv.datasvc.site 
-apkapi-gr3.datasvc.site
-apkapi-jpt.datasvc.site
-apkapi-dr2.datasvc.site
-apkapi-hsr.datasvc.site
-apkapi-stg.datasvc.site
-apkapi-sbu.datasvc.site
-apkapi-sbr.datasvc.site
-apkapi-jw8.datasvc.site
-apkapi-brp.datasvc.site
-apkapi-pst.datasvc.site
-apkapi-jks.datasvc.site
-apkapi-ldb.datasvc.site
-apkapi-yod.datasvc.site
-apkapi-8id.datasvc.site
-apkapi-rdp.datasvc.site
-apkapi-ked.datasvc.site
-apkapi-tun.datasvc.site
-apkapi-77g.datasvc.site
-apkapi-mx8.datasvc.site
-apkapi-tgd.datasvc.site
 apkapi-3db.datasvc.site
 apkapi-3ss.datasvc.site
-apkapi-ide.datasvc.site
+apkapi-77g.datasvc.site
 apkapi-88c.datasvc.site
+apkapi-8id.datasvc.site
+apkapi-bl3.datasvc.site
+apkapi-brp.datasvc.site
+apkapi-dr2.datasvc.site
+apkapi-gr3.datasvc.site
+apkapi-hsr.datasvc.site
+apkapi-ide.datasvc.site
+apkapi-jks.datasvc.site
+apkapi-jpt.datasvc.site
+apkapi-jw8.datasvc.site
+apkapi-ked.datasvc.site
+apkapi-kgb.datasvc.site 
 apkapi-kns.datasvc.site
+apkapi-ldb.datasvc.site
+apkapi-mx8.datasvc.site
+apkapi-pst.datasvc.site
+apkapi-rdp.datasvc.site
+apkapi-sbr.datasvc.site
+apkapi-sbu.datasvc.site
+apkapi-spv.datasvc.site 
+apkapi-stg.datasvc.site
+apkapi-tgd.datasvc.site
+apkapi-tun.datasvc.site
+apkapi-yod.datasvc.site
 
 # from *.it.com
 11uu.it.com
@@ -2069,6 +2070,7 @@ f42cjpa850.wifi818.com
 jet77.infini88.network 
 kilat77.infini88.network
 max77.infini88.network
+milan69.infini88.network
 omg138.infini88.network
 pas77.infini88.network
 roma77.infini88.network

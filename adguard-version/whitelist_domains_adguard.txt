@@ -29,6 +29,7 @@
 ||amp-api-updates.apps.apple.com^
 ||amp-api.apps.apple.com^
 ||amp-api.media.apple.com^
+||api-a.op-mobile.opera.com^
 ||api-boot.tiktokv.com^
 ||api-core-boot.tiktokv.com^
 ||api-core.tiktokv.com^
@@ -103,6 +104,7 @@
 ||pull-flv-l11-sg01.tiktokcdn.com^
 ||recent.svc.cloud.microsoft^
 ||restart-api.palmplaystore.com^
+||rtc-access-sg.tiktokv.com^
 ||rtc-sg.tiktokv.com^
 ||sami-sg.tiktokv.com^
 ||search.tiktokv.com^
@@ -110,6 +112,7 @@
 ||search16-normal-c-useast1a.tiktokv.com^
 ||search16-normal.tiktokv.com^
 ||sfds-geo.xbetservices.akadns.net^
+||sg-allmusic-api-adv.allsaints.tv^
 ||sg-mi-api-server.allsaints.tv^
 ||sg-o-api-server.allsaints.tv^
 ||sg01.tt-freeflow.lego3.tdnsliveovs2.com^
