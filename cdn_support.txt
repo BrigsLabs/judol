@@ -4,10 +4,10 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3979
+# Number of entries: 3978
 # CDNs supporting site (may contains false positive)
 #
-#
+# d1lrs95zs5ox0o.cloudfront.net # assets.elements.envato.com
 1004834818.rsc.cdn77.org
 10322apk.deliber.net
 10fr4ame-b3stweeb.xyz
@@ -312,7 +312,6 @@ d1azm8vjpmyev4.cloudfront.net
 d1bg3h75551782.cloudfront.net
 d1bnhxh1olb98c.cloudfront.net
 d1j3dnvd81uy9o.cloudfront.net
-d1lrs95zs5ox0o.cloudfront.net
 d1mxxk684qj8r3.cloudfront.net
 d1r7v8bs1sf4js.cloudfront.net
 d1tcqh4bio8cty.cloudfront.net

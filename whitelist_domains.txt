@@ -144,6 +144,7 @@ a1211.dscr.akamai.net # whitelist
 a1570.dscb.akamai.net # imagizer.imageshack.com
 cdn.datatables.net # whitelist
 cdn.digitaloceanspaces.com # whitelist
+d1lrs95zs5ox0o.cloudfront.net # assets.elements.envato.com
 d28h3jm4r3crf8.cloudfront.net # ik.imagekit.io
 dhv857qjzfs98.cloudfront.net # s21-co.ap4r.com
 i.pinimg.com # whitelist

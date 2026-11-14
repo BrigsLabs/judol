@@ -144,6 +144,7 @@
 ||a1570.dscb.akamai.net^
 ||cdn.datatables.net^
 ||cdn.digitaloceanspaces.com^
+||d1lrs95zs5ox0o.cloudfront.net^
 ||d28h3jm4r3crf8.cloudfront.net^
 ||dhv857qjzfs98.cloudfront.net^
 ||i.pinimg.com^
