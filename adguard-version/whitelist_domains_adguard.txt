@@ -94,6 +94,8 @@
 ||mssdk16-normal-alisg.tiktokv.com^
 ||news-id.feednews.com^
 ||ocws.officeapps.live.com^
+||officeclient.microsoft.com^
+||officeconfig.apckoreace704871.office-ice-config.koreacentral-prod.cosmic.office.net^
 ||op.mykonf.com^
 ||openapi-id.op-mobile.opera.com^
 ||openapi-in.op-mobile.opera.com^

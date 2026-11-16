@@ -94,6 +94,8 @@ mon16-normal-alisg.tiktokv.com
 mssdk16-normal-alisg.tiktokv.com
 news-id.feednews.com
 ocws.officeapps.live.com
+officeclient.microsoft.com
+officeconfig.apckoreace704871.office-ice-config.koreacentral-prod.cosmic.office.net
 op.mykonf.com
 openapi-id.op-mobile.opera.com
 openapi-in.op-mobile.opera.com
@@ -380,6 +382,7 @@ silly.computer
 cnyes.cool
 compromise.cool
 eagle.cool
+nowplaying.cool
 shirtz.cool
 upbitit.cool
 ymq.cool
@@ -396,6 +399,7 @@ breeze.dating
 gg.deals
 opf.degree
 three60.degree
+logistix.delivery
 meucarrinho.delivery
 push.delivery
 return-my.delivery
@@ -423,12 +427,14 @@ upfiles.download
 auk.eco
 elli.eco
 mer.eco
+nura.eco
 play.eco
 bigdig.energy
 eonnext-kraken.energy
 homewizard.energy
 octopus.energy
 oegb-kraken.energy
+shoptopus.energy
 biqu.equipment
 dandelion.events
 lyyti.events
@@ -439,6 +445,7 @@ item.exchange
 bahn.expert
 booking.expert
 malware.expert
+gensa.family
 hns.family
 ktr.fan
 os.fan
@@ -642,6 +649,7 @@ super.money
 unstoppable.money
 usual.money
 vivid.money
+cloudcdn.monster
 fedi.monster
 mortgage.monster
 rollenspiel.monster
@@ -668,8 +676,10 @@ sheet.new
 site.new
 slide.new
 google.com.ng
+origami.ng
 cape.ninja
 clash.ninja
+dts.ninja
 flashscore.ninja
 giveaway.ninja
 poe.ninja
@@ -731,7 +741,6 @@ rafael.phd
 faceapp.photo
 glass.photo
 picsum.photos
-am-cdn.pics
 covet.pics
 pixers.pics
 slow.pics
@@ -860,6 +869,7 @@ wielrenner.shop
 winefactory.shop
 xn--dnemark-5wa.shop
 zonwering.shop
+camz.show
 j.show
 additive-apps.site
 aftermath.site
@@ -945,6 +955,8 @@ hacksmith.store
 heavysaurus.store
 hom.store
 immich.store
+iqunix.store
+mchose.store
 myexpresscarwash.store
 myshopline.store
 pbshop.store
@@ -956,6 +968,7 @@ shoplazza.store
 shopware.store
 sofascore.store
 stan.store
+stromae.store
 tatemcraeeu.store
 tatemcrae.store
 timberjacks.store
@@ -1155,6 +1168,7 @@ meming.world
 mnetplus.world
 mnr.world
 shitposter.world
+tokki.world
 unidays.world
 userstyles.world
 welocal.world
