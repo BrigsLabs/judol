@@ -115,6 +115,8 @@
 ||bunnyfonts.b-cdn.net^
 ||cdn.finansialku.com^
 ||dmca-images.b-cdn.net^
+||download-quranicaudio-com.b-cdn.net^
+||download.quranicaudio.com^
 ||finansialku.b-cdn.net^
 ||fonts.bunny.net^
 ||image.eu.atmndx.com^
