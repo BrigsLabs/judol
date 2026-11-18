@@ -133,6 +133,7 @@ p-info-bang.b-cdn.net
 pak-de.b-cdn.net
 pandaseo.b-cdn.net
 panjatrank1.b-cdn.net
+pas88.b-cdn.net
 pasti-khi-liau-nih.b-cdn.net
 percayalah.b-cdn.net
 planettalks.b-cdn.net
@@ -2940,3 +2941,18 @@ bukti8.maindeluna4d.com
 info13.maindeluna4d.com 
 rtp2.maindeluna4d.com 
 rtp6.maindeluna4d.com
+
+#from akses-cepat.org # subdom : 
+badak69.akses-cepat.org 
+gajah138.akses-cepat.org 
+sawer138.akses-cepat.org
+
+#from winboxmalay.com # subdom : 
+login.winboxmalay.com 
+agent4u.winboxmalay.com 
+register.winboxmalay.com
+
+#from maxtotogacor.net # subdom : 
+sumax521.maxtotogacor.net
+smax160.maxtotogacor.net
+smax692.maxtotogacor.net

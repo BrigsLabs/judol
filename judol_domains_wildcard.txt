@@ -4,10 +4,10 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 2010
+# Number of entries: 2019
 # 
 #
-#
+# e28* # too many false positive
 *11wbet*
 *168gg*
 *1playau*
@@ -719,6 +719,12 @@
 *lisatoto*
 *live[0-9]*
 *livedraw*
+*livehk*
+*livehongkong*
+*liveresult*
+*livesdy*
+*livesgp*
+*livesydney*
 *loginsamudera*
 *london[0-9]*
 *long-*
@@ -1052,9 +1058,12 @@
 *rasa4d*
 *ratu[0-9]*
 *rawit1[0-9]*
+*redirect*
 *rejeki[0-9]*
 *republik365*
 *resmi[0-9]*
+*resulthk*
+*resultsdy*
 *rezeki[0-9]*
 *rezekispin*
 *ria4d*
@@ -1213,6 +1222,7 @@
 *surya[0-9]*
 *susun[0-9]*
 *sydneycuan*
+*sydneypools*
 *t0gel*
 *tab4d*
 *taipan[0-9]*
@@ -1443,7 +1453,6 @@ dsos*.com
 dsos*.org
 du88*
 dunialot*
-e28*
 ea88*
 evo[0-9]*
 fc[0-9]*

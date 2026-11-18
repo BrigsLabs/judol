@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 3978
+# Number of entries: 3979
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -272,6 +272,7 @@
 ||chat-socket.onechat.dev^
 ||chat.cs-system-006.cxgenie.app^
 ||chat.onechat.dev^
+||chatwithyou99.com^
 ||chiolink.xyz^
 ||chlink.skystarbiru.com^
 ||cialisrtl.com^

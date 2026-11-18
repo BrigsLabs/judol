@@ -4,10 +4,10 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3978
+# Number of entries: 3979
 # CDNs supporting site (may contains false positive)
 #
-# d1lrs95zs5ox0o.cloudfront.net # assets.elements.envato.com
+#
 1004834818.rsc.cdn77.org
 10322apk.deliber.net
 10fr4ame-b3stweeb.xyz
@@ -272,6 +272,7 @@ chat-slg.com
 chat-socket.onechat.dev
 chat.cs-system-006.cxgenie.app
 chat.onechat.dev
+chatwithyou99.com
 chiolink.xyz
 chlink.skystarbiru.com
 cialisrtl.com # seo backlink
