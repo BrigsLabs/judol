@@ -32,13 +32,12 @@
 ||api-a.op-mobile.opera.com^
 ||as.talia.telkomsel.com^
 ||asia2.ocws1.live.com.akadns.net^
-||cdf2ce9b60bb46d1800b07cd7fcdff4f.vip1.huaweicloudwaf.com^
+||bluebird.id^
 ||cdn.awsusor1.fds.api.mi-img.com^
 ||chatapp-admin.line-scdn.net^
 ||connect.detik.com^
 ||d1dsmzt7p0k2o8.cloudfront.net^
 ||d1uge9fya48pu3.cloudfront.net^
-||d37644279b6046f6917ef7ae0c863976.vip1.huaweicloudwaf.com^
 ||dgs.talia.telkomsel.com^
 ||ec-api.akulaku.com^
 ||fcm23.prod.eacn.ea.com^
@@ -81,11 +80,13 @@
 ||storeedgefd.xbetservices.akadns.net^
 ||tms2.palmplaystore.com^
 ||ups.talia.telkomsel.com^
+||vip1.huaweicloudwaf.com^
 ||vmax4-prod-adspot-lb-1732258817.ap-southeast-3.elb.amazonaws.com^
 ||vmax4-prod-services-nlb-4e6b3397e0475bc1.elb.ap-southeast-3.amazonaws.com^
 ||webcast16-normal-c-alisg.tiktokv.com^
 ||www.cgv.id^
 ||www.charm.co.id^
+
 
 # from cdn
 ||a1211.dscr.akamai.net^
