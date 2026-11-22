@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 3979
+# Number of entries: 3982
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -514,6 +514,7 @@
 ||gasnow.site^
 ||gate.continue.group^
 ||gate.networkappcomm.com^
+||gcdnb.pbrd.co^
 ||gd88.app^
 ||gearjib.com^
 ||gemswin.sgp1.cdn.digitaloceanspaces.com^
@@ -1084,6 +1085,7 @@
 ||static.marsul.xyz^
 ||static.nukeasset.com^
 ||static.sameorigin.net^
+||static.staticnest.net^
 ||static.stylecontent.xyz^
 ||static.zdassets.com^
 ||static1.squarespace.com^
@@ -1195,6 +1197,7 @@
 ||warnascore.com^
 ||waterlilybeauty.com^
 ||wati-integration-service.clare.ai^
+||wbgame-assets.mwfg0sdxwc.com^
 ||wdnotif.sgp1.digitaloceanspaces.com^
 ||web-istana2000.linkapp99.com^
 ||web-vegas123.linkapp77.com^

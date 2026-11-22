@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 39595
+# Number of entries: 39664
 #
 #
 #
@@ -248,6 +248,7 @@
 ||1ea88.com^
 ||1ee.com.pk^
 ||1fr4mef0rweb.site^
+||1gamehub.com^
 ||1gm247lagi.cc^
 ||1go-irrs01.com^
 ||1gocasino73.com^
@@ -274,6 +275,7 @@
 ||1nsupgg.com^
 ||1oberon.com^
 ||1official.1rtpbeton138.com^
+||1officialaladdin99.com^
 ||1olajack.com^
 ||1pangkat88.online^
 ||1priaqq.art^
@@ -560,6 +562,7 @@
 ||420-smokeshop.com^
 ||42verywellcasino.com^
 ||43tiara-4d.xyz^
+||44qh3a48.com^
 ||456asdffds.cc^
 ||456club.love678.store^
 ||456club.shop^
@@ -1058,6 +1061,7 @@
 ||7slotoro.bet^
 ||7slotsvader77.com^
 ||7st-352.com^
+||7t7hg9nh.com^
 ||7tembus777.com^
 ||7thavenuecollector.com^
 ||7togeljitu.us^
@@ -1074,6 +1078,7 @@
 ||800-tax.com^
 ||805.nhs.co.id^
 ||805.otti.co.id^
+||8065kemvs345.com^
 ||80betdr.com^
 ||80bkix1.com^
 ||80srockmusic.com^
@@ -2692,11 +2697,13 @@
 ||alexavegasgo.online^
 ||alexavegaszonapola.cyou^
 ||alexis-lantai-7.site^
+||alexis4d.nl^
 ||alexis500.link^
 ||alexisbarcelona.com^
 ||alexisforce.com^
 ||alexisgala.com^
 ||alexisgrow.com^
+||alexishot9.cam^
 ||alexiskairoz.com^
 ||alexislicker.com^
 ||alexislumine.com^
@@ -2991,6 +2998,7 @@
 ||ami-itera.com^
 ||amicidellarussia.org^
 ||amieformaryland.com^
+||amigogaming.com^
 ||amigogroup.shop^
 ||amigowins77.com^
 ||amihaigrosz.com^
@@ -3350,6 +3358,7 @@
 ||anymerdeka.com^
 ||anzees.com^
 ||ao888vn.com^
+||aoaotymghok.com^
 ||aochuiledolive-hauteprovence.com^
 ||aoicon2016.com^
 ||aomoripools.com^
@@ -5895,6 +5904,7 @@
 ||bluelakehorley.co.uk^
 ||bluelatex.org^
 ||blueoakcoffee.com^
+||blueoceangaming.com^
 ||bluepha.bio^
 ||blueprintbarandgrillfl.com^
 ||bluerhythmband.net^
@@ -6214,7 +6224,10 @@
 ||bookmanga.com^
 ||bookmark.xlune.com^
 ||boomerang-bet0001.com^
+||booming99.com^
+||boomingbet.net^
 ||boomingslots21.com^
+||boomingtakul.com^
 ||boostpro.me^
 ||booty.casino^
 ||booyahsbarandgrill.com^
@@ -7276,6 +7289,7 @@
 ||casino-games1.com^
 ||casino-hokiterus88.top^
 ||casino.ca^
+||casino.es^
 ||casino.gp2fun.com^
 ||casino1xbetfr.com^
 ||casinoaction365fr.com^
@@ -7627,6 +7641,7 @@
 ||charm14.com^
 ||charts.tunegauge.me^
 ||chasejaseph.com^
+||chasethescatter.com^
 ||chat.romantix.tech^
 ||chatcici4d.com^
 ||chateau-durtal.com^
@@ -8501,6 +8516,9 @@
 ||cuankelas.icu^
 ||cuanmelempah.com^
 ||cuanmenarik.cyou^
+||cuanmetal.click^
+||cuanmetal.skin^
+||cuanmetal.top^
 ||cuanmewah.monster^
 ||cuanmewah.skin^
 ||cuanpoin.icu^
@@ -8786,6 +8804,9 @@
 ||dam-878.com^
 ||dam88slot.com^
 ||damacai-lottery.com^
+||damaibet-apk.site^
+||damaibet.com^
+||damaibethoki.com^
 ||damanclub.life^
 ||damangame.ltd^
 ||damangame.site^
@@ -12355,6 +12376,7 @@
 ||forensiccomputerservice.com^
 ||forestfans.net^
 ||forestiere-historicalcenter.com^
+||forestvendorcorner.shop^
 ||forgreen.pl^
 ||formasi4d19.com^
 ||formatshop.it^
@@ -12363,6 +12385,7 @@
 ||formula-tmu.com^
 ||formulasparaganardinero.com^
 ||forosemana.com^
+||forpositivepeace.org^
 ||forsakenstar.store^
 ||fortalezabrazilstonefair.com^
 ||fortemax.com.mx^
@@ -12866,6 +12889,7 @@
 ||gamatogel.net^
 ||gamatogel.org^
 ||gamax128.com^
+||gamban.com^
 ||gambapools.net^
 ||gambar-lp.com^
 ||gambar-tg.pro^
@@ -12887,11 +12911,13 @@
 ||gambleaware.co.uk^
 ||gamblegorilla10.io^
 ||gamblero.xyz^
+||gamblersconnect.com^
 ||gamblersgrin.com^
 ||gamblineers.com^
 ||gambling1000.com^
 ||gamblingcommission.gov.uk^
 ||gamblingindustrynews.com^
+||gamblingtalk.net^
 ||gambol.sbs^
 ||gambolhoki.xyz^
 ||game-online-bgn168.one^
@@ -13507,6 +13533,7 @@
 ||gizbo-way-six.com^
 ||gjh138rtpgacor.click^
 ||gjh138rtpgacor.xyz^
+||gjo2oky.com^
 ||gk88.actor^
 ||gk8880.com^
 ||gk88ae.com^
@@ -14139,6 +14166,7 @@
 ||h2oslotrtp.xyz^
 ||h2oslotwin.pro^
 ||h38.kakekjepe.info^
+||h4zei1ditbzb.com^
 ||h89.org^
 ||h9snwo6x3k6mzxffju8r.nw3-koi388.com^
 ||haakblog.com^
@@ -15215,6 +15243,7 @@
 ||hz88.us^
 ||hz88.wales^
 ||hz881.com^
+||hzkuwan.com^
 ||i-ris1315.com^
 ||i-sportwetten.com^
 ||i-wing-88.me^
@@ -15564,6 +15593,7 @@
 ||imagenesdeamortop.com^
 ||imagepost.xyz^
 ||images-rtplive188.site^
+||images-wordpress.photos^
 ||images.friendsquotes.com^
 ||images.tokyo99.ink^
 ||imagesks.com^
@@ -16483,6 +16513,7 @@
 ||jacresult2026.com^
 ||jacsfamily.com^
 ||jadeassetmgmt.com^
+||jadegaming.co^
 ||jadevictoria.co^
 ||jadikeren.com^
 ||jadilaht8.one^
@@ -16797,6 +16828,7 @@
 ||jbwatson.bid^
 ||jcharlescheek.com^
 ||jchenlab.info^
+||jchtv.com^
 ||jcsesecuneta.com^
 ||jd9503.com^
 ||jdgirls.icu^
@@ -17047,6 +17079,8 @@
 ||jogjatotoberani.com^
 ||jogjatotodaftar.com^
 ||jogjatotorame.com^
+||jogosdeapostas.com^
+||jogosdecassino.com^
 ||johannalong.com^
 ||johnbrownseriousbbq.com^
 ||johnnytherazor.co.uk^
@@ -17821,6 +17855,7 @@
 ||kassenanankanama.org^
 ||kastototech.com^
 ||kaswitch.com^
+||kaszinomagyar.net^
 ||kata-bacil-google-jancok.karlspeed.info^
 ||katakatabijak.id^
 ||katana4d-jepeh.pro^
@@ -18480,6 +18515,7 @@
 ||klubbingkids.com^
 ||klubwmhub.com^
 ||km88br9.com^
+||km88w1.com^
 ||kmcstoto.com^
 ||kmfinearts.com^
 ||kmp.im^
@@ -19474,6 +19510,7 @@
 ||legendweng.info^
 ||legiano-1416.com^
 ||legianpools.net^
+||legjobb-online-kaszinok.net^
 ||lego138vip.art^
 ||lego138vip.autos^
 ||lego138vip.homes^
@@ -19873,6 +19910,7 @@
 ||linkcuantoto.org^
 ||linkcuanwin77.co^
 ||linkdaftar.online^
+||linkdamaibet.org^
 ||linkdana33.com^
 ||linkdentoto.org^
 ||linkdentoto.vip^
@@ -20435,6 +20473,7 @@
 ||lochbu.vip^
 ||lockdown168p.com^
 ||lockdown168q.com^
+||lococasino.be^
 ||lococospizzeria.com^
 ||lode.ad^
 ||lode88.cn.com^
@@ -21031,6 +21070,7 @@
 ||lyf-clan.com^
 ||lynling.com^
 ||lynnegolobgelfman.com^
+||lynon.com^
 ||lyon-pools.com^
 ||lyonandswan.com^
 ||lyonsecretdefense.com^
@@ -21198,6 +21238,7 @@
 ||macauprize.com^
 ||macedonialottery.com^
 ||machinelearningnuggets.com^
+||machineslotonline.it^
 ||machisushitx.com^
 ||machmall.com^
 ||macho69.club^
@@ -22517,6 +22558,7 @@
 ||metropizzas.com^
 ||metror2564.remaxtexas.com^
 ||metzpools.com^
+||meublestillot.com^
 ||mewa888.com^
 ||mewah69aktif.com^
 ||mewah69ea.pro^
@@ -23009,6 +23051,7 @@
 ||monsbluesky.com^
 ||monsen-taisyo.com^
 ||monsieurdelire.com^
+||monsino.io^
 ||monslighthood.com^
 ||monsterhitamlegam.store^
 ||monsterjs88.com^
@@ -24348,6 +24391,7 @@
 ||nutritiondome.com^
 ||nuts-cafe.com^
 ||nuvototo.com^
+||nuxgame.com^
 ||nvkcqp.ru.com^
 ||nvorange.shop^
 ||nvyauto.xyz^
@@ -24968,6 +25012,7 @@
 ||oqtonai.com^
 ||oraisoh.xyz^
 ||oramaglobalint.com^
+||orangbaru.xyz^
 ||orangdalamdado88.xyz^
 ||orangestudents.com^
 ||orangtua88.com^
@@ -25264,6 +25309,7 @@
 ||p2q3oirejwqoilands.top^
 ||p303-luckyspin1.site^
 ||p3ranut4ma05.xyz^
+||p5j92.com^
 ||p69amp.com^
 ||p789bet.biz^
 ||p9-cpo333.site^
@@ -25975,6 +26021,7 @@
 ||pateo2025.com^
 ||patersonforny.com^
 ||pathlabeducation.com^
+||pathosonline.it^
 ||pathwaydevelopmentconsortium.org^
 ||patih33148.com^
 ||patihtoto72.com^
@@ -28055,6 +28102,7 @@
 ||qh88hm.com^
 ||qh88ios.com^
 ||qidaxing.com^
+||qinghaigouqi.net^
 ||qipeiwu.com^
 ||qiuqiu99.buzz^
 ||qiuqiu99.com^
@@ -28418,6 +28466,7 @@
 ||rajakakek.xyz^
 ||rajakalung.ink^
 ||rajakaya.space^
+||rajakepiting88.com^
 ||rajakeraslots.xyz^
 ||rajakkslot777.co^
 ||rajalangit77jepe.com^
@@ -29036,6 +29085,7 @@
 ||richqueen.co^
 ||richrich.one^
 ||richroyal5.com^
+||richslots.it^
 ||richspinau.co^
 ||richspinau.online^
 ||richspinau.site^
@@ -31625,6 +31675,7 @@
 ||seputarvegasslots.com^
 ||serbarena.com^
 ||serbialottery.com^
+||serdadu-perang.photos^
 ||serenitycorner.org^
 ||serenityhotelistanbul.com^
 ||serfloor.org^
@@ -31845,6 +31896,7 @@
 ||shizuokalottery.com^
 ||shj78.com^
 ||shkoop.com^
+||shockz.com^
 ||shoei33.com^
 ||shoei33.one^
 ||shoei33.site^
@@ -32176,6 +32228,7 @@
 ||sinibang.cariregistaza.one^
 ||sinicurhatmeme.com^
 ||sinidulu.link^
+||siniyok.info^
 ||sinmaaircon.com^
 ||sinners.co^
 ||sinoosh.com^
@@ -32679,6 +32732,7 @@
 ||slotsgg.dev^
 ||slotsggoke.xyz^
 ||slotsnolimit.shop^
+||slotsoo.com^
 ||slotspaceman.co.uk^
 ||slotspgsoft.shop^
 ||slotspin99.live^
@@ -33100,6 +33154,7 @@
 ||spincabewin77.com^
 ||spincuanmu.site^
 ||spincuansawer138.lol^
+||spindamaibet.com^
 ||spindex.net^
 ||spindisini.com^
 ||spineed.com^
@@ -33286,6 +33341,7 @@
 ||st-albert-parish.com^
 ||st5.linkuji4d.xyz^
 ||st666s4.com^
+||st8.io^
 ||sta5iunplay.com^
 ||stableconnects.com^
 ||stacguard.com^
@@ -33380,6 +33436,7 @@
 ||static.tryambi.com^
 ||static21.nanouniverse.jp^
 ||static22.nanouniverse.jp^
+||staticx20b6v978.site^
 ||staticxmotorsports.com^
 ||station123.org^
 ||station4744.com^
@@ -33924,6 +33981,11 @@
 ||suruhkami.com^
 ||surya123asli.site^
 ||surya88bos.online^
+||surya88cahyo.icu^
+||surya88cahyo.life^
+||surya88cik.lol^
+||surya88cik.skin^
+||surya88d.com^
 ||surya88gokil.pics^
 ||surya88good.online^
 ||surya88good.skin^
@@ -34033,6 +34095,8 @@
 ||sxlingdian.com^
 ||sxpyjs.com^
 ||sxx6.ru.com^
+||sxxlk.com^
+||sxxlk.com^
 ||syairhk.fit^
 ||syairikanmas.com^
 ||syairjitu.me^
@@ -35143,6 +35207,7 @@
 ||timberlinemotel.net^
 ||timcuan.top^
 ||timeinternational.in^
+||timelesstech.io^
 ||timezoneall.vip^
 ||timmg368.com^
 ||timmoorey.info^
@@ -36955,6 +37020,7 @@
 ||vegaswinner06.com^
 ||vegazr.site^
 ||vegetotherapy.org^
+||veligames.io^
 ||velkigames365.cc^
 ||velo88.link^
 ||velrai-ps.com^
@@ -37816,6 +37882,7 @@
 ||wearitatwork.com^
 ||weascotland.org.uk^
 ||weatherlinkip.info^
+||weave.works^
 ||web-Balon4D.linkapp88.com^
 ||web-biotech.com^
 ||web-facebookslot.linkapp99.com^
@@ -38658,6 +38725,7 @@
 ||xkvtd.scatterwin.biz^
 ||xlasiata.com^
 ||xldunia188.online^
+||xlskf.com^
 ||xmagic.xyz^
 ||xmlrpc.bellshare.com^
 ||xn--1-wxfa6c7bao6d7a.com^
@@ -39469,6 +39537,7 @@
 ||zheng099.pro^
 ||zhengzhoulottery.com^
 ||zhenwudadi.net^
+||zhixinwangluo.com^
 ||zhonghuarestaurant.com^
 ||zhyper-shel.info^
 ||zhypercarry.us^
