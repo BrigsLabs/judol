@@ -37,6 +37,7 @@ cdn.awsusor1.fds.api.mi-img.com
 chatapp-admin.line-scdn.net
 connect.detik.com
 d1dsmzt7p0k2o8.cloudfront.net
+d1k44gymace6is.cloudfront.net
 d1uge9fya48pu3.cloudfront.net
 dgs.talia.telkomsel.com
 ec-api.akulaku.com
@@ -48,6 +49,7 @@ hermes2.grabtaxi.com
 kikocosmetics.com
 knowledge.federalcompass.com
 launcher-h3.shalltry.com
+libra16-normal-alisg.tiktokv.com
 libra16-normal-useast5.tiktokv.us
 libra32-normal-alisg.tiktokv.com
 line8-code-push-prod.oss-ap-southeast-5.aliyuncs.com
@@ -68,6 +70,9 @@ prd-real.lisa2.verda2.akadns.net
 prod-spo01-107-nam-eastus2-api.cosmic.1drv.com
 pull-flv-l11-sg01.tiktokcdn.com
 recent.svc.cloud.microsoft
+redirector.googlevideo.com
+redirector.gvt1-cn.com
+redirector.gvt1.com
 restart-api.palmplaystore.com
 sfds-geo.xbetservices.akadns.net
 sg-allmusic-api-adv.allsaints.tv
@@ -79,14 +84,17 @@ storeedge.microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 storeedgefd.xbetservices.akadns.net
 tms2.palmplaystore.com
+ts.talia.telkomsel.com
+u9gbsaiobg.com
 ups.talia.telkomsel.com
 vip1.huaweicloudwaf.com
 vmax4-prod-adspot-lb-1732258817.ap-southeast-3.elb.amazonaws.com
 vmax4-prod-services-nlb-4e6b3397e0475bc1.elb.ap-southeast-3.amazonaws.com
+vmax4-prod-tracker-lb-1539806324.ap-southeast-3.elb.amazonaws.com
+w.hcaptcha.com
 webcast16-normal-c-alisg.tiktokv.com
 www.cgv.id
 www.charm.co.id
-
 
 # from cdn
 a1211.dscr.akamai.net # whitelist 
@@ -113,7 +121,9 @@ ublockorigin.pages.dev
 phishing-filter.pages.dev
 
 # trusted b-cdn.net subdom
+antaranews.b-cdn.net
 bunnyfonts.b-cdn.net
+cdn.antaranews.com
 cdn.finansialku.com
 dmca-images.b-cdn.net
 download-quranicaudio-com.b-cdn.net
@@ -245,6 +255,7 @@ dhilosnetworks.cc
 dict.cc
 dns36.cc
 eay.cc
+ewelink.cc
 fanbox.cc
 fiedler.cc
 fito.cc
@@ -379,10 +390,14 @@ mer.eco
 nura.eco
 play.eco
 bigdig.energy
+bliq.energy
+chargee.energy
 eonnext-kraken.energy
 homewizard.energy
+mygrid.energy
 octopus.energy
 oegb-kraken.energy
+planetpod.energy
 shoptopus.energy
 biqu.equipment
 dandelion.events
@@ -423,6 +438,7 @@ patterncraft.fun
 apollo.fyi
 better.fyi
 crypt.fyi
+expo.fyi
 genderdysphoria.fyi
 iusearchlinux.fyi
 laelaps.fyi
@@ -500,6 +516,7 @@ intervals.icu
 lunar.icu
 mon.icu
 filepress.ink
+homey.ink
 next.ink
 rdl.ink
 simple.ink
@@ -617,13 +634,20 @@ stefvanbuuren.name
 vlo.name
 bolt.new
 doc.new
+docs.new
 drawing.new
+drawings.new
 form.new
+forms.new
 lecture.new
 postgres.new
 sheet.new
+sheets.new
 site.new
+sites.new
 slide.new
+slides.new
+vids.new
 google.com.ng
 origami.ng
 cape.ninja
@@ -667,6 +691,7 @@ photostore24.online
 radarpayment.online
 randemretail.online
 ravendawn.online
+realbridge.online
 shueisha.online
 volla.online
 zander.online
@@ -704,6 +729,7 @@ pahe.plus
 petmed.plus
 rcti.plus
 saepay.plus
+vite.plus
 cypruspost.post
 postnl.post
 casey.prof
@@ -820,6 +846,7 @@ xn--dnemark-5wa.shop
 zonwering.shop
 camz.show
 j.show
+7mb.site
 additive-apps.site
 aftermath.site
 anonimayzer.site

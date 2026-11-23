@@ -37,6 +37,7 @@
 ||chatapp-admin.line-scdn.net^
 ||connect.detik.com^
 ||d1dsmzt7p0k2o8.cloudfront.net^
+||d1k44gymace6is.cloudfront.net^
 ||d1uge9fya48pu3.cloudfront.net^
 ||dgs.talia.telkomsel.com^
 ||ec-api.akulaku.com^
@@ -48,6 +49,7 @@
 ||kikocosmetics.com^
 ||knowledge.federalcompass.com^
 ||launcher-h3.shalltry.com^
+||libra16-normal-alisg.tiktokv.com^
 ||libra16-normal-useast5.tiktokv.us^
 ||libra32-normal-alisg.tiktokv.com^
 ||line8-code-push-prod.oss-ap-southeast-5.aliyuncs.com^
@@ -68,6 +70,9 @@
 ||prod-spo01-107-nam-eastus2-api.cosmic.1drv.com^
 ||pull-flv-l11-sg01.tiktokcdn.com^
 ||recent.svc.cloud.microsoft^
+||redirector.googlevideo.com^
+||redirector.gvt1-cn.com^
+||redirector.gvt1.com^
 ||restart-api.palmplaystore.com^
 ||sfds-geo.xbetservices.akadns.net^
 ||sg-allmusic-api-adv.allsaints.tv^
@@ -79,14 +84,17 @@
 ||storeedgefd.dsx.mp.microsoft.com^
 ||storeedgefd.xbetservices.akadns.net^
 ||tms2.palmplaystore.com^
+||ts.talia.telkomsel.com^
+||u9gbsaiobg.com^
 ||ups.talia.telkomsel.com^
 ||vip1.huaweicloudwaf.com^
 ||vmax4-prod-adspot-lb-1732258817.ap-southeast-3.elb.amazonaws.com^
 ||vmax4-prod-services-nlb-4e6b3397e0475bc1.elb.ap-southeast-3.amazonaws.com^
+||vmax4-prod-tracker-lb-1539806324.ap-southeast-3.elb.amazonaws.com^
+||w.hcaptcha.com^
 ||webcast16-normal-c-alisg.tiktokv.com^
 ||www.cgv.id^
 ||www.charm.co.id^
-
 
 # from cdn
 ||a1211.dscr.akamai.net^
@@ -113,7 +121,9 @@
 ||phishing-filter.pages.dev^
 
 # trusted b-cdn.net subdom
+||antaranews.b-cdn.net^
 ||bunnyfonts.b-cdn.net^
+||cdn.antaranews.com^
 ||cdn.finansialku.com^
 ||dmca-images.b-cdn.net^
 ||download-quranicaudio-com.b-cdn.net^
