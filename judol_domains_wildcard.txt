@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 2021
+# Number of entries: 2031
 # 
 #
 # e28* # too many false positive
@@ -196,6 +196,7 @@
 *bonafit-[0-9]*
 *bonafit88*
 *bonanza[0-9]*
+*bongdalu*
 *bongkar4dprize*
 *bonsai[0-9]*
 *bonus138*
@@ -230,6 +231,7 @@
 *cacatoto*
 *cafe69*
 *cahaya[0-9]*
+*cakhiatv*
 *cakra[0-9]*
 *candu[0-9]*
 *cantik[0-9]*
@@ -627,6 +629,8 @@
 *kentangbet*
 *kentangtoto*
 *kenzototo*
+*keobongda*
+*keonhacai*
 *keren[0-9]*
 *khusus4d*
 *kientoto*
@@ -1212,6 +1216,7 @@
 *sultanslot*
 *sultantoto*
 *sumobet*
+*sunwin*
 *super[0-9]*
 *superbang*
 *superdewa*
@@ -1425,6 +1430,7 @@
 [0-9].cn.com
 [0-9]asia*
 [0-9]bola*
+[0-9]club*
 [0-9]garena*
 [0-9]grd*
 [0-9]lc88.com
@@ -1480,6 +1486,7 @@ kkwin*
 kl99.*
 koi*.com
 kpk*.com
+kqbd.*
 ku88*
 kumbang*
 lc88*
@@ -1497,9 +1504,11 @@ mw68*
 nitroplay*
 nk88.*
 ok365*
+ok9.*
 okfun*
 on-[0-9]*
 on[0-9]*
+open[0-9]*
 orgi*.org
 p138*.xyz
 pafi*.org
@@ -1529,6 +1538,7 @@ rr88*
 rrrrr.*
 rt99*
 s9s9*
+sc88.*
 sin88*
 skc4d*
 sl88*

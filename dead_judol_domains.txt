@@ -440,6 +440,7 @@ fullkeerestaurants.pages.dev
 fungacore.pages.dev
 gakberesberes-ampun.pages.dev
 gamatogel.pages.dev
+gametoto.pages.dev
 ganas33-salon.pages.dev
 garuda999.pages.dev
 gatotkaca123ofc.pages.dev
@@ -877,6 +878,7 @@ unsur138.pages.dev
 upcristo.pages.dev
 url-sink-shorterner.pages.dev
 utama-spawnner-rtp.pages.dev
+utamaku.pages.dev
 violet-top-one.pages.dev
 violetslot-go.pages.dev
 visabet88rtp.pages.dev
@@ -1125,6 +1127,7 @@ apkapi-yod.datasvc.site
 # from *.it.com
 11uu.it.com
 188v.it.com
+1gom.it.com
 23wincom.it.com
 310726.ternate.it.com
 68win.it.com
@@ -1150,6 +1153,7 @@ asiabet.it.com
 asianslot88-livescore.it.com
 asihka.it.com
 audgaming.it.com
+b88.it.com
 bagong-4d.it.com
 bagong4d.it.com
 baksosolo.it.com
@@ -1159,6 +1163,7 @@ bangka11.spinwheel11.it.com
 bangkok-toto.it.com
 beinternet.it.com
 belijitu.it.com
+bet168go.it.com
 bettogel.it.com
 bintang5toto.it.com
 birototo.it.com
@@ -1172,6 +1177,7 @@ buktijpgelastogel.it.com
 buktijpnyaitogel.it.com
 bxing423.hss324.it.com
 c-p.it.com
+cacuocbongda.it.com
 cocol88-gacor.it.com
 cocol88-gg.it.com
 daftar-yupitoto.it.com
@@ -1210,6 +1216,7 @@ garuda69situs.it.com
 gelasgacor.it.com
 gelastogelnyata.it.com
 goodgame.it.com
+gowinplus.it.com
 gresiktoto.it.com
 hi77.it.com
 hokiroom.totovip.it.com
@@ -1223,6 +1230,7 @@ inewsfit.com
 inibozpunyartp.it.com
 istana2000.it.com
 istanaku.it.com
+iwin.it.com
 japanslot88.it.com
 jimat69.it.com
 jogjatoto.it.com
@@ -1237,6 +1245,11 @@ kakaktogel.it.com
 kastoto.it.com
 kembarjitu.it.com
 kentangbet.it.com
+keobongda.it.com
+keonhacai18.it.com
+keonhacai888.it.com
+keonhacaii5.it.com
+keonhacaivip.it.com
 kfcslot.it.comkjcpro.it.com
 kilopuff.it.com
 koenokatachi.it.com
@@ -1257,6 +1270,7 @@ link4.tenbrand.it.com
 linktoto88.it.com
 lisatoto.it.com
 livebolaid.it.com
+llwin1.it.com
 london69main.it.com
 london69vip.it.com
 lumbung138gacor.it.com
@@ -1278,6 +1292,8 @@ mikipro.it.com
 mm88.it.com
 mobile.batamhoki.it.com
 mposlotonline.it.com
+mu88.it.com
+mu88x.it.com
 mulia77keren.it.com
 n188.it.com
 n888.it.com
@@ -1324,6 +1340,7 @@ rajangamensuper.it.com
 relay.caltech.it.com
 resmi777.it.com
 rezllive.it.com
+rikvip9.it.com
 rtp-kita.it.com
 rtp.arenadagelan4d.it.com
 rtp546.bgkt458.it.com
@@ -1338,6 +1355,7 @@ sabungtoto.it.com
 sahamimage.it.com
 sahamstart.it.com
 santoryu.it.com
+sanvip.it.com
 scdihati.it.com
 searchdolar.it.com
 sensa88.it.com
@@ -1376,6 +1394,7 @@ tentaco.it.com
 ternatetoto.it.com
 tokeslot88.it.com
 tomslot88.it.com
+topzo.it.com
 toto.resultsyairmacau.it.com
 toto7788.it.com
 toto90.it.com
@@ -1383,6 +1402,7 @@ tovelmanufacturingequipment.it.com
 tupaiwinwin.it.com
 unduh4d.it.com
 vip1.solosolo.it.com
+vn888.it.com
 vnloto1.it.com
 vua99.it.com
 vvip1.gampangmasuk.it.com
@@ -1398,6 +1418,7 @@ axio.de.com
 cam-de.com
 exago.de.com
 fba.de.com
+g88.de.com
 golfe.de.com
 goverment.de.com
 hagel-shop.de.com
@@ -1410,9 +1431,12 @@ only.de.com
 qq88.de.com
 rajabandot15.de.com
 sate777.de.com
+sonclub.de.com
 thabett.de.com
 tws.de.com
 ufa.de.com
+ufabet-ufa.de.com
+visitx.de.com
 xin77.de.com 
 
 # from cdn *.gifyu.com
@@ -1946,6 +1970,7 @@ abc8page.public-f1c.workers.dev
 amanahtotogacor3.pastimemberi.workers.dev
 asia99.jawirr.workers.dev
 attopuma.sub-puma33.workers.dev
+betting-tips-api-cld.surepredictions-net.workers.dev
 billionaire-hoki.digital-oceaan.workers.dev
 buenagranja-tw88.rjpl-group.workers.dev
 burger-king-drink-menu.pacinozxzey.workers.dev
@@ -1967,6 +1992,7 @@ kejurtps.master-138group.workers.dev
 live-punya2.puhseo.workers.dev
 live-punyatoto12.totoduabelas12.workers.dev
 phapac.hafeiniamilan.workers.dev
+planet.digital-oceaan.workers.dev
 puhseo.workers.dev
 rashakai.sijago88.workers.dev
 rr88_shortlink.rr88tino.workers.dev
@@ -2958,3 +2984,21 @@ register.winboxmalay.com
 sumax521.maxtotogacor.net
 smax160.maxtotogacor.net
 smax692.maxtotogacor.net
+
+#from idntoto.host # subdom : 
+161-202.idntoto.host 
+216-80.idntoto.host 
+162-117.idntoto.host
+
+#from allkepri.com # subdom : 
+promo.allkepri.com 
+rtp4.allkepri.com 
+blog17.allkepri.com 
+buktijp3.allkepri.com
+
+#from skystarbiru.com # subdom :
+chlink.skystarbiru.com
+dwlink.skystarbiru.com
+wgfasttest.skystarbiru.com
+wglink.skystarbiru.com
+wllink.skystarbiru.com

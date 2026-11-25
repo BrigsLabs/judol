@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3982
+# Number of entries: 3980
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -170,7 +170,7 @@ autoredirectjack.me
 awan.pw
 awcchat.com
 aws-learning-kit.bitslovers.com.cdn.cloudflare.net
-b-cdn.net # all subdom list in dead_judol_domains.txt
+b-cdn.net # all subdom list in dead_judol_domains.txt # may create false positive
 b1speed.info
 b729j88.com # subdom : img.b729j88.com
 bacan4dblog.wordpress.com
@@ -274,7 +274,6 @@ chat.cs-system-006.cxgenie.app
 chat.onechat.dev
 chatwithyou99.com
 chiolink.xyz
-chlink.skystarbiru.com
 cialisrtl.com # seo backlink
 cici4d.s3.wasabisys.com
 cikatech.sgp1.digitaloceanspaces.com
@@ -302,6 +301,7 @@ computerhope.com
 contact-scraper.app.wtggggg.com
 contentranking.top # seo
 cool-assets.sgp1.cdn.digitaloceanspaces.com
+corchat-prod-files.sgp1.cdn.digitaloceanspaces.com
 crisp.chat
 csbot-documents.s3.ap-southeast-1.amazonaws.com
 customer-eq7kiuol0tk9chox.cloudflarestream.com
@@ -980,6 +980,7 @@ rtpmantap.sgp1.cdn.digitaloceanspaces.com
 rtpseru.s3.ap-southeast-2.amazonaws.com
 ruangkomunikasilc.com
 rujak.cc
+s-gke-apse1-nssi3-1.asia-southeast1.firebasedatabase.app
 s-gke-usc1-nssi1-2.firebaseio.com
 s1.kwai.net
 s1.kwai.net.cdn.dnsv1.com
@@ -1209,13 +1210,10 @@ websitetoapk.com
 weddingpuzzleshop.com # hacked web : weddingpuzzleshop.com/wholesale/
 wesleyggeorge.com # hacked web
 wgaming-assets.ap-south-1.linodeobjects.com
-wgfasttest.skystarbiru.com
-wglink.skystarbiru.com
 whatsform.com
 wika.live
 winwin25.wordpress.com
 wlinetpos.com
-wllink.skystarbiru.com
 woainistef.sgp1.digitaloceanspaces.comwoainistef.sgp1.digitaloceanspaces.com
 wonderfulnextapi.com
 workers.dev # all subdomain move to dead_judol_domains
