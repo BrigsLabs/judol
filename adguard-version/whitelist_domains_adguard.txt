@@ -65,6 +65,7 @@
 ||openapi-in.op-mobile.opera.com^
 ||outspot-ams-vip1.op-mobile.opera.com^
 ||outspot-sg-vip1.op-mobile.opera.com^
+||p16-lemon8-sign-sg.tiktokcdn.com^
 ||pps-token.op-mobile.opera.com^
 ||prd-real.lisa2.verda2.akadns.net^
 ||prod-spo01-107-nam-eastus2-api.cosmic.1drv.com^

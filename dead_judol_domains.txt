@@ -516,6 +516,7 @@ jornadaseconomicas-uccuyosl-edu-ar.pages.dev
 justthaiofficial.pages.dev
 kalkulatort4d.pages.dev
 kangbetwon.pages.dev
+kangdepo-nasdhawds.pages.dev
 kangtoto2berjaya.pages.dev
 kantuk-togel-ptg.pages.dev
 kapten-ketua.pages.dev
@@ -540,6 +541,7 @@ lc88.pages.dev
 lead-wichert-juara.pages.dev
 learn-stalms-rajazeus.pages.dev
 ler-leicesterstudent.pages.dev
+lihatrtpsini.pages.dev
 link-mix-parlay-provider-sbobet.pages.dev
 link-slot-gacor-11-kabayan55.pages.dev
 linkgresiktotoaman.pages.dev
@@ -550,6 +552,7 @@ livebolaparlaypng.pages.dev
 livescore-dunia77.pages.dev
 livescorekristal777.pages.dev
 livescorem9win.pages.dev
+liveslot168-org.pages.dev
 login-kuningtoto.pages.dev
 login-togel900.pages.dev
 login-website-terpercaya-ini-boskuuu.pages.dev
@@ -1123,6 +1126,7 @@ apkapi-stg.datasvc.site
 apkapi-tgd.datasvc.site
 apkapi-tun.datasvc.site
 apkapi-yod.datasvc.site
+apkapi-dst.datasvc.site
 
 # from *.it.com
 11uu.it.com
@@ -1434,6 +1438,7 @@ sate777.de.com
 sonclub.de.com
 thabett.de.com
 tws.de.com
+tylekeohomnay.de.com
 ufa.de.com
 ufabet-ufa.de.com
 visitx.de.com
@@ -2289,6 +2294,7 @@ apkapi-wh6.rebrandy.site
 apkapi-ra8.rebrandy.site
 apkapi-pd7.rebrandy.site
 apkapi-7ls.rebrandy.site
+apkapi-crs.rebrandy.site
 
 #from ltn7.com # subdom : 
 promosi.ltn7.com 
@@ -3002,3 +3008,19 @@ dwlink.skystarbiru.com
 wgfasttest.skystarbiru.com
 wglink.skystarbiru.com
 wllink.skystarbiru.com
+
+#from urlsingkat.com # subdom : 
+prediksikpsjitu.urlsingkat.com 
+kpsjitu.urlsingkat.com 
+huskyslot.urlsingkat.com
+
+#from picasso12.com # subdom : 
+banner.picasso12.com
+sportsimgs.picasso12.com
+video-sponsorship.picasso12.com
+
+#from goaloo28.com # subdom : 
+football2.goaloo28.com 
+live10.goaloo28.com 
+sports.goaloo28.com 
+tips5.goaloo28.com

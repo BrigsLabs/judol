@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3980
+# Number of entries: 3987
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -272,6 +272,7 @@ chat-slg.com
 chat-socket.onechat.dev
 chat.cs-system-006.cxgenie.app
 chat.onechat.dev
+chatinst.com # may create false positive
 chatwithyou99.com
 chiolink.xyz
 cialisrtl.com # seo backlink
@@ -279,6 +280,7 @@ cici4d.s3.wasabisys.com
 cikatech.sgp1.digitaloceanspaces.com
 cityofgapan.gov.ph # backlink
 clanker-events.squarespace.com
+clgimgshare.iuf-cfl.cloud
 click.heylink.me
 clickdrive.tech
 cliply.co
@@ -441,6 +443,7 @@ duatoto.sgp1.cdn.digitaloceanspaces.com
 dvbs75l69qv8d.cloudfront.net
 dvzlwzma32q6t.cloudfront.net
 dw.gp2play.com
+dwkwyyxvlbunt.cloudfront.net
 dwnldapk.sgp1.cdn.digitaloceanspaces.com
 dxqm4i1swgb5o.cloudfront.net
 dz5xbhxy6sjp4.cloudfront.net
@@ -465,6 +468,7 @@ embed.qrisoke.id
 enak.la
 enderocean.com
 endofamerica.com.cdn.cloudflare.net
+enimatic.vip # cdn
 entecomputer.com
 entry.gyeitee.com
 entry.nuanmokeji.com
@@ -487,6 +491,7 @@ form.jotform.com # may create false positive
 former.tax.gov.kh # malicious backlink
 forms.zohopublic.com
 fpnpmcdn.net
+frame.analyticexpert.org
 freeimage.host
 frm88.pro
 gachaengine.com
@@ -847,6 +852,7 @@ onokabeh.id # malicous backlink # probe scam
 orangejelly.info
 ota-svr.lopjprd62sxa.com
 ov-1d104299d2a447049cdc73700c9309f7.ecs.us-west-2.on.aws
+overlyzer.com # engine
 ovxyftbkmb.net # subdom : 1rm81qva4t.ovxyftbkmb.net
 oxplay.api-oplbo.com
 ozzogame.com
@@ -1060,6 +1066,7 @@ spaces-mtg.sgp1.cdn.digitaloceanspaces.com
 spaces-ptg.sgp1.cdn.digitaloceanspaces.com
 spaces-ptg.sgp1.digitaloceanspaces.com
 spaces-slg.sgp1.cdn.digitaloceanspaces.com
+sparkcdn.top # subdom : images.sparkcdn.top styles.sparkcdn.top
 sphinxbio.com # hacked web
 splg.site
 sports-cdn.world-media.cn

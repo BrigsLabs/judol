@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 2031
+# Number of entries: 2039
 # 
 #
 # e28* # too many false positive
@@ -98,6 +98,7 @@
 *arenaqq*
 *ares[0-9]*
 *arjuna4d*
+*arte[0-9]*
 *arya[0-9]*
 *asdjitu*
 *asdtoto*
@@ -119,6 +120,7 @@
 *audgaming*
 *audplay*
 *awan1[0-9]*
+*axes[0-9]*
 *aye4d*
 *ayobet*
 *ayu89*
@@ -604,6 +606,7 @@
 *kamarhoki*
 *kampungtoto*
 *kangbet*
+*kangdepo*
 *kangslot*
 *kangtoto*
 *kantorbola*
@@ -663,6 +666,7 @@
 *kpi4d*
 *kpktoto*
 *kpot108*
+*kpsjitu*
 *kraken1[0-9]*
 *kristal[0-9]*
 *kubatoto*
@@ -951,6 +955,7 @@
 *papabet*
 *paramanalo*
 *paris[0-9]*
+*parlay*
 *partner[0-9]*
 *pasir4d*
 *pastibet*
@@ -987,6 +992,7 @@
 *pisangbet*
 *pisangtoto*
 *pisces[0-9]*
+*pkvgame*
 *planet[0-9]*
 *platinumslot*
 *play[0-9]*
@@ -1390,6 +1396,7 @@
 *wla234*
 *wojobet*
 *woles4d*
+*wongsobet*
 *wow[0-9]*
 *x-dewa*
 *xbet*
@@ -1583,6 +1590,7 @@ xx88*
 ypci*.id
 ypci*.org
 yyrr*
+zen[0-9]*
 zona[0-9].guru
 zx88*
 # [a-z0-9\-_]*.example.com # block all sub *.example.com but pass top domain example.com

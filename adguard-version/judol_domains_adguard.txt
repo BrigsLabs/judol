@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains.md5
 # Syntax: Adguard Domains (including possible subdomains)
-# Number of entries: 40889
+# Number of entries: 41319
 #
 #
 #
@@ -12,6 +12,8 @@
 ||002gb777.com^
 ||005gb777.com^
 ||00789f.com^
+||007soccerpicks.com^
+||007soccerpicks.net^
 ||007win.dev^
 ||008gb777.com^
 ||009casinoz.com^
@@ -108,6 +110,8 @@
 ||11bolaong.info^
 ||11croco.com^
 ||11ksale.ru.com^
+||11livegoal.com^
+||11livesoccer.com^
 ||11pelita.com^
 ||11rumahmpo.com^
 ||11togel.me^
@@ -135,6 +139,7 @@
 ||12-hp.com^
 ||12.velocityengine.co^
 ||120743.com^
+||1212gogo.com^
 ||123-hd.me^
 ||123b.digital^
 ||123beginsignin.online^
@@ -155,6 +160,7 @@
 ||12bettingx.com^
 ||12cuci.bet^
 ||12idr.com^
+||12indofun.com^
 ||12llwin.com^
 ||12play.lol^
 ||12play.pro^
@@ -253,6 +259,7 @@
 ||1adam77.xyz^
 ||1agame.com.co^
 ||1agame.io^
+||1agx88.live^
 ||1anadoluslot.com^
 ||1bbetclub.com^
 ||1bbwin33.com^
@@ -337,6 +344,10 @@
 ||1wrbqk.life^
 ||1wtjjv.life^
 ||1wxvfb.com^
+||1x2.ge^
+||1x2hint.com^
+||1x2picks.info^
+||1x2pickscofe.com^
 ||1xapk.app^
 ||1xbet-apk-rdc1.com^
 ||1xbet-burkina-faso.com^
@@ -564,6 +575,7 @@
 ||3fb88.com^
 ||3gb777.com^
 ||3hawai99.shop^
+||3hokibet855.site^
 ||3ihp.us.com^
 ||3istana.xyz^
 ||3kauto.guru^
@@ -873,6 +885,7 @@
 ||777judi.com^
 ||777link.vip^
 ||777ole.com^
+||777parlay.online^
 ||777pub.ink^
 ||777seven.casino^
 ||777sh1.com^
@@ -1167,7 +1180,10 @@
 ||805.nhs.co.id^
 ||805.otti.co.id^
 ||8065kemvs345.com^
+||808ball16.com^
 ||808bola273.com^
+||808fubo29.com^
+||808onlivetv.com^
 ||80betdr.com^
 ||80bkix1.com^
 ||80srockmusic.com^
@@ -1218,6 +1234,7 @@
 ||888bet.ru.com^
 ||888bet88.blog^
 ||888clb.work^
+||888helpid.com^
 ||888new-vn.net^
 ||888new.bio^
 ||888new.uk.com^
@@ -1250,6 +1267,7 @@
 ||888starzarabic.com^
 ||888to.space^
 ||888to1.net^
+||888togelc37.com^
 ||888top.homes^
 ||888vi.biz^
 ||888vi.io^
@@ -1303,6 +1321,7 @@
 ||88md5ab3.com^
 ||88okwin.com^
 ||88omegabet.poker^
+||88pulsajp.com^
 ||88rtp4.online^
 ||88sbugroup.com^
 ||88vbet.jp.net^
@@ -1432,6 +1451,7 @@
 ||91-clublogin.net^
 ||91002.net^
 ||911-aa.com^
+||911.monster^
 ||911edu.com^
 ||918kiss-ori.com^
 ||918kiss.care^
@@ -1558,6 +1578,7 @@
 ||9bet1.uk.com^
 ||9degreegolf.com^
 ||9e2seattle.com^
+||9gengbola.site^
 ||9jabetshop.com^
 ||9japropredict.com^
 ||9jianghu.com^
@@ -1836,6 +1857,7 @@
 ||aciqbogota.com^
 ||acis2024.org^
 ||aclamcamerastudiosrental.com^
+||acmilan-online.com^
 ||acogs2024.com^
 ||acoplesymangueras.com.co^
 ||acoreo.org^
@@ -2343,6 +2365,11 @@
 ||aduankendala.co^
 ||aduankendala.pro^
 ||aduantoto12super.pro^
+||adujudiqq.com^
+||aduqiuqiu.com^
+||aduqpkv.com^
+||aduqq.tech^
+||aduqqpkv.com^
 ||advancedbeautycollege.net^
 ||advancedsourcecode.com^
 ||advanceprogram.org^
@@ -2411,6 +2438,7 @@
 ||affilator.cz^
 ||affiliasimaha.com^
 ||affiliate-eksternal.com^
+||affiliate88pulsa.xyz^
 ||affiliatecapital.com^
 ||affiliatedconstructionllc.net^
 ||affiliatemposport.xyz^
@@ -2431,6 +2459,7 @@
 ||afktotojigen.com^
 ||afktotoprediksi.com^
 ||afktotopromo.fit^
+||afootballreport.com^
 ||afplaymax.com^
 ||afptwister.com^
 ||africa-lostdevices-map.za.com^
@@ -2528,6 +2557,7 @@
 ||agentoto88.media^
 ||agentototogel.com^
 ||agentpokerterbaik.com^
+||agenwdbisnis.com^
 ||agfirstfarmers.com^
 ||aghaniyt.com^
 ||agileancode.com^
@@ -2911,6 +2941,7 @@
 ||allegrettismenu.com^
 ||allenbarandlounge.com^
 ||allergy.uk.com^
+||allfortips.com^
 ||allholidaycafe.com^
 ||alliancebanknc.com^
 ||alliancecitoyennepourmuret.com^
@@ -2928,11 +2959,13 @@
 ||allsavage.store^
 ||allsavvy.net^
 ||allscores.co.uk^
+||allsecure.rs^
 ||allsejati.com^
 ||allsindhjobz.com^
 ||allslot-pg.com^
 ||allsweetreatsorder.com^
 ||alltherightmovesdenver.com^
+||allthescores.co.uk^
 ||alltt.me^
 ||allwebtemplate.com^
 ||almadapools.com^
@@ -3299,6 +3332,7 @@
 ||anamaiycn.com^
 ||anansefoundation.org^
 ||anapanafood.com^
+||anarabos-me.site^
 ||anaspnacional.org^
 ||anbo1757.com^
 ||anbolicinsider.com^
@@ -3309,6 +3343,7 @@
 ||ancualee.me^
 ||andahoki87.buzz^
 ||andalan.pragmatic4djkl.lat^
+||andalas-188.xyz^
 ||andapaybo.com^
 ||andersonbicycle.com^
 ||andgeorge.com^
@@ -3354,6 +3389,7 @@
 ||angkabbfs.angka-jitu711.top^
 ||angkabbfs.wiki^
 ||angkaberascun.com^
+||angkabet31236.com^
 ||angkabet39928.com^
 ||angkabet788.life^
 ||angkabet80240.com^
@@ -3526,10 +3562,12 @@
 ||aparajitaworld.com^
 ||apartmensthamilton.com^
 ||apcowrc2025.org^
+||apekslot.blog^
 ||apekslot808.com^
 ||apekslotvip88.com^
 ||apekslotvip88.vip^
 ||apekunit.xyz^
+||apelbetjoss.com^
 ||apeljitu.christmas^
 ||apeljitu.click^
 ||apeljitu.co^
@@ -3737,6 +3775,7 @@
 ||appdl.whiteproj.com^
 ||appdownload.jra777.com^
 ||appernetic.io^
+||appinplaystore.com^
 ||appkilla.com^
 ||applabs.click^
 ||apple-mystery-box.com^
@@ -3853,6 +3892,7 @@
 ||arena333kopi.org^
 ||arena333lagi.net^
 ||arena333masuk.com^
+||arena35752.com^
 ||arena39.click^
 ||arena39.com^
 ||arena899tokyo.xyz^
@@ -3934,6 +3974,9 @@
 ||artawards.info^
 ||artcafelasvegas.com^
 ||artcasino3.io^
+||arte188.com^
+||arte188.net^
+||arte188v1.com^
 ||artemiswg77.cyou^
 ||artepampa.com^
 ||artesaniasolyturpo.com^
@@ -3999,6 +4042,7 @@
 ||ascolilotto.com^
 ||ascolipools.com^
 ||ascomintltda.com^
+||asdfbet.com^
 ||asdtogelpage.com^
 ||asdtotolagi.com^
 ||asean-pools.com^
@@ -4038,6 +4082,7 @@
 ||asiabet118lb.com^
 ||asiabetking.poker^
 ||asiabola.concejoriogrande.gov.ar^
+||asiabookie.info^
 ||asiagacor77play.lat^
 ||asiagacor77play.online^
 ||asiago.site^
@@ -4129,6 +4174,7 @@
 ||asset-petirjitu.art^
 ||assetkios.xyz^
 ||assetkitabersama.com^
+||assetmamba196.online^
 ||assets-engine.com^
 ||assets.hopeglobalnetwork.com^
 ||assets.mozo.co^
@@ -4444,6 +4490,12 @@
 ||ax88xx.com^
 ||axel4cu.org^
 ||axelotmembara.io^
+||axes88.com^
+||axes88.net^
+||axes88.org^
+||axes88b33.com^
+||axes88c40.com^
+||axes88help.com^
 ||axiom.za.com^
 ||axsableng.com^
 ||axurl.com^
@@ -4486,6 +4538,7 @@
 ||ayosatu.lat^
 ||ayosini.lat^
 ||ayovoxy88.xyz^
+||ayowdxxx2.org^
 ||ayrshiresands.co.uk^
 ||ayto-torrijos.com^
 ||ayu89light.com^
@@ -4827,6 +4880,7 @@
 ||bancadoithuong.com.de^
 ||bancadoithuong.store^
 ||bancadoithuonga.com^
+||bancaintesa.rs^
 ||bancodelalba.org^
 ||band.sa.com^
 ||bandaisuke.com^
@@ -4854,8 +4908,12 @@
 ||bandarok855.com^
 ||bandarpgsoft855.com^
 ||bandarpolototo.com^
+||bandarqq.casino^
 ||bandarqq.com^
 ||bandarqq.mx^
+||bandarqqokpialaqq.online^
+||bandarqqpkv.site^
+||bandarqqpkvgames.com^
 ||bandarsingaporetogel.com^
 ||bandarslot777wiltoto.ae.org^
 ||bandarslot88wiltoto.com^
@@ -5264,6 +5322,7 @@
 ||bebekmanja24.xyz^
 ||bebekpeking.id^
 ||bebekpeking.xyz^
+||bebetotips.com^
 ||bec88.codes^
 ||bec88.vin^
 ||becek-win.cc^
@@ -5475,7 +5534,9 @@
 ||bet-coin.win^
 ||bet-coin2025.xyz^
 ||bet-coinasiagg.xyz^
+||bet-express.com^
 ||bet-on-game.net^
+||bet-portal.net^
 ||bet-rise1.com^
 ||bet-t0gelasia.pro^
 ||bet1000-rtp.shop^
@@ -5497,6 +5558,7 @@
 ||bet404farsi.com^
 ||bet4dgas.com^
 ||bet4dlite.com^
+||bet4win.info^
 ||bet5455.uk.com^
 ||bet6d.com^
 ||bet7meter.bid^
@@ -5518,6 +5580,7 @@
 ||beta138elite.org^
 ||betaalto.xyz^
 ||betadinekapas.top^
+||betadvice.me^
 ||betandyou-563035.pro^
 ||betandyou.com.tr^
 ||betarazi.com^
@@ -5536,6 +5599,7 @@
 ||betcoinasia.top^
 ||betcoinwin.me^
 ||betexplorer.com^
+||betexplorer.top^
 ||betfa.bio^
 ||betfair.cat^
 ||betfixmega.com^
@@ -5566,6 +5630,7 @@
 ||betifycasino777fr.com^
 ||betifycasinoa366fr.com^
 ||betifycasinoappfr.com^
+||betimate.com^
 ||betinexchange.site^
 ||betis.info^
 ||betis777.com^
@@ -5581,6 +5646,7 @@
 ||betmexico.cat^
 ||betmgm-play.com^
 ||betmly66.club^
+||betnail.com^
 ||betnoson.com^
 ||betnumbers.co.ke^
 ||betofbets.com^
@@ -5598,32 +5664,48 @@
 ||betopick.com^
 ||betovis34.net^
 ||betovisgiris.net^
+||betpaus.lat^
+||betpaus.trade^
 ||betpkr.games^
 ||betpkr.top^
 ||betplay.cat^
 ||betpoop.com^
 ||betportal.com^
+||betprediction.info^
 ||betprimeiro.com^
 ||betproplay88.net^
 ||betrayon.live^
 ||betrekatips.com^
 ||betride.com^
+||betrush.com^
+||betrush.top^
+||bets2take.com^
 ||bets365.tw^
 ||betsassured.com^
 ||betshopng.com^
+||betsincome.com^
 ||betsloaded.com^
 ||betslot.cyou^
+||betsmode.com^
 ||betsph.com^
+||betspredict.com^
+||betsrequest.com^
 ||betstropages.com^
+||betsvendor.com^
 ||bettastore.com^
 ||betterthanforever.com^
 ||bettertogetherpaper.com^
+||betting-tips.net^
 ||bettingbonus.pro^
 ||bettingfortunex.com^
+||bettinginf.com^
 ||bettingpoint9.com^
+||bettingpredictor.com^
+||bettingselskaper.com^
 ||bettingslot.id^
 ||bettingstats.org^
 ||bettingtips.co.ke^
+||bettingtips1x2.info^
 ||bettingvoice.com^
 ||bettip.net^
 ||bettogel-hklotto.com^
@@ -5657,6 +5739,7 @@
 ||betwaycasino366fr.com^
 ||betwaycasinofr.com^
 ||betweysure.com^
+||betwid.com^
 ||betwin188.nontoneuro2024live.com^
 ||betwin188creatz.xyz^
 ||betwin188siteweb.xyz^
@@ -5714,6 +5797,7 @@
 ||bibirtoto4841.com^
 ||bibirtotoo.com^
 ||biblebaptistchurchofliverpool.org^
+||biblenetusa.com^
 ||bibleverselover.com^
 ||bibliopinta.com^
 ||bicakagzi.com^
@@ -6249,6 +6333,8 @@
 ||bokurclub.com^
 ||bola-kinggaruda.shop^
 ||bola.mx^
+||bola.xn--tckwe^
+||bola011.com^
 ||bola16.co.uk^
 ||bola16.fyi^
 ||bola16.promptservicos.com.br^
@@ -6271,14 +6357,18 @@
 ||bola369online.top^
 ||bola77go.com^
 ||bola77id.com^
+||bola808.work^
+||bola808aja.pro^
 ||bola88idn.org^
 ||bola88pp.org^
 ||bolacepat.com^
 ||boladewahoki303.online^
 ||bolaeurobs88.pro^
 ||bolaexpress.shop^
+||bolaft95.net^
 ||bolago88evolution.com^
 ||bolago88link.info^
+||bolagroup.net^
 ||bolagroup.vip^
 ||bolaguru.com^
 ||bolahitliga.com^
@@ -6393,11 +6483,13 @@
 ||bongdalu.place^
 ||bongdalu.space^
 ||bongdalu123.io^
+||bongdalu198.com^
 ||bongdalu22.com^
 ||bongdalu5.tv^
 ||bongdalu88.info^
 ||bongdalu89.co.com^
 ||bongdaluqq.com^
+||bongdanet.land^
 ||bongdanet.vin^
 ||bongdanet66.com^
 ||bongdanhacai.pro^
@@ -6432,6 +6524,7 @@
 ||bonusneng4d.com^
 ||bonusnewmember100persenslot.com^
 ||bonusnewmember100persentorendah.com^
+||bonusolxbola.store^
 ||bonusreferral.info^
 ||bonusrequest.com^
 ||bonusroyalistplay.com^
@@ -6500,6 +6593,7 @@
 ||boshoki.lat^
 ||boshoki1881.com^
 ||bosjoko70.com^
+||bosjoko80924.com^
 ||bosjoko88712.com^
 ||bosjp.dev^
 ||bosku.live^
@@ -6680,6 +6774,7 @@
 ||bristol-pools.com^
 ||bristolchannelcharters.co.uk^
 ||bristolss.com^
+||britamabetgo.com^
 ||britania4d.com^
 ||britania4dpools.com^
 ||britanniainngower.co.uk^
@@ -6844,6 +6939,7 @@
 ||bukainking4d.com^
 ||bukan-aku-bang.site^
 ||bukanagita.com^
+||bukaparlay.com^
 ||bukares-pools4d.com^
 ||bukti-iblbet.info^
 ||bukti-jpamavi3.christmas^
@@ -7034,6 +7130,7 @@
 ||bunguistore.com^
 ||bunn.uk.com^
 ||bunnytheme.com^
+||bunqr.io^
 ||bunsiap.com^
 ||buntine.com.au^
 ||buntogel.co.com^
@@ -7139,6 +7236,7 @@
 ||c.buktijppsp.com^
 ||c10.wisataairterjun.info^
 ||c168.today^
+||c168com.vip^
 ||c168tom.com^
 ||c200m.sbs^
 ||c200mhits.com^
@@ -7624,6 +7722,7 @@
 ||caturwinvip.net^
 ||cauue.com^
 ||cavangers77.com^
+||cavatinala.com^
 ||caveausb.com^
 ||cavemtl.com^
 ||cawan88.com^
@@ -7803,6 +7902,7 @@
 ||ceriabet.lapormasalah.site^
 ||ceriabetlinkvip88.space^
 ||ceriabook.live^
+||ceriaqqbandar.com^
 ||ceriatoto.live^
 ||ceriavpn.live^
 ||ceriavpn.pro^
@@ -7921,6 +8021,7 @@
 ||chefauth.chef.io^
 ||chefe777br.com^
 ||chefre.com^
+||chelseafconline.com^
 ||chelseamotorsbarbados.com^
 ||chelseapools.co.uk^
 ||chengdu-lotto.com^
@@ -8051,6 +8152,8 @@
 ||christopherbriney.com^
 ||christophermarney.com^
 ||chromaair.com^
+||chtuken.online^
+||chtuken.site^
 ||chubuzaikai.com^
 ||chudetstvo.com^
 ||chufferspizza.com^
@@ -8076,6 +8179,7 @@
 ||cidukanmantan.store^
 ||cidukjpsyariah.lol^
 ||cie4d-jkt.vip^
+||ciesmerida.com^
 ||cigened.com^
 ||cihuy.top^
 ||cihuy88-80.com^
@@ -8207,8 +8311,10 @@
 ||clearwatermc.org^
 ||clednews.com^
 ||clersite.org^
+||clevertips.net^
 ||clica.bio^
 ||click-lynk.com^
+||click4soccer.net^
 ||clickbet88-keluhanmu.com^
 ||clickbet88-official.site^
 ||clickbet88-realwinner.online^
@@ -8234,6 +8340,7 @@
 ||clkjaya.xyz^
 ||clls2023.org^
 ||cloakwiki.org^
+||cloggysonthebeach.com^
 ||clomidi.com^
 ||clonemonster.lol^
 ||clonesoutletshop.com^
@@ -8428,6 +8535,7 @@
 ||columbiasdelivery.com^
 ||columbusdiscountrecords.com^
 ||com.manggalaris.cc^
+||combo-picks.com^
 ||comercializadoraaparicio.com^
 ||comfortplus.kz^
 ||comicline.org^
@@ -8518,6 +8626,7 @@
 ||coolidealbike.com^
 ||coolingsystem.ru.com^
 ||coolkatana.shop^
+||coolpicks.info^
 ||coolwawxfs.ru.com^
 ||coolwearable.com^
 ||coolwearable.shop^
@@ -8546,6 +8655,7 @@
 ||corfugrillnyc.com^
 ||corgislotcasino-nl.com^
 ||cornerstone.cn.com^
+||cornertips.com^
 ||coronaviruspreventionnetwork.org^
 ||corp-sukitoto.com^
 ||corp41.vikingorbit.com^
@@ -8790,6 +8900,7 @@
 ||cuanroyal.click^
 ||cuanroyal.top^
 ||cuanrtpdragonslot.icu^
+||cuansloto.com^
 ||cuantajir.cyou^
 ||cuantancapbet.store^
 ||cuantebu.site^
@@ -9042,6 +9153,7 @@
 ||daihatsumedan.org^
 ||daihocthudo.com^
 ||dailyapps.id^
+||dailybett.com^
 ||dailydropsandwin.com^
 ||dailydropsandwins.com^
 ||dailydropsandwins.net^
@@ -9121,6 +9233,7 @@
 ||dancebetyek.app^
 ||dancingclubla.net^
 ||danddtreeremoval.com^
+||dangerousbet.com^
 ||dangkyrr88.co.com^
 ||dangkyvao.com^
 ||danhbaidoithuong.us^
@@ -9261,6 +9374,7 @@
 ||datowin365.net^
 ||daughtersdiner.com^
 ||davehillismusic.com^
+||davepaddles.com^
 ||davetalobet.com^
 ||davidcampaign.net^
 ||davidchavedental.com^
@@ -9300,6 +9414,7 @@
 ||dbltoto17.com^
 ||dbqpbvms.org^
 ||dbrunique.com^
+||dbwinebarandkitchen.com^
 ||dc9.sa.com^
 ||dchealthpsychology.com^
 ||dchomeprices.com^
@@ -9388,6 +9503,7 @@
 ||deegayu.com^
 ||deep668.co^
 ||deep668.vip^
+||deepbet.net^
 ||deepbook.finance^
 ||deeply-vessel.sa.com^
 ||deerbrains.com^
@@ -9514,6 +9630,7 @@
 ||depo89-ok.lol^
 ||depo89asli.makeup^
 ||depo89rtp.hair^
+||depobos31380.com^
 ||depobos80889.com^
 ||depobos88.site^
 ||depobos90.com^
@@ -9586,6 +9703,7 @@
 ||destinationnexus.com^
 ||destosieras.ru.com^
 ||desty.page^
+||desunglassmancayman.com^
 ||desvinsavous.com^
 ||detailingservices.net^
 ||detektifslot.org^
@@ -9715,6 +9833,8 @@
 ||dewascorewin.net^
 ||dewaslot389.com^
 ||dewaslot389sbo.top^
+||dewaslotoresmi.top^
+||dewaslotortp.click^
 ||dewasultanscatterhitam.sbs^
 ||dewasultanslot.live^
 ||dewasurga88.sbs^
@@ -9756,6 +9876,7 @@
 ||dewwiii4dd.com^
 ||dewwiiii4d.info^
 ||dewwwii4d.info^
+||deybet.com^
 ||dezemisiknog.nl^
 ||dfj889.vip^
 ||dflwmjkhhssa.sa.com^
@@ -10881,6 +11002,7 @@
 ||domino88rush.pro^
 ||domino88topasia.org^
 ||domino99.live^
+||domino99.online^
 ||dominoqq.dev^
 ||dominoqq.health^
 ||domlink.ink^
@@ -11177,6 +11299,7 @@
 ||dsosyogyakarta.org^
 ||dspequineservices.co.uk^
 ||dsysg.net^
+||dt10.info^
 ||dt138-17.store^
 ||dt68.la^
 ||dtexprints.com^
@@ -11338,6 +11461,7 @@
 ||e-journal.iai-al-azhaar.ac.id^
 ||e-journal.mahabbah.org^
 ||e-l-i-z.com^
+||e-predicts.com^
 ||e-school.sa.com^
 ||e.americangathering.org^
 ||e.skedula.net^
@@ -11552,6 +11676,7 @@
 ||elcoyotemexicanrestaurant.com^
 ||eldergodspizza.com^
 ||eldiablos.co.uk^
+||eldoradoklub.org^
 ||eldoretleo.com^
 ||eldridgeselfstorage.com^
 ||elearning.unimed.edu.ng^
@@ -11650,6 +11775,7 @@
 ||emasperak.cc^
 ||emasputih.co^
 ||emasputihtotorr.com^
+||embec2011.com^
 ||emberarts.co^
 ||emberwin.com^
 ||embouledogues.com^
@@ -12057,11 +12183,13 @@
 ||expert-publicaffairs.com^
 ||expertadvantagesocial.com^
 ||experts-univers.com^
+||expertsbet.com^
 ||experttoday.pro^
 ||explicitdirect.net^
 ||explode.africa^
 ||exploregimli.com^
 ||explorenightscape.com^
+||explorerbets.com^
 ||explorethecaverns.com^
 ||exploringart.net^
 ||expotermal.com^
@@ -12175,6 +12303,7 @@
 ||fachai68.site^
 ||facingtheworld.co.uk^
 ||factalerts.com^
+||fadatsai88.com^
 ||fadzirazak.com^
 ||fafa-123.net^
 ||fafa168a.org^
@@ -12270,6 +12399,7 @@
 ||fastgoreng.com^
 ||fasthouse.me^
 ||fastp38.com^
+||fastscore.com^
 ||fastspinau.com^
 ||fastspinaud.com^
 ||fastspinpromotion.com^
@@ -12277,6 +12407,7 @@
 ||fastwengtoto.info^
 ||fastwinz.org^
 ||fataladdictionband.com^
+||fatcai30377.com^
 ||fatcai70.com^
 ||fatihindonesia.com^
 ||fatmakarakullukcu.com^
@@ -12311,6 +12442,7 @@
 ||fb88hay.us.com^
 ||fb88pro.store^
 ||fb88sn.com^
+||fbbet.info^
 ||fbioyf.unr.edu.ar^
 ||fbkoko138.pro^
 ||fbslot1234.xyz^
@@ -12340,6 +12472,7 @@
 ||fccwpms.org^
 ||fciamericasyelcaribe.com^
 ||fcm99.net^
+||fctables.com^
 ||fdcfootball.com^
 ||fdksob.com^
 ||featheredequal.ru.com^
@@ -12409,12 +12542,14 @@
 ||fiav.info^
 ||fiberfountain.shop^
 ||fibrea.net^
+||ficquotes.com^
 ||fiddlecreekfarms.com^
 ||fiercepeoplemovie.com^
 ||fiestagourmetcatering.com^
 ||fiestagrillcentral.com^
 ||fiestaonflathead.com^
 ||fif.us.com^
+||fifa777mobile.net^
 ||fifaworldcup2022.club^
 ||fifthfactorleadership.com^
 ||fifthsense.info^
@@ -12546,11 +12681,15 @@
 ||fiveprogroup.com^
 ||fivesenses.melbourne^
 ||fivestarwv.com^
+||fix-tips.com^
 ||fixbetspor.net^
 ||fixbos88.net^
 ||fixbos88app.online^
 ||fixbos88daftar.com^
 ||fixbos88mysterybox.com^
+||fixedfootballpicks.com^
+||fixedsoccermatches.com^
+||fixeurotransmission.com^
 ||fixsattaking.com^
 ||fizika.uz^
 ||fizzybear.pro^
@@ -12565,6 +12704,8 @@
 ||flamingo-mc.org^
 ||flashinternetcafe.com^
 ||flashpredict.com^
+||flashscore.co.uk^
+||flashscore.com^
 ||flashtactical.com^
 ||flatbushta.org^
 ||flatironexchangevt.com^
@@ -12690,14 +12831,21 @@
 ||foodtrucksoc.com^
 ||foodtruckspr.com^
 ||fooman.co.uk^
+||football-capper.com^
+||football-data.co.uk^
 ||football-navi.com^
 ||football-wallpapers.org^
+||footballcapper.org^
 ||footballchatterbox.com^
 ||footballhint.com^
 ||footballmemories.net^
 ||footballpre.com^
 ||footballpredict.net^
 ||footballticketsjuventus.com^
+||footballtips.org^
+||footballtips24.net^
+||footballtipsfootballpicks.com^
+||footballtipster.org^
 ||footballvaluetips.com^
 ||footer-body.site^
 ||footiehound.com^
@@ -12843,6 +12991,7 @@
 ||fredmcfar.com^
 ||free-psychic-chat.org^
 ||free-signup-bonus.com^
+||free-soccer-picks.com^
 ||free.kalkulatorparlay.asia^
 ||free488.com^
 ||free4pc.org^
@@ -12863,6 +13012,7 @@
 ||freecreditlink.net^
 ||freecreditmalaysia.vip^
 ||freecuci365.co^
+||freefootballpredictions.net^
 ||freeforebet.com^
 ||freegraceunderground.org^
 ||freeiconshop.com^
@@ -12873,13 +13023,18 @@
 ||freelivescore.online^
 ||freeourforests.org^
 ||freepersonalclassifieds.com^
+||freepicks.info^
+||freepickz.com^
 ||freeramen.link^
 ||freerotators.com^
+||freesoccertips.eu^
 ||freespamfilter.org^
 ||freespin8888.com^
 ||freespinbandungtoto.com^
 ||freespinpik.com^
 ||freestonecountyfairandrodeo.com^
+||freesuperbets.com^
+||freesupertips.eu^
 ||freetarotreadinglove.com^
 ||freetogift.com^
 ||freetorrent.org^
@@ -12924,6 +13079,8 @@
 ||fruitarianbodybuilder.com^
 ||fspromoinfo.com^
 ||fspromotioninfo.com^
+||ft95goal.com^
+||ft95wd.com^
 ||ftepr.org^
 ||ftik-iainpalopo.ac.id^
 ||ftkmemphis.org^
@@ -13016,6 +13173,7 @@
 ||fulltono-mp3.com^
 ||fun79.bio^
 ||fun79.ink^
+||fun88.band^
 ||fun88.business^
 ||fun88.support^
 ||fun8810.com^
@@ -13095,6 +13253,7 @@
 ||ga6789.claims^
 ||ga6789.com^
 ||ga6789.stream^
+||ga888vn.co.com^
 ||gabconcepcionlive.com^
 ||gabonpools.com^
 ||gabonpools.net^
@@ -13279,6 +13438,7 @@
 ||gamblersgrin.com^
 ||gamblineers.com^
 ||gambling1000.com^
+||gambling360.com^
 ||gamblingcommission.gov.uk^
 ||gamblingindustrynews.com^
 ||gamblingtalk.net^
@@ -13444,6 +13604,7 @@
 ||garudagacorku.xyz^
 ||garudagamertp.lat^
 ||garudapalinggacor.xyz^
+||garudaqqpkv.com^
 ||garudaslotku.com^
 ||garudaslotrtp.com^
 ||garudaspin138.sbs^
@@ -13702,6 +13863,7 @@
 ||gempuranwarga62.com^
 ||gemscool.co.id^
 ||gemsgynaecology.com^
+||gemthai.org^
 ||gemwin.ai^
 ||gemwin.cab^
 ||gemwin.co.at^
@@ -13729,6 +13891,9 @@
 ||geneva-pools.com^
 ||genevasociety.org^
 ||genezcom.com^
+||gengbolajp.com^
+||gengbolaparlay.com^
+||gengbolaslot.com^
 ||gengtoto72.com^
 ||gengwd002.com^
 ||gengwdputarhoki.info^
@@ -14105,6 +14270,7 @@
 ||go88gh.com^
 ||go88ma.com^
 ||go88me.net^
+||go88n.co^
 ||go88o.co^
 ||go88s.cn.com^
 ||go88sn.com^
@@ -14139,7 +14305,10 @@
 ||goal55pragmatic.info^
 ||goalltv.com^
 ||goalluckymania.pro^
+||goaloo28.com^
+||goaloo909.com^
 ||goalparlay.com^
+||goals88.com^
 ||goaskgigi.com^
 ||goathena168.online^
 ||goatse.cyou^
@@ -14252,6 +14421,7 @@
 ||gomezemortisia.it^
 ||gomu.live^
 ||gonawala.com^
+||gonraya.store^
 ||goobatmantoto.com^
 ||good88.fitness^
 ||good88.ru.com^
@@ -14306,6 +14476,7 @@
 ||gourmetfoodsvn.com^
 ||gov.idg.com.au^
 ||gov.racing^
+||gov88id.com^
 ||goviplink.live^
 ||govtechedu.id^
 ||goyangangacor.lol^
@@ -15558,6 +15729,7 @@
 ||hotman303.shop^
 ||hotmanparis.live^
 ||hotnyajitu.com^
+||hotpicks1999.com^
 ||hotpointstringband.com^
 ||hotsingawin.one^
 ||hotwords.br.com^
@@ -15683,6 +15855,9 @@
 ||hurleymetalroofs.com^
 ||husbetting.com^
 ||huserdentistry.com^
+||huskyslot4d.com^
+||huskyslotgaming.quest^
+||huskyslotresmi.com^
 ||hustlescasino.com^
 ||hutanesia.com^
 ||hutatimur.store^
@@ -15768,6 +15943,7 @@
 ||ibayar.live^
 ||ibayar.net^
 ||ibbfuel.com^
+||ibcbandarqq.com^
 ||ibcbet.com^
 ||iberorquestas.org^
 ||ibet899a.com^
@@ -15888,6 +16064,7 @@
 ||idewebsite.link^
 ||idewheell.com^
 ||idhobi.com^
+||idhokibet855.com^
 ||idi-bantul.id^
 ||idi-mojokerto.com^
 ||idisorong.org^
@@ -15935,6 +16112,7 @@
 ||idqqlink5.xyz^
 ||idr77id.monster^
 ||idr77kita.lat^
+||idratucapsa.com^
 ||idrejeki808.site^
 ||idrslot22.com^
 ||idsa-india.org^
@@ -16097,6 +16275,7 @@
 ||imbagcr-eropa.com^
 ||imbaslot.papakucintakupalingbesar.live^
 ||imcceme.com^
+||imcdomino99.asia^
 ||imcpokeraman.com^
 ||imcpokeraman.democrat^
 ||ime.nu^
@@ -16120,6 +16299,7 @@
 ||imgku.io^
 ||imgkugrup.io^
 ||imgldr.id^
+||imglucu.hair^
 ||imgmahasuhu.io^
 ||imgonline.lat^
 ||imgpro.ink^
@@ -16260,6 +16440,7 @@
 ||indochinatoto.com^
 ||indocinema21.tv^
 ||indodewabos138.cfd^
+||indofind.site^
 ||indohoki4drtps.club^
 ||indoint.com^
 ||indojaya168-stockzone.shop^
@@ -16418,6 +16599,7 @@
 ||inforesult.club^
 ||informasibaru.help^
 ||infortpbiru138.online^
+||infortpdewagacor77.live^
 ||infortpdgb88.cfd^
 ||infortpgamespoos.site^
 ||infortpjanjitoto.com^
@@ -16505,6 +16687,7 @@
 ||injavabet99c.online^
 ||injavabet99j.online^
 ||injavabet99m.online^
+||injuriesandsuspensions.com^
 ||inkcreations.co.uk^
 ||inkognito.invodtech.com^
 ||inkristal777.motorcycles^
@@ -16639,6 +16822,7 @@
 ||iotbc2024.org^
 ||iowamhdsregions.org^
 ||iowarandonneurs.net^
+||ip-db.io^
 ||ip2.polaipto79.xyz^
 ||ip2.solarbotics.net^
 ||ip79jago.icu^
@@ -16742,6 +16926,7 @@
 ||isoupdate.com^
 ||isport.fun^
 ||isport3.net^
+||isportsapi.com^
 ||israel4d.com^
 ||israelinnovationexpo.com^
 ||israelpools.com^
@@ -17434,6 +17619,7 @@
 ||jesoslotrtp.wiki^
 ||jessefeder.com^
 ||jessicasteel.co.uk^
+||jestercloud.net^
 ||jesusloveslesbianstoo.com^
 ||jet-jobs.com^
 ||jet178e.com^
@@ -17476,6 +17662,7 @@
 ||jhonsltrtp-sltpenyet.site^
 ||jhonsltrtpgobred06.site^
 ||jiaamalik.com^
+||jiewwijczeusslot1.com^
 ||jigsawforever.com^
 ||jihee-lee.com^
 ||jilibayyph.com^
@@ -17876,6 +18063,7 @@
 ||judigaruda999.shop^
 ||judilapan9.com^
 ||judilapan9a.com^
+||judiratuqq.com^
 ||judisini.online^
 ||judisini.vip^
 ||judislotvip.id^
@@ -17984,6 +18172,7 @@
 ||jutawan188.id^
 ||jutawan188.us^
 ||jutawan188l.sbs^
+||jutawan31679.com^
 ||jutawan31940.com^
 ||jutawan88712.com^
 ||jutawanbet71.com^
@@ -18235,6 +18424,14 @@
 ||kangbola.live^
 ||kangcaffe.xyz^
 ||kangcola.com^
+||kangdepo.com^
+||kangdepo.link^
+||kangdepo.org^
+||kangdepo.site^
+||kangdepofr.com^
+||kangdepois.com^
+||kangdepoo.org^
+||kangdeportp.info^
 ||kangenfulltoto.com^
 ||kanggroup.website^
 ||kangjitulate.com^
@@ -18443,6 +18640,7 @@
 ||kb2sports.com^
 ||kbb2024.org^
 ||kbcbakeshoppe.com^
+||kbete.com^
 ||kbo.bet^
 ||kbobet-18757549.springbuilder.org^
 ||kbodr.com^
@@ -18487,6 +18685,7 @@
 ||kedaimega888.com^
 ||kedaimesin.co^
 ||kedaipkr8.cc^
+||keelalive72.com^
 ||keenansroom.com^
 ||keepingroom.com^
 ||keepseattlemoving.com^
@@ -18645,6 +18844,7 @@
 ||keongtogelalt.xyz^
 ||keonhacai.accountant^
 ||keonhacai.co.bz^
+||keonhacai.deals^
 ||keonhacai.eco^
 ||keonhacai.fitness^
 ||keonhacai.football^
@@ -18660,6 +18860,7 @@
 ||keonhacai.mba^
 ||keonhacai.pizza^
 ||keonhacai.place^
+||keonhacai.properties^
 ||keonhacai.schule^
 ||keonhacai.voto^
 ||keonhacai05.com.co^
@@ -18694,6 +18895,7 @@
 ||keonhacai55.de^
 ||keonhacai55.fund^
 ||keonhacai55.ws^
+||keonhacai55.you^
 ||keonhacai555.us.com^
 ||keonhacai58.in^
 ||keonhacai5s.site^
@@ -18711,6 +18913,7 @@
 ||keonhacai88.uk^
 ||keonhacai888.cc^
 ||keonhacai90p.com^
+||keonhacai95.com^
 ||keonhacaif88.xyz^
 ||keonhacaigmnc.com^
 ||keonhacaihay.io^
@@ -19090,6 +19293,7 @@
 ||kl99.limo^
 ||kl99.link^
 ||kl99.loan^
+||kladionica.eu^
 ||klaim.hptotosouvenir.com^
 ||klamathcampercorral.com^
 ||klasiktotox6.com^
@@ -19378,6 +19582,11 @@
 ||kpsarea.link^
 ||kpscore.xyz^
 ||kpsingh.ch^
+||kpsjitu.com^
+||kpsjitu.fit^
+||kpsjitu.space^
+||kpsjitu4d.com^
+||kpsjituplay.net^
 ||kpu-rokanhulu.shop^
 ||kpusulut.com^
 ||kqbd.archi^
@@ -19611,6 +19820,7 @@
 ||kunmingpool.com^
 ||kunshinnoshishui.com^
 ||kuntogel-link.top^
+||kuntogelnih.org^
 ||kuoni.co.com^
 ||kupang-suarantt.com^
 ||kupang.hoki.team^
@@ -19707,6 +19917,7 @@
 ||la-route-illuminee.org^
 ||la-rumeur.com^
 ||la20delsurcenadero.com^
+||la31236.com^
 ||la350.com^
 ||la3kiba.com^
 ||la88821.com^
@@ -20179,6 +20390,7 @@
 ||legendtotoo1.cloud^
 ||legendtotoo1.club^
 ||legendweng.info^
+||leggitips.com^
 ||legiano-1416.com^
 ||legianpools.net^
 ||legitpredict.com^
@@ -20291,6 +20503,7 @@
 ||lexingtonprep.com^
 ||lexus178.com^
 ||lexusmania.com^
+||leybet.com^
 ||lezat.bolupisangkukus.xyz^
 ||lfhd.net^
 ||lfii3194.com^
@@ -20384,6 +20597,7 @@
 ||liga788bola.org^
 ||liga788run.shop^
 ||liga7m.top^
+||liga808.vip^
 ||liga88aman.com^
 ||liga88core.com^
 ||liga88maju.digital^
@@ -20404,6 +20618,7 @@
 ||ligabintangku.net^
 ||ligabintanglink.com^
 ||ligabl88.site^
+||ligafifa855bola.com^
 ||ligahoki89.baby^
 ||ligahoki89.pro^
 ||ligaibetwinasia.store^
@@ -20425,6 +20640,7 @@
 ||lightofkedai69.com^
 ||lightshiptherapies.net^
 ||lightsun.space^
+||lihatpola.com^
 ||likeblueberrytea.store^
 ||likertponic.space^
 ||likyagardenshotel.com^
@@ -20440,6 +20656,7 @@
 ||limewoodtourismllc.com^
 ||limocyprus.com^
 ||limoslihoch.ru.com^
+||limso.org^
 ||linasdarul.is^
 ||lincolnhousebridlington.co.uk^
 ||lincolnpools.net^
@@ -20532,6 +20749,7 @@
 ||link3dhoki17.xyz^
 ||link5rtpninja123.vip^
 ||link789.io^
+||link888togel.com^
 ||link99.pics^
 ||link99.vip^
 ||linkableamp.pro^
@@ -20748,6 +20966,7 @@
 ||linkrokokslot.chat^
 ||linkrtp.top^
 ||linkrtp.vip^
+||linkrtp.win^
 ||linkrtprejeki808.online^
 ||linkrtpslotfafa88.space^
 ||linkrtpzeus222.com^
@@ -20869,6 +21088,7 @@
 ||listkudewaseru.live^
 ||listpromo.info^
 ||lit.link^
+||liteapp.live^
 ||liteblueinsider.com^
 ||literariocast.com^
 ||literasijabar.org^
@@ -20917,6 +21137,7 @@
 ||livecajaya.click^
 ||livecambodia.art^
 ||livecambodia4d.com^
+||livecasinoindia.com^
 ||livechat-rajapanen.com^
 ||livechatdorahoki.com^
 ||livedemo.id^
@@ -21067,7 +21288,9 @@
 ||livesloot168.org^
 ||liveslot168-rtpp.onl^
 ||liveslot168.net^
+||liveslot168.org^
 ||liveslot16baru.xyz^
+||livesports808.li^
 ||livesslott168.com^
 ||livesydlotto.shop^
 ||livesydney.art^
@@ -21087,6 +21310,7 @@
 ||livetogelsgp.life^
 ||livetogelsydney.icu^
 ||livetogelsydney.info^
+||livetyso.com^
 ||livewinz15.com^
 ||livewla.space^
 ||liveyourartmagazine.com^
@@ -21179,6 +21403,7 @@
 ||log.rtpindobit88.site^
 ||logcabinhowell.com^
 ||logicalgassolutions.co.uk^
+||logicpicks.com^
 ||logika4d-vip17.shop^
 ||login-allpesgslot2.today^
 ||login-ronin86.co^
@@ -21200,6 +21425,7 @@
 ||logindewa66.space^
 ||logindjarum.com^
 ||loginext.co^
+||logingengbola.com^
 ||loginimcpoker.live^
 ||loginimcpoker1.com^
 ||loginiontogel.shop^
@@ -21434,6 +21660,7 @@
 ||loyal4d-upnew12.store^
 ||loyalninecambridge.com^
 ||loyaltonhighschool.org^
+||loyaltydws.top^
 ||lozilu.com^
 ||lp-303.com^
 ||lp-harum4d177.lat^
@@ -21522,8 +21749,10 @@
 ||luckau2.com^
 ||luckgaming138.net^
 ||luckleopard21.io^
+||lucksport.com^
 ||lucky-api.xyz^
 ||lucky-dhx.live^
+||lucky-global.com^
 ||lucky-panel.xyz^
 ||lucky-spin.online^
 ||lucky-treats.com^
@@ -21562,6 +21791,7 @@
 ||lucky88sss.com^
 ||lucky88v1.com^
 ||lucky88vn.link^
+||lucky99terbaik.shop^
 ||luckybandit.br.com^
 ||luckybetcoin.info^
 ||luckyboxsw.site^
@@ -21574,10 +21804,12 @@
 ||luckyfalsx1000.click^
 ||luckygamingrtp.com^
 ||luckygamingshop.me^
+||luckyhunter.live^
 ||luckyhunter2.com^
 ||luckyimg.top^
 ||luckyjavaslot88.quest^
 ||luckyjavaslot88.xyz^
+||luckykudo.life^
 ||luckykudus.org^
 ||luckykudus.pro^
 ||luckykudus.vip^
@@ -21865,6 +22097,7 @@
 ||m88.place^
 ||m88.spot^
 ||m8844.com^
+||m88asia8.com^
 ||m88partners.com^
 ||m88yse.com^
 ||m98.express^
@@ -22118,6 +22351,7 @@
 ||main9koi.info^
 ||mainaman.net^
 ||mainbersamaidbs88.site^
+||mainbet.net^
 ||mainbos.pro^
 ||maincasino.online^
 ||maindeluna4d.com^
@@ -22211,6 +22445,7 @@
 ||makarak.com^
 ||makasar4dmantap.pro^
 ||makassarlottery.com^
+||makauqqpkv.com^
 ||makebillionairespay.info^
 ||makeeveryacrecount.com^
 ||makelarberita.com^
@@ -22271,12 +22506,16 @@
 ||mamak24my.net^
 ||mamakslot1w.com^
 ||mamapreneur.id^
+||mamba196-gaming.online^
 ||mambagacor.com^
 ||mambaproject.eu^
 ||mambawin.bid^
+||mambawin4d.com^
 ||mambawin88.com^
 ||mambawinking.xyz^
 ||mambawinlive.beauty^
+||mambawinmax.space^
+||mambawinplayer.net^
 ||mambu.space^
 ||mamen123rtp1.xyz^
 ||mamibet33.com^
@@ -22451,6 +22690,7 @@
 ||marbella-pools.com^
 ||marbella.slvj.es^
 ||marblearchcavesgeopark.com^
+||marcadores365.com^
 ||march1st.xyz^
 ||marchiesnursery.com^
 ||marcosnorthsidegrill.com^
@@ -22545,6 +22785,7 @@
 ||marseilleboston.com^
 ||marseilleforex.com^
 ||marseillepools.com^
+||marshalltitus.com^
 ||marshchristiantrust.org^
 ||marshillchurch.org^
 ||martabak-lemon.site^
@@ -22673,6 +22914,8 @@
 ||masuknih.com^
 ||masukputra.info^
 ||masukrtpplayslots88.cam^
+||masuksini.monster^
+||masuksini.win^
 ||masuksinibro.org^
 ||masuksolo.com^
 ||masuktoto6.top^
@@ -22821,6 +23064,7 @@
 ||maxxbrides.id^
 ||may88.bio^
 ||may88.click^
+||may88.earth^
 ||may88.foo^
 ||may88.jobs^
 ||may88.lat^
@@ -22931,6 +23175,7 @@
 ||mctrollers.org^
 ||mcuexchange.com^
 ||mcw-malang.org^
+||mcwvn.link^
 ||md.kbbpartners.com^
 ||md303petualang.site^
 ||mdg-gandacuan.com^
@@ -23188,6 +23433,7 @@
 ||menuhoki.com^
 ||menuju-harum4d20.site^
 ||menuju.net^
+||menuju.win^
 ||menujuhigh.site^
 ||menujulinkjg303.site^
 ||menujumenangsamacok01.org^
@@ -23600,6 +23846,7 @@
 ||ml138super.com^
 ||ml88.today^
 ||mla62.com^
+||mlb-picks.com^
 ||mlexplained.com^
 ||mlmv88.com^
 ||mlp315.com^
@@ -23778,6 +24025,7 @@
 ||monsterjs88.com^
 ||monsterpetsupplies.co.uk^
 ||monsterwin-3212.com^
+||monstrousbet.com^
 ||montagein.info^
 ||montana-pools.com^
 ||montanalottery.net^
@@ -23907,6 +24155,8 @@
 ||mpo808.com^
 ||mpo808demon.com^
 ||mpo808slayer.com^
+||mpo888affiliate.com^
+||mpo888cash.com^
 ||mpo888ok.com^
 ||mpo888syesc.com^
 ||mpocis1881.com^
@@ -23982,6 +24232,7 @@
 ||mstoto.org^
 ||msv369.com^
 ||msvang.com^
+||mt-gms13.com^
 ||mt-heal.com^
 ||mt-tolk.com^
 ||mteverestgrocery.com^
@@ -24152,6 +24403,7 @@
 ||my.evertechit.com^
 ||my10x10.com^
 ||my1resourcecu.com^
+||my1x2.info^
 ||my24mamak.com^
 ||my3777.app^
 ||my6363.xyz^
@@ -24197,6 +24449,7 @@
 ||myfontanadentist.com^
 ||myfootballclub.co.uk^
 ||myforlder.com^
+||myfreeway.info^
 ||myfruittree.org^
 ||myfti.biz^
 ||mygame.com.my^
@@ -24239,6 +24492,7 @@
 ||mystery-tackle-box.com^
 ||mystery.wrappedinfoil.com^
 ||mysterybox-fortune.shop^
+||mysterybox-mamba196.site^
 ||mysterybox-prd.com^
 ||mysteryboxbotak123sg.ink^
 ||mysterypusaka99.com^
@@ -24362,6 +24616,7 @@
 ||nagoya-lotto.com^
 ||nagoyalottery.jp.net^
 ||nagoyaprize.com^
+||nagwin.xyz^
 ||nahbisa.com^
 ||nahdlatul-ulama.org^
 ||naik-lagi-dong.sleeplessowlscaffe.me^
@@ -24372,6 +24627,7 @@
 ||najahnasseri.org^
 ||najirin.com^
 ||nakarahotels.com^
+||nakatoken.io^
 ||nakodakapal.net^
 ||nakosandnakos.com^
 ||naksirpelitatoto.com^
@@ -24434,6 +24690,7 @@
 ||nasabahtogel.us.com^
 ||nascarboz.info^
 ||nasceturestates.com^
+||nasetipy.com^
 ||nasi-ayam.xyz^
 ||nataliespizzaallston.com^
 ||natarasa.id^
@@ -24442,6 +24699,7 @@
 ||nationalepiscopalscouting.com^
 ||nationalyiddishtheatre.org^
 ||nationsmedia.org^
+||natipuj.eu^
 ||nativerestaurant.co.uk^
 ||natmccallracing.com^
 ||natural5massage.com^
@@ -24470,6 +24728,7 @@
 ||navakriti.com^
 ||navegacionesfranks.com^
 ||navig8.to^
+||navnalanda.com^
 ||navyupdates.com^
 ||nawabfineindian.com^
 ||nawabsindiankitchener.com^
@@ -24626,6 +24885,7 @@
 ||netwins.vin^
 ||networkmarkting.jp.net^
 ||neuropathy.me^
+||neuropicks.com^
 ||neurospaces.org^
 ||neurospecialisttutors.org^
 ||nevadahomeandland.com^
@@ -24685,6 +24945,7 @@
 ||news24-news.sa.com^
 ||news7tamil.live^
 ||newsbizmag.com^
+||newserver.ink^
 ||newsletter.beaconstreetara.org^
 ||newslot88.estate^
 ||newslot88waiting.xyz^
@@ -24802,6 +25063,7 @@
 ||nicosia4d.com^
 ||nicosiapools.com^
 ||nidodxb.com^
+||nieveella.com^
 ||niftyforfiftysale.com^
 ||nightcoreshadow.xyz^
 ||nightmareshadow.xyz^
@@ -25080,11 +25342,14 @@
 ||nowgoal.day^
 ||nowgoal.gdn^
 ||nowgoal.homes^
+||nowgoal.net^
 ||nowgoal.one^
 ||nowgoal.tel^
 ||nowgoal.website^
 ||nowgoal1.blog^
+||nowgoal15.com^
 ||nowgoal5.io^
+||nowgoal59.com^
 ||nowgoal671.com^
 ||nowgoaloo3.com^
 ||nowhereland.net^
@@ -25292,6 +25557,8 @@
 ||oddist.org^
 ||oddlogin.com^
 ||oddpad.com^
+||oddseller.com^
+||oddsko.com^
 ||odenselottery.com^
 ||odessalittleleaguefootball.com^
 ||odglaw.com^
@@ -25438,6 +25705,7 @@
 ||okfunjj.com^
 ||okfunok1.com^
 ||okfuns.cc^
+||okgoals.com^
 ||okinawa-emotion.com^
 ||okinawa-lotto.com^
 ||okinawalonetree.com^
@@ -25461,6 +25729,7 @@
 ||oklahomalottery.us^
 ||oknwaq.sa.com^
 ||oknwsx.sa.com^
+||okoce.club^
 ||okoyamalottery.com^
 ||oksmartoto.site^
 ||oktembus.cc^
@@ -25548,6 +25817,7 @@
 ||olx800jaya.com^
 ||olx800us.com^
 ||olxbermain.com^
+||olxbola.vip^
 ||olxcantik.com^
 ||olxceo.com^
 ||olxdesa.com^
@@ -25739,6 +26009,7 @@
 ||onlinesingapore.online^
 ||onlineskena.club^
 ||onlineslots.ca^
+||onlinesocceradvisor.com^
 ||onlinetanpabatas.xyz^
 ||onlinetecajhzj.dodir.hr^
 ||onlinetoto12.store^
@@ -25841,6 +26112,7 @@
 ||org.dragonhere.site^
 ||organicmilkcorp.com^
 ||organicnationspirits.com^
+||organizedbymarcus.com^
 ||orgiblitarkota.org^
 ||orgicirebonkota.org^
 ||orgigarutkab.org^
@@ -26053,6 +26325,7 @@
 ||oxbet.direct^
 ||oxbet.loans^
 ||oxbet.mobi^
+||oxbet.pink^
 ||oxbet.stream^
 ||oxbet.trading^
 ||oxbet1.global^
@@ -26299,6 +26572,7 @@
 ||pai-jitu.xyz^
 ||pai-togel.com^
 ||paibikery.com^
+||paidprediction.com^
 ||paidpuncak.shop^
 ||paigntonsec.com^
 ||paijitu.com^
@@ -26499,6 +26773,7 @@
 ||panda99sky.com^
 ||pandabisiklet.com^
 ||pandagendutbest.shop^
+||pandagroup.store^
 ||pandahore.net^
 ||pandajagonewmania.xyz^
 ||pandalaptop.com^
@@ -26677,6 +26952,7 @@
 ||paris123fight.xyz^
 ||paris123spring.xyz^
 ||paris123wind.xyz^
+||parisbola.store^
 ||parisbratislava.com^
 ||parisgroup.xyz^
 ||parisinconnu.com^
@@ -26692,7 +26968,16 @@
 ||parkplaza.org^
 ||parkridgesoccer.net^
 ||parksedgeshelbyfarms.com^
+||parlay234.net^
+||parlay234.org^
 ||parlay78.site^
+||parlay855bola.com^
+||parlay855jp.online^
+||parlay855parlay.com^
+||parlay855trusted.com^
+||parlay855xjp.site^
+||parlaybola.vip^
+||parlayhokibet855.com^
 ||parlaylaliga365.cam^
 ||parlayproplay88.xyz^
 ||parlorcity.org^
@@ -27436,6 +27721,7 @@
 ||pialadunia.online^
 ||pialaduniaagen228.xyz^
 ||pialaduniaolb228.pro^
+||pialaqqpkv.com^
 ||pianopainter.com^
 ||pianorepair.gr^
 ||pianorose.net^
@@ -27444,7 +27730,10 @@
 ||piazzolla.org^
 ||picalpantaco.com.mx^
 ||picantemexicangrillohio.com^
+||picasso12.com^
 ||picking.comprezipp.com^
+||picks4bet.com^
+||picks4u.info^
 ||pickwickgardens.com^
 ||picnooga.org^
 ||picoriveragc.com^
@@ -27600,7 +27889,11 @@
 ||pkrlegendashow.vip^
 ||pkrlounge99noindex.vip^
 ||pkrrepublikshow.vip^
+||pkvaduq.com^
 ||pkvgames.com.mx^
+||pkvgamesaduqq.com^
+||pkvgamesdipialaqq.online^
+||pkvgamesdominoqq.com^
 ||pkwin01.com^
 ||pla8000.com^
 ||placement.africa^
@@ -27736,6 +28029,7 @@
 ||playtimeph.us.com^
 ||playufa77x.com^
 ||playunblockedgames.net^
+||playwelbet.com^
 ||playwithus.digital^
 ||plaza-realty.net^
 ||pleasedress.me^
@@ -28488,6 +28782,7 @@
 ||proasialive88zona.homes^
 ||problemsoftheworld.com^
 ||problog207.com^
+||probongda.com^
 ||proctergamble.com.co^
 ||proctorprideparade.org^
 ||proctorvilleohio.com^
@@ -28574,6 +28869,8 @@
 ||promorokokbet.today^
 ||promorokokslot.xyz^
 ||promorp.xyz^
+||promosi777.xyz^
+||promosi911.xyz^
 ||promosiduatoto.pro^
 ||promosiharga23.com^
 ||promosihinototo.com^
@@ -28599,6 +28896,7 @@
 ||proplayer.vip^
 ||pros2024.org^
 ||prosdata-estore.com^
+||prosoccerbets.com^
 ||prospectiva2035.org^
 ||prosystheme.com^
 ||proteccioncivil-andalucia.org^
@@ -28733,6 +29031,7 @@
 ||puncak123.pro^
 ||puncak88.icu^
 ||puncakbook.online^
+||puncakgroupwd.com^
 ||puncakprau.fit^
 ||pungmak.com^
 ||punktotocerita.com^
@@ -28912,6 +29211,7 @@
 ||qe8.info^
 ||qe8vip1.com^
 ||qh108.com^
+||qh88.ski^
 ||qh88.vg^
 ||qh88a.me^
 ||qh88alf.com^
@@ -28919,13 +29219,20 @@
 ||qh88eze.com^
 ||qh88hm.com^
 ||qh88ios.com^
+||qh88ka.com^
 ||qidaxing.com^
 ||qinghaigouqi.net^
 ||qipeiwu.com^
+||qiuadu.net^
+||qiuqiu.io^
+||qiuqiu.online^
+||qiuqiu98pialaqq.online^
 ||qiuqiu99.buzz^
 ||qiuqiu99.com^
 ||qiuqiu99.poker^
 ||qiuqiu99.support^
+||qiuqiupkv.com^
+||qiuratu.com^
 ||qkc709.com^
 ||qmctelecom.pe^
 ||qok.uk.com^
@@ -28949,6 +29256,7 @@
 ||qq88.social^
 ||qq88.to^
 ||qq886.org^
+||qq88pro.vip^
 ||qq88wc.com^
 ||qqalienpoker.top^
 ||qqcuan.id^
@@ -29474,12 +29782,15 @@
 ||ratu212rtp.com^
 ||ratu212rtp4.com^
 ||ratu89.store^
+||ratubersinar.com^
+||ratucapsapkv.com^
 ||ratugacor88gas.xyz^
 ||ratukura.ink^
 ||ratulotre-1.com^
 ||ratulotre2.xyz^
 ||ratupolototo.com^
 ||ratupromo.online^
+||ratuqqbandar.com^
 ||ratuselatan.buzz^
 ||ratuselatan.site^
 ||ratuskin4d.top^
@@ -29844,6 +30155,7 @@
 ||revolutionisesport.com^
 ||revolyco.com^
 ||revuemultitudes.com^
+||rewardsloto88.top^
 ||rextotojackpot.click^
 ||rextotomain.click^
 ||rextotoplay.online^
@@ -29893,6 +30205,7 @@
 ||ribut4d-menara.xyz^
 ||ribut4d-super.id^
 ||ricardosbargrill.com^
+||ricardsa-livemusic.com^
 ||ricatierra.com.pe^
 ||ricbet.app^
 ||ricbet.cc^
@@ -30129,6 +30442,7 @@
 ||rodahadiahkasih1.org^
 ||rodahalo88.online^
 ||rodaharta88.bio^
+||rodahoki.asia^
 ||rodahoki.homes^
 ||rodahoki.one^
 ||rodahokiibl.com^
@@ -30416,6 +30730,7 @@
 ||rr88a.us.com^
 ||rr88c.pro^
 ||rr88ca.com^
+||rr88csn.com^
 ||rr88it.com^
 ||rr88k1.com^
 ||rr88km.net^
@@ -30546,6 +30861,7 @@
 ||rtp-luxury89seratus.com^
 ||rtp-lxtoto.org^
 ||rtp-mahjongjp88.com^
+||rtp-mamba196.store^
 ||rtp-mamen123.lat^
 ||rtp-mantra6.pro^
 ||rtp-mapsbet.org^
@@ -30996,6 +31312,7 @@
 ||rtphotelbet.com^
 ||rtphtoto.shop^
 ||rtphurajp.pro^
+||rtphuskyslotking.lol^
 ||rtpidb365.beauty^
 ||rtpidb365.shop^
 ||rtpidddhhhoki88.fun^
@@ -31014,6 +31331,7 @@
 ||rtpindotogelku.vercel.app^
 ||rtpindovegas.site^
 ||rtpinds.today^
+||rtpinfo.vip^
 ||rtpiran.info^
 ||rtpirit4d-maxwin15.online^
 ||rtpistana8899-rahasia.shop^
@@ -31068,6 +31386,7 @@
 ||rtpkalihonda.com^
 ||rtpkamboja.buzz^
 ||rtpkangbetwin.com^
+||rtpkangdepo.site^
 ||rtpkangslot3.xyz^
 ||rtpkantorbola52.com^
 ||rtpkantorbola8.club^
@@ -31106,6 +31425,7 @@
 ||rtpkoko33.click^
 ||rtpkopika.com^
 ||rtpkpksnip.com^
+||rtpkpsjitu.blog^
 ||rtpktvtogel1.yaelf.com^
 ||rtpkuda55gacor.com^
 ||rtpkudahoki88.com^
@@ -31178,6 +31498,8 @@
 ||rtpmahirtogel.shop^
 ||rtpmahjong118.vip^
 ||rtpmambawinking.yachts^
+||rtpmambawinlive.blog^
+||rtpmambawinvip.site^
 ||rtpmamen123.sbs^
 ||rtpmancing138.space^
 ||rtpmangga2bet.space^
@@ -31455,6 +31777,7 @@
 ||rtpslotmaria318.com^
 ||rtpslotnanas497.com^
 ||rtpslotnanas599.com^
+||rtpsloto88.beer^
 ||rtpslotogel.app^
 ||rtpsloton94672.com^
 ||rtpslotonlineasikcoktogel.com^
@@ -31584,6 +31907,7 @@
 ||rtpyutogelgacor.com^
 ||rtpyztoto.click^
 ||rtpzdk69victory.beauty^
+||rtpzeonslotgame.click^
 ||rtpzipzapslot.skin^
 ||rtpzs2.com^
 ||rtslotsx250.com^
@@ -31592,7 +31916,9 @@
 ||ru888.cc^
 ||ruang80s.com^
 ||ruangok.com^
+||ruangqqpkv.com^
 ||ruangrtpan138.store^
+||ruangwd30294.com^
 ||ruangwd90.com^
 ||ruangwede.click^
 ||ruayy.com^
@@ -31704,6 +32030,7 @@
 ||rusticfiveoaksranch.org^
 ||rustysriverfront.com^
 ||rutherfordshoppingcentre.com^
+||rutinqqpkv.com^
 ||ruy88.com^
 ||rv-0070.com^
 ||rv-1154.com^
@@ -31868,6 +32195,7 @@
 ||sakuomtogel.com^
 ||sakura118slot.com^
 ||sakurabeautiful.com^
+||sakurai-lab-kitakyushu.com^
 ||sakurajantan.site^
 ||sakurakita.site^
 ||sakuraramenbowie.com^
@@ -32260,6 +32588,7 @@
 ||scorebungaslot.site^
 ||scored.com^
 ||scoreidn.io^
+||scoreman123.com^
 ||scoresgoal.co^
 ||scoresgoal.com^
 ||scoresultan618q.site^
@@ -32848,6 +33177,7 @@
 ||shortenerlink.net^
 ||shortenerlink.site^
 ||shortenlink.app^
+||shortenurl.to^
 ||shortininja.xyz^
 ||shortinz.com^
 ||shortku.id^
@@ -33317,15 +33647,18 @@
 ||skobam.com^
 ||skor88.poker^
 ||skor88bingo.com^
+||skorbos.futbol^
 ||skorpokerbola.com^
 ||skorptbola.com^
 ||skorupdate.com^
 ||skotlandiatoday.com^
 ||skr3.skorcash.one^
+||skrill.com^
 ||skrrrrt.sahabatjanuari.com^
 ||skt55gc.lat^
 ||sktr99.net^
 ||skwindto.com^
+||skwplaynow.com^
 ||sky-next.id^
 ||sky123.bid^
 ||sky123.cheap^
@@ -33400,6 +33733,7 @@
 ||slack.hyperquery.ai^
 ||slalu81dihati.shop^
 ||slamet.site^
+||slamz.io^
 ||slangcash.com^
 ||slaosai.com^
 ||slash-pro.id^
@@ -33583,6 +33917,8 @@
 ||slotmax365.com^
 ||slotneo44.com^
 ||slotnos138.rtpterbaik.net^
+||sloto88links.top^
+||sloto88new.com^
 ||slotogel.com^
 ||slotogel.pw^
 ||slotogelofficial.com^
@@ -33666,6 +34002,7 @@
 ||sltgaming.help^
 ||sltmw255.com^
 ||slvip.info^
+||slybet.net^
 ||slzsz13.com^
 ||sm4d-hatari.xyz^
 ||sm4d-hoya.store^
@@ -33778,16 +34115,24 @@
 ||soc88.us^
 ||socalhandi.org^
 ||socarros.es^
+||soccer-predictions.org^
 ||soccer160.com^
+||soccer1x2.net^
 ||soccer24.com^
 ||soccerbeep.com^
+||soccerbets.com^
+||soccerbettings.net^
+||soccercombobets.com^
 ||soccerdon.com^
 ||soccergoalstop.com^
 ||soccerin.com^
 ||soccerlivehd.co^
 ||soccerloy.com^
+||soccersaints.com^
 ||soccerstoresinc.com^
+||soccertipsking.com^
 ||soccervictor.com^
+||soccervictory.com^
 ||soccervis.com^
 ||soccervise.com^
 ||soccervist.com^
@@ -33813,6 +34158,7 @@
 ||socolivetv.cloud^
 ||socolivetv.events^
 ||socolivetv247.tv^
+||socolivex.tv^
 ||socolivezg.top^
 ||socyberty.com^
 ||sodaraupin.one^
@@ -34178,6 +34524,9 @@
 ||spn88spn.io^
 ||spokesmarketing.com^
 ||sport-vacature.nl^
+||sport388bola.com^
+||sport855bola.com^
+||sport855id.com^
 ||sportfitnoord.nl^
 ||sporthirek.info^
 ||sportiva.gg^
@@ -34189,12 +34538,15 @@
 ||sports-ohio.com^
 ||sportsbetw.com^
 ||sportsjabber.net^
+||sportska.blogspot.com^
 ||sportsperformance.in.net^
 ||sportspourtousbretagne.org^
 ||sportsstar.io^
 ||sportstas.com^
+||sportstats.com^
 ||sportstoto.co.kr^
 ||sportsunknown.com^
+||sporttips.org^
 ||sportuna-casino.com.gr^
 ||spotui.com^
 ||spqrpizzeria.com^
@@ -34342,9 +34694,11 @@
 ||starlabqly.com^
 ||starlin69oke.org^
 ||starling69-gas.com^
+||starling69-gas.makeup^
 ||starling69-rtp.link^
 ||starling69.icu^
 ||starling69.link^
+||starling69real.com^
 ||starlingling69.info^
 ||starlink4d-alt.top^
 ||starlink4d.vip^
@@ -34353,6 +34707,7 @@
 ||starlink4djakarta.top^
 ||starlinkz.id^
 ||starogo.net^
+||starpicks4.me^
 ||starpremiumbola.art^
 ||starradiothailand.com^
 ||stars77art.site^
@@ -34766,6 +35121,7 @@
 ||sunwin1o.biz^
 ||sunwin20.marketing^
 ||sunwin20r.win^
+||sunwin20v.com^
 ||sunwin20x.buzz^
 ||sunwin21e.cam^
 ||sunwin22n.cards^
@@ -34828,6 +35184,7 @@
 ||suomikasinot.fi^
 ||supenak.com^
 ||super-mpo500.com^
+||super-scatter.com^
 ||super.sinarbaru.xyz^
 ||super2-kerang.top^
 ||super222.vip^
@@ -34949,14 +35306,17 @@
 ||surabayatour.com^
 ||suratbetfk.com^
 ||sure100predict.com^
+||surebetpick.com^
 ||sureforebet.com^
 ||surepredictions.net^
 ||surepredictor.com^
 ||surepredictz.com^
 ||suresixpredict.com^
 ||suresoccers.com^
+||surestraightwinfortoday.com.ng^
 ||suretipstoday.com^
 ||surewinpredict.com^
+||surewinsoccertips.com^
 ||surfliner2024.org^
 ||surgafulltoto.com^
 ||surgagacor-vip.life^
@@ -34970,6 +35330,7 @@
 ||surrogacybabypodcast.com^
 ||suruhkami.com^
 ||surya123asli.site^
+||surya30.com^
 ||surya88bos.online^
 ||surya88cahyo.icu^
 ||surya88cahyo.life^
@@ -35005,6 +35366,7 @@
 ||susun4d.net^
 ||susun4d2026.online^
 ||susun4dstarlight.online^
+||sutbong.io^
 ||sutbongtv.cx^
 ||suttonplacehoteldm.com^
 ||suuperrttogeel.org^
@@ -35213,6 +35575,7 @@
 ||tahudivisi303.pro^
 ||tahukipas.online^
 ||tahwan.click^
+||tai-b52club.club^
 ||taichung4d.com^
 ||taichungpools.com^
 ||taifatips.com^
@@ -35375,6 +35738,7 @@
 ||tarikzone.com^
 ||tarlovcyst.net^
 ||tarnpropertyservices.com^
+||tarowin.net^
 ||taruhanslot.id^
 ||taruhantoto339.info^
 ||taruhantoto340.info^
@@ -35627,6 +35991,7 @@
 ||tenlakesrealty.com^
 ||tenminutedeerskinner.com^
 ||tennesseemilfs.com^
+||tennisexplorer.com^
 ||tentang-kamioo.org^
 ||tentang-padang.info^
 ||tentangfull.com^
@@ -35673,6 +36038,7 @@
 ||terusmajuimage.xyz^
 ||tesajabang.xyz^
 ||tesco.eu.com^
+||teslabet.com^
 ||teslatoto.com^
 ||teslatoto410.com^
 ||teslatoto45.com^
@@ -35822,6 +36188,7 @@
 ||the-hemken-collection.org^
 ||the21convention.com^
 ||the360massage.com^
+||theaccumulator.co.uk^
 ||theadventuredress.com^
 ||theadversary.org^
 ||theafoss.com^
@@ -35850,6 +36217,7 @@
 ||thebestamximal.com^
 ||thebestbos.com^
 ||thebestslotbiru.site^
+||thebesttipsters.com^
 ||thebinocularsite.com^
 ||theblacksheepgallery.com^
 ||theblazerestaurant.com^
@@ -35926,6 +36294,7 @@
 ||thefirearmexperts.com^
 ||theflamboyante.com^
 ||theflowroomsc.com^
+||thefootballab.co.uk^
 ||thefoxandcrowcafe.com^
 ||thefp-ba.com^
 ||thefractionalrevolution.org^
@@ -36036,6 +36405,7 @@
 ||thepawpawpatch.net^
 ||thepbadvisors.org^
 ||thepeoplespeoplenetwork.com^
+||thepetronastowers.com^
 ||thephillipshouse.com^
 ||thephotodoc.org^
 ||thepillarlife.com^
@@ -36177,6 +36547,7 @@
 ||thrivedentalwebsites.com^
 ||thrivethrumenopause.com^
 ||thscore.to^
+||thscore99.com^
 ||thunderballresults.uk^
 ||thunderpulse.shop^
 ||thunderteacher.com^
@@ -36226,6 +36597,7 @@
 ||tigerlink.vip^
 ||tigerred.co.uk^
 ||tigerwoods10.com^
+||tigoals245.com^
 ||tijara-partenaire.com^
 ||tiket-ngluckyspin.site^
 ||tiket-penerbangan.com^
@@ -36254,6 +36626,7 @@
 ||timorleste-lotto.com^
 ||timsalam.vip^
 ||timuna.blog^
+||timuna.link^
 ||timuna.org^
 ||timuna.web.id^
 ||timuna.xyz^
@@ -36272,6 +36645,7 @@
 ||tiomas.com^
 ||tiongkokpools.com^
 ||tiopf.com^
+||tip4u.net^
 ||tip88.buzz^
 ||tip88.capital^
 ||tip88.hot^
@@ -36279,13 +36653,16 @@
 ||tip88.sh^
 ||tipclub.bet^
 ||tipclub.uk^
+||tipgol.com^
 ||tipografieconstanta.com^
 ||tipplesandtreats.co.uk^
+||tippswetten.de^
 ||tips-win178.bond^
 ||tips100.com^
 ||tipsagenolx.info^
 ||tipsbrewoktotortp.bond^
 ||tipsdantriks.id^
+||tipseveryday.us^
 ||tipsfame.com^
 ||tipsgacoramavi.pro^
 ||tipsgg.com^
@@ -36294,6 +36671,11 @@
 ||tipslaza.xyz^
 ||tipsm1toto.com^
 ||tipspragmaticplay.com^
+||tipstercenter.com^
+||tipstersglobe.com^
+||tipstersplace.com^
+||tipsterstand.com^
+||tipsterstation.com^
 ||tipsxtra.com^
 ||tirachinasprofesionales.com^
 ||tirai77.bid^
@@ -36315,6 +36697,7 @@
 ||tiyu1818.com^
 ||tiyu80.com^
 ||tjmaohao.com^
+||tjqkpapi.com^
 ||tk-games-store.com^
 ||tk69group.xyz^
 ||tk88.feedback^
@@ -36641,7 +37024,9 @@
 ||tool-box.co.uk^
 ||tool2-mml.sjtu.edu.cn^
 ||tootouo.com^
+||top-myfreeway.info^
 ||top-pandaslot88.hair^
+||top-vip.online^
 ||top.situstogelonline88.com^
 ||top100guitarsites.com^
 ||top10nhacaiuytin.win^
@@ -36671,6 +37056,7 @@
 ||top888.us^
 ||top8kbet.com^
 ||topalpukat.com^
+||topanbos30294.com^
 ||topanbos71.com^
 ||topanbos8890.com^
 ||topanhoki-rtp5a.com^
@@ -36699,6 +37085,7 @@
 ||topdewa66.xyz^
 ||topdewahub.org^
 ||topekatransmissionrepair.com^
+||topfootballtips.com^
 ||topgcasino.com^
 ||topglobalnumberkoi.org^
 ||topidngoal.com^
@@ -36733,6 +37120,7 @@
 ||topthatgrille2.com^
 ||toptierappliance.com^
 ||topvegs88.vip^
+||topwd71.com^
 ||topwd90.com^
 ||topwdplay.com^
 ||topxx88.com^
@@ -36760,6 +37148,7 @@
 ||tot88vn.com^
 ||totalaction.xyz^
 ||totalcareremovals.co.nz^
+||totalfootballpredict.com^
 ||totalhomepackers.co.in^
 ||totalimghost.site^
 ||totaloutlet.shop^
@@ -37249,6 +37638,7 @@
 ||tuantogel3109istanabintang.com^
 ||tuantogelimages.com^
 ||tuanweng.ink^
+||tuatung55.com^
 ||tubeduel.com^
 ||tubelagu.xyz^
 ||tuckenalarm.com^
@@ -37293,6 +37683,7 @@
 ||turbo128a.info^
 ||turbo199.com^
 ||turbosql.com^
+||turbotip.info^
 ||turin-wlalottery.com^
 ||turinpools.net^
 ||turinpools4d.org^
@@ -37364,6 +37755,7 @@
 ||tvtogelkop.online^
 ||tvtogelku.vip^
 ||tvtogelpastikuat.com^
+||tvtoto31386.com^
 ||tvtoto90.com^
 ||tvzarea.org^
 ||tw-elevensports.com^
@@ -37437,6 +37829,8 @@
 ||tylekeo8.eu.com^
 ||tylekeobongda.co.com^
 ||tylekeonhacai.art^
+||tylekeonhacai.beer^
+||tylekeonhacai.in^
 ||tylekeonhacai.life^
 ||tylekeonhacai.me^
 ||tylekeonhacai.plus^
@@ -37450,6 +37844,10 @@
 ||tylekeoworldcup.tv^
 ||tylenhacai100.win^
 ||tylerhoechlin.org^
+||typerexpert.pl^
+||typersi.com^
+||typersi.pl^
+||typersi.top^
 ||typhu88.nl^
 ||tyso7m.blog^
 ||tyzjw.com^
@@ -37676,6 +38074,7 @@
 ||uk88win.org^
 ||uk8thai.com^
 ||ukafricangrey.co.uk^
+||ukbettips.co.uk^
 ||ukcyl.com^
 ||ukdeal.co.uk^
 ||ukip-ynl.org^
@@ -37887,6 +38286,8 @@
 ||urlsingkat.com^
 ||urlsite.link^
 ||urlsuper.com^
+||urlv88toto.com^
+||urlv88toto1.com^
 ||urnique.nl^
 ||uroatlas.net^
 ||urr88.com^
@@ -38003,7 +38404,11 @@
 ||v7mcn.com^
 ||v8.luna7887.com^
 ||v88.bo11w.com^
+||v88bantuan.com^
 ||v88game.site^
+||v88idx09.com^
+||v88support.com^
+||v88totov79.com^
 ||v9bet.ren^
 ||v9bet188.net^
 ||v9betp.com^
@@ -38382,6 +38787,7 @@
 ||violet4d.co^
 ||violetslotvip.com^
 ||vip-arenamega.pro^
+||vip-bet.net^
 ||vip-l.ink^
 ||vip-like.net^
 ||vip-rajazeus.online^
@@ -38455,12 +38861,14 @@
 ||vipmerona4d.com^
 ||vipnewsikat88.com^
 ||vipporntube.com^
+||vipredictions.com^
 ||viprmwin.online^
 ||viprtp-slot9.click^
 ||viprtptembus777.com^
 ||vipsikat88.com^
 ||vipsitegg66.lat^
 ||vipslotbet.net^
+||vipsoccerbetting.com^
 ||vipsta2.com^
 ||vipsukitoto.me^
 ||viptokyo88.shop^
@@ -38680,6 +39088,7 @@
 ||vsbettt.eu.com^
 ||vsbetx88.com^
 ||vsbrtp2.site^
+||vsc9.com^
 ||vsc9.top^
 ||vsc9.vip^
 ||vshort.app^
@@ -38811,6 +39220,7 @@
 ||wajibbecek.uk^
 ||wajibwd.vip^
 ||wajibwede.top^
+||wajikwin.red^
 ||wak89login.org^
 ||wakbayartuntas.com^
 ||wakeuphappy.cz^
@@ -38977,6 +39387,7 @@
 ||waterzonic.com^
 ||watfordpools.com^
 ||watfordpools.net^
+||wati31701.com^
 ||watitoto71.com^
 ||watsonlakeinn.com^
 ||wave-cdn.com^
@@ -39014,6 +39425,7 @@
 ||wd40b.com^
 ||wd40c.com^
 ||wd77.rtp2025.live^
+||wdbos31069.com^
 ||wdbos80561.com^
 ||wdbos90.com^
 ||wdemas36.site^
@@ -39231,6 +39643,7 @@
 ||westernobsession.com^
 ||westernsportonline.com^
 ||westerntrailsfood.com^
+||westernunion.com^
 ||westgatecorner.com^
 ||westin-awaji.com^
 ||westlancsboxers.co.uk^
@@ -39610,6 +40023,7 @@
 ||wiznetacademy.com^
 ||wjadvocaten.nl^
 ||wjdhcms.com^
+||wjkspin.monster^
 ||wkwk777ace.com^
 ||wl.laporkan.vip^
 ||wla234.online^
@@ -39657,6 +40071,11 @@
 ||wondersandmarvels.com^
 ||wong87-asli.com^
 ||wong87-terus.site^
+||wongsobet4d.com^
+||wongsobetarena.com^
+||wongsobetconnect.net^
+||wongsobetline.website^
+||wongsobetviprtp.xyz^
 ||wonosegoro.id^
 ||wooboom.com^
 ||woocasakitchen.com^
@@ -39767,6 +40186,7 @@
 ||wsr666.com^
 ||wtdinerny.com^
 ||wtgplay.xyz^
+||wtobet9.today^
 ||wtti8pj.xl4gscye.com^
 ||wtwoodsonsports.com^
 ||wuhan-lottery.com^
@@ -39818,6 +40238,7 @@
 ||x-dewa.beauty^
 ||x-dewa.hair^
 ||x-dewa.xyz^
+||x-venus.one^
 ||x-xoso66.com^
 ||x1.simregunesa.ac.id^
 ||x1000gacor.xyz^
@@ -40180,6 +40601,7 @@
 ||yenrestaurants.com^
 ||yeoldecycleshoppe.com^
 ||yeovilhospital.co.uk^
+||yes8live.com^
 ||yesdwl.vip^
 ||yesfh2026vip.com^
 ||yeshjp168.xyz^
@@ -40718,10 +41140,18 @@
 ||zeediamondhomerenovation.com^
 ||zehnelectrical.com.au^
 ||zelcole.com^
+||zen188.com^
+||zen188.net^
+||zen188rtp.com^
+||zen188z2.com^
+||zen188z3.com^
+||zen188z5.com^
 ||zen789caci.com^
 ||zenkchat.com^
 ||zentar.inetglobal.com^
 ||zeohotel.com^
+||zeonslot4d.com^
+||zeonslotland.com^
 ||zepredict.com^
 ||zerogravitylaser.com^
 ||zerymyy.sa.com^
@@ -40758,7 +41188,7 @@
 ||zheng099.pro^
 ||zhengzhoulottery.com^
 ||zhenwudadi.net^
-||zhixinwangluo.com^
+||zhi.in.netzhixinwangluo.com^
 ||zhonghuarestaurant.com^
 ||zhyper-shel.info^
 ||zhypercarry.us^
