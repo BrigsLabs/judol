@@ -65,6 +65,7 @@ openapi-id.op-mobile.opera.com
 openapi-in.op-mobile.opera.com
 outspot-ams-vip1.op-mobile.opera.com
 outspot-sg-vip1.op-mobile.opera.com
+p16-lemon8-sign-sg.tiktokcdn.com
 pps-token.op-mobile.opera.com
 prd-real.lisa2.verda2.akadns.net
 prod-spo01-107-nam-eastus2-api.cosmic.1drv.com
@@ -184,6 +185,7 @@ herz.bar
 mavie.bar
 metro.bar
 reit.bar
+strem.bar
 voi.bar
 amphi.beer
 catboy.best
@@ -240,7 +242,6 @@ commonspirit.careers
 keys.casa
 nabu.casa
 cake.cash
-doe.cash
 redtiger.cash
 vitunleija.cash
 10gen.cc
@@ -303,7 +304,6 @@ online.church
 ops.city
 sem.city
 technical.city
-am-videos.click
 buybox.click
 fibra.click
 popcat.click
@@ -810,6 +810,7 @@ gurkistan.shop
 henssler.shop
 kalypso.shop
 layers.shop
+lwp24.shop
 majblomman.shop
 munu.shop
 music-merchant.shop
@@ -824,6 +825,7 @@ owl-dampfer.shop
 oxiline.shop
 papaplatte.shop
 prohibited.shop
+raikowski.shop
 redbrain.shop
 scayle.shop
 schneckenpost.shop
@@ -853,6 +855,7 @@ anonimayzer.site
 canva.site
 chatgpt.site
 claude.site
+deco.site
 edgeone.site
 fbsmarthome.site
 gov-img.site
@@ -1013,7 +1016,6 @@ qwertycxz.top
 reminder.top
 saltwood.top
 shucks.top
-strims.top
 suiten.top
 thedesk.top
 vsdb.top
@@ -1130,7 +1132,6 @@ starlightnet.work
 betterme.world
 bevisioneers.world
 bk.world
-boo.world
 calckey.world
 edgecdn.world
 heated.world

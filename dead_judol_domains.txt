@@ -2295,6 +2295,7 @@ apkapi-ra8.rebrandy.site
 apkapi-pd7.rebrandy.site
 apkapi-7ls.rebrandy.site
 apkapi-crs.rebrandy.site
+apkapi-hsk.rebrandy.site
 
 #from ltn7.com # subdom : 
 promosi.ltn7.com 

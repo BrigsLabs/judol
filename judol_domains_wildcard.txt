@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/judol_domains_wildcard.md5
 # Syntax: Wilcard Domains without Sub Domain & Most Abused TLD List
-# Number of entries: 2039
+# Number of entries: 2047
 # 
 #
 # e28* # too many false positive
@@ -1603,6 +1603,15 @@ zx88*
 [a-z0-9\-_]*.muncha.com # 
 [a-z0-9\-_]*.vizaistalpersada.co.id # 
 [a-z0-9\-_]*.ydl.co.id # 
+# Major CDN used on malicious judol domain (move from cdn_support.txt)
+*.b-cdn.net # all subdom list in dead_judol_domains.txt
+*.pages.dev # all subdom list in dead_judol_domains.txt
+*.workers.dev # all subdom list in dead_judol_domains.txt
+*.r2.dev # all subdom list in dead_judol_domains.txt
+*.it.com # all subdom list in dead_judol_domains.txt
+*.de.com # all subdom list in dead_judol_domains.txt
+*.netlify.app # all subdom list in dead_judol_domains.txt
+*.web.app # all subdom list in dead_judol_domains.txt
 # TLD abuse list from source : https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/spam-tlds-onlydomains.txt
 actor
 africa

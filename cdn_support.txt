@@ -4,7 +4,7 @@
 # Expires: 30 days
 # Last modified: https://github.com/BrigsLabs/judol/cdn_support.md5
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 3987
+# Number of entries: 3979
 # CDNs supporting site (may contains false positive)
 #
 #
@@ -170,7 +170,6 @@ autoredirectjack.me
 awan.pw
 awcchat.com
 aws-learning-kit.bitslovers.com.cdn.cloudflare.net
-b-cdn.net # all subdom list in dead_judol_domains.txt # may create false positive
 b1speed.info
 b729j88.com # subdom : img.b729j88.com
 bacan4dblog.wordpress.com
@@ -392,7 +391,6 @@ dbb7b81tozwbs.cloudfront.net
 dbxmjjzl5pc1g.cloudfront.net
 dcdzg16lgrz6n.cloudfront.net
 dd8p0622bwh41.cloudfront.net
-de.com # all subdom list in dead_judol_domains.txt
 demielpe.sgp1.digitaloceanspaces.com
 deoct7xngj20p.cloudfront.net
 desaterbaik.com
@@ -653,7 +651,6 @@ ip36.sgp1.cdn.digitaloceanspaces.com
 is3.cloudhost.id
 istana2000.nsp2d.com
 it-cg.group # all subdom list in dead_judol_domains.txt
-it.com # all subdom *.it.com move to dead_judol_domains.txt
 j8t62rp7.com # subdom : g4-ms-asia01.j8t62rp7.com g4-ta-asia01.j8t62rp7.com
 j9hdbjg.com # many subdom
 jagoangadget.com # scam # seo # landing
@@ -825,7 +822,6 @@ naturalbalanceosteopathy.com # hacked web
 neftdocs.com
 neftsoft.co
 neoxida.com # scam # hidden page login 
-netlify.app # all subdom list in dead_judol_domains.txt
 nexiangaming.com
 nextgen.sg-sin1.upcloudobjects.com
 nghia-architect.com # scam fake
@@ -863,7 +859,6 @@ padangtotoofficial.wordpress.com
 pafikabbintan.co.id # backlink # scam
 pafipalu.co.id # backlink # scam
 pafirogtoto.org
-pages.dev # all subdom list in dead_judol_domains.txt
 pahala4drtp.sgp1.cdn.digitaloceanspaces.com
 paia.uj.ac.za # malicious backlink
 paneltki.info
@@ -942,7 +937,6 @@ qrismvp.com
 qrispapitogel.sgp1.cdn.digitaloceanspaces.com
 r1zendigistr.com
 r1zengrp.link
-r2.dev # all subdom list in dead_judol_domains.txt
 r2.thesportsdb.com
 rabanimage.io
 radartulungagung.co.id # malicious backlink
@@ -1209,7 +1203,6 @@ wbgame-assets.mwfg0sdxwc.com
 wdnotif.sgp1.digitaloceanspaces.com
 web-istana2000.linkapp99.com
 web-vegas123.linkapp77.com
-web.app # all subdom list in dead_judol_domains.txt
 web1.setorqris.com
 weblobby2.aq008.com
 website-monitor-c8444-default-rtdb.asia-southeast1.firebasedatabase.app
@@ -1223,7 +1216,6 @@ winwin25.wordpress.com
 wlinetpos.com
 woainistef.sgp1.digitaloceanspaces.comwoainistef.sgp1.digitaloceanspaces.com
 wonderfulnextapi.com
-workers.dev # all subdomain move to dead_judol_domains
 wow77.sgp1.cdn.digitaloceanspaces.com
 wral.com
 ws-ap1.pusher.com
